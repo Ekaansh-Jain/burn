@@ -1,0 +1,502 @@
+Rating Rationale
+Rating Rationale
+December 10, 2024 | Mumbai
+Hero Motors Limited
+Ratings reaffirmed at 'CRISIL A+/Stable/CRISIL A1'; NCD Withdrawn
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.400 Crore
+Long Term Rating
+CRISIL A+/Stable (Reaffirmed)
+Short Term Rating
+CRISIL A1 (Reaffirmed)
+Rs.33 Crore Non Convertible Debentures
+Withdrawn (CRISIL A+/Stable)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its 'CRISIL A+/Stable/CRISIL A1' ratings on the bank loan facilities of Hero Motors Ltd (HML). CRISIL Ratings has
+withdrawn
+its rating
+on the non-convertible debentures (NCD) of Rs 33 crore at the request of the company and on receipt of the requisite
+documentation. This is in line with the CRISIL Ratings policy on withdrawal of rating on debt instruments.
+The ratings continue to reflect the healthy business risk profile of HML, driven by improving contribu
+tion from high value-added components leading to higher margin and increasing revenue diversification over the years. However, the o
+perating income remained flat in fiscal 2024, with consolidated revenue of Rs 1,066 crore owing to contraction in exports due to slowdown in the European markets. Despite the flat revenue, the adjusted operating margin (after adjusting non-cash share-based expense amounting to Rs 39.5 crore) increased to 10.2% in fiscal 2024 from 9.9% in fiscal 2023, driven by improvement in th
+e gross margin that was partially offset by an increase in the employee benefit expenses on account of hiring new personnel for building capacities and expansions. The subsidiaries, which were loss making in fiscal 2023, have contributed positively to the overall profitability in fiscal 2024, driven by significant ramp-up in Hewland Engineering Ltd. Other subsidiaries are also expected to scale up in the near term and will remain monitorable. The operating performance is expected to improve gradually with p
+ick-up in demand and launch of new products over the medium term and will remain monitorable. Increased revenue contribution from the high-margin segments should lead to gradual margin expansion over the medium term.
+The ratings also factor in the strong financial risk profile with consolidated debt of Rs 304 crore as on March 31, 2024. To fund growth, the company is expected to undertake capital expenditure (capex) of Rs 400-500 crore over the next 3-4 fiscals through a mix of debt and internal accrual.
+CRISIL Ratings has taken note of the company withdrawing its draft red herring prospectus (DRHP) on October 5, 2024. The company filed the DRHP in August 2024, for a proposed initial public offering (IPO) of Rs 900 crore, including fresh issue of shares worth up to
+Rs 500 crore and offer for sale (OFS) of
+Rs 400 crore by promoters—OP Munjal Holdings, Bhagyoday Investments and Hero Cycles Ltd. The company is in the process of evaluating the re-filing of DRHP in the near future.
+The ratings continue to re
+flect the healthy business
+risk profile of HML, driven by improving revenue diversification and strong financial risk profile despite the sizeable capex. These strengths are partially offset by investment towards subsidiaries in the ramp-up phase, customer concentration in the revenue profile and exposure to cyclicality in the automotive (auto) components industry.
+Analytical Approach
+CRISIL Ratings has combined the business and financial risk profiles of HML, its subsidiaries and joint ventures. This is because all these entities have common management and strong business and financial linkages.
+CRISIL Ratings has
+included the debt
+of
+Spur Technologies Pvt Ltd
+(Spur; rated ‘CRISIL A+(CE)/Stable/CRISIL/BBB+/Stable’), which has been guaranteed
+by HML,
+to arrive at
+the
+adjusted
+debt.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Healthy business risk profile, driven by increasing
+revenue diversification:
+HML has gradually included high value-added components and has built capabilities in more complex parts, leading to significant improvement in the product diversity and operating performance in the recent years. The company continues to diversify its operations from the alloy and metals business to other business lines that fetch incremental margin.
+Geographical diversity has improved, with exports contributing to around 40% of the revenue in fiscal 2024, compared with a negligible share in fiscal 2018. The overall revenue rose significantly to Rs 1,055 crore in fiscal 2023 from Rs 904 crore in fiscal 2022, however, it remained nearly flat in fiscal 2024 at Rs 1,066 crore.
+While revenue growth has been flat in fiscal 2024, the recovery is expected over the medium term driven by product addition and ramp-up in subsidiaries. Furthermore, the company expects the contribution from the electric vehicles business to increase significantly over the medium term. The business risk profile may remain healthy, driven by growth in the high value-added segments and the addition of customers and products, leading to improving revenue diversity.
+Strong financial risk profile despite high capex intensity
+:
+Consolidated debt stood at Rs 304 crore against adjusted net worth of Rs 346 crore as on March 31, 2024. The company is expected to undertake significant capex of Rs 400-500 crore in the next 3-4 fiscals that will be funded through a mix of debt and equity. The debt protection metrics remained healthy in fiscal 2024, as reflected in the estimated interest coverage ratio of 3.9 times. Interest coverage ratio is expected to remain over 3.5 times over the medium term.
+Weaknesses
+:
+Investment towards subsidiaries in ramp-up phase:
+The
+company
+has
+acquired stake in Hewland Engineering Ltd to gain capabilities in the high-performance two-wheeler and four-wheeler segments. Similarly, it has set up other subsidiaries recently,
+such as HYM Systems Pvt Ltd and Hero EDU Systems Pvt Ltd,
+for expansion into new geographies and product lines. HML also acquired 100% stake in Spur in November 2023 from Hero Cycles Ltd, to cater to existing and new customers of HML. Until fiscal 2023,
+the subsidiaries had negligible contribution to the operating
+performance of the company. While Hewland Engineering Ltd witnessed improvement in its operating profitability during fiscal 2024, other subsidiaries are yet to contribute to the overall operating profitability.
+Hence, these subsidiaries will require financial support
+for funding their capex in the near term. Ramp-up in operations of the subsidiaries and their contribution to the overall operating performance over the medium term will be monitorable.
+Customer concentration in revenue and exposure to cyclicality in the auto components industry
+:
+Revenue is largely dependent on demand from original equipment manufacturers in the two-wheeler industry, which in turn depends on several factors, such as disposable incomes, consumer preferences, credit availability and fuel prices. Furthermore, while the company has gradually added customers, the top five customers contributed to around 65% of the revenue in fiscal 2024. This dependence poses a risk to operating performance in case of any significant slowdown.
+Liquidity
+: Strong
+Cash and liquid investments stood at Rs 99 crore as on March 31, 2024. Fund-based limit was utilised at 75-80% during the six months through September 2024. Healthy annual cash accrual, expected at Rs 75-100 crore from fiscal 2025, will sufficiently cover moderate debt obligation and working capital requirement. The company has significant capex of Rs 400-500 crore planned over the next 3-4 fiscals, to be funded through mix of debt and internal cash accrual.
+Outlook
+:
+Stable
+The business risk profile of HML will remain healthy over the medium term, with addition of customers and products, and ramp-up of subsidiaries. The financial risk profile may continue to be strong despite significant capex of Rs 400-500 crore planned over the next 3-4 fiscals, to be funded through a mix of debt and internal cash accrual.
+Rating
+s
+ensitivity factors
+Up
+ward factors:
+Continued high revenue growth and operating margin sustaining over 14%
+Addition of customers and products, leading to revenue diversification and significant improvement in cash accrual
+Sustained improvement in cash accrual or any equity infusion
+Down
+ward factors:
+Lower-than-expected revenue growth or delayed ramp-up in subsidiaries, with operating margin sustaining below 10%
+Stretch in the working capital cycle
+Large, debt-funded capex or acquisition
+About the Company
+Incorporated in 1998, HML is a part of the OP Munjal group, whose flagship company is Hero Cycles Ltd (rated ‘
+CRISIL A+/Negative/CRISIL A1’)
+. HML manufactures and supplies auto components including gearboxes, continuous variable transmission and other components for the two-wheeler and electric bicycles segments.
+The company demerged its auto components business into Hero Cycles Ltd with effect from April 1, 2014.
+The auto components division of Hero Cycles Ltd was merged back into HML i
+n December 2022 with effect from
+April 1, 2022
+.
+Key Financial Indicators
+As on/for the period ended March 31
+Unit
+2024
+2023
+Revenue
+Rs crore
+1066
+1055
+Profit after tax (PAT)
+Rs crore
+17
+45
+PAT margin
+%
+1.6
+3.8
+Adjusted debt/adjusted networth
+Times
+0.88
+0.83
+Interest coverage
+Times
+3.90
+3.98
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of the
+instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs. Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+NA
+Foreign Exchange Forward
+NA
+NA
+NA
+15.04
+NA
+CRISIL A1
+NA
+Overdraft Facility
+NA
+NA
+NA
+20
+NA
+CRISIL A+/Stable
+NA
+Working Capital Facility
+NA
+NA
+NA
+192.96
+NA
+CRISIL A+/Stable
+NA
+External Commercial Borrowings
+NA
+NA
+NA
+29
+NA
+CRISIL A+/Stable
+NA
+Proposed Term Loan
+NA
+NA
+NA
+18
+NA
+CRISIL A+/Stable
+NA
+Term Loan
+NA
+NA
+31-Mar-29
+40
+NA
+CRISIL A+/Stable
+NA
+Term Loan
+NA
+NA
+30-Nov-27
+35
+NA
+CRISIL A+/Stable
+NA
+Term Loan
+NA
+NA
+30-Nov-28
+25
+NA
+CRISIL A+/Stable
+NA
+Term Loan
+NA
+NA
+17-Jan-29
+25
+NA
+CRISIL A+/Stable
+Annexure - Details of Rating Withdrawn
+ISIN
+Name of the
+instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs. Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+NA
+Non Convertible Debentures
+#
+NA
+NA
+NA
+33
+Simple
+Withdrawn
+# Yet to be issue
+d
+Annexure
+– List of entities consolidated
+Names of entities consolidated
+Extent of consolidation
+Rationale for consolidation
+Spur technologies Pvt Ltd
+Fully consolidated
+Strong financial and business linkages
+Hero Motors Thai Ltd
+Fully consolidated
+Strong financial and business linkages
+Hero Edu Systems Pvt Ltd
+Fully consolidated
+Strong financial and business linkages
+Hewland Engineering Ltd
+Fully consolidated
+Strong financial and business linkages
+HYM Drive Systems Ltd
+Fully consolidated
+Strong financial and business linkages
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT/ST
+400.0
+CRISIL A+/Stable / CRISIL A1
+02-04-24
+CRISIL A+/Stable / CRISIL A1
+22-12-23
+CRISIL A+/Stable / CRISIL A1
+--
+--
+--
+--
+--
+29-11-23
+CRISIL A+/Stable / CRISIL A1
+--
+--
+--
+--
+--
+24-04-23
+CRISIL A+/Stable / CRISIL A1
+--
+--
+--
+--
+--
+12-04-23
+CRISIL A+/Stable / CRISIL A1
+--
+--
+--
+Commercial Paper
+ST
+--
+--
+--
+--
+--
+Withdrawn
+Non Convertible Debentures
+LT
+33.0
+Withdrawn
+02-04-24
+CRISIL A+/Stable
+22-12-23
+CRISIL A+/Stable
+--
+--
+--
+--
+--
+29-11-23
+CRISIL A+/Stable
+--
+--
+--
+--
+--
+24-04-23
+CRISIL A+/Stable
+--
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+External Commercial Borrowings
+29
+Axis Bank Limited
+CRISIL A+/Stable
+Foreign Exchange Forward
+3
+Kotak Mahindra Bank Limited
+CRISIL A1
+Foreign Exchange Forward
+12.04
+Axis Bank Limited
+CRISIL A1
+Overdraft Facility
+20
+Kotak Mahindra Bank Limited
+CRISIL A+/Stable
+Proposed Term Loan
+18
+Not Applicable
+CRISIL A+/Stable
+Term Loan
+35
+Axis Bank Limited
+CRISIL A+/Stable
+Term Loan
+40
+ICICI Bank Limited
+CRISIL A+/Stable
+Term Loan
+25
+Axis Bank Limited
+CRISIL A+/Stable
+Term Loan
+25
+Kotak Mahindra Bank Limited
+CRISIL A+/Stable
+Working Capital Facility
+30
+Kotak Mahindra Bank Limited
+CRISIL A+/Stable
+Working Capital Facility
+162.96
+Axis Bank Limited
+CRISIL A+/Stable
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Anuj Sethi
+Senior Director
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+Kunal Mehta
+Rating Analyst
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+Kunal.Mehta@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by CRISIL Ratings Limited ('CRISIL Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings provision or intention to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+CRISIL Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, CRISIL Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall CRISIL Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of CRISIL Ratings and CRISIL Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of CRISIL Ratings.
+CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by CRISIL Ratings. CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). CRISIL Ratings shall not have the obligation to update the information in the CRISIL Ratings report following its publication although CRISIL Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by CRISIL Ratings are available on the CRISIL Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

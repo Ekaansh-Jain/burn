@@ -1,0 +1,458 @@
+Rating Rationale
+Rating Rationale
+October 01, 2026 | Mumbai
+Pricol Limited
+Rating continues on 'Watch Developing'
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.145 Crore
+Regulator Of Instrument
+Long Term Rating
+Crisil AA-/Watch Developing (Continues on 'Rating Watch with Developing Implications')
+RBI
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+Crisil Ratings has
+continued its
+rating on the long-term bank facilities
+of Pricol Limited (Pricol) on
+‘
+Rating
+Watch with Developing Implications’
+.
+The ratings of Pricol were placed on watch developing following their announcement at the stock exchanges on June 27, 2026, about the scheme of arrangement between Pricol and Pricol Autotech Limited (Pricol Autotech; a wholly-owned subsidiar
+y of Pricol) and their shareholders and creditors. The scheme involves the demerger of the Driver Information and Connected Vehicle Solutions (DICVS) business to Pricol Autotech. The DICVS business contributed Rs 2,424.63 crore, representing 61.17% of Pricol’s consolidated revenue in fiscal 2026.
+Post the demerger, the existing shareholders will receive one share of Pricol Autotech for every one share held in Pricol; hence, both entities will have mirror shareholding, with promoters holding ~38.5% stake in
+both entities. The scheme is, inter alia, subject to receipt of statutory, regulatory and customary approvals, including approvals from the stock exchanges, National Company Law Tribunal, Chennai bench and shareholders and creditors. The process is expected to take 15–18 months to complete, and the effective date for the scheme will be April 1, 2027. The rating watch will be resolved upon completion of the demerger process and as clarity emerges on the profit and loss accounts and balance sheets of both th
+e entities, and their business and capital expenditure (capex) plans. Weakening in the credit risk profile of Pricol owing to the demerger will remain a key rating sensitivity factor.
+Pricol’s consolidated revenue rose to Rs 4,041 crore in fiscal 2026 from Rs 2,695 crore in fiscal 2025 driven by the addition of the injection moulded plastic component solutions (IMPCS) business, which was acquired by its subsidiary, Pricol Precision Products Private Limited (P3PL; ‘Crisil AA-/Watch Developing
+’), in January 2025 from Sundaram Auto Components Limited (SACL, a subsidiary of TVS Motor Company Ltd).
+Furthermore, the traditional business of Pricol grew ~22%, supported by two-wheeler (2W) volume growth of ~22.9%, change in the product mix driven by reforms in goods and service tax (GST) structure and healthy export. Over the medium term, revenue is expected to grow in healthy double-digits, supported by continued demand from original equipment manufacturers (OEMs), launch of new products, improvem
+ent in the product mix and addition of new business.
+The operating margin moderated to 11.6% in fiscal 2026 from 11.9% in fiscal 2025, impacted by modest increase in raw material prices and addition of low-margin business at the subsidiary. Nevertheless, after acquisition of the P3PL business by Pricol, its operating margin improved to 9.13% in fiscal 2026, supported by productivity enhancements, reduction in rejection rates and lower employee cost. P3PL is replacing some of its old machines and implementi
+ng various cost optimisation measures, which are expected to support improvement in operating profitability.
+Pricol achieved consolidated revenue from operations of Rs 1,105.44 crore in the first quarter of fiscal 2027, representing 23.47% on-year growth, driven by strong automotive industry growth and new product introductions. The operating margins were at 11.25%, modestly higher than 11.05% achieved in previous corresponding period, driven by better utilization and operating leverage. However, the opera
+ting margins were marginally lower on q-o-q basis on account of rise in input prices and rise in employee costs. Although the operating margin of the traditional business remains susceptible to changes in raw material prices despite having a passthrough clause with customers, it is expected to remain stable at 11–12% annually, supported by improvement in the product mix and continued cost optimisation measures.
+The financial risk profile will remain healthy, driven by improving networth and moderate debt,
+supported by prudent working capital management and capex. Debt, including acceptances, was Rs 363 crore as on March 31, 2026, compared with Rs 269 crore as on March 31, 2025. The company is planning capex of Rs 500 crore in fiscal 2027, which will be partly funded through healthy cash accrual of Rs 370–390 crore and the balance through debt.
+Debt is expected to peak in fiscal 2027; however, gearing is expected below 0.5 time, while debt protection metrics, such as interest coverage and debt to earnings be
+fore interest, tax, depreciation and amortisation (Ebitda) ratios are expected at 10–11 times and ~1.5 times, respectively, over the medium term.
+Besides annual cash generation, liquidity is supported by cash surplus of ~Rs 126 crore as on March 31, 2026, and adequate headroom in bank limit of Rs 105 crore, which was utilised over 46% for the 12 months through August 2026. Any inorganic growth opportunities, necessitating debt addition and impacting the debt protection metrics, will remain key rating sensi
+tivity factors.
+The rating continues to reflect the company’s established business risk profile, supported by healthy relationships with domestic OEMs, leading position in two-wheeler (2W) instrument clusters and improving revenue and product diversity owing to industry transition from mechanical clusters to light-emitting diode (LED) and thin-film transistor (TFT) clusters. The rating is also supported by benefits derived from the recent acquisition, improving operating efficiency and financial risk profi
+le. These strengths are partially offset by revenue concentration in the 2W OEM segments and high dependence on imported raw materials, which render profitability vulnerable to foreign exchange (forex) rates.
+Analytical Approach
+Crisil Ratings has consolidated Pricol’s financials with its wholly owned subsidiaries, P3PL,
+PT Pricol Surya – Indonesia and Pricol Asia Pte Ltd, Singapore, since all these entities are in the same business with significant business and financial linkages. Crisil Ratings has al
+so consolidated Pricol Asia Exim DMCC, a wholly owned subsidiary of Pricol Asia Pte Ltd.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers - Strengths
+Leading position in 2W instrument clusters and improving product and customer diversity, supported by healthy relationships with OEMs
+Pricol has healthy market position in dashboard instruments and driver information systems with a tr
+ack record of around five decades in supplying to leading domestic OEMs. On a standalone basis, the revenue share of dashboard instruments was ~71% in fiscal 2026 owing to improvement in the product mix, leading to better realisation. Pumps and mechanical products contributed 19% to the revenue in fiscal 2026, while switches and sensors accounted for the balance. Presence in different segments supports the product diversity. The company has in-house research and development (R&D) and track record of launchi
+ng new products quickly. It plans to add new products to the portfolio, such as handlebars and battery management systems, which will enhance its product basket.
+Globally, Pricol is the second-largest instrument cluster maker in terms of volume, next to Nippon Seiki & Co Ltd, Japan. Pricol also holds 55–60% market share in the domestic instrument cluster business and 65% market share in the 2W instrument clusters.
+Majority of the revenue comes from domestic OEMs (~90% in fiscal 2026) with modest aftermar
+ket and export presence. The 2W OEMs contribute ~70% to the revenue and the company has healthy relationships with key OEMs, such as TVS Motors, Hero MotoCorp Limited (‘Crisil AAA/Stable/Crisil A1+’), Bajaj Auto Limited (‘Crisil AAA/Stable/Crisil A1+’), Eicher Motors Limited (Royal Enfield 2Ws) and commercial vehicle (CV) OEMs - Tata Motors Limited (‘Crisil AA+/Stable/Crisil A1+’) and Ashok Leyland Limited, and the construction equipment major, JCB India Limited (‘Crisil AAA/Stable’). The company earlier ha
+d a non-compete agreement with its erstwhile joint venture partner, Denso Corporation, Japan, which recently expired, following which Pricol can supply to passenger vehicle (PV) OEMs.
+Expected benefits from the acquisition of IMPCS division
+The company’s segment diversification is set to significantly improve, with dependence on the dashboard segment (~75% share of revenue in fiscal 2025) reducing to ~54% in fiscal 2026 and sizeable contribution of over Rs 923 crore from the IMPCS business. The revenue of
+P3PL is expected at more than Rs 1,000 crore in fiscal 2027, driven by new business. The operating profitability is expected to rise to 9.5–10.0% from 9.13% in fiscal 2026, driven by productivity enhancements, reduction in rejection rates and lower employee cost.
+Sizeable portion of the products of Pricol and P3PL are electric vehicle (EV) agnostic; hence, the impact on revenue owing to a gradual shift towards EV will be negligible and revenue loss will be offset by new product launches over the medium t
+erm.
+Improving operating efficiency
+Pricol has strong R&D capabilities and has started
+manufacturing more critical components in-house, which ensures better quality and less wastage. Profitability was aided by the company’s focus on automation, which allowed for material pruning of the workforce, enhancing share of wallet with existing customers and moving up the value chain. Hiving off the loss-making overseas subsidiaries and change in the product mix in favour of better premium price complex products ha
+s contributed to increase in operating margin from fiscal 2021. However, on account of moderate increase in raw material prices and acquisition of the low-margin IMPCS division in January 2025, the consolidated margin moderated to 11.85% in fiscal 2025 and to 11.62% in fiscal 2026. Nevertheless, P3PL’s operating margin
+improved to 9.13% in fiscal 2026, driven by various cost optimisation measures, increased operating leverage, improved productivity through replacement of old machines and new business from O
+EMs. Improvement in the operating margin at P3PL, along with healthy profitability from the existing business, is expected to keep Pricol’s consolidated operating margin steady at 11–12% over the medium term.
+Operations were impacted by labour issues and strikes in the past. Any major labour issue impacting operations will be monitorable.
+Healthy financial risk profile
+Strong cash accrual since fiscal 2021 and rights issue of Rs 81 crore in fiscal 2021 enabled debt reduction, strengthening the balance she
+et and debt protection metrics. Gearing was 0.32 time as on March 31, 2026, compared with 0.22 time as on March 31, 2025, as the company availed debt of Rs 127 crore to fund the acquisition of the IMPCS division and increase working capital debt to Rs 236 crore as on March 31, 2026, from Rs 114 crore as on March 31, 2025. The company incurred capex of ~Rs 323 crore in fiscal 2026, which was partly funded through debt, leading to increase in total debt to Rs 363 crore as on March 31, 2026, from Rs 269 crore
+as on March 31, 2025. In fiscal 2027, capex of ~Rs 500 crore will be undertaken, which will be partly funded through debt. The debt is expected at Rs 550–600 crore but is expected to decrease with repayment. Gearing is expected to peak at 0.4–0.5 time as on March 31, 2027, and improve over the medium term, while debt to Ebitda ratio is expected to remain below 1.3 times. Nevertheless, the debt protection metrics will be healthy, as reflected in interest coverage and net cash accrual to total debt ratios of
+above 10 times and 0.5–0.7 time, respectively, over the medium term.
+Key Rating Drivers - Weaknesses
+Revenue dependence on the 2W segment
+Domestic OEMs contribute 89–90% to the revenue, with export contributing ~5% while the aftermarket segment makes up the balance. The company has a small share in the aftermarket segment due to long lifecycle of products. Similarly, export revenue share is minimal on account of strong competition from global giants. Large exposure to domestic OEMs makes Pricol vulnera
+ble to the auto demand cycle and offtake by customers. Pricol has improved its segmental revenue with 2Ws contributing ~70%. However, prolonged slowdown in 2W demand, as seen during fiscals 2020–2022, impacts offtake for components.
+Revenue dependence on the 2W segment may continue, although Pricol has taken initiatives to improve its share in the PV segment (8–9% of sales in fiscal 2026), where it is already in discussions with some OEMs. Besides, improved demand from CVs will help reduce revenue depende
+nce on the 2W segment. However, given its strong relationships with 2W OEMs and leading position in the instrument cluster business, revenue concentration on OEMs and the 2W segment will persist over the medium term.
+High import dependence rendering profitability vulnerable to adverse forex movements
+The company imports 45–50% of its raw materials (LCD and TFT screens), as against ~40% earlier, driven by increased imports in the TFT segment. Of this, 65–70% comes from China and the remaining is sourced fr
+om South Korea, Japan and Taiwan. All imports are routed through its subsidiary in Singapore, Pricol Asia Pte Limited. Large import and limited hedging expose profitability to fluctuations in forex and freight costs, especially during volatile global markets.
+Liquidity
+Strong
+Liquidity will be supported by healthy cash accrual of Rs 370–390 crore over the medium term and cash balance of ~Rs 126 crore as on March 31, 2026. While the cash accrual will be adequate for meeting the debt obligation of Rs 25–30
+crore and Rs 40–50 crore in fiscals 2027 and 2028, respectively, and the working capital requirement, Pricol is expected to avail debt of Rs 200–250 crore for capex of Rs 500 crore. The company has access to bank limit of Rs 130 crore (utilised ~46% on average during the 12 months through August 2026).
+Rating
+s
+ensitivity factors
+Upward
+factors
+Sustained growth in revenues supported by strong demand fundamentals, while sustaining consolidated profitability at above 12-13%.
+Maintaining healthy financial risk profile, supported by healthy cash generation, while pursuing organic and inorganic growth plans.
+Downward
+factors
+Significantly weak operating performance impacting profitability and cash generation.
+Large, debt-funded capex or acquisition or significant stretch in working capital requirement, impacting debt metrics; for instance, gross debt / EBITDA above 2-2.25 times on a sustained basis.
+Material moderation in credit profile due to business restructuring
+About the Company
+Pricol commenced operations in 1975 in Coimbatore, Tamil Nadu, and is one of India's leading dashboard manufacturers. The company offers driver information systems and sensors, pumps and allied products, telema
+tics and wiping systems catering to leading auto OEMs in 2W and 3W, PV, CV, farm equipment and offroad vehicle segments across India and overseas (45 countries) with more than 2,000 products. The company had 15 manufacturing plants (including subsidiaries) across India (Coimbatore, Manesar, Pantnagar, Pune, Sricity, Mysuru, Hosur,
+Narasapura, Chennai, Nalagarh, Bhiwadi and Sanand), one manufacturing unit in Indonesia, and three international offices (Dubai, Tokyo and Singapore).
+On June 30, 2026, the promo
+ters, Vikram Mohan and his family members, held 38.5% stake in Pricol, foreign portfolio investors held 13.95%, mutual funds held 9.86%, alternate investment funds held 1.89%, and public and others held the balance.
+Key Financial Indicators
+(consolidated)*
+As on / for the period ended March 31
+2026
+2025
+Revenue
+Rs crore
+4041
+2695
+Profit after tax (PAT)
+Rs crore
+251
+167
+PAT margin
+%
+6.2
+6.2
+Adjusted debt / adjusted networth
+Times
+0.32
+0.22
+Interest coverage
+Times
+16.01
+25.22
+*Cris
+il Ratings-adjusted numbers
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Please note:
+More details including a list of activities or instruments, along with the names of respective financial sector regulators (FSRs) whose purview they fall under, is available in 'Annexure – List of Instruments and Names of Regulators' below.
+Annexure - Details of Instrument(s)
+ISIN
+Name Of Instrument
+Date Of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs. Crore)
+Complexity Levels
+Rating Outstanding with Outlook
+Regulator Of Instrument
+NA
+Cash Credit
+&
+NA
+NA
+NA
+130.00
+NA
+Crisil AA-/Watch Developing
+RBI
+NA
+Proposed Term Loan
+NA
+NA
+NA
+15.00
+NA
+Crisil AA-/Watch Developing
+RBI
+& - Includes sublimit of Letter of Credit & Bank Guarantee
+Note: Kindly note that for activities or instruments falling under the purview of FSRs other than SEBI, the grievance/dispute redressal mechanisms and investor protection mechanisms provided by SEBI shall not be available.
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+Pricol Asia Pte Limited
+Full
+Wholly owned subsidiary same business
+Pricol Precision Products Private Limited
+Full
+Wholly owned subsidiary same business
+PT Pricol Surya - Indonesia
+Full
+Wholly owned subsidiary same business
+Pricol Asia Exim DMCC Dubai
+Full
+Wholly owned subsidiary of Pricol Asia Pte Ltd and ste
+pdown subsidiary of Pricol same business
+Pricol Autotech Ltd
+Full
+Wholly owned subsidiary same business
+Annexure - Rating History for last 3 Years
+Current
+2026 (History)
+2025
+2024
+2023
+Start of 2023
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+145.0
+Crisil AA-/Watch Developing
+07-07-26
+Crisil AA-/Watch Developing
+11-02-25
+Crisil A+/Positive
+10-12-24
+Crisil A+/Watch Developing
+21-12-23
+Crisil A/Stable
+Crisil A-/Stable
+--
+30-01-26
+Crisil AA-/Stable
+--
+12-09-24
+Crisil A+/Stable
+22-02-23
+Crisil A-/Stable
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities - Regulator for the Instrument is RBI
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Cash Credit
+&
+30
+IndusInd Bank Limited
+Crisil AA-/Watch Developing
+Cash Credit
+&
+100
+ICICI Bank Limited
+Crisil AA-/Watch Developing
+Proposed Term Loan
+15
+Not Applicable
+Crisil AA-/Watch Developing
+& - Includes sublimit of Letter of Credit & Bank Guarantee
+Annexure: List of instruments and names of regulators of the instruments
+As required by SEBI CRA Circular dated Feb 10, 2026, a list of activities or instruments falling under the purview of various FSRs, along with the names of respective FSRs, is being disclosed below:
+A.
+Rating activities
+Sr. No.
+Instrument / activity Name
+Regulator of the instruments
+1
+Listed/Proposed to be listed bonds/debentures/preference share (all securities)
+SEBI
+2
+Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)
+MCA
+3
+Listed PTCs / Securitisation Notes (originated by entities regulated by RBI)*
+$
+RBI
+4
+Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI)*
+SEBI
+5
+Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI)*
+RBI
+6
+Listed Commercial Paper and NCDs with original maturity less than 1 year
+RBI
+7
+Unlisted Commercial Paper and NCDs with original maturity less than 1 year
+RBI
+8
+Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/FIs
+^
+RBI
+9
+External Commercial Borrowings and
+other similar borrowings
+RBI
+10
+Certificates of Deposit
+RBI
+11a
+Fixed Deposits raised by NBFC's, HFCs, Fis
+RBI
+11b
+Fixed Deposits raised by Banks
++
+12
+Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs
+MCA
+13
+Inter Corporate Deposits/Loans extended by Corporates
+MCA
+14
+Borrowing programme ~
+-
+15
+Issuer Ratings #
+-
+16
+Credit Ratings for Capital Protection Oriented Schemes (by Mutual Funds and AIFs)
+SEBI
+17
+Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs
+SEBI
+18
+Listed Security Receipts
+$
+RBI
+19
+Unlisted Security Receipts
+RBI
+20
+Independent Credit Evaluation (ICE)
+RBI
+21
+Expected Loss Ratings (for Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/Fis)
++
+22
+Expected Loss Ratings (Listed/Proposed to be listed bonds/debentures/preference share (all securities))
+SEBI
+23
+Expected Loss Ratings (Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities))
+MCA
+24
+Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) *
+Investor-side regulator such as IRDAI, PFRDA @
+* Includes securitisation transactions involving assignee payout, acquirer's payout.
+~ The rated instrument may involve issuance of different instruments such as debt securities (listed or otherwise), bank loans, commercial paper (listed or otherwise), etc. The regulator of the instrument may accordingly be SEBI, RBI or MCA and can only be determined upon issuance. In PRs subsequent to issuance(s),
+Crisil Ratings Limited
+shall separately capture the rated quantum details along with names of respective regul
+ators.
+^ Includes bank facilities such as liquidity facility, second loss facility that are part of securitisation transactions.
+# There is no instrument being rated and hence, Regulator of the Instrument is not applicable. The rating scale and definitions are being followed as stipulated in SEBI Master Circular for CRAs.
+@ These ratings were assigned during regulatory regime prior to introduction of SEBI CRA Circular dated Feb 10, 2026 and the investor side regulators have accordingly been included.
+$ By virtue of the instrument being listed, SEBI acts as the regulator for listing and related issues.
++ To be finalized following a discussion with the regulatory authorities.
+Note:  Kindly note that for activities or instruments falling under the purview of FSRs other than SEBI, the grievance/dispute redressal mechanisms and investor protection mechanisms provided by SEBI shall not be available.
+Criteria Details
+Links to related criteria
+Basics of Ratings (including default recognition, assessing information adequacy)
+Criteria for consolidation
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios)
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Bhumika Bijani
+Media Relations
+Crisil Limited
+M: +91 99304 63859
+B: +91 22 6137 3000
+Bhumika.Bijani@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+Anuj Sethi
+Senior Director
+Crisil Ratings Limited
+D:
++91 44 6656 3108
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+Crisil Ratings Limited
+D:
++91 22 6137 3386
+poonam.upadhyay@crisil.com
+Jagath Prasad
+Senior Rating Analyst
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+jagath.prasad@crisil.com
+For Analytical queries
+Toll Free Number: 1800 266 6550
+ratingsinvestordesk@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll Free Number: 1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings’ products / activities or ratings of instruments other than ‘securities that are listed or proposed to be listed’ may fall under the purview of financial sector regulators (FSRs) other than SEBI. In respect of such products / activities or ratings (under the purview of other FSRs such as Reserve Bank of India (RBI), Ministry of Corporate Affairs (MCA), Insurance Regulatory and Development Authority of India (IRDAI), among others), the grievance / dispute redressal and investor protection mechanisms available under SEBI regulations shall not be applicable.
+A list of products/activities or ratings of instruments falling under the purview of various FSRs along with the names of respective FSRs has been duly disclosed by Crisil Ratings on its website.
+A link to the same has been provided below for ready reference:
+https://www.crisilratings.com/en/home/our-business/ratings/regulatory-disclosures/list-of-activities-instruments-and-names-of-regulators.html
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisilratings.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings shall have no liability, whatsoever, with respect to any copies, modifications, derivative works, compilations or extractions of any part of this [report/ work products], by any person, including by use of any generative artificial intelligence or other artificial intelligence and machine learning models, algorithms, software, or other tools. Crisil Ratings takes no responsibility for such unauthorized copies, modifications, derivative works, compilations or extractions of its [report/ work products] and shall not be held liable for any errors, omissions of inaccuracies in such copies, modifications, derivative works, compilations or extractions. Such acts will also be in breach of Crisil Ratings’ intellectual property rights or contrary to the laws of India and Crisil Ratings shall have the right to take appropriate actions, including legal actions against any such breach.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

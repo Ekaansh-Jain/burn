@@ -1,0 +1,302 @@
+Rating Rationale
+×
+Info!
+Info Alert
+×
+Success!
+Success Alert
+×
+Warning!
+Warning Alert
+×
+Error!
+Error Alert
+RATING RATIONALE
+16Oct2024
+Pritika Auto Industries Ltd.
+Brickwork Ratings has downgraded the long-term rating and the short-term ratings for the Bank Loan Facilities of Rs. 66.39 Crs. of Pritika Auto Industries Ltd. based on best available information, as the issuer did not cooperate.
+Particulars
+Facilities**
+Amount (Rs.Crs.)
+Tenure
+Rating#
+Previous
+Present
+Previous
+(08 Aug 2023)
+Present
+Fund Based
+59.89
+59.89
+Long Term
+BWR BB +/Stable
+ISSUER NOT COOPERATING
+*/Downgrade
+BWR BB
+/Stable
+Continues to be in
+ISSUER NOT COOPERATING
+* category/Downgraded
+Non Fund Based
+6.50
+6.50
+Short Term
+BWR A4+
+ISSUER NOT COOPERATING
+*/Downgrade
+BWR A4
+Continues to be in
+ISSUER NOT COOPERATING
+* category/Downgraded
+Grand Total
+66.39
+66.39
+(Rupees  Sixty Six Crores and  Thirty Nine lakhs Only)
+#Please refer to BWR website
+www.brickworkratings.com
+for definition of the ratings
+**Details of Bank Loan facilities,consolidation or instruments are provided in Annexure
+*
+Issuer did not cooperate
+; based on best available information.
+RATING ACTION / OUTLOOK / NATURE OF NON-COOPERATION
+In the most recent rating review conducted in August 2023, the long-term rating was downgraded to BWR BB+ with a Stable outlook, while the short-term rating at BWR A4+. The rating migrated to be listed under the "ISSUER NOT COOPERATING" category for a Bank Loan Rating (BLR) amounting to Rs. 66.39 crore.
+The BWR Team has been attempting to obtain information from the entity to assess its performance. Despite multiple requests, the entity’s management has remained uncooperative. Due to the lack of information to conduct a thorough review and the absence of feedback from the bankers or the company, BWR could not confirm the status of the rated debt.
+Based on the limited available information and the absence of feedback from bankers or the company, the BWR team has revised the long-term rating to BWR BB with a Stable Outlook, and the short-term rating at BWR A4 while the rating continues under the "ISSUER NOT COOPERATING" category for a Bank Loan Rating (BLR) amount of Rs. 66.39 crore.
+The lenders/investors may note to exercise due caution while using the above rating which mentions "Issuer Not Cooperating" since the rating lacks any projections or forward-looking component as it is arrived at based on the best available information without any management/banker's interaction.
+LIMITATIONS OF THE RATING
+Information availability risk is a key factor in the assessment of credit risk as generally, noncooperation by the rated entities to provide required information for a review of the assigned rating may also be accompanied by financial stress. Despite the best efforts of BWR to get at least the minimum required information for the review, the entity has not provided the same. In the absence of adequate information from the firm, BWR is unable to assess the firm's financial performance and its ability to service its debt and maintain a valid rating.
+Analytical Approach - Standalone
+ABOUT THE ENTITY
+Macro Economic Indicator
+Sector
+Industry
+Basic Industry
+Consumer Discretionary
+Automobile and Auto Components
+Auto Components
+Auto Components & Equipments
+Pritika Auto Industries Limited (PAIL), established in 1980, is a publicly listed company based in Mohali, Punjab. Originally named Shivkrupa Machineries and Engineering Services Ltd., it underwent a rebranding on March 16, 2017, coinciding with a change in management led by Mr. Raminder Singh Nibber and Mr. Harpreet Singh Nibber.
+PAIL specializes in manufacturing and selling tractors and automotive components, including products like axle housings, wheel housings, and brake housings. The company's production facilities are located in Una, Himachal Pradesh, and Dera Bassi, Punjab.
+Additionally, PAIL owns a subsidiary, Pritika Engineering Components Ltd. (PECL), which operates in the same sector. PAIL has provided an unconditional and irrevocable corporate guarantee for PECL's bank loan facilities.
+The Pritika Group serves major tractor manufacturers, including Mahindra & Mahindra, TAFE, Escorts, Ashok Leyland, Brakes India Limited, Sonalika International, SML Isuzu, and Swaraj Engines, reinforcing its position in the automotive industry.
+(As available with BWR dated
+May 2022)
+KEY FINANCIAL INDICATORS
+Please refer to the following link for the previous detailed rationale that captures the Key Financials Drivers and their Description,
+                    Liquidity Position. Rating Sensitivities, Key Financial Indicators.
+View Previous Document
+STATUS OF NON-COOPERATION WITH PREVIOUS CRA
+Not Applicable
+ANY OTHER INFORMATION
+CARE Ratings has assigned the CARE BBB- (Stable)/ A3 to Pritika Auto Industries Limited on 14 July 2023.
+RATING HISTORY FOR THE PREVIOUS THREE YEARS  (including withdrawal and suspended)
+Facilities
+Current Rating  (2024)
+2023
+2022
+2021
+Type
+Tenure
+Amount
+(Rs.Crs.)
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Fund Based
+LT
+59.89
+BWR BB/Stable
+(Continues to be in ISSUER NOT COOPERATING* category/Downgraded)
+08Aug2023
+BWR BB +Stable
+(ISSUER NOT COOPERATING*/Downgrade)
+16May2022
+BWR BBB-      Stable
+(Reaffirmation)
+28Jan2021
+BWR BBB-      Stable
+(Reaffirmation)
+Non Fund Based
+ST
+6.50
+BWR A4
+(Continues to be in ISSUER NOT COOPERATING* category/Downgraded)
+08Aug2023
+BWR A4+
+(ISSUER NOT COOPERATING*/Downgrade)
+16May2022
+BWR A3
+(Reaffirmation)
+28Jan2021
+BWR A3
+(Reaffirmation)
+Grand Total
+66.39
+(Rupees  Sixty Six Crores and  Thirty Nine lakhs Only)
+Hyperlink/Reference to applicable Criteria
+General Criteria
+Approach to Financial Ratios
+Short Term Debt
+Policy On Issuer Non -Cooperation
+Manufacturing Company
+Analytical Contacts
+Shreekant Digambar Kadere
+Senior Rating Analyst
+shreekant.dk@brickworkratings.com
+Niraj Kumar Rathi
+Director Ratings
+niraj.r@brickworkratings.com
+1-860-425-2742 |
+media@brickworkratings.com
+Pritika Auto Industries Ltd.
+ANNEXURE-I
+Details of Bank Facilities rated by BWR
+SL.No.
+Name of the Bank/Lender
+Type Of Facilities
+Long Term(Rs.Crs.)
+Short Term(Rs.Crs.)
+Total(Rs.Crs.)
+Complexity of the Instrument
+1
+Canara Bank
+Term Loan
+-
+Out-standing
+2.84
+_
+2.84
+Simple##
+2
+Canara Bank
+Bank Guarantee
+-
+Sanctioned
+_
+2.00
+2.00
+Simple##
+3
+Canara Bank
+Emergency Credit Line Guarantee Scheme (ECLGS)
+-
+Out-standing
+9.29
+_
+9.29
+Simple##
+4
+Canara Bank
+ILC/FLC
+-
+Sanctioned
+_
+4.50
+4.50
+Simple##
+5
+Canara Bank
+OCC/ODBD
+-
+Sanctioned
+19.00
+_
+19.00
+Simple##
+6
+ICICI Bank
+OCC/ODBD
+-
+Sanctioned
+25.00
+_
+25.00
+Simple##
+7
+ICICI Bank
+Emergency Credit Line Guarantee Scheme (ECLGS)
+-
+Out-standing
+1.53
+_
+1.53
+Simple##
+8
+ICICI Bank
+Term Loan
+-
+Out-standing
+1.99
+_
+1.99
+Simple##
+9
+SIDBI
+Term Loan
+-
+Out-standing
+0.24
+_
+0.24
+Simple##
+Total
+59.89
+6.50
+66.39
+TOTAL (Rupees  Sixty Six Crores and  Thirty Nine lakhs Only)
+##BWR complexity levels are meant for educating investors. The BWR complexity levels are available at
+www.brickworkratings.com / download / ComplexityLevels.pdf
+. Investors queries can be sent to
+info@brickworkratings.com
+.
+ANNEXURE-II
+INSTRUMENT DETAILS
+Instrument
+Issue Date
+Amount (Rs.Crs)
+Coupon Rate (%)
+Maturity Date
+ISIN Particulars
+Complexity of the Instrument
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ANNEXURE-III
+List of entities consolidated
+Name of Entity
+% Ownership
+Extent of consolidation
+Rationale for consolidation
+Nil
+Nil
+Nil
+Nil
+Print and Digital Media
+The Rating Rationale is sent to you for the sole purpose of dissemination through your print, digital or electronic media. While it may be used by you acknowledging credit to BWR, please do not change the wordings in the rationale to avoid conveying a meaning different from what was intended by BWR. BWR alone has the sole right of sharing (both direct and indirect) its rationales for consideration or otherwise through any print or electronic or digital media.
+About Brickwork Ratings
+Brickwork Ratings (BWR), a Securities and Exchange Board of India [SEBI] registered Credit Rating Agency and accredited by Reserve Bank of India [RBI], offers credit ratings of Bank Loan, Non- convertible / convertible / partially convertible debentures and other capital market instruments and bonds, Commercial Paper, perpetual bonds, asset-backed and mortgage-backed securities, partial guarantees and other structured / credit enhanced debt instruments, Security Receipts, Securitization Products, Municipal Bonds, etc. BWR has rated over 11,560 medium and large corporates and financial institutions’ instruments. BWR has also rated NGOs, Educational Institutions, Hospitals, Real Estate Developers, Urban Local Bodies and Municipal Corporations. BWR has Canara Bank, a leading public sector bank, as one of the promoters and strategic partner.
+Disclaimer
+Brickwork Ratings India Pvt. Ltd. (BWR), a Securities and Exchange Board of India [SEBI] registered Credit Rating Agency and accredited by the Reserve Bank of India [RBI], offers credit ratings of Bank Loan facilities, Non- convertible / convertible / partially convertible debentures and other capital market instruments and bonds, Commercial Paper, perpetual bonds, asset-backed and mortgage-backed securities, partial guarantees and other structured / credit enhanced debt instruments, Security Receipts, Securitization Products, Municipal Bonds, etc. [ hereafter referred to as "Instruments"].  BWR also rates NGOs, Educational Institutions, Hospitals, Real Estate Developers, Urban Local Bodies and Municipal Corporations.
+BWR wishes to inform all persons who may come across Rating Rationales and Rating Reports provided by BWR that the ratings assigned by BWR are based on information obtained from the issuer of the instrument and other reliable sources, which in BWR's best judgment are considered reliable. The Rating Rationale / Rating Report & other rating communications are intended for the jurisdiction of India only.  The reports should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in Europe and also the USA).
+BWR also wishes to inform that access or use of the said documents does not create a client relationship between the user and BWR.
+The ratings assigned by BWR are only an expression of BWR's opinion on the entity / instrument and should not in any manner be construed as being a recommendation to either, purchase, hold or sell the instrument.
+BWR also wishes to abundantly clarify that these ratings are not to be considered as an investment advice in any jurisdiction nor are they to be used as a basis for or as an alternative to independent financial advice and judgment obtained from the user's financial advisors. BWR shall not be liable to any losses incurred by the users of these Rating Rationales, Rating Reports or its contents. BWR reserves the right to vary, modify, suspend or withdraw the ratings at any time without assigning reasons for the same.
+BWR's ratings reflect BWR's opinion on the day the ratings are published and are not reflective of factual circumstances that may have arisen on a later date. BWR is not obliged to update its opinion based on any public notification, in any form or format although BWR may disseminate its opinion and analysis when deemed fit.
+Neither BWR nor its affiliates, third party providers, as well as the directors, officers, shareholders, employees or agents (collectively,
+"BWR Party"
+) guarantee the accuracy, completeness or adequacy of the Ratings, and no BWR Party shall have any liability for any errors, omissions, or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the Rating Rationales or Rating Reports. Each BWR Party disclaims all express or implied warranties, including, but not limited to, any warranties of merchantability, suitability or fitness for a particular purpose or use. In no event shall any BWR Party be liable to any one for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the Rating Rationales and/or Rating Reports even if advised of the possibility of such damages. However, BWR or its associates may have other commercial transactions with the company/entity. BWR and its affiliates do not act as a fiduciary.
+BWR keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of the respective activity. As a result, certain business units of BWR may have information that is not available to other BWR business units. BWR has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+BWR clarifies that it may have been paid a fee by the issuers or underwriters of the instruments, facilities, securities etc., or from obligors. BWR's public ratings and analysis are made available on its web site,
+www.brickworkratings.com
+. More detailed information may be provided for a fee. BWR's rating criteria are also generally made available without charge on BWR's website.
+This disclaimer forms an integral part of the Ratings Rationales / Rating Reports or other press releases, advisories, communications issued by BWR and circulation of the ratings without this disclaimer is prohibited.
+BWR is bound by the Code of Conduct for Credit Rating Agencies issued by the Securities and Exchange Board of India and is governed by the applicable regulations issued by the Securities and Exchange Board of India as amended from time to time.

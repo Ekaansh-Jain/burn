@@ -1,0 +1,280 @@
+January 13, 2025
+Automotive Axles Limited: Ratings reaffirmed
+Summary of rating action
+Previous Rated Amount Current Rated Amount
+Instrument* Rating Action
+(Rs. crore) (Rs. crore)
+Long Term - Fund based – Term
+10.00 20.00 [ICRA]AA-(Stable); reaffirmed
+loan
+Long-term/ Short-term –Fund- [ICRA]AA-(Stable)/ [ICRA]A1+;
+190.00 160.00
+based/ Non-fund Based Limits reaffirmed
+Total 200.00 180.00
+*Instrument details are provided in Annexure-I
+Rationale
+The reaffirmation of the ratings factors in Automotive Axles Limited’s (AAL) stable operational performance in FY2024 and H1
+FY2025 despite subdued performance of the underlying commercial vehicles (CV) industry. The ratings continue to consider
+the company’s established position as one of the largest independent axle manufacturers in India, catering to several large
+medium and heavy commercial vehicle (M&HCV) original equipment manufacturers (OEMs), namely Ashok Leyland Limited
+(ALL), Daimler India Commercial Vehicles Private Limited (Daimler), Mahindra & Mahindra Limited (M&M), Tata Motors
+Limited (TML), VE Commercial Vehicles Limited (VECV) and Caterpillar India Private Limited (CAT). The company has established
+relationships with all major OEMs and enjoys healthy wallet share with them. Apart from this, the company benefits in terms
+of technology and operational support provided by its parent, Meritor Inc. ICRA expects operational synergies to accrue to AAL
+as a step-down subsidiary of one of the major global auto-component suppliers.
+In line with subdued demand conditions for the domestic commercial vehicle (CV) industry, AAL reported a YoY fall of ~4% and
+~11% in revenues in FY2024 and H1 FY2025, respectively. While the operating profit margin (OPM) remained stable at 11.0%
+in FY2024 on the back of stable raw material prices, the OPM declined to 10.1% in H1 FY2025 following subdued performance
+of the CV industry, led by General Elections, erratic rainfall and extreme heatwaves. The ratings also favourably factor in AAL’s
+comfortable financial risk profile and robust balance sheet, as evident from its sizeable net worth, low debt levels, and strong
+liquidity position.
+The rating strengths are partially offset by the customer concentration risk with the company deriving 50-60% of its total
+revenues from ALL. ICRA also notes the operational risk arising from the current business structure of AAL wherein it sells the
+major portion of its products to OEMs through a related party, Meritor Heavy Vehicle Systems India Limited (MHVSIL, a JV
+between Meritor Heavy Vehicle Systems LLC (MHVS USA) and Bharat Forge Limited (BFL)). In FY2024, 78.5% of AAL’s sales
+were routed through MHVSIL. ICRA notes that the shareholders have not approved the related party transaction with MHVSIL
+worth Rs. 2,500 crore for FY2026 in December 2024. While the company is exploring an alternative route for facilitating sales
+to its customers without any material disruption to its operations, as AAL derives a significant portion of its revenues from
+supplies to MHVSIL, resolution of the same in a timely manner remains a key rating monitorable, going forward.
+The rating also considers the inherent cyclicality in the M&HCV industry. However, ICRA notes the company’s efforts to
+diversify its revenue streams by scaling up its presence in other segments such as defence and off-highway applications, which
+are expected to yield benefits over the medium-to-long term. Further, the company’s profitability is exposed to the volatility
+in prices of key raw materials, although it is expected to pass on the impact of the same to its customers with some lag. Despite
+plans of sizeable capital expenditure of Rs. 200-300 crore in the medium term, mainly towards modernising and automating
+the existing manufacturing facilities, ICRA expects AAL’s coverage metrics to remain healthy on the back of sizeable cash
+accruals and moderate debt levels even as the proposed capex is expected to be funded through a mix of debt and internal
+accruals.
+www.icra .in 1
+Page |
+The Stable outlook on the long-term rating reflects ICRA’s opinion that the company will continue to benefit from its strong
+parentage and established track record of operations and maintain its comfortable financial risk profile over the medium term.
+Key rating drivers and their description
+Credit strengths
+Healthy financial profile characterised by low debt, healthy net worth base, comfortable credit metrics and sizeable cash
+balances – AAL’s financial profile is healthy, supported by a strong net worth base of Rs. 896.8 crore (as on September 30,
+2024), healthy cash flows and low debt levels. The company’s liquidity position is strong with free cash and liquid investments
+of Rs. 293.3 crore as on September 30, 2024. Additionally, the company has unutilised working capital limits of ~Rs. 122 crore,
+as on the same date. Further, AAL enjoys a strong capital structure with low leveraging, and comfortable coverage indicators
+such as interest coverage of 92.8 times (in H1 FY2025) and DSCR of 23.1 times (as on September 30, 2024). The company’s
+credit metrics are expected to remain comfortable, going forward, despite sizeable capex plans supported by strong earnings.
+Technological and operational support by virtue of its parentage – AAL is a 35.52% each joint venture (JV) between BFL and
+MHVS USA, a leading global supplier of drivetrain, mobility, braking and aftermarket solutions for the CV and industrial
+markets. Access to knowhow from the global parent provides the company with technological leadership in India. Further,
+with the acquisition of Meritor by Cummins Inc. globally, the same enhances AAL’s access to Cummins’ technological prowess
+and established relationships with global OEMs. Accordingly, the change in ultimate parentage is expected to bring in
+operational synergies for AAL in terms of new product segments, customers and geographies by leveraging Cummins’ standing
+in the automobile industry
+Strong market position in domestic axle and brake manufacturing industry, coupled with established relationships with
+major OEMs, continues to support business prospects – The company is the largest independent manufacturer of rear drive
+axles for M&HCVs in India with an established position among domestic OEMs. The company has a strong customer base in
+the domestic market, catering to all the major OEMs in the Indian CV industry, namely ALL, TML, M&M and VECV, among
+others. This has supported AAL’s business prospects over the years. The company supplies drive axles, TAG axles and brakes
+to these customers. Additionally, it supplies suspensions to ALL. The company also supplies axles to CAT for its various
+construction equipment.
+Credit challenges
+Customer concentration risk; operational risk from reliance on MHVSIL as a marketer and technological support provider –
+The company has high dependence on ALL, which accounted for 50-60% of its revenues historically. However, the healthy
+share of business and its long-term association with ALL provide comfort. Further, the increasing share of business with other
+OEMs like M&M, TML and VECV, along with AAL’s foray into the defence sector and plans to increase its presence in the off-
+highway segment, are expected to reduce the customer concentration, going forward. Additionally, as the shareholders have
+not approved the related party transaction with MHVSIL worth Rs. 2,500 crore for FY2026, ICRA notes the operational risk
+arising from AAL’s current business structure and understands that the company is currently exploring an alternative route for
+facilitating sales to its customers without any material disruption to its operations. Resolution of the same in a timely manner
+will remain a key rating monitorable, going forward.
+Exposed to cyclicality inherent in M&HCV industry – AAL derives most of its revenues from CV OEMs, especially the M&HCV
+segment, exposing its revenues to cyclicality in demand in these segments. However, the company is taking steps to mitigate
+this risk by increasing its presence in other segments, such as defence and off-highway applications.
+Susceptibility of profitability to fluctuations in steel prices – The company’s margins are susceptible to volatility in steel prices,
+though the same is generally passed on to its customers with a lag.
+www.icra .in 2
+Page |
+Environmental and Social risks
+Environmental considerations: AAL is not directly exposed to climate-transition risks from the likelihood of tightening
+emission-control requirements. However, its products are used by different categories of OEMs, so its automotive
+manufacturing customers remain highly exposed to the same. Accordingly, the company’s prospects are linked to the ability
+of its customers to meet tightening emission requirements. However, for the export markets, the company is already supplying
+higher compliant products and thus will require minor changes for the domestic market. In this regard, the company is taking
+initiatives to reduce emission in various processes as well as use 80% of power needs through renewables by 2028. The
+company’s exposure to litigation/ penalties from issues related to waste and water management remains relatively lower.
+Social considerations: AAL, like most automotive-component suppliers, has a healthy dependence on human capital. Thus,
+retaining human capital, and maintaining healthy relationships with employees and suppliers remain essential for disruption-
+free operations. The company has been taking initiatives to train its employees for improving their capacity and capabilities.
+Another social risk that AAL faces pertains to product safety and quality, wherein instances of product recalls and high-
+warranty costs may not only result in financial implication but could harm the reputation and create a more long-lasting
+adverse impact. In this regard, AAL’s strong track record in catering to leading automotive manufacturers underscore its ability
+to mitigate these risks to an extent. The company’s strong technological capabilities are likely to help it align its products with
+any change in customer preferences.
+Liquidity position: Strong
+AAL’s liquidity is strong with healthy cash flow from operations and sizeable free cash and liquid balance of Rs. 293.3 crore as
+on September 30, 2024. With healthy fund flow generation from operations of ~Rs. 189 crore in FY2024, AAL’s dependence
+on working capital borrowings has been limited, resulting in an average buffer of ~Rs. 122.0 crore from unutilised fund-based
+working capital lines as on September 30, 2024. AAL has no outstanding term loans as on September 30, 2024, resulting in a
+strong liquidity profile. The planned capex is expected to be funded through internal accruals and additional term debt, if
+required.
+Rating sensitivities
+Positive factors – The rating could be upgraded if the company is able to strengthen its business profile further through
+meaningful diversification of its customer base and products, which would aid the company to reduce its exposure to cyclicality
+on a sustained basis. The company’s ability to maintain its profitability and return indicators at healthy levels over industry
+cycles would also remain critical.
+Negative factors – Pressure on AAL’s ratings could arise in case of sustained de-growth in revenues on account of the slowdown
+in industry demand or if deterioration in profit margins affects the debt coverage indicators on a sustained basis. Specific credit
+metrics that could lead to a rating downgrade include Total Debt/OPBITDA of more than 1.5 times on a sustained basis.
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Rating Methodology for Auto Components
+Parent/Group support Not applicable
+Consolidation/Standalone For arriving at the ratings, ICRA has considered the standalone financials of AAL.
+www.icra .in 3
+Page |
+About the company
+Incorporated in 1981, Automotive Axles Limited is a joint venture between MHVS USA and BFL, with the JV partners holding a
+35.52% stake each. In February 2022, Cummins Inc. (rated Moody’s A2) acquired a 100% stake in Meritor, making AAL an
+indirect JV of Cummins Inc.
+AAL is currently the largest independent manufacturer of rear drive axle assemblies for CVs (primarily M&HCVs) in India. Its
+product portfolio includes a wide range of axles catering to haulage trucks, tippers, tractor trailers and other off-highway
+vehicles used for special purposes. The company also supplies drum and disc brake assemblies for trucks, trailers, buses and
+coaches, and is the second largest brake manufacturer in India after Brakes India Private Limited. Its manufacturing plants are
+in Mysore (Karnataka), Pantnagar (Uttarakhand), Jamshedpur (Jharkhand) and Hosur (Tamil Nadu).
+Key financial indicators (Audited)
+AAL Standalone FY2023 FY2024 H1FY2025*
+Operating income 2,323.7 2,229.2 987.2
+PAT 162.0 166.2 70.0
+OPBDIT/OI 11.1% 11.0% 10.1%
+PAT/OI 7.0% 7.5% 7.1%
+Total outside liabilities/Tangible net worth
+0.5 0.4 0.4
+(times)
+Total debt/OPBDIT (times) 0.3 0.2 0.1
+Interest coverage (times) 88.3 92.8 60.0
+Source: Company, ICRA Research; * Provisional numbers; All ratios as per ICRA’s calculations; Amount in Rs. crore; PAT: Profit after tax; OPBDIT: Operating profit
+before depreciation, interest, taxes and amortisation
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current rating (FY2025) Chronology of rating history for the past 3 years
+FY2025 FY2024 FY2023 FY2022
+Amount
+Rated Jan 13,
+Instrument Type Date Rating Date Rating Date Rating Date Rating
+(Rs 2025
+Crore)
+Jan Feb
+[ICRA]AA- Dec 26, [ICRA]AA- [ICRA]AA- Mar 03, [ICRA]AA- [ICRA]A+
+23, 28,
+Long (Stable) 2024 (Stable) (Stable) 2023 (Stable) (Stable)
+Term Loan 2024 2022
+Term 20.00
+May Oct
+[ICRA]AA- [ICRA]A+
+26, 20,
+(Stable) (Stable)
+2023 2022
+Feb
+[ICRA]A+
+- - - - - - - - 28,
+Long (Stable)
+Fund based 2022
+Term
+Oct
+[ICRA]A+
+- - - - - - - - 20,
+(Stable)
+2022
+www.icra .in 4
+Page |
+Feb
+- - - - - - - - 28, [ICRA]A1+
+Non-Fund Short-
+2022
+based term
+Oct
+- - - - - - - - 20, [ICRA]A1+
+2022
+[ICRA]AA- [ICRA]AA- Jan [ICRA]AA- [ICRA]AA-
+Dec 26, Mar 03,
+Fund Long- (Stable)/ (Stable)/ 23, (Stable)/ (Stable)/ - -
+2024 2023
+based/ term/ [ICRA]A1+ [ICRA]A1+ 2024 [ICRA]A1+ [ICRA]A1+
+160.00
+Non-fund- short- May [ICRA]AA-
+based limits term - - - 26, (Stable)/ - - - -
+2023 [ICRA]A1+
+Feb [ICRA]A+
+Mar 03, [ICRA]AA-
+- - - - - - 28, (Stable)
+2023 (Stable)
+Long- 2022
+Unallocated
+term Oct [ICRA]A+
+- - - - - - - - 20, (Stable)
+2022
+Complexity level of the rated instrument
+Instrument Complexity Indicator
+Long Term - Fund based – Term loan Simple
+Long-term/ Short-term –Fund-based/ Non-fund Based Limits Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analyzing an entity's financial, business, industry risks or
+complexity related to the structural, transactional, or legal aspects. Details on the complexity levels of the instruments, is
+available on ICRA’s website: Click Here
+www.icra .in 5
+Page |
+Annexure-I: Instrument details
+Instrument Date of Issuance / Coupon Maturity Amount Rated
+ISIN Current Rating and Outlook
+Name Sanction Rate Date (RS Crore)
+NA Term Loan* FY2025 - - 20.00 [ICRA]AA-(Stable)
+Fund based/ Non
+NA NA NA NA 160.00 [ICRA]AA-(Stable)/[ICRA]A1+
+fund based limits
+Source: Company; *As of December 31, 2024 the sanctioned term loan has not been utilised by the company and hence the maturity and coupon rates are not
+available.
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure-II: List of entities considered for consolidated analysis – Not applicable
+www.icra .in 6
+Page |
+ANALYST CONTACTS
+Shamsher Dewan Kinjal Shah
++91 124 4545 328 +91 022 6114 3400
+shamsherd@icraindia.com kinjal.shah@icraindia.com
+Mythri Macherla Aman Mundhada
++91 22 6114 3435 +91 22 6114 3470
+mythri.macherla@icraindia.com aman.mundhada@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial
+services companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public
+Limited Company, with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The
+international Credit Rating Agency Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 7
+Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.

@@ -1,0 +1,259 @@
+Autoline Industries Limited
+August 24, 2023
+Ratings
+Instrument / Amount Ratings Rating Action Complexity
+Facility (Rs. crore) Indicator
+Revised from
+98.81 IVR BB; Stable
+Long Term IVR B+; Stable
+(enhanced from (IVR Double B with Simple
+Bank Facilities (IVR Single B Plus
+90.75) Stable Outlook)
+with Stable Outlook)
+20.00
+Short Term
+(reduced from IVR A4 (IVR A Four) Reaffirmed Simple
+Bank Facilities
+20.25)
+Total 118.81
+(Rupees one
+hundred and
+eighteen crore
+and eighty-one
+lakh only)
+Details of Facilities are in Annexure 1
+Detailed Rationale
+The revision in the ratings assigned to the bank facilities of Autoline Industries Limited (AIL)
+considers sustained rise in its scale of operation in the past two fiscals and asset
+monetization initiatives which is expected to improve the liquidity of the company in the near
+term. Further, the ratings continue to derive strength from its experienced promoters,
+improvement in financial risk profile and healthy order book position. However, these rating
+strengths continue to remain constrained due to susceptibility of its profitability to volatility in
+its raw material prices, leveraged capital structure, exposure to cyclicality inherent in auto
+industry and intense competition in automotive component industry which exert pressure on
+margins.
+Key Rating Sensitivities:
+Upward Factors
+• Sustained growth in revenue with further improvement in profitability metrics thereby
+leading to overall improvement in cash accruals and liquidity.
+• Further improvement in the capital structure, overall gearing, and debt protection
+metrics.
+• Improvement in liquidity
+1
+Downward Factors
+• Dip in operating income and/or profitability impacting the debt coverage indicators
+• Further elongation in the operating cycle and fluctuation in raw material prices
+impacting the liquidity position of the company.
+• Moderation in the capital structure marked by moderation in overall gearing to below
+4x
+List of Key Rating Drivers with Detailed Description
+Key Rating Strengths
+Experienced promoters
+The promoters have long standing experience in automobile parts manufacturing business
+and have favourable relations with suppliers and customers. Extensive business experience
+of the promoters supports the business risk profile of the company to a large extent.
+Improvement in business performance
+The total operating income has shown an upward trend in the past three years with top line
+increased by ~14% in FY23 from FY22 with increase in demand for products backed by
+improvement in the auto sector post covid era. Unlike operating income, EBITDA has been
+negatively impacted due to rise in raw material prices. The EBITDA margin has declined
+from 7.94% in FY22 to 5.73% in FY23, but the PAT margin has improved from 1.32% in
+FY22 to 2.30% in FY23 backed by decline in depreciation coupled with decrease in finance
+charges underpinned by decline in debt levels in FY23.
+Improvement in financial risk profile
+The debt protection metrices marked by interest coverage remained satisfactory at 1.73x in
+FY23 (1.78x in FY22). The indebtedness of the company marked by TOL/TNW has
+improved and stood at 6.74x s on March 31, 2023 as against 15.36x as on March 31, 2022.
+The total debt/GCA has improved from 10.57 years as on March 31, 2022 to 8.90 years as
+on March 31, 2023 on the back of decline in debt levels. The liquidity of the company is
+expected to improve backed by expected inflow from stake sale in subsidiary.
+Healthy order book position
+2
+AIL has a healthy order book position of Rs.711.25 crore. The company is expecting to
+complete the orders by the end of this fiscal year.
+Asset monetization initiative through stake sale in subsidiary
+Autoline Industrial Parks Limited (AIPL), AIL's subsidiary, has entered a strategic MOU with
+MNSC Realty & Developers Pvt Ltd to sell 98.817 acres and 6.25 acres of land. The sale is
+set to yield Rs. 113 Crore, with AIPL and other shareholders receiving Rs.105 Crore and Rs.
+8 Crore, respectively, over the next few years. As a result, Autoline Industries Ltd. will get
+Rs. 95.17 Crore through MNSC by Divestment of Investment in Autoline Industrial Parks Ltd
+(AIL has an investment of Rs. 70.72 Crore in Autoline Industrial Parks Limited (AIPL)). This
+move will enable AIL to realize a profit of Rs.18.22 Crore on the sale of its investment in
+AIPL. The proceeds from this transaction is expected to boost AIL's liquidity. Out of the total
+net proceeds (after making related expenditure) amounting to Rs.90 Crore, AIL is expected
+to receive approximately Rs.60 crore in FY2024 and the balance by FY25. AIL has already
+received ~Rs.20 crore in H1FY24.
+Key Rating Weaknesses
+Profitability remains susceptible to price volatility of raw materials
+Steel is the major raw material for the company. Steel prices are highly volatile and prone to
+fluctuations based on global demand supply situations and other macro-economic factors.
+Thus, the company's cash flows and profits are susceptible to fluctuation in raw material
+prices.
+Leveraged capital structure
+The capital structure marked by overall gearing ratio though improved significantly from
+10.01x as on March 31, 2022, to 3.85x as on March 31, 2023, with decline in debt levels and
+improvement in tangible net worth continues to remain leveraged.
+Exposure to cyclicality inherent in auto industry
+The company’s business is susceptible to inherent cyclicity as the automotive industry,
+linked to the performance of the economy.
+3
+Intense competition in automotive component industry which exert pressure on
+margins
+Intense competition due to the presence of other automotive component manufacturers,
+which exerts pricing pressures, is likely to weigh on the company's operating margins. With
+increasing presence of domestic as well as international players in the automotive ancillary
+business, the competition had increased over the years.
+Analytical Approach: Standalone
+Applicable Criteria:
+Criteria for assigning Rating Outlook
+Rating Methodology for Manufacturing Companies
+Financial Ratios & Interpretation (Non- Financial Sector)
+Liquidity – Stretched
+The liquidity position appears stretched with high working capital intensive nature of
+business. Th average fund-based utilisation stands high at ~97% for the past 12 months
+ended July 2023 indicating inadequate liquidity buffer. The current ratio remains below unity
+in FY23 indicating insufficient liquidity cushion. However, expected cash inflow from stake
+sale in subsidiary is expected to improve the liquidity of the company in the near term.
+About the Company
+Autoline Industries Ltd is a listed company (incorporated on December 16, 1996, as Autoline
+Stampings Private Ltd.) that was initially set up in January 1995 as a partnership firm known
+as "Autoline Pressings". The registered office of the Company is located at Nanekarwadi,
+Chakan, Pune. The Company is engaged in manufacturing auto components (sheet metal)
+and is a supplier to Original Equipment Manufacturers (OEMs) and automobile companies.
+The Company has three business divisions namely Medium and Large Stamped
+Assemblies, Mechanical Assembly/Driver Control Systems and Concept, Styling, Designing,
+Analysis Application Software Services.
+Financials (Standalone):
+(Rs. crore)
+For the year ended* / As on 31-03-2022 31-03-2023
+Audited Audited
+Total Operating Income 566.38 646.59
+EBITDA 45.00 37.04
+PAT 7.50 14.92
+4
+For the year ended* / As on 31-03-2022 31-03-2023
+Total Debt 232.26 167.11
+Tangible Net worth 23.20 43.35
+EBITDA Margin (%) 7.94 5.73
+PAT Margin (%) 1.32 2.30
+Overall Gearing Ratio (x) 10.01 3.85
+*Classification as per Infomerics’ standards
+Status of non-cooperation with previous CRA: Nil
+Any other information: Nil
+Rating History for last three years:
+Sr. Name of Current Ratings (Year 2023-24) Rating History for the past 3 years
+No. Instrument/ Type Amount Rating Date(s) & Date(s) & Date(s) &
+Facilities outstanding Rating(s) Rating(s) Rating(s)
+(Rs. Crore) assigned in assigned assigned
+2022-23 in 2021-22 in 2020-21
+(July 26,
+2022)
+IVR BB; IVR B+/ - -
+Stable (IVR Stable (IVR
+Long 19.40
+1. Term Loan Double B Single B plus
+Term
+with Stable with Stable
+Outlook) Outlook)
+IVR BB; IVR B+/ - -
+Stable (IVR Stable (IVR
+Long
+2. Term Loan 17.53 Double B Single B plus
+Term
+with Stable with Stable
+Outlook) Outlook)
+IVR BB; IVR B+/
+Stable (IVR Stable (IVR
+Revolving Long
+3. 10.00 Double B Single B plus
+Working Capital Term
+with Stable with Stable
+Outlook) Outlook)
+IVR BB; IVR B+/
+Stable (IVR Stable (IVR
+Supply Chain Long
+4. 35.00 Double B Single B plus
+Finance Term
+with Stable with Stable
+Outlook) Outlook)
+IVR BB; IVR B+/
+Stable (IVR Stable (IVR
+Long
+5. Cash Credit 16.88 Double B Single B plus
+Term
+with Stable with Stable
+Outlook) Outlook)
+IVR A4 IVR A4 (IVR
+Short
+6. Letter of Credit 20.00 (IVR A A Four)
+Term
+Four)
+5
+Name and Contact Details of the Rating Analyst:
+Name: Nidhi Sukhani Name: Avik Podder
+Tel: (033) 46022266 Tel: (033) 46022266
+Email: nsukhani@infomerics.com Email: apodder@infomerics.com
+About Infomerics:
+Infomerics Valuation and Rating Private Ltd (Infomerics) was founded in the year 1986 by a
+team of highly experienced finance professionals for research and risk evaluation. Infomerics
+commenced its activities as External Credit Assessment Institution after obtaining
+registration from Securities Exchange Board of India (SEBI) and accreditation from Reserve
+Bank of India (RBI).
+Adhering to best international practices and maintaining high degree of ethics, the team of
+analysts at Infomerics deliver quality credit ratings. Infomerics evaluates wide range of debt
+instruments which helps corporates access to financial markets and provides investors
+credit ratings backed by in-depth research. The transparent, robust, and credible ratings
+have gained the confidence of investors and the banks.
+Infomerics has a pan India presence with Head Office in Delhi and Corporate Office at
+Mumbai, with branches in major cities and representatives in several locations.
+Infomerics also has international presence with credit rating operations in Nepal through its
+JV subsidiary.
+For more information visit www.infomerics.com
+Disclaimer: Infomerics ratings are based on information provided by the issuer on an ‘as is where is’ basis.
+Infomerics credit ratings are an opinion on the credit risk of the issue / issuer and not a recommendation to buy,
+hold or sell securities. Infomerics reserves the right to change or withdraw the credit ratings at any point in time.
+Infomerics ratings are opinions on financial statements based on information provided by the management and
+information obtained from sources believed by it to be accurate and reliable. The credit quality ratings are not
+recommendations to sanction, renew, disburse or recall the concerned bank facilities or to buy, sell or hold any
+security. We, however, do not guarantee the accuracy, adequacy or completeness of any information, which we
+accepted and presumed to be free from misstatement, whether due to error or fraud. We are not responsible for
+any errors or omissions or for the results obtained from the use of such information. Most entities whose bank
+facilities/instruments are rated by us have paid a credit rating fee, based on the amount and type of bank
+facilities/instruments. In case of partnership/proprietary concerns/Association of Persons (AOPs), the rating
+assigned by Infomerics is based on the capital deployed by the partners/proprietor/ AOPs and the financial
+strength of the firm at present. The rating may undergo change in case of withdrawal of capital or the unsecured
+loans brought in by the partners/proprietor/ AOPs in addition to the financial performance and other relevant
+factors.
+6
+Annexure 1: Details of Facilities
+Name of Facility Date of Coupon Maturity Size of Rating
+Issuance Rate/ IRR Date Facility Assigned/
+(Rs. Crore) Outlook
+Long Term Bank
+Facilities – Term - - Sep 2026 19.40 IVR BB/Stable
+Loan
+Long Term Bank
+Facilities – Term - - Dec 2026 17.53 IVR BB/Stable
+Loan
+Long Term Bank
+Facilities – IVR BB/Stable
+- - - 10.00
+Revolving Working
+Capital
+Long Term Bank
+Facilities – Supply - - - 35.00 IVR BB/Stable
+Chain Finance
+Long Term Bank
+Facilities – Cash - - - 16.88 IVR BB/Stable
+Credit
+Short Term Bank
+Facilities – Letter of - - - 20.00 IVR A4
+Credit
+Annexure 2: List of companies considered for consolidated analysis: Not Applicable.
+Annexure 3: Facility wise lender details
+https://www.infomerics.com/admin/prfiles/len-autoline-aug23.pdf
+Annexure 4: Detailed explanation of covenants of the rated instrument/facilities: Not
+Applicable
+Note on complexity levels of the rated instrument: Infomerics has classified instruments
+rated by it on the basis of complexity and a note thereon is available at www.infomerics.com.
+7

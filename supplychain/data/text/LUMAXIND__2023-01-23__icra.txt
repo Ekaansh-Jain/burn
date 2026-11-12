@@ -1,0 +1,296 @@
+January 23, 2023
+Lumax Industries Limited: Ratings reaffirmed; rated amount enhanced
+Summary of rating action
+Previous Rated Current Rated
+Instrument* Amount Amount Rating Action
+(Rs. crore) (Rs. crore)
+Long-term Fund Based
+210.00 210.00 [ICRA]A+(Stable); Reaffirmed
+Limits
+[ICRA]A+(Stable); Reaffirmed and assigned for enhanced
+Term Loans 80.00 236.60
+amount
+Unallocated Limits 42.00 42.00 [ICRA]A+(Stable); Reaffirmed
+Short-term Fund Based
+158.00 158.00 [ICRA]A1; Reaffirmed
+Limits
+Non Fund-Based Facilities 110.00 110.00 [ICRA]A1; Reaffirmed
+Total 600.00 756.60
+*Instrument details are provided in Annexure-I
+Rationale
+The rating reaffirmation takes into consideration the strong market position of Lumax Industries Limited (LIL) as the leading
+supplier of automotive lighting systems, especially in the passenger vehicle (PV) segment in India, along with its strong
+technological and business support from Stanley Electric Co. Ltd., Japan (SECL, joint venture partner with 37.5% equity stake).
+The ratings also favourably factor in the company’s strong customer base with established relationships with OEMs across all
+segments of the automobile industry. Despite deriving 70-75% of its sales from the top six customers, ICRA believes that client
+concentration risk for LIL is mitigated, to a large extent, by its strong business share with its key client OEMs and their strong
+market position in their respective segments. In the two-wheeler (2W) space, LIL caters to Honda Motorcycle and Scooter India
+(HMSI) and Hero MotoCorp Limited (HMCL) (both market leaders), while it has Maruti Suzuki India Limited (MSIL), Honda Cars
+India Limited (HCIL), M&M and TML as its key clients in the PV segment. LIL is also expanding its product line to include heating,
+ventilation and air conditioning (HVAC) panels in collaboration with SECL, which would aid in diversification of product portfolio
+over the medium to long-term.
+The company has high reliance on short-term sources of funds for its capital expenditure (capex) requirements, which has
+resulted in ALM and its total outside liabilities/ total net worth ratio to continue to remain high at 2.1x in FY2022 (2.0x times
+in FY2021). Further, LIL’s debt levels increased to ~Rs. 364 crore (excluding lease liabilities) as on March 31, 2022 from Rs. 301
+crore as on March 31, 2021 due to debt-funded capex undertaken during the year, leading to moderation in the gearing ratio
+(excluding lease) to 0.8x in FY2022 (0.7x in FY2021). ICRA notes that the company is setting up a greenfield facility in Chakan,
+Pune to cater to Mahindra & Mahindra (M&M), Tata Motors Limited (TML), and some electric vehicle (EV) original equipment
+manufacturers (OEM); accordingly, its debt levels are expected to increase further over the medium term. Nevertheless, ICRA
+expects the company to gradually address the ALM, going forward, and would continue to monitor the progress in this regard.
+ICRA also continues to take comfort from the company’s healthy financial flexibility and access to financial markets, its long-
+standing relationship with vendors, low debt repayment obligations and most of its plants being free of any charge, which
+mitigate the refinancing risk to some extent.
+ICRA notes that LIL’s revenues remain susceptible to demand slowdowns in the domestic automobile industry. Nevertheless,
+LIL registered a healthy revenue growth of ~22% in FY2022 and ~47.5% YoY in H1 FY2023 aided by recovery in the automotive
+industry, which was impacted by the pandemic. Going forward, with underlying demand for the industry continuing to be
+robust and business wins from several OEMs, LIL is expected to report a healthy earnings growth in FY2023.
+www.icra .in 1
+Page |
+The Stable outlook on the long-term rating reflects ICRA’s opinion that LIL will continue to maintain a comfortable financial
+profile aided by expectations of comfortable fund flow from operations. Moreover, the strong technological and business
+support from SECL and the company’s established relationships with OEMs will help LIL maintain its market position.
+Key rating drivers and their description
+Credit strengths
+Strong position in domestic automotive lighting segment – LIL is a leading supplier of automotive lighting solutions in the
+domestic market with a product portfolio of automotive lighting systems such as head lamps (~64% of revenues in FY2022),
+tail lamps (~25%), and other sundry auxiliary lamps. The company’s presence spans all segments in the automobile sector, viz.,
+PV, 2W, commercial vehicles (CVs), buses, tractors, off-highway vehicles, etc. However, the PV segment is the primary revenue
+contributor with 65% contribution in FY2022. It is the leading supplier of lighting solutions for the PV segment and the third
+largest in the 2W segment.
+Access to technology from collaborator and largest shareholder, SECL – SECL is one of the leading suppliers of automotive
+lighting solutions globally and it developed the first LED high mount stop lamp for the automotive sector. The strong technical
+support from its collaborator helps LIL stay abreast of evolving trends in the lighting industry, such as LED headlamps. LIL is
+also expanding its product line to include HVAC panels in collaboration with SECL.
+Diversified customer base and established relationships with OEMs across automobile segments – LIL is present across all
+segments of the automobile industry with 11 manufacturing plants in proximity to its key customers. The company enjoys a
+high share of business with MSIL (market leader with ~45% share of the domestic PV market) and is present in multiple models
+of the OEM, which has supported its business prospects over the years. Besides MSIL, the company enjoys a high share of
+business with other OEMs, such as HMCL, HMSI, HCIL, TML and M&M. It has gained high share of business in LED models and
+its technical centre helps LIL with new product development.
+Trend of improving LED penetration in domestic automotive market augurs well for revenue growth – The LED segment
+drove 35% of LIL’s revenues in H1 FY2023 compared to 25% in FY2018, aided by the increasing trend in LED adoption by OEMs,
+especially in the PV and 2W segments. The increasing penetration of LED headlamps, coupled with the higher realisation, is
+expected to aid revenue growth for the company over the medium term.
+Credit challenges
+Intense competition in the domestic automotive lighting segment – LIL lost out on some key models from MSIL such as
+Baleno, Brezza and new Grand Vitara and faces stiff competition from other companies in the automotive lighting industry,
+such as Uno Minda Limited (PV and 2W), FIEM Industries Limited (2W), India Japan Lighting (PV) and Marelli Motherson
+Automotive Lighting India Private Limited (PV). The PV lighting market is highly competitive, as a result of which the margins
+of lighting companies, including LIL, have remained at moderate levels.
+High reliance on short-term borrowings and creditors resulting in refinancing risk; although the same is partially mitigated
+by LIL’s ability to access financial markets and its strong relationships with suppliers – The company has high reliance on
+short-term debt and creditors for funding its business, leading to refinancing risks and asset liability mismatch risk. Accordingly,
+the company’s TOL/TNW continues to remain high at 2.1 times as on March 31, 2022. Nevertheless, the refinancing risk is
+mitigated to some extent by its healthy financial flexibility and access to financial markets, healthy relationships with its
+suppliers, low debt repayment obligations and most of its plants being free of any charge.
+Susceptible to demand slowdowns in domestic automotive market – LIL supplies automotive lighting solutions to various
+OEMs in the domestic market with exports remaining minimal, reflecting its vulnerability to demand slowdowns in the
+domestic automotive market. The company’s revenues had declined by ~10% during FY2021 because of the adverse impact of
+the pandemic. Nevertheless, LIL registered a healthy revenue growth of ~22% in FY2022 and ~47.5% YoY in H1 FY2023, aided
+www.icra .in 2
+Page |
+by recovery in the automotive industry. With underlying demand for the industry continuing to be robust and business wins
+from several OEMs, LIL is expected to report a healthy revenue growth in FY2023.
+Environmental and Social Risks
+Environmental considerations: Even as LIL is not directly exposed to climate transition risks from a likelihood of tightening
+emission control requirements, with its products being used across different fuel powertrains, its automotive manufacturing
+customers remain highly exposed to the same. Accordingly, LIL’s prospects remain linked to the ability of its customers to meet
+tightening emission requirements. The company may need to invest materially to develop products in line with the changing
+trends in the automotive lighting industry and to meet the requirements of EVs, even as a transition towards EVs in the
+segments catered is likely to be only gradual. The exposure to litigation/penalties from issues related to waste and water
+management for the manufacturers remains relatively low.
+Social considerations: LIL, like most automotive component suppliers, has a healthy dependence on human capital; and
+retaining human capital, maintaining healthy employee relations as well as its supplier ecosystem remain essential for
+disruption free operations for the entity. Another social risk that LIL faces is that of product safety and quality, wherein
+instances of product recalls and high warranty costs may not only lead to a financial implication but could also harm the
+reputation and create a more long-lasting adverse impact. In this regard, LIL’s strong track record in catering to leading
+automotive manufacturers underscores its ability to mitigate these risks to an extent. The company’s strong technological
+capabilities, aided by support from SECL, are likely to help it align its products with any change in customer preferences.
+Liquidity position: Adequate
+LIL’s liquidity position remains adequate, supported by an expectation of comfortable cash flows from operations and
+availability of unutilised working capital limits (average unutilised limit of ~Rs. 51 crore against sanctioned limit of Rs. 210.0
+crore during the 8-month period ending in November 2022). It is expected to meet its capex requirements and debt
+repayments (~Rs. 18 crore p.a. in FY2023 and FY2024) over the near-term from a mix of internal accruals, available lines of
+credit and term loans. ICRA takes comfort from the fact that most of the company’s manufacturing units are collateral free
+and can be pledged to borrow long-term funds, thereby supporting its financial flexibility.
+Rating sensitivities
+Positive factors – The company’s ability to diversify its business profile and reduce its revenue concentration on the PV
+segment by securing new business from other automotive segments will be considered favourably for a rating upgrade. In
+addition, improvement in funding mix with a track record of reducing reliance on short-term borrowings to fund capex, which
+addresses the asset-liability mismatch, besides maintaining healthy profitability and debt coverage indicators would be critical
+for an upward revision in rating.
+Negative factors – Ratings could be downgraded in case of a worsening asset-liability mismatch position or weakening of
+profitability and return indicators on a sustained basis. Negative pressure on the rating could also arise in case of a larger than
+expected debt-funded capex, leading to weakening in the credit metrics.
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Rating Methodology for Auto Component Suppliers
+Parent/Group support Not applicable
+www.icra .in 3
+Page |
+For arriving at the ratings, ICRA has considered the consolidated financials of Lumax
+Industries Limited. The consolidated financials comprise the holding company, a subsidiary,
+Consolidation/Standalone
+Lumax Industries Czech s.r.o, and an associate, SL Lumax Limited (see Annexure II for
+details).
+About the company
+LIL is one of the leading players in the domestic automotive lighting industry with a product portfolio of automotive lighting
+systems such as head lamps, tail lamps, other sundry and auxiliary lamps. The company’s presence spans all segments of the
+auto sector, viz., PVs, 2Ws, CVs, buses, tractors, etc. However, sales of the PV segment continue to remain dominant with
+~65% contribution in FY2022. The company is one of the leading suppliers of automotive lightings to MSIL and enjoys a healthy
+share of business with OEMs such as TML, M&M, HMCL and HMSI. At present, it has 11 manufacturing units spread across
+Haryana, Uttarakhand, Maharashtra, Karnataka and Gujarat.
+LIL was founded as a trading company in 1945 under the aegis of its founder, the Late S.C. Jain. In 1955, the company set up
+an automotive lighting equipment manufacturing unit, and later diversified into manufacturing automotive filters and rear-
+view mirrors. The company went public in 1984 and entered into a technical collaboration with SECL, Japan, in the same year.
+The SECL Group and the Indian promoters (Mr. D.K. Jain and family) each hold 37.5% equity stake in the company. Through
+other entities, the Group is present in other automotive segments, such as gear shifters, moulded parts and oxygen sensors.
+Key financial indicators (audited)
+LIL Consolidated FY2021 FY2022 H1 FY2023
+Operating income 1,439.9 1,758.8 1,140.9
+PAT 16.6 34.1 36.9
+OPBDIT/OI 8.1% 8.1% 9.8%
+PAT/OI 1.2% 1.9% 3.2%
+Total outside liabilities/Tangible net worth (times) 2.0 2.1 2.2
+Total debt/OPBDIT (times) 2.9 2.8 1.8
+Interest coverage (times) 4.0 6.6 8.7
+PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation; Amount in Rs crore
+Source: Company, ICRA Research; All calculations are as per ICRA Research
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+www.icra .in 4
+Page |
+Rating history for past three years
+Chronology of rating history
+Current rating (FY2023)
+for the past 3 years
+Date & Date &
+Date & rating in FY2023 rating in Date & rating in FY2021 rating in
+Instrument Amount Amount FY2022 FY2020
+rated outstanding as
+Type Feb 14,
+(Rs. of Sep, 30 2022
+crore) (Rs. crore) Jan 23, Oct 22, Nov 27, Apr 30, 2020
+Oct 27, 2022
+2023 2021 2020 2020 Nov 25,
+2019
+Long-term
+Long- [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+
+1 fund based 210.00 NA
+term (Stable) (Stable) (Stable) (Stable) (Stable) (Stable)
+limits
+Long- [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+
+2 Term Loans 236.60 68.0 - -
+term (Stable) (Stable) (Stable) (Stable)
+Long- [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]A+
+3 Unallocated 42.00 NA
+term (Stable) (Stable) (Stable) (Stable) (Stable) (Stable)
+Short-term
+Short-
+4 fund based 158.00 NA [ICRA]A1 [ICRA]A1 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+term
+limits
+Short-term
+Short-
+5 non-fund 110.00 NA [ICRA]A1 [ICRA]A1 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+term
+based limits
+Commercial Short- [ICRA]A1;
+6 - - - [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+paper term withdrawn
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Long-term fund-based limits Simple
+Long-term Term Loan Simple
+Long term Unallocated Limits Not applicable
+Short-term fund-based limits Simple
+Short-term non-fund based limits Very Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click Here
+www.icra .in 5
+Page |
+Annexure I: Instrument details
+Instrument Date of Amount Rated
+ISIN Coupon Rate Maturity Current Rating and Outlook
+Name Issuance (Rs. crore)
+Long-term fund-
+NA NA NA NA 210.00 [ICRA]A+ (Stable)
+based limits
+Long-term Term
+NA May 2021 NA June 2026 80.00 [ICRA]A+ (Stable)
+Loan- I
+Long-term Term
+NA FY2023 NA NA* 156.60 [ICRA]A+ (Stable)
+Loan- II
+Long term
+NA NA NA NA 42.00 [ICRA]A+ (Stable)
+Unallocated
+Short-term fund-
+NA NA NA NA 158.00 [ICRA]A1
+based limits
+Short-term non-
+NA fund based NA NA NA 110.00 [ICRA]A1
+limits
+Source: Company; *Not yet drawn
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+LTHL Consolidation
+Company Name
+Ownership Approach
+100.00%
+Lumax Industries Limited Full Consolidation
+(rated entity)
+SL Lumax Limited 21.28% Equity Method
+Lumax Industries Czech s.r.o 100.00% Full consolidation
+Source: LIL annual report FY2022, BSE
+Note: ICRA has considered consolidated financials of LIL while assigning the ratings.
+www.icra .in 6
+Page |
+ANALYST CONTACTS
+Shamsher Dewan Srikumar Krishnamurthy
++91 124 4545328 +91-44-45964318
+shamsherd@icraindia.com ksrikumar@icraindia.com
+Rohan Kanwar Gupta Arushi
++91 124 4545 808 +91 124 4545 396
+rohan.kanwar@icraindia.com aarushi@icraindia.com
+RELATIONSHIP CONTACT
+Jayanta Chatterjee
++91 80 4332 6401
+jayantac@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 7
+Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2023 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.

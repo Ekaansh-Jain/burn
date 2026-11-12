@@ -1,0 +1,231 @@
+March 31, 2025
+Sandhar Technologies Limited: [ICRA]AA-(Stable)/[ICRA]A1+; Assigned
+Summary of rating action
+Current Rated Amount
+Instrument* Rating action
+(Rs. crore)
+Long-term fund based Term Loans 150.00 [ICRA]AA-(Stable); Assigned
+Long term/short term fund based working
+585.00 [ICRA]AA-(Stable)/[ICRA]A1+; Assigned
+capital facilities
+Total 735.00
+*Instrument details are provided in Annexure-I
+Rationale
+The assigned ratings factor in Sandhar Technology Limited’s (STL) established presence in the auto component industry and its
+healthy business profile marked by a wide array of product offerings catering to OEMs in two-wheelers (2W), passenger
+vehicles (PV), commercial vehicles (CV), tractors and off-highway vehicles. The business profile is also supported by a high
+wallet share with its key clientele, strong product engineering and development capabilities, and technological tie-ups with
+global players for certain products. The ratings also consider STL’s comfortable financial profile, which has been characterised
+by strong revenue growth, earnings and cash flows in the last five years. Moreover, the expectations of sustained growth going
+forward amid a favourable demand outlook (especially 2W), focus on rising content per vehicle, new product additions and
+business collaborations provide further comfort.
+The ratings, however, are constrained by moderate product and segment concentration risks, with ~60% of revenues
+generated from the 2W segment and the top two customers {Hero Motocorp Limited (HMCL) and TVS Motor Company Limited
+(TVS)}, representing over 50% of revenues. Nevertheless, the risk is partially mitigated by STL’s strong share of business across
+product segments and the dominant market position of OEMs in the 2W industry. In the last few years, STL has incurred
+significant debt-funded capex and investments in new businesses as well as its overseas subsidiary. This has led to lower RoCE
+levels (~12.5% in FY2024) and moderation in the debt protection metrics (total debt to operating profits at ~2.2x in FY2025e
+as against ~1.5x in FY2022 and interest cover at 6.5x in FY2025e as against over 10x in FY2022). The debt indicators are likely
+to improve in the near to medium term, with likely improvement in earnings and cash flows. The ratings also consider the
+vulnerability of STL’s earnings to competition, raw material price movements and foreign exchange fluctuations. Any potential
+impact of tariff actions by the US Government on STL’s operations is a critical monitorable.
+The stable outlook on long-term rating reflects an expectation that STL would record healthy revenue growth over the near to
+medium term following the ramp-up in capacities that were added in recent years, coupled with continued business from
+existing customers. The enhanced scale of operations, combined with an improved financial risk profile, is likely to support the
+expansion in profit margins and improve the debt coverage indicators.
+Key rating drivers and their description
+Credit strengths
+Established presence in the auto component industry - STL has an established presence in the auto component industry across
+both domestic and overseas markets. It caters to segments like automotive, construction equipment etc., and its operations
+are carried out from over 40 manufacturing plants across India, apart from facilities in Romania, Spain, Poland and Mexico.
+The plants are in proximity to the manufacturing locations of OEMs, enabling the company to maintain strong relationships
+and share of business. This apart, the promoter’s vast experience in the auto ancillary business also supports STL’s growth and
+business plans. STL has six subsidiaries, three step-down subsidiaries and a few joint ventures based on target markets and
+scalability of product segments.
+Strong revenue growth backed by diversified product profile and improving geographical presence - STL has a well-diversified
+product range catering to 2W, PV, CV and Off-Highway vehicles. It generates ~60% revenue from 2Ws, 20% from the PV
+segment, 15% from OHV, 2% from the CV segment and balance from other segments like 3W, non-autos, aftermarket, scrap
+etc. The product line includes locking systems, cabin and fabrication, sheet metal components, assemblies of vehicle parts,
+vision systems, etc. STL derives over 85% revenues from the domestic market and has been growing its presence in overseas
+markets. Over the last five years, STL’s consolidated sales grew by ~15% (CAGR), supported by growth across products and
+segments. Of these, revenue from sheet metals, aluminium die castings (ADC) and cabins have grown relatively higher with
+the ramp-up of operations. Its recent announcement of a business transfer agreement to take over the ADC facilities of
+Sundaram Clayton Limited will keep its revenue share from ADC business higher in the near to medium term. To mitigate
+potential risks from vehicle electrification, STL (through its subsidiary) has made investments towards designing and
+manufacturing motor controllers, battery chargers and DC converters, sales of which are expected to commence in the near
+term.
+Comfortable financial profile - STL’s financial profile is comfortable and is supported by strong revenue growth, earnings and
+cash flows in the last five years. The company’s revenue growth and earnings are likely to remain strong going forward amid a
+favourable demand outlook (especially 2W) and STL’s focus on increasing content per vehicle, new product additions and
+business collaborations. The consolidated capex during FY2022-24 was over Rs. 800 crore towards capacity additions and new
+product developments, and ~Rs. 173.0 crore was spent towards setting up new plants and upgradation of plants in YTD FY2025.
+The benefits of the capex spend and investments are likely to accrue going forward with the ramp-up of operations. STL’s
+liquidity profile is adequate, which is supported by stable cash flow from operations and large undrawn working capital lines.
+Credit challenges
+Concentration risks related to product and segments - While STL has an established presence in PV and off-highway vehicle
+segments, the 2W segment constitutes a major part of revenues (~60%). It is noted that STL has outgrown the industry in
+recent years, led by its wide product offerings, new customer additions and high wallet share with customers. Nevertheless, a
+high concentration in the 2W segment exposes its earnings to any sharp slowdown in the segment. STL is also exposed to
+moderate customer concentration risk, with its two customers, HMCL and TVS, contributing over 50% of its revenues. The
+moderate client and segment customer concentration risk is mitigated to an extent by the reputed client profile, which holds
+a dominant market share, strong share of business enjoyed by STL with the OEMs and long-term associations.
+Vulnerability to earnings to competition, raw material price movements and foreign exchange fluctuations – STL’s margins
+are susceptible to any major price variations of raw materials (steel, aluminium, zinc). However, improved operating leverage,
+negotiation-based pass-throughs and periodic cost-optimisation measures have historically capped the moderation in margins,
+and these are likely to continue going forward. The margins are also susceptible to any unfavourable movements in forex, by
+virtue of its overseas operations and foreign currency loans.
+Moderate return and debt indicators amid large capex and investments in recent years - In the last few years, STL has incurred
+significant debt-funded capex and investments in new businesses as well as its overseas subsidiary, the returns from which are
+expected over the medium term. This has led to lower RoCE levels (12.5% in FY2024) and moderation in its debt protection
+metrics (total debt to operating profits at ~2.2x in FY2025e as against ~1.5x in FY2022 and interest cover at 6.5x in FY2025e as
+against over 10x in FY2022). The indicators are likely to improve in the near to medium term with likely improvement in
+earnings and cash flows.
+Environmental and social risks
+Environmental considerations – STL, being an auto component supplier, remains exposed to climate transition risks because
+of its automotive OEM customer’s manufacturing products being used across different fuel power trains. Accordingly, the
+company’s prospects remain linked to the ability of its customers to meet tightening emission requirements. The company is
+exposed to stringent environmental regulations regarding waste and pollution norms, which can lead to an increase in
+operating costs and new capacity instalment costs. However, STL has been taking steps to minimise its carbon footprint by
+enhancing its reliance on energy-saving efforts such as the adoption of energy-efficient fixtures/equipment and water
+recycling.
+Social considerations – STL, like most automotive component suppliers, has high dependence on human capital. Attracting
+and nurturing skilled manpower is critical as it seeks to keep pace with innovation and technological changes. Maintaining
+healthy employee relationships and a safe working environment remains essential for disruption-free operations. On the
+product front, vehicle recalls by OEMs because of defective auto parts could create additional cost burdens and liabilities. STL
+is also exposed to changing consumer preferences, including but not restricted to increasing awareness of potential
+environmental damage from emissions, usage of sustainable materials and societal trends like a preference for ridesharing.
+Liquidity position: Adequate
+STL’s liquidity position is adequate, supported by its healthy cash flows, undrawn lines and anticipated healthy accruals from
+the business going forward. The company had unencumbered cash and bank balances of Rs. 35.0 crore. Sandhar has repayment
+obligations of Rs. 27.2 crore in Q4 FY2025, Rs. 104.0 crore in FY2026 and Rs. 82.3 crore in FY2027 on its existing term loans and
+will be supported by its healthy cash profits and collections. In terms of support to subsidiaries and other Group entities, STL
+has been extending standby letter of credit (SBLC) or corporate guarantee on the loans being availed by the investee company.
+STL is expected to provide any need-based support to investee entities and ensure that such entities meet their obligations in
+a timely manner.
+Rating sensitivities
+Positive factors – ICRA may upgrade STL’s long-term rating if it demonstrates a sustained and significant improvement in its
+scale of operations and profitability, along with business diversification, while maintaining debt protection metrics.
+Negative factors – The ratings could witness a downward revision in case of a material impact on the company’s earnings,
+leading to a deterioration in its debt protection metrics. Specific credit metric for downgrade includes total debt / OPBITDA
+increasing to more than 2.3 times at a consolidated level.
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Rating Methodology for Auto Components
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of Sandhar
+Consolidation/Standalone
+Technologies Limited. Details are provided in Annexure-II.
+About the company
+STL is primarily involved in the manufacturing of component products, catering to different auto segments such as 2W, PVs
+and CVs, apart from tractors and off-highway vehicles. The company’s product line includes locking systems, cabin and
+fabrication, sheet metal components, assemblies of vehicle parts, vision systems, etc. Its products also find application in the
+non-auto segments. STL has six subsidiaries as on date, three step-down subsidiaries and a few joint ventures based on target
+markets and scalability of product segments. STL’s operations are carried out from over 40 manufacturing plants across India,
+apart from facilities in Romania, Spain, Poland and Mexico. It also has technical tie-ups and collaborations with entities located
+in Japan, South Korea and Taiwan. STL derives 75% of its revenues from standalone operations, ~15% from overseas
+subsidiaries and the balance from domestic subsidiaries. The promoters held a 70.38% stake in the company as on December
+31, 2024.
+Key financial indicators (audited)
+Consolidated FY2023 FY2024
+Operating income 2,909.1 3,523.0
+PAT 76.4 106.3
+OPBDIT/OI 8.6% 9.7%
+PAT/OI 2.6% 3.0%
+Total outside liabilities/Tangible net worth (times) 1.3 1.4
+Total debt/OPBDIT (times) 2.7 2.2
+Interest coverage (times) 7.0 6.7
+Amount in Rs crore; Source: Company, ICRA Research; Financial ratios in this document are ICRA adjusted figures and may not be directly comparable with
+results reported by the company in some instances; PAT: Profit after Tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation; total
+debt includes lease liabilities
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current rating (FY2025) Chronology of rating history for the past 3 years
+Amount Date & rating in Date & rating in Date & rating in Date & rating in
+Type rated FY2025 FY2024 FY2023 FY2022
+(Rs. crore) March 31, 2025 -
+[ICRA]AA-
+1 Term Loans Long term 150.00 - - -
+(Stable)
+Working Long term/ [ICRA]AA-
+2 585.00 - - -
+Capital facilities Short term (Stable)/ [ICRA]A1+
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Long-term Term Loans Simple
+Long term/short term working capital facilities Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click Here
+Annexure I: Instrument details
+Amount
+ISIN Instrument Name Date of Issuance Coupon Rate Maturity Rated Current Rating and Outlook
+(Rs. crore)
+NA Term loans FY2022-FY2024 5.75%-8.50% FY2027-FY2029 150.00 [ICRA]AA- (Stable)
+[ICRA]AA-
+NA Working Capital facilities NA NA NA 585.00
+(Stable)/[ICRA]A1+
+Source: Company
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Company Name Ownership Consolidation Approach
+Sandhar Technologies Limited 100.00% Rated Entity
+Sandhar Ascast Private Limited 100.00% Full Consolidation
+Sandhar Technologies Barcelona 100.00% Full Consolidation
+Sandhar Engineering Private Limited 100.00% Full Consolidation
+Sandhar Auto Castings Private Limited 100.00% Full Consolidation
+Sandhar Automotive Systems Private Limited 100.00% Full Consolidation
+Sandhar Auto Electric Solutions Private Limited 100.00% Full Consolidation
+Sandhar Han Sung Technologies Private Limited 50.00% Equity Method
+Jinyoung Sandhar Mechatronics Private Limited 50.00% Equity Method
+Sandhar Whetron Electronics Private Limited 50.00% Equity Method
+Sandhar Amkin Industries Private Limited 50.00% Equity Method
+Kwangsung Sandhar Technologies Private Limited 50.00% Equity Method
+Sandhar Han Shin Auto Technologies Private Limited 50.00% Equity Method
+Winnercom Sandhar Technologies Private Limited 50.00% Equity Method
+Source: Company
+ANALYST CONTACTS
+Shamsher Dewan K. Srikumar
++91 124 4545 328 +91 44 4596 4318
+shamsherd@icraindia.com ksrikumar@icraindia.com
+Vinutaa S Nilesh Kumar Jain
++91 44 4596 4305 +91 44 4596 4312
+vinutaa.s@icraindia.com nilesh.jain2@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.

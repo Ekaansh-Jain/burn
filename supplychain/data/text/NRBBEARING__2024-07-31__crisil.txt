@@ -1,0 +1,456 @@
+Rating Rationale
+Rating Rationale
+July 31, 2024 | Mumbai
+NRB Bearings Limited
+Ratings reaffirmed at 'CRISIL AA-/Stable/CRISIL A1+'; Rated amount enhanced for Bank Debt
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.500 Crore (Enhanced from Rs.450 Crore)
+Long Term Rating
+CRISIL AA-/Stable (Reaffirmed)
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Rs.25 Crore Commercial Paper
+CRISIL A1+ (Reaffirmed)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its ‘CRISIL AA-/Stable/CRISIL A1+’ ratings on the bank facilities of NRB Bearings Ltd (NRB). Further, CRISIL Ratings has reaffirmed its ‘CRISIL A1+’ rating on the commercial paper program of the company.
+NRB derives nearly 60-65% of its revenue from domestic automotive (auto) original equipment manufacturers (OEMs), while about 10-12% and 20-25% are derived from domestic aftermarket and export, respectively. During fiscal 2024, the company registered a year
+-on-year revenue growth of 3.4% to Rs 1,094 crore, driven by growth in demand from the domestic auto sector. Growth in revenue remained impacted owing to a fire accident at its plant located in Waluj (Maharashtra). However, the plant is likely to resume operations in the current fiscal. R
+evenue is expected to grow 7-9% over the medium term, driven by focus on components categories fetching higher realisations, technology agnostic products and new products in the electric vehicles segment.
+Operating margin
+marginally declined to 16.5% during fiscal 2024 (from 16.9%) in fiscal 2023) owing to lower absorption of overheads. However,
+NRB has been able to sustain its gross margin at 54-55%,
+led by cost-optimisation measures taken, price hikes and its ability to pass on volatility in input prices.
+The
+margin is expected to remain stable at around 16-17% over the medium term, aided by
+benefit from operating leverage arising out of increasing scale in operations being partly offset by inflationary pressure.
+Financia
+l risk profile, continues to be supported by the management’s efforts to keep debt levels under check, given the cyclical nature of the auto business. Consolidated debt reduced to Rs 173 crore as on March 31, 2024 (from Rs 322 crore a year ago) with the help of sale proceeds from the land parcel located in Thane (Maharashtra). As of result of the debt reduction in fiscal 2024, the total outside liabilities to adjusted networth ratio improved to 0.42 time (from 0.78 time year ago) and is slated to improve fu
+rther with sustained accretion of profits and remain comfortable at 0.3-0.4 time over the medium term. Owing to marginal decline in operating profitability during fiscal 2024, interest cover declined to 8.11 times (11.12 times in fiscal 2023). However, with sustained profitability and reduced debt levels, interest cover should remain above 10 times over the medium term. Further, the company has comfortable liquidity position with cash surplus of Rs 121 crore as on March 31, 2024, and net cash accrual of abo
+ve Rs 120 crore projected for the medium term.
+The ratings continue to reflect NRB’s market leadership in the needle and cylindrical roller bearing segments, diverse customer profile and strong technical expertise. These strengths are partly offset by large working capital requirement, vulnerability to cyclicality in the end-user industry and pricing pressure from OEMs.
+Analytical Approach
+CRISIL Ratings has combined the business and financial risk profiles of NRB Bearings Ltd. and its subsidiarie
+s (including the wholly owned step-down subsidiaries), as all the companies are in the same line of business.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Market leadership in the needle and cylindrical roller bearing segments in India
+:
+The company has an estimated market share of 60% in the needle bearing industry in India, with strong presence in the cylindrical roller, special tapered roller and special ball bearings segments. This is aided by the promoters’ extensive industry experience, robust in-house research and development facilities and strong client relationships.
+Diverse customer profile
+:
+NRB has longstanding relationships with Indian and global auto OEMs and Tier-I vendors. It has customers across multiple segments, including two-wheelers, commercial vehicles, passenger cars, utility vehicles, farm equipment and tractors, off-highway vehicles, railways and defense. Domestic OEMs contributed the most to its revenue (about 60-54%) in fiscal 2024, while aftermarket and export sales contributed the rest. Despite the large proportion of revenue from OEMs, no single customer with its Tier-1 suppl
+ier accounts for more than 7% of the total revenue, thereby limiting customer concentration risk.
+Strong technical expertise
+:
+NRB has been operating in India for over six decades and has over time built strong technical expertise and knowhow covering the full range of bearing design, from conception to software-aided simulation, testing, validation, benchmarking and production. The product range spans over 3,000 designs, which are also made to suit its customer requirements. In fiscal 2000, NRB established a dedicated engineering and design centre.
+In addition, there is another centre that focusses on process engineering at the pl
+ant site in Waluj Maharashtra Industrial Development Corporation. Besides, its plants use automated production and assembly machinery designed in-house, reflecting the strong technical capabilities of its team.
+Healthy financial risk profile
+:
+The financial risk profile is supported by healthy networth of Rs 871 crore and moderate gearing of 0.2 time as on March 31, 2024, as against Rs 678 crore and 0.47 time, respectively, a year ago. Other key credit metrics i.e. interest coverage ratio though declined to 8.1 times during fiscal 2024 (11.1 times during fiscal 2023) still remains healthy. These metrics are expected to remain healthy over the medium term, given better cash accrual.
+Weaknesses
+:
+Large working capital requirement
+:
+Due to the just-in-time delivery to OEMs and
+large number of product stock keeping units across more than 500 products, inventory is high at 120-170 days. Furthermore, payment terms from the auto component manufacturers vary from 60-90 days, resulting in receivables of ~60-90 days. Also, the
+company imports around 60-70% of the key raw material (steel) from Europe (mainly Germany), Japan and other countries. Considering a transit time of 90 days and to avoid the impact of supply chain issues arising out of
+geopolitical issues, the company is required to stock up a huge inventory.
+Vulnerability to cyclical demand in the auto bearings segment and to pricing pressure from OEMs
+:
+High dependence of bearing manufacturers on the auto sector exposes them to cyclicality in demand. While bearing manufacturers enjoy reasonable pricing flexibility with OEMs, backed by mutual interdependence, and capital and technology intensity of operations, price negotiations happen with a lag, leading to price adjustment delays and impact on profitability in the interim. Furthermore, if there is a prolonged slowdown and decreasing demand for auto, it is not always possible for OEMs to completely pass on
+input price increase to end users. Hence, any significant hike in prices is absorbed jointly by suppliers and OEMs. Additionally, any significant decline in demand will lead to under-absorption of overheads, and hence, impact profitability of component suppliers.
+Liquidity
+: Strong
+Cash accrual is projected at Rs 120-140 crore per annum, sufficient to meet modest capital expenditure (capex) needs and minimal debt repayments over the medium term. Liquidity is also supported by cash surplus of Rs 121 crore as on March 31, 2024. Further, the fund-based working capital limit of Rs 397 crore was utilised at about 25% for the six months ended May 30, 2024. The buffer in the form of unutilised limit of Rs ~150-200 crore provides sufficient cushion in case of exigencies.
+Outlook
+:
+Stable
+NRB’s strong business risk profile will sustain with growth in demand from the auto industry, sustained profitability margin resulting in higher cash accrual. The financial risk profile is also expected to remain healthy due to prudent funding of capex and steady cash accrual.
+Rating Sensitivity factors
+Upward
+factor
+s
+Significant increase in scale of operations while maintaining operating margin, leading to return on capital employed ratio improving to over 16-18% on a sustained basis
+Sustenance of healthy financial and liquidity risk profiles
+Downward
+factors
+Decline in revenues or deterioration of operating margin to below 15% on a sustained basis.
+Sizeable stretch in the working capital or debt-funded capex/inorganic expansion leading to deterioration in capital structure,
+with gearing above 1 time on a sustained basis
+About the Company
+Founded by late Mr Trilochan Singh Sahney in 1965, NRB manufactures needle, cylindrical, special ball, and taper-roller bearings. It also makes other friction solution components such as planetary shafts, crank pins and kingpins. The company has four subsidiaries: NRB Holdings Ltd (holding company of NRB Bearings Europe GmbH, and NRB Bearings USA Inc), SNL Bearings Ltd (SNL), NRB Bearings (Thailand) Ltd, NRB's manufacturing facilities are at Thane, Aurangabad, Jalna, and Waluj in Maharashtra; Hyderabad; and
+Pantnagar in Uttarakhand. SNL's facility is at Ranchi in Jharkhand, while NRB Thailand's plant is at Rayong in Thailand. The product engineering centre at Turbhe (Maharashtra) and process and advanced materials-based engineering centre at Waluj are government accredited.
+Ms Harshbeena S Zaveri, daughter of Mr Trilochan Singh Sahney, is the vice chairman and managing director of NRB and the chairman of the board of SNL.
+Key Financial Indicators
+-
+(NRB - consolidated)
+Particulars
+Unit
+2024
+2023
+Revenue
+Rs crore
+1094
+1058
+Profit after tax (PAT)
+Rs crore
+242
+96
+PAT margin
+%
+22.1
+9.1
+Adjusted debt/adjusted networth
+Times
+0.20
+0.47
+Interest coverage
+Times
+7.75
+11.12
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of Instrument
+Date of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs Cr)
+Complexity Levels
+Rating Assigned with Outlook
+NA
+Cash Credit
+NA
+NA
+NA
+50
+NA
+CRISIL AA-/Stable
+NA
+Cash Credit
+&
+NA
+NA
+NA
+75
+NA
+CRISIL AA-/Stable
+NA
+Cash Credit
+^
+NA
+NA
+NA
+80
+NA
+CRISIL AA-/Stable
+NA
+Cash Credit
+%
+NA
+NA
+NA
+25
+NA
+CRISIL AA-/Stable
+NA
+Cash Credit
+%
+NA
+NA
+NA
+67
+NA
+CRISIL AA-/Stable
+NA
+Cash Credit
+#
+NA
+NA
+NA
+75
+NA
+CRISIL AA-/Stable
+NA
+Proposed Short Term Bank Loan Facility
+NA
+NA
+NA
+58
+NA
+CRISIL A1+
+NA
+Working Capital Demand Loan
+@
+NA
+NA
+NA
+70
+NA
+CRISIL AA-/Stable
+NA
+Commercial paper
+NA
+NA
+7-365 days
+25
+Simple
+CRISIL A1+
+& - Interchangeable with buyer's credit (BC), export packing credit (EPC), bill discounting (BD), letter of credit (LC), and bank guarantee (BG)
+^ - Interchangeable with cash credit, WCDL/foreign currency non-repatriable (FCNR)/EPC/BC
+% - Interchangeable with working capital demand loan (WCDL) /LC/standby letter of credit/guarantee/EPC
+# - Interchangeable with WCDL, EPC, LC/BC, and capex BC
+@ - Interchange
+able with FC WCDL, EPC/PCFC, PSFC/FBD/FBP up to Rs. 70 crore, cash credit up to Rs. 25 crore
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+SNL Bearings
+73.45%
+Subsidiary
+NRB Holdings Ltd, UAE
+Full
+Wholly owned subsidiary
+NRB Bearings (Thailand) Ltd*
+Full
+Wholly owned step down subsidiary
+NRB Bearings Europe GmbH*
+Full
+Wholly owned step down subsidiary
+NRB Bearings USA Inc*
+Full
+Wholly owned step down subsidiary
+*Step down subsidiaries
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT/ST
+500.0
+CRISIL A1+ / CRISIL AA-/Stable
+15-01-24
+CRISIL A1+ / CRISIL AA-/Stable
+06-11-23
+CRISIL A1+ / CRISIL AA-/Stable
+08-03-22
+CRISIL AA-/Stable
+31-08-21
+CRISIL AA-/Stable
+CRISIL AA-/Negative
+--
+--
+06-03-23
+CRISIL AA-/Stable
+--
+--
+--
+Non-Fund Based Facilities
+ST
+--
+--
+--
+--
+--
+--
+Commercial Paper
+ST
+25.0
+CRISIL A1+
+15-01-24
+CRISIL A1+
+06-11-23
+CRISIL A1+
+08-03-22
+CRISIL A1+
+31-08-21
+CRISIL A1+
+CRISIL A1+
+--
+--
+06-03-23
+CRISIL A1+
+--
+--
+--
+Non Convertible Debentures
+LT
+--
+--
+--
+08-03-22
+Withdrawn
+31-08-21
+CRISIL AA-/Stable
+Withdrawn
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Cash Credit
+25
+HSBC Bank Plc
+CRISIL AA-/Stable
+Cash Credit
+&
+75
+ICICI Bank Limited
+CRISIL AA-/Stable
+Cash Credit
+^
+80
+HDFC Bank Limited
+CRISIL AA-/Stable
+Cash Credit
+25
+HSBC Bank Plc
+CRISIL AA-/Stable
+Cash Credit
+%
+25
+Citibank N. A.
+CRISIL AA-/Stable
+Cash Credit
+%
+67
+Citibank N. A.
+CRISIL AA-/Stable
+Cash Credit
+#
+75
+DBS Bank Limited
+CRISIL AA-/Stable
+Proposed Short Term Bank Loan Facility
+58
+Not Applicable
+CRISIL A1+
+Working Capital Demand Loan
+@
+70
+Kotak Mahindra Bank Limited
+CRISIL AA-/Stable
+& - Interchangeable with buyer's credit (BC), export packing credit (EPC), bill discounting (BD), letter of credit (LC), and bank guarantee (BG)
+^ - Interchangeable with cash credit, WCDL/foreign currency non-repatriable (FCNR)/EPC/BC
+% - Interchangeable with working capital demand loan (WCDL) /LC/standby letter of credit/guarantee/EPC
+# - Interchangeable with WCDL, EPC, LC/BC, and capex BC
+@ - Interchangeable with FC WCDL, EPC/PCFC, PSFC/FBD/FBP up to Rs. 70 crore, cash credit up to Rs. 25 crore
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Anuj Sethi
+Senior Director
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+CRISIL Ratings Limited
+D:
++91 22 6172 3385
+poonam.upadhyay@crisil.com
+Kunal Mehta
+Rating Analyst
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+Kunal.Mehta@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by CRISIL Ratings Limited ('CRISIL Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings provision or intention to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+CRISIL Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, CRISIL Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall CRISIL Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of CRISIL Ratings and CRISIL Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of CRISIL Ratings.
+CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by CRISIL Ratings. CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html.  Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and https://www.ratingsanalytica.com (free of charge). CRISIL Ratings shall not have the obligation to update the information in the CRISIL Ratings report following its publication although CRISIL Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by CRISIL Ratings are available on the CRISIL Ratings website, www.crisilratings.com. For the latest rating information on any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

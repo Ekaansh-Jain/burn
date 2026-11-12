@@ -1,0 +1,572 @@
+Rating Rationale
+Rating Rationale
+October 16, 2024 | Mumbai
+Craftsman Automation Limited
+Ratings reaffirmed at 'CRISIL AA-/Stable/CRISIL A1+'
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.2300 Crore
+Long Term Rating
+CRISIL AA-/Stable (Reaffirmed)
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its ‘
+CRISIL AA-/Stable/CRISIL A1+’ rating
+s
+on the bank
+loan
+facilities of Craftsman Automation Ltd (CAL)
+.
+On October 9, 2024, CAL announced that it has completed the acquisition of 100% of the legal and beneficial interest of the total securities of Sunbeam Lightweighting Solutions Private Ltd (“SLSPL”) in accordance with the terms of the securities subscription and share purchase agreement (“SSPA”). Also, CAL has subscribed to optionally convertible debentures (OCDs) of Rs.376 crore issued by SLSPL. Earlier on August 5, 2024, CAL had announced that it had executed
+an SSPA with SLSPL and Kedaara Capital Fund II LLP (“Kedaara”), for: (a) acquiring 100% of the legal and beneficial interest of the total securities of SLSPL for Re 1; and (b) subscription to 37.60 crore OCDs, each having a face value of INR 10, aggregating to Rs 376 crore (“transaction”).
+Of Rs 1200 crore (net proceeds of Rs 1176.7 crore) raised by CAL in June, 2024, through qualified institutional placement (QIP), Rs 650 crore was utilized towards debt reduction and acquiring the residual shareholding
+of 24% for Rs 250 crore in DR Axion India Private Ltd (DR Axion, rated CRISIL AA-/Stable/CRISIL A1+), thereby making DR Axion a wholly owned subsidiary of CAL. The remaining funds, earlier earmarked for general corporate purposes, has been utilized along with cash accruals and partial debt to subscribe to the OCDs issued by SLSPL as part of the transaction.
+During June 2024, CAL also acquired INOS 24-004 GmbH (renamed as “Craftsman Germany GmbH”), at a cost of EUR 57,000/- along with its wholly owned subsi
+diary INOS 24-003 GmbH (renamed as “Craftsman Fronberg Guss GmbH”). Through Craftsman Fronberg Guss GmbH, CAL has acquired certain assets of strategic interest located in Schwandorf-Fronberg, Germany, comprising of an iron-casting foundry and related assets in iron casting solutions serving a broad variety of markets and leading customers globally. The assets were earlier owned by Fronberg Guss GmbH (an affiliate entity of Gienanth GmbH) which was undergoing liquidation, while the land was owned by Fronberg
+Guss Immobilien GmbH. Initially, the total cost of acquisition of these specified assets and the shares was estimated at around EUR 5.5mn. However, due to competitive bidding for these assets, the same has increased to EUR 10.00mn. As a result, CAL has invested a total of EUR 10.00mn in Craftsman Germany GmbH towards subscription of equity shares issued by it. In addition to the above, CAL invested over Rs.60 crore for working capital requirements of these entities.
+CAL’s business performance witnessed su
+stained improvement in fiscal 2024, with revenues increasing by 40% on-year, benefitting also from full year contribution from DR Axion, steady demand for components, mainly from original equipment manufacturers (OEMs), and increase in share of business with customers. DR Axion which is the major supplier of cylinder blocks and heads for leading passenger vehicle (PV) OEMs such as
+Hyundai Motor India Ltd (rated ‘CRISIL AAA/Stable/CRISIL A1+), Kia Motors India Private Ltd, and Mahindra & Mahindra Ltd (rated
+‘CRISIL AAA/Stable/CRISIL A1+’).
+The acquisition of DR Axion has helped CAL increase the share of revenue from the PV segment, thereby diversifying the revenue stream among the auto business.
+CAL and DR Axion both operate in the automotive (auto) components space and have strengths in complementary areas.
+CRISIL Ratings expects CAL revenues could increase by over 20% in fiscal 2025 driven by continuing steady double digit revenue growth from its existing businesses, supported by increase in share of busines
+s with existing and new customers, besides new component addition and revenue addition from SLSPL since the date of its acquisition.
+Besides, the company, by way of its established and superior operating efficiencies and expertise in the machined components and die-cast component space continues to register healthy operating profitability. In fiscal 2024, o
+perating profitability dipped to ~20.0% but still remained healthy (21.6% in fiscal 2023), owing to change in product mix, reduced offtake from high mar
+gin CV segment, higher inflation and marginally lower profitability at DR Axion as compared to profitability of CAL on standalone basis. Operating profitability is expected to temporarily fall in fiscal 2025 on account of partial consolidation of SLSPL and also moderate fall in margins on standalone basis due to product mix and lower offtake from the commercial vehicle (CV) segment, nevertheless, the margins are expected to remain healthy at ~14% during this fiscal and improve thereafter from next 2-3 years
+, backed by its cost cutting measures and turnaround plans of SLSPL benefiting overall operating profitability, which will remain a monitorable.
+CAL’s financial risk profile has also strengthened over time, driven by strong annual cash generation, equity proceeds received from its initial public offering which helped lower debt, and prudent funding of its capital expenditure. Consequently, the company’s debt metrics are at comfortable levels, despite sizeable capex of over Rs.600 crores being undertaken in
+fiscal 2024, which was partly debt funded. Gearing was at ~0.91 times at March 31, 2024 (0.82 times at March 31, 2023). Interest coverage ratio was ~5.1 times in fiscal 2024 as compared with ~5.8 times in previous fiscal. However, the ratio of debt to earnings before interest, depreciation, tax and amortization (EBITDA) ratio remained at ~1.7 times in the last two fiscals. For the current fiscal, CAL’s consolidated debt levels are expected to moderately increase to around Rs.2300-2500 crore due to higher c
+apex in CAL and to fund working capital as well as employee voluntary separation scheme (VRS) at SLSPL. This will temporarily impact CAL’s debt metrics with debt to EBITDA increasing to and ~2.7-2.9 times, respectively.
+However, the moderation in debt metrics is expected to be only temporary, as operating profitability at SLSPL is expected to improve gradually from fiscal 2026 onwards, while capex spend overall is also expected to moderate. This along with planned monetization of non-core assets at SLSPL
+will enable CAL to lower debt levels, resulting in debt metrics improving to comfortable levels, with debt to EBITDA expected at ~2.1-2.3 times by fiscal 2026.
+The ratings continue to reflect the strong position of CAL in the auto-engineering contract-manufacturing sector, established diversified customer relationships, healthy operating margin and improving financial risk profile. These strengths are partially offset by large working capital requirement and capital intensive operations, and part vulnerab
+ility of performance to slowdown in the automotive sector.
+Analytical Approach
+CRISIL Ratings has consolidated the business and financial risk profiles of CAL and its subsidiaries
+due to operational and financial linkages between them.
+Goodwill on
+the acquisition of DR Axion is amortized over a period of 5 years commencing from the date of acquisition in fiscal 2023.
+Consequently, reported PAT, net worth and ratio computations are adjusted.
+CRISIL Ratings has also consolidated the business and financial risk profiles of Sunbeam Lightweighting Solutions Private Ltd (SLSPL) on accoun
+t of the acquisition by CAL. The optionally convertible debentures (OCDs) for Rs. 376 crores shall be considered as part of networth
+as the same is expected to remain in the business.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Diversified revenue stream from Auto segment
+:
+CAL is a leading player in the auto-engineering contract-manufacturing sector, with a diversified clientele across industries. It has three business segments: -powertrain (~35% of revenues), aluminium products (~48% of revenues), and industrial and engineering (balance revenues) during fiscal 2024. The powertrain segment caters to CVs, PVs, farm equipment, construction and mining equipment segments of the auto industry. The aluminium products division supplies aluminium components to two-and-four-wheeler an
+d power transmission manufacturers. The industrial and engineering segment offers goods and services such as gears, material handling equipment,
+storage products, special purpose machines and other general engineering products to various industries.
+The addition of capacity, products and customers, and healthy customer relationships led to revenue growth of 40% in fiscal 2024 on account of full year revenue contribution from DR Axion and growth in business segments of CAL. Besides addition of PV OEM customers arising from DR Axion, steady offtake by key customers and increase in business share with leading medium and heavy CV players should aid the maintenance of CAL’s market position over the medium term.
+Besides this, CAL to benefit from the acquisition of SLSPL, as it will significantly expand CAL’s manufacturing footprint in northern & western India in addition to the under construction facility at Bhiwadi, Rajasthan. Also, the acquisition will add new product capabilities in the aluminum segment and to add new customers (Hero MotoCorp Ltd (HMIL, rated ‘CRISIL AAA/Stable/CRISIIL A1+’) and Maruti Suzuki India Ltd (MSIL, rated ‘CRISIL AAA/Stable/CRISIIL A1+’) to CAL including some key export customers in No
+rth America. With the completion of SLSPL acquisition, at consolidated level, the company is expected to achieve steady double digit revenue growth over the medium term.
+Healthy operating efficiency
+:
+Focus on niche products and better technical capabilities, supported by cost-optimisation measures, have supported operating efficiency. Besides, higher margin from machining operations led to a better-than-industry operating margin of over 20% on sustained basis over the past years. As of first quarter of fiscal 2025, profitability fell to 17% as compared to 20% on year on year basis on account of lesser absorption of fixed costs including employee expenses and margin reduction in power train segment on ac
+count of lesser volumes. In fiscal 2024, however, the share of the higher-margin machining business reduced, which along with stable material costs resulted in the operating margin moderating to 19.9
+% in fiscal 2024 from 21.6% in the previous fiscal.
+CAL is continuously undertaking cost-control initiatives through automation, employee base optimization and wastage reduction. With the acquisition of SLSPL, operating margins at consolidated level are likely to fall temporarily to ~14-15% due to operating losses at SLSPL; albeit operating profitability is expected to recover to ~16% from fiscal 2026 with ramp up of operations at CAL’s new plants and gradual improvement in profitability at SLSPL.
+Healthy financial risk profile
+:
+Financial risk profile continues to be healthy and supported by steady cash accrual generating ability. Hence, despite mainly debt funded acquisition of DR Axion, debt protection metrics remain comfortable. Debt, however, increased to Rs.1593 crore at the end of fiscal 2024 as compared with Rs 1172 crore at the end of previous fiscal, primarily for funding the capex of Rs 630 crore during the fiscal; Increase in debt levels has led to gearing rising to ~0.91 times as on March 31, 2024 and interest coverage
+ratio of ~5.1 times for fiscal 2024. However, the Debt to EBITDA ratio remained at ~1.70 times in fiscal 2024, on account of full revenue consolidation of DR Axion. CAL successfully completed fund raising from QIP of Rs 1200 crore (net proceeds of Rs 1176.7 crore) in the month of June 2024 and has utilized the same towards debt reduction of over Rs 650 crore, acquiring the residual shareholding of 24% for Rs 250 crore in DR Axion. The remaining earmarked funds for general corporate purpose were utilized tow
+ards acquisition purposes. Besides this, company at standalone level is in process of implementing capex of ~Rs 800 crore including construction of two greenfield facilities in Kothavadi, Coimbatore and Bhiwandi, Rajasthan, which will be partly debt funded. Debt to EBITDA ratio is expected to moderate to 2.7-2.9 times due to sizeable capex and absorption of SLSPL, and then improve to 2.1-2.3 times from fiscal 2026, due to moderation in capex spend, and turnaround of operations at SLSPL. Any sizeable capex a
+nnounced or acquisitions resulting in elevated debt levels will though remain a monitorable.
+Weaknesses
+:
+Capital-intensive business and large working capital requirement
+:
+Operations are intrinsically capex and working capital intensive. CAL incurred sizeable capex of Rs ~2,800 crore during fiscals 2017-2024 including the fixed asset addition arising out of the acquisition, and in some cases, has set up capex ahead of demand.
+The company has to maintain large inventory, given its customer and product portfolios. Also, with a large clientele and strong export presence, receivables are sizeable and could get stretched during a slowdown; Given the nature of operations, inventory and payable days are also high. Given multiple strategic business units and clients, operations will continue to be working capital intensive, and hence its prudent management remains critical.
+Vulnerability to cyclical trends in automotive sector
+:
+The company caters to the auto, farm equipment, construction and earthmoving equipment, and locomotive industries, demand from which is typically linked to economic activity. It is diversifying into non-auto industries, such as aluminium casting for power transmission and storage solutions, to mitigate the concentration risk. However, the business performance is likely to remain susceptible to sharp slowdown in demand from the auto industry over the medium term, given that the segment will account for over
+75-80% of revenues.
+Liquidity:
+Strong
+CAL’s liquidity position is strong, and benefits from its healthy annual cash generating ability. The company is expected to generate cash accruals of at least ~Rs.500 crore annually, which will more than suffice to meet term debt repayment obligation of ~over Rs 141 crore in fiscal 2025, and Rs 224 crore in fiscal 2026, and part fund capex activities of around Rs 950 crore which is planned across its entities including SLSPL. Further, the company has adequate headroom in the form of unut
+ilised bank limit of Rs 600 crore with average utilization levels of ~62% for 12 months ended August 2024.
+ESG Profile of CAL
+CRISIL Ratings believes that Environment, Social and Governance (ESG) profile of CAL adequately supports its existing strong credit risk profile.
+The auto component sector has a moderate impact on the environment owing to moderate emissions, water consumption and waste generation. The sector’s social impact is also moderate considering the impact of operational activities on the co
+mpany’s own employees. The company is actively focusing on mitigating environmental and social risks.
+Key ESG highlights
+CAL’s energy consumption intensity rose from ~15 to ~17 megajoule per thousand rupee of revenue in fiscal 2024. Further, the share of energy consumed from renewable sources fell marginally to ~22% in fiscal 2024, from ~24% in fiscal 2023.
+Of the company's total Aluminium requirement ~25% was recycled.
+CAL’s lost time injury frequency rate stood at 1.2x in fiscal 2024 which was lower compared with 1.8x in fiscal 2023.
+Its governance structure is characterized by ~67% of its board comprising independent directors, two-woman board directors, dedicated investor grievance redressal system and extensive financial disclosures.
+While there is growing importance of ESG among investors and lenders, the commitment of CAL to ESG principles will play a key role in enhancing stakeholder confidence, given high share of market borrowing in its overall debt and access to both domestic and foreign funds / capital markets.
+Outlook:
+Stable
+CRISIL Ratings believes CAL will benefit from its established market position, strong customer relationship, diversified revenue base from DR Axion and healthy
+operating efficiency, while turnaround of operations of SLSPL and ramp-up of business from upcoming new facilities will remain monitorable. Financial risk profile is expected to further improve over the medium term with higher accruals from its existing businesses due to improved capacity utilization, and well managed
+capex plans, resulting in cont
+inued improvement in debt metrics.
+Rating
+s
+ensitivity factors
+Up
+ward factors:
+Sustained healthy business performance resulting in steady cash generation.
+Prudent capital spending and working capital management, and faster than expected reduction in debt levels, including from equity proceeds raised, leading to improvement in financial risk profile and debt metrics – for instance Debt/EBITDA sustaining at below 1-1.2 times
+Down
+ward factors:
+Significantly weak operating performance impacting annual cash generation
+Large, debt-funded capex or acquisition or significant stretch in working capital requirement, impacting debt metrics; for instance Debt/EBITDA remaining in excess of 2.5-2.75 times
+About the Company
+Incorporated in 1986 in Coimbatore, Tamil Nadu, by Mr S Ravi, CAL manufactures several components and sub-assemblies on supply and job-work basis according to client specifications in the auto, industrial and engineering segments. Key products in the auto segment include power train products, cylinder blocks, cylinder heads, cam shafts and crank cases for CVs, sports utility vehicles, two-wheelers, farm equipment and earthmoving and construction equipment.
+The company also has a non-ferrous sand foundry c
+atering to power transmission equipment manufacturers. Its industrial and engineering segment has a wide range of products, including industrial gears, storage solutions, material handling and locomotive engine components. CAL has a tool room that supplies die for injection moulding and mould base. Moreover, it manufactures special-purpose machines for metal and non-metal cutting.
+The company recently completed fund raising of Rs 1200 crore through qualified institutional placement (QIP) in June 2024. Po
+st which, shareholding of promoters reduced to 48.70% at the end of June 2024 from 54.99% at the end of March 2024.
+The company reported a net profit of Rs. 59.5 crore in the first quarter of fiscal 2025 (Rs. 80.8 crore in the corresponding quarter of fiscal 2024) on net revenues of Rs.1151.6 crores (Rs. 1037.6 crores).
+Key Financial Indicators – Consolidated
+As on / for the period ended March 31*
+Unit
+2024
+2023
+Revenue
+Rs crore
+4452
+3182
+PAT
+Rs crore
+299
+241
+PAT margin
+%
+6.72
+7.59
+Adjusted debt/adjusted net worth
+Times
+0.91
+0.82
+Interest coverage
+Times
+5.13
+5.79
+*CRISIL Ratings adjusted numbers
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of the instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs. Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+NA
+Non-Fund Based Limit
+NA
+NA
+NA
+352
+NA
+CRISIL A1+
+NA
+Working Capital Demand Loan
+NA
+NA
+NA
+600
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Oct-27
+87
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Jan-30
+100
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+30-Nov-29
+50
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Jan-30
+200
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Dec-27
+100
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-May-26
+99
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Oct-24
+96
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Jul-29
+108
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Aug-26
+100
+NA
+CRISIL AA-/Stable
+NA
+Long Term Loan
+NA
+NA
+31-Dec-26
+125
+NA
+CRISIL AA-/Stable
+NA
+Proposed Long Term Bank Loan Facility
+NA
+NA
+NA
+58
+NA
+CRISIL AA-/Stable
+NA
+Proposed Long Term Bank Loan Facility
+NA
+NA
+NA
+225
+NA
+CRISIL AA-/Stable
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+Craftsman Europe B V Netherlands
+Full
+Common management and financial linkages
+DR Axion India Private Limited
+Full
+Common management and financial linkages
+Sunbeam Lightweighting Solutions Private Ltd
+Full
+Common management and financial linkages
+Craftsman Germany GmBH, Germany
+Full
+Common management and financial linkages
+Craftsman Fronberg Guss GmbH, Germany
+Full
+Stepdown sub
+sidiary, Common management and financial linkages
+Craftsman Fronberg Guss Immobilien GmBH, Germany
+Full
+Stepdown subsidiary, Common management and financial linkages
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+1948.0
+CRISIL AA-/Stable
+13-08-24
+CRISIL AA-/Stable
+20-07-23
+CRISIL A1+ / CRISIL AA-/Stable
+06-07-22
+CRISIL A+/Stable / CRISIL A1
+18-06-21
+CRISIL A1 / CRISIL A/Stable
+CRISIL BBB+/Stable / CRISIL A2
+--
+10-05-24
+CRISIL A1+ / CRISIL AA-/Stable
+09-01-23
+CRISIL A+/Positive / CRISIL A1
+--
+--
+--
+Non-Fund Based Facilities
+ST
+352.0
+CRISIL A1+
+13-08-24
+CRISIL A1+
+20-07-23
+CRISIL A1+
+06-07-22
+CRISIL A1
+18-06-21
+CRISIL A1
+CRISIL A2
+--
+10-05-24
+CRISIL A1+
+09-01-23
+CRISIL A1
+--
+--
+Withdrawn
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Long Term Loan
+100
+Indian Overseas Bank
+CRISIL AA-/Stable
+Long Term Loan
+125
+HDFC Bank Limited
+CRISIL AA-/Stable
+Long Term Loan
+108
+Exim Bank
+CRISIL AA-/Stable
+Long Term Loan
+96
+International Finance Corporation
+CRISIL AA-/Stable
+Long Term Loan
+99
+The Federal Bank Limited
+CRISIL AA-/Stable
+Long Term Loan
+200
+The Federal Bank Limited
+CRISIL AA-/Stable
+Long Term Loan
+87
+Axis Bank Limited
+CRISIL AA-/Stable
+Long Term Loan
+50
+Bajaj Finance Limited
+CRISIL AA-/Stable
+Long Term Loan
+100
+Indian Bank
+CRISIL AA-/Stable
+Long Term Loan
+100
+State Bank of India
+CRISIL AA-/Stable
+Non-Fund Based Limit
+60
+RBL Bank Limited
+CRISIL A1+
+Non-Fund Based Limit
+50
+Indian Bank
+CRISIL A1+
+Non-Fund Based Limit
+15
+Standard Chartered Bank Limited
+CRISIL A1+
+Non-Fund Based Limit
+177
+State Bank of India
+CRISIL A1+
+Non-Fund Based Limit
+50
+Axis Bank Limited
+CRISIL A1+
+Proposed Long Term Bank Loan Facility
+225
+Not Applicable
+CRISIL AA-/Stable
+Proposed Long Term Bank Loan Facility
+58
+Not Applicable
+CRISIL AA-/Stable
+Working Capital Demand Loan
+60
+HDFC Bank Limited
+CRISIL AA-/Stable
+Working Capital Demand Loan
+60
+Standard Chartered Bank
+CRISIL AA-/Stable
+Working Capital Demand Loan
+75
+Axis Bank Limited
+CRISIL AA-/Stable
+Working Capital Demand Loan
+175
+State Bank of India
+CRISIL AA-/Stable
+Working Capital Demand Loan
+75
+RBL Bank Limited
+CRISIL AA-/Stable
+Working Capital Demand Loan
+55
+YES Bank Limited
+CRISIL AA-/Stable
+Working Capital Demand Loan
+100
+Indian Bank
+CRISIL AA-/Stable
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Anuj Sethi
+Senior Director
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+DHANASEELAN CHANDRAN
+Manager
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+DHANASEELAN.CHANDRAN@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by CRISIL Ratings Limited ('CRISIL Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings provision or intention to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+CRISIL Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, CRISIL Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall CRISIL Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of CRISIL Ratings and CRISIL Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of CRISIL Ratings.
+CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by CRISIL Ratings. CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). CRISIL Ratings shall not have the obligation to update the information in the CRISIL Ratings report following its publication although CRISIL Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by CRISIL Ratings are available on the CRISIL Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

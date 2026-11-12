@@ -1,0 +1,520 @@
+Rating Rationale
+Rating Rationale
+September 03, 2025 | Mumbai
+Lumax Auto Technologies Limited
+Rating outlook revised to 'Positive'; Ratings Reaffirmed
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.332 Crore
+Long Term Rating
+Crisil AA-/Positive (Outlook revised from 'Stable'; Rating Reaffirmed)
+Short Term Rating
+Crisil A1+ (Reaffirmed)
+Rs.50 Crore Commercial Paper
+Crisil A1+ (Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+Crisil Ratings has revised its rating outlook on the long-term bank facilities of
+Lumax Auto Technologies Ltd
+(
+LATL; part of the Lumax group)
+to
+‘Positive’
+from ‘Stable’, and reaffirmed the rating at
+‘Crisil AA-’
+; the rating on the short-term bank facilities and
+commercial paper programme of the company has been reaffirmed at ‘Crisil A1+’.
+The rating action follows the expectation of sustenance of
+significant improvement in LATL’s revenue in recent years on a standalone basis, and at its subsidiaries and joint venture (JV),
+backed by established relationships with key customers, diversified product and customer mix across majority of the segments, consious shift towards electric vehicle (EV) agnostic and alternat
+e fuel products. This is further supported by the company’s steady operating profitability, which, along with improving scale of operations, is translating into high annual cash generation. This, along with efficient working capital management, has strengthened the financial risk profile.
+These strengths are partially offset by
+susceptibility of operations to demand slowdown in the domestic automotive market and
+moderately high exposure to few original equipment manufacturers (OEMs).
+Crisil Ratings has als
+o taken note of announcement by LATL about acquisition of the
+remaining 25% stake in
+International Automotive Component India Pvt Ltd (IAC India)
+, making it a wholly owned subsidiary; LATL had acquired 75% stake in IAC India at an enterprise value of Rs 587 crore, with the acquisition value of around Rs 435 crore in March 2023. With this, LATL has secured full control of its largest revenue contributing business division to boost free cash and better leverage, which will enable LATL to go for future inorgan
+ic steps. LATL is also considering a merger of IAC India with itself to unlock operational synergies, subject to regulatory and legal approvals.
+On a consolidated basis, the company recorded strong on-year revenue growth of 29% to Rs 3,647 crore in fiscal 2025, driven by high growth witnessed by IAC India on the back of healthy offtake from key OEMs, especially in the passenger vehicle (PV) segment, strong growth in the two- and three-wheeler segment, and scaling up of other JVs and subsidiaries, especiall
+y in areas of safety, emission and comfort requirements in automobiles. Furthermore, during fiscal 2025, LATL acquired
+60% equity stake and controlling interest in Greenfuel Energy Solutions Pvt Ltd (Greenfuel) for its alternate fuels business for an aggregate consideration of Rs 153 crore. This acquisition is effective from November 26, 2024, pursuant to share purchase agreement. This has given the group an entry into the green and alternate fuels segment (across CNG, hydrogen and other applications), whic
+h is expected to witness strong and accelerated growth in the coming years
+.
+Consolidated operating margin was steady at 13.1% in fiscal 2025 compared with 13.6% in fiscal 2024.
+Consolidated revenue is likely to grow 15-20% over the medium term, driven by increasing contribution from the recently acquired Greenfuel, sustenance of healthy growth at subsidiaries and JVs with monetisation of new orders, contribution from existing products such as lighting, automatic gear shifter and sheet metal, and incrementa
+l revenue from new products such as alternate fuels, oxygen sensors; besides strong aftermarket demand. The business risk profile will be supported by diversity in terms of segmental and product profiles and established customer relationships.
+Healthy growth in the aftermarket segment; growth in new subsidiaries (Greenfuel); strong growth in mechatronics category; and steady growth for IAC India should help improvement in operating margin by 100-150 basis points.
+As on March 31, 2025, consolidated debt (in
+cluding leases) for LATL stood at Rs 902 crore (Rs 810 crore as on March 31, 2024) with adjusted net worth improving to Rs 1,273 crore (against Rs 990 crore in fiscal 2024). Despite debt contracted to partly fund the recent acquisition of increased stake in IAC India, overall debt is likely to remain at Rs 850-1,000 crore, factoring in repayment of maturing debt obligation, while moderate annual capital expenditure (capex) of Rs 200 crore will be met through annual accrual of over Rs 350 crore. Adjusted gea
+ring is likely to stabilise below 0.7 time over the medium term, while interest coverage ratio will remain above 7 times. Consolidated cash surplus stood at Rs 322 crore as on March 31, 2025 (Of which around Rs 38 crore is encumbered), supporting liquidity.
+Analytical Approach
+Crisil Ratings has combined the business and financial risk profiles of LATL and its subsidiaries and JVs. The companies, collectively referred to as the Lumax group, are in the same business, under a common management, and have s
+ignificant operational and financial synergies. Goodwill arising from the acquisition of stake in IAC India and Greenfuel has been amortised over five years. Other intangibles arising from the acquisition have been amortised over 10 years.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Established market position and strong relationships with key customers
+:
+LATL has a strong market position in the auto lighting products industry and healthy relationships with key customers, Mahindra & Mahindra (M&M; rated ‘Crisil AAA/Stable/Crisil A1+’), Bajaj Auto Ltd (BAL; Crisil AAA/Stable/Crisil A1+), Maruti Suzuki India Ltd (MSIL; ‘Crisil AAA/Stable/Crisil A1+’) and Honda Motors & Scooters India. The group supplies two- and three-wheeler lighting products and two-wheeler chassis to BAL, and four-wheeler gear shift assemblies to MSIL, Toyota Motor Corporation, Honda Motor
+Company, and Renault-Nissan. To diversify its product offerings, the group is also supplying swing arms for two-wheelers and trailing arms for three-wheelers. A network of over 400 distributors across India for aftermarket sales strengthens the business risk profile. Moreover, the group continues to pursue JVs to augment product profiles and expand geographically. Additionally, the acquisition of IAC India has enhanced the product portfolio of LATL, enabling supply of integrated solutions to its clientele,
+which will increase the content supplied per vehicle.
+After the acquisition, at a consolidated level, dependence on the two-wheeler segment has come down from 43% in fiscal 2022 to 22% in fiscal 2025, while the revenue share of the PV segment has risen from 20% in fiscal 2022 to 53% in fiscal 2025.
+Steady operating profitability
+:
+Polypropylene (PP), the main raw material used for making plastic powder, is a downstream petrochemical product. Hence, the price of PP is directly linked to crude oil rates, which are highly volatile. Also, steel prices have been volatile in the past 4-5 years.
+As most customers are OEMs, the group does not have the cushion to fully pass on increase in input rates as prices are revised annually. However, due to benefits of scale and improving product mix, the company has been able to stabilise its operatin
+g profitability at a healthy 13-13.5% in recent years. Management intent is to further improve the operating profitability to ~20% in long term by enhancing the share of value-added products in its mix, and also with benefits of sizeable scale of operations.
+Healthy financial risk profile
+:
+Financial risk profile is healthy despite the debt-funded acquisitions, which led to higher-than-expected borrowings (Rs 902 crore, including lease liabilities as on March 31, 2025, compared with ~Rs 810 crore as on March 31, 2024). Still, debt protection metrics improved in fiscal 2025, driven by steady profitability, as indicated by interest coverage ratio of 6.23 times and net cash accrual to adjusted debt ratio of 0.35 time, against 5.78 times and 0.29 time, respectively, for fiscal 2024. The ratio of n
+et debt/earnings before interest, tax, depreciation and amortisation (Ebitda), however, deteriorated to 1.35 times in fiscal 2025 from 1.14 times in fiscal 2024. With progressive debt repayment, moderate capex needs and efficient working capital management, debt levels are expected to remain at Rs 800-1,000 crore, supported by healthy annual accrual of over Rs 350 crore. Interest coverage ratio is expected to rise to over 7 times, and gearing settle under 0.7 time over the medium term. The ratio of net debt
+/Ebitda is expected to witness steady improvement as well.
+LATL’s management has announced its intent to increase revenue to Rs 11,000 crore by fiscal 2031 through a mix of organic and inorganic growth. The company has made a few acquisitions in the recent past, which have helped to scale up revenue and cash flow. Sizeable debt funding of large acquisitions in the future, and its impact on the financial risk profile and debt metrics will bear watching.
+Weaknesses
+:
+Susceptible to demand slowdown in the domestic automotive market, in keeping with its cyclical nature
+:
+LATL supplies automotive components to OEMs in the domestic market, which accounts for a sizeable portion of its revenue. It also derives 11-15% of the revenue from the aftermarket. On the other hand, exports, which typically enjoy higher margin, remain minimal. This exposes the company’s topline to demand slowdown in the domestic automotive market and intense pricing pressure in the competitive aftermarket. That said, with new business wins from key OEMs and with ramp up of operations at subsidiaries and J
+Vs, the company has managed to outperform the overall automotive component sector in terms of revenue growth.
+On a steady state basis, given its high dependence on the domestic market, LATL’s ability to continuously enhance share of business with existing OEMs and add new customers, as well as enhance its product basket, will be critical to drive sustained revenue growth and derisk its operations from the cyclical nature of domestic automotive demand.
+Exposure to customer concentration risk
+:
+Acquisition of IAC India has enhanced the revenue profile of the Lumax group, with a higher contribution from M&M thereby reducing reliance on BAL. However, these two customers still contribute 40-45% to the overall revenue. Despite strong customer relationships, revenue and profitability are vulnerable to any change in the business plans of key clients. As a strategic partner to M&M and BAL, the Lumax group is prone to face fluctuations in demand on an ongoing basis. This may lead to volatility in revenue
+and margin, especially when capacity is underutilised.
+Liquidity
+:
+Strong
+Consolidated cash surplus stood at Rs 322 crore (of which around Rs 38 crore is encumbered) as on March 31, 2025, and, along with healthy annual accrual of over Rs 350 crore, supports overall liquidity. Working capital limit of ~Rs 300 crore (on a standalone basis), was highly utilised, at an average of around 90% over the six months through June 2025. The group has an annual long-term debt obligation of Rs 100-150 crore starting fiscal 2026 and plans to incur capex of Rs 200 crore per annum. C
+ash accrual should suffice to fund the debt obligation and capex, while incremental working capital needs would be met via bank debt.
+Outlook
+:
+Positive
+Crisil Ratings believes the revenue of LATL will continue to grow at healthy double digits over the medium term, supported by its diversified product mix, established clientele and increasing contribution from subsidiaries. The company is also expected to maintain steady operating profitability. Healthy cash accrual and progressive debt repayment will help gradual improvement in debt metrics over the medium term.
+Rating
+s
+ensitivity factors
+Upward
+factors:
+Sustained double digit growth
+in revenue and maintenance of healthy operating margin leading to steady cash generation and healthy return on capital employed
+Sustenance of healthy financial risk profile and debt protection metrics; for instance net debt/Ebitda being maintained below 1.25-1.50 times on steady state basis
+Downward
+factors:
+Moderation in revenue and operating margin (below 9-10%) impacting cash generation
+Large debt-funded capex for acquisition or substantial investment in unrelated ventures limiting the envisaged improvement in debt metrics
+About the Company
+The Lumax group is part of the DK Jain group of companies.
+LATL was incorporated in 1981, as Lumax Auto Electricals Pvt Ltd, and renamed Dhanesh Auto Electricals Pvt Ltd in 1988 and Dhanesh Auto Electricals Ltd in 1998. The company got its current name in 2006. LATL has divisions catering to lighting systems; and sheet metal components, gear shifters and moulded parts. Lighting products (head lamps, tail lamps, and blinkers) are manufactured in Pune, sheet metal components (mainly chassi
+s for BAL's two-wheelers) in Aurangabad and moulded parts (for Honda Motorcycle & Scooter India Pvt Ltd) in Bengaluru. The company's aftermarket division (domestic and export) trades in auto components such as lightings, accessories, and audio and navigation systems.
+Lumax DK Auto Industries Ltd (LDK), incorporated in 1997, is a wholly owned subsidiary of LATL and was merged with the latter in December 2018. The company manufactures auto components, including gear shifter assemblies, head and tail lamp ass
+emblies, moulded parts, and parking brakes. The bulk of revenue comes from the supply of lighting products and moulded parts to BAL, and the remaining from gear shifter assemblies and parking brakes for MSIL. Manufacturing plants are in Pantnagar (Uttarakhand) and Manesar (Haryana).
+The gear shifter business was demerged, effective April 2014, into Lumax Mannoh Allied Technologies Ltd (LMAT),
+the 55% subsidiary which manufactures manual, AMT and automatic gear shifter system, head and tail lamp assemblies
+, moulded parts, and parking brakes. Exports business of automatic gear shifters for a global platform is on track and is performing well, we are also working in tandem with the JV partner, Mannoh Industrial Co Ltd, Japan.
+­
+­
+, to increase our reach to newer markets.
+IAC India
+is a tier-1 interior systems and components supplier to key automotive OEMs, including M&M, MSIL, Volkswagen India and Volvo Eicher Commercial Vehicles, among others. IAC India recently become 100% subsidiary of LATL has acquired the
+India business of IAC through LIVE effective March 2023
+Lumax Cornaglia Auto Technologies Pvt Ltd (LCAT) is a 50:50 JV between LATL and Officine Metallurgiche G Cornaglia, SpA, Italy, through the Italian company's subsidiary, Cornaglia Metallurgical Products India Pvt Ltd. The JV commenced operations in fiscal 2008 and manufactures and supplies air-intake systems and
+urea tanks. It commands 100% share of business with Volkswagen and Tata Motors
+. The manufacturing facilities are in Pune.
+Lumax Management
+Services Pvt Ltd (LMSPL), 100% subsidiary of LATL provides corporate support services to the DK Jain group of companies. The company provides services such as SAP-ERP support, IT/ITES, skill development and human resource support services to LATL and LIL.
+Lumax FAE Technologies Pvt Ltd was established in July 2017, by LATL and FAE to manufacture oxygen sensors for the Indian auto industry, with LATL owning 84% and FAE, 16%. The facility at Manesar will have capacity to manufacture 2.5 million oxygen sensor
+s.
+Lumax Ituran Telematics Pvt Ltd is a 50:50 JV between LATL and Ituran, Israel. It was formed in fiscal 2017, to produce telematics products and
+has successfully commenced supply of telematics parts to Daimler India in fiscal 2024.
+Set up in September 2021, Lumax Alps Alpine India Pvt Ltd(LAAIPL) is a 50% subsidiary of LATL, with the balance stake held by Alps Alpine Corporation Ltd, Japan. LAAIPL will manufacture and sell electric devices and components, including software related to the auto industry
+.
+Lumax Yokowo Technologies Pvt Ltd (LYTPL) is a subsidiary of LATL established in February 2020. LATL holds 50% while the rest is held by Yokowo Company, Japan. LYTPL manufactures antennas and other communication products.
+Lumax JOPP Allied Technologies Pvt Ltd (LJATPL) was set up in April 2019, in collaboration with JOPP, Germany, to manufacture transmission products. LJATPL holds 50% in LJOPP and JOPP holds the remaining.
+Lumax Ancilliary Ltd was incorporated in 1982, 100% subsidiary of LATL. The Delh
+i-based company is a leading manufacturer of wire harness signaling equipment and control cables and supplies to major OEMs such as MSIL, Honda, Tata Motors, BAL, M&M etc. The manufacturing facilities are in Bhiwadi, Chakan and Rudrapur.
+Lumax Auto Technologies has acquired a 60% stake in Greenfuel Energy Solutions' alternate fuels business to enter the growing green and alternate fuels market, particularly for CNG and hydrogen systems, major customers are MSIL & TATA.
+Key Financial Indicators
+As on / for the period ended March 31
+2025
+2024
+Revenue
+Rs Crore
+3,647
+2,837
+Reported profit after tax (RPAT)
+Rs Crore
+229
+167
+PAT margin
+%
+6.3
+4.5
+Adjusted debt/adjusted Networth
+Times
+0.71
+0.82
+Interest coverage
+Times
+6.23
+5.78
+Crisil Ratings-adjusted numbers
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name Of Instrument
+Date Of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs. Crore)
+Complexity Levels
+Rating Outstanding with Outlook
+NA
+Commercial Paper
+NA
+NA
+7 to 365 days
+50.00
+Simple
+Crisil A1+
+NA
+Cash Credit
+&
+NA
+NA
+NA
+90.00
+NA
+Crisil AA-/Positive
+NA
+Non-Fund Based Limit
+NA
+NA
+NA
+15.00
+NA
+Crisil AA-/Positive
+NA
+Working Capital Demand Loan
+NA
+NA
+NA
+10.00
+NA
+Crisil A1+
+NA
+Working Capital Demand Loan
+#
+NA
+NA
+NA
+30.00
+NA
+Crisil AA-/Positive
+NA
+Long Term Bank Facility
+NA
+NA
+09-Mar-29
+75.00
+NA
+Crisil AA-/Positive
+NA
+Long Term Bank Facility
+NA
+NA
+09-Mar-29
+50.00
+NA
+Crisil AA-/Positive
+NA
+Proposed Long Term Bank Loan Facility
+NA
+NA
+NA
+62.00
+NA
+Crisil AA-/Positive
+& -  Interchangeable with working capital demand loan
+# - interchangeable with cash credit
+Annexure – List of entities consolidated
+Entity consolidated
+Extent of consolidation
+Rationale for consolidation
+Lumax Mannoh Allied Technologies Ltd (LMAT)
+Full
+Business synergies, common management
+Lumax Cornaglia Auto Technologies Pvt Ltd (LCAT)
+Full
+Business synergies, common management
+Lumax FAE Technologies Pvt Ltd (LFAE)
+Full
+Business synergies, common management
+Lumax Jopp Allied Technologies Pvt Ltd (LJAT)
+Full
+Business synergies, common management
+Lumax Yokowo Technologies Pvt Ltd (LYTL)
+Full
+Subsidiary
+Lumax Ituran Telematics Pvt Ltd (LITPL)
+Full
+Business synergies, common management
+Lumax Alps Alpine India Pvt Ltd (LAIPL)
+Full
+Business synergies, common management
+Lumax Management Services Pvt Ltd (LMS)
+Full
+Business synergies, common management
+Lumax Ancillary Ltd
+Full
+Business synergies, common management
+IAC International Automotive India Pvt Ltd (IAC)
+Full
+Majority shareholding; business synergies
+Greenfuel Energy Solutions Pvt Ltd (Greenfuel)
+Full
+Majority shareholding; business synergies
+Annexure - Rating History for last 3 Years
+Current
+2025 (History)
+2024
+2023
+2022
+Start of 2022
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT/ST
+317.0
+Crisil AA-/Positive / Crisil A1+
+--
+03-09-24
+Crisil AA-/Stable / Crisil A1+
+15-05-23
+Crisil AA-/Stable
+30-11-22
+Crisil A+/Positive
+Crisil A+/Stable
+--
+--
+31-01-24
+Crisil AA-/Stable / Crisil A1+
+28-02-23
+Crisil AA-/Stable
+28-03-22
+Crisil A+/Positive
+--
+Non-Fund Based Facilities
+LT
+15.0
+Crisil AA-/Positive
+--
+03-09-24
+Crisil AA-/Stable
+15-05-23
+Crisil AA-/Stable
+30-11-22
+Crisil A+/Positive
+Crisil A+/Stable
+--
+--
+31-01-24
+Crisil AA-/Stable
+28-02-23
+Crisil AA-/Stable
+28-03-22
+Crisil A+/Positive
+--
+Commercial Paper
+ST
+50.0
+Crisil A1+
+--
+03-09-24
+Crisil A1+
+15-05-23
+Crisil A1+
+30-11-22
+Crisil A1+
+Crisil A1+
+--
+--
+31-01-24
+Crisil A1+
+28-02-23
+Crisil A1+
+28-03-22
+Crisil A1+
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Cash Credit
+&
+10
+Citibank N. A.
+Crisil AA-/Positive
+Cash Credit
+&
+10
+HDFC Bank Limited
+Crisil AA-/Positive
+Cash Credit
+&
+20
+YES Bank Limited
+Crisil AA-/Positive
+Cash Credit
+&
+50
+ICICI Bank Limited
+Crisil AA-/Positive
+Long Term Bank Facility
+75
+Kotak Mahindra Bank Limited
+Crisil AA-/Positive
+Long Term Bank Facility
+50
+Kotak Mahindra Investments Limited
+Crisil AA-/Positive
+Non-Fund Based Limit
+15
+HDFC Bank Limited
+Crisil AA-/Positive
+Proposed Long Term Bank Loan Facility
+62
+Not Applicable
+Crisil AA-/Positive
+Working Capital Demand Loan
+10
+CTBC Bank Co Limited
+Crisil A1+
+Working Capital Demand Loan
+#
+30
+Kotak Mahindra Bank Limited
+Crisil AA-/Positive
+& -  Interchangeable with working capital demand loan
+# - interchangeable with cash credit
+Criteria Details
+Links to related criteria
+Basics of Ratings (including default recognition, assessing information adequacy)
+Criteria for consolidation
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios)
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Kartik Behl
+Media Relations
+Crisil Limited
+M: +91 90043 33899
+B: +91 22 6137 3000
+kartik.behl@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+Anuj Sethi
+Senior Director
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+Crisil Ratings Limited
+B:
++91 22 6137 3000
+poonam.upadhyay@crisil.com
+Kunal Mehta
+Senior Rating Analyst
+Crisil Ratings Limited
+B:
++91 22 6137 3000
+kunal.mehta@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings shall have no liability, whatsoever, with respect to any copies, modifications, derivative works, compilations or extractions of any part of this [report/ work products], by any person, including by use of any generative artificial intelligence or other artificial intelligence and machine learning models, algorithms, software, or other tools. Crisil Ratings takes no responsibility for such unauthorized copies, modifications, derivative works, compilations or extractions of its [report/ work products] and shall not be held liable for any errors, omissions of inaccuracies in such copies, modifications, derivative works, compilations or extractions. Such acts will also be in breach of Crisil Ratings’ intellectual property rights or contrary to the laws of India and Crisil Ratings shall have the right to take appropriate actions, including legal actions against any such breach.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

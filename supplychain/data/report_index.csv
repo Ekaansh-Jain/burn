@@ -1,0 +1,474 @@
+symbol,date,agency,url,file,status,chars
+ASAL,2025-05-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_May 30_ 2025_RR_368653.html,data/text/ASAL__2025-05-30__crisil.txt,200,27593
+ASAL,2022-10-12,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_October 12, 2022_RR_302764.html",data/text/ASAL__2022-10-12__crisil.txt,200,22263
+ASAL,2023-12-22,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_December 22, 2023_RR_333706.html",data/text/ASAL__2023-12-22__crisil.txt,200,24227
+ASAL,2025-03-21,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_March 21_ 2025_RR_362573.html,data/text/ASAL__2025-03-21__crisil.txt,200,25835
+ASAL,2023-09-29,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_September 29, 2023_RR_310492.html",data/text/ASAL__2023-09-29__crisil.txt,200,25352
+ASAL,2026-06-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AutomotiveStampingsandAssembliesLimited_June 16_ 2026_RR_392082.html,data/text/ASAL__2026-06-16__crisil.txt,200,31149
+ASKAUTOLTD,2026-07-31,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_July 31_ 2026_RR_400943.html,data/text/ASKAUTOLTD__2026-07-31__crisil.txt,200,27210
+ASKAUTOLTD,2024-08-21,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_August 21_ 2024_RR_350527.html,data/text/ASKAUTOLTD__2024-08-21__crisil.txt,200,10167
+ASKAUTOLTD,2026-05-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_May 28_ 2026_RR_396932.html,data/text/ASKAUTOLTD__2026-05-28__crisil.txt,200,15722
+ASKAUTOLTD,2025-09-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_September 09_ 2025_RR_363039.html,data/text/ASKAUTOLTD__2025-09-09__crisil.txt,200,22169
+ASKAUTOLTD,2025-01-23,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_January 23_ 2025_RR_360724.html,data/text/ASKAUTOLTD__2025-01-23__crisil.txt,200,23423
+ASKAUTOLTD,2024-06-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ASKAutomotiveLimited_June 07_ 2024_RR_341963.html,data/text/ASKAUTOLTD__2024-06-07__crisil.txt,200,23076
+AUTOAXLES,2026-02-02,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=140705,data/text/AUTOAXLES__2026-02-02__icra.txt,200,4640
+AUTOAXLES,2025-03-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134134,data/text/AUTOAXLES__2025-03-28__icra.txt,200,4646
+AUTOAXLES,2025-01-13,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=132380,data/text/AUTOAXLES__2025-01-13__icra.txt,200,4640
+AUTOAXLES,2023-03-03,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=118396,data/text/AUTOAXLES__2023-03-03__icra.txt,200,4677
+AUTOAXLES,2024-01-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=125001,data/text/AUTOAXLES__2024-01-23__icra.txt,200,4663
+AUTOAXLES,2023-05-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=120111,data/text/AUTOAXLES__2023-05-26__icra.txt,200,4638
+AUTOIND,2022-10-26,care,https://www.careratings.com/upload/CompanyFiles/PR/26102022064653_Autoline_Industries_Limited.pdf,data/text/AUTOIND__2022-10-26__care.txt,200,7794
+AUTOIND,2025-06-23,infomerics,https://www.infomerics.com/admin/uploads/Pr-Autoline-Industries-23june25.pdf,data/text/AUTOIND__2025-06-23__infomerics.txt,200,13906
+AUTOIND,2024-10-01,infomerics,https://www.infomerics.com/admin/uploads/pr-Autoline-Industries-1oct24.pdf,data/text/AUTOIND__2024-10-01__infomerics.txt,200,14458
+AUTOIND,2024-09-10,infomerics,https://www.infomerics.com/admin/uploads/pr-Autoline-Industries-10sep24.pdf,data/text/AUTOIND__2024-09-10__infomerics.txt,200,13703
+AUTOIND,2023-08-24,infomerics,https://www.infomerics.com/admin/uploads/pr-autoline-industries-24aug23.pdf,data/text/AUTOIND__2023-08-24__infomerics.txt,200,12748
+AUTOIND,2026-08-18,infomerics,https://www.infomerics.com/admin/uploads/Pr-Autoline-Ind18Aug26.pdf,data/text/AUTOIND__2026-08-18__infomerics.txt,200,24494
+BHARATFORG,2026-09-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=145749,data/text/BHARATFORG__2026-09-22__icra.txt,200,4669
+BHARATFORG,2025-03-12,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=133577,data/text/BHARATFORG__2025-03-12__icra.txt,200,4636
+BHARATFORG,2026-03-10,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141489,data/text/BHARATFORG__2026-03-10__icra.txt,200,4710
+BHARATFORG,2025-12-19,care,https://www.careratings.com/upload/CompanyFiles/PR/202512141240_Bharat_Forge_Limited.pdf,data/text/BHARATFORG__2025-12-19__care.txt,200,29415
+BHARATGEAR,2026-03-24,care,https://www.careratings.com/upload/CompanyFiles/PR/202603120310_Bharat_Gears_Limited.pdf,data/text/BHARATGEAR__2026-03-24__care.txt,200,20812
+BHARATFORG,2024-12-20,care,https://www.careratings.com/upload/CompanyFiles/PR/202412131217_Bharat_Forge_Limited.pdf,data/text/BHARATFORG__2024-12-20__care.txt,200,27626
+BHARATFORG,2023-12-22,care,https://www.careratings.com/upload/CompanyFiles/PR/202312141240_Bharat_Forge_Limited.pdf,data/text/BHARATFORG__2023-12-22__care.txt,200,23413
+BHARATGEAR,2026-07-01,care,https://www.careratings.com/upload/CompanyFiles/PR/202607120718_Bharat_Gears_Limited.pdf,data/text/BHARATGEAR__2026-07-01__care.txt,200,23383
+BHARATGEAR,2026-01-22,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BharatGearsLimited_January 22_ 2026_RR_387331.html,data/text/BHARATGEAR__2026-01-22__crisil.txt,200,18878
+BHARATSE,2026-09-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=145860,data/text/BHARATSE__2026-09-25__icra.txt,200,4717
+BHARATSE,2025-06-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136086,data/text/BHARATSE__2025-06-30__icra.txt,200,4703
+BHARATGEAR,2025-03-13,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BharatGearsLimited_March 13_ 2025_RR_362483.html,data/text/BHARATGEAR__2025-03-13__crisil.txt,200,20315
+BHARATGEAR,2025-07-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202507140759_Bharat_Gears_Limited.pdf,data/text/BHARATGEAR__2025-07-07__care.txt,200,19107
+BHARATGEAR,2024-09-19,care,https://www.careratings.com/upload/CompanyFiles/PR/202409120957_Bharat_Gears_Limited.pdf,data/text/BHARATGEAR__2024-09-19__care.txt,200,18518
+BHARATSE,2023-05-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=120195,data/text/BHARATSE__2023-05-30__icra.txt,200,4642
+BHARATSE,2024-04-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127086,data/text/BHARATSE__2024-04-23__icra.txt,200,4659
+BHARATSE,2023-01-05,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=117178,data/text/BHARATSE__2023-01-05__icra.txt,200,4659
+BHARATSE,2021-11-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=108267,data/text/BHARATSE__2021-11-26__icra.txt,200,4636
+CIEINDIA,2026-08-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=145157,data/text/CIEINDIA__2026-08-25__icra.txt,200,4688
+CIEINDIA,2025-07-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136672,data/text/CIEINDIA__2025-07-28__icra.txt,200,4697
+CIEINDIA,2023-03-03,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=118397,data/text/CIEINDIA__2023-03-03__icra.txt,200,4653
+CIEINDIA,2024-04-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127185,data/text/CIEINDIA__2024-04-25__icra.txt,200,4737
+CIEINDIA,2023-04-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=119678,data/text/CIEINDIA__2023-04-27__icra.txt,200,4750
+CIEINDIA,2023-08-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=121714,data/text/CIEINDIA__2023-08-22__icra.txt,200,4703
+CRAFTSMAN,2026-07-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_July 28_ 2026_RR_400935.html,data/text/CRAFTSMAN__2026-07-28__crisil.txt,200,16799
+CRAFTSMAN,2026-06-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_June 29_ 2026_RR_398751.html,data/text/CRAFTSMAN__2026-06-29__crisil.txt,200,41671
+CRAFTSMAN,2026-03-20,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_March 20_ 2026_RR_392001.html,data/text/CRAFTSMAN__2026-03-20__crisil.txt,200,36291
+ENDURANCE,2026-09-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=146054,data/text/ENDURANCE__2026-09-30__icra.txt,200,4646
+CRAFTSMAN,2025-12-12,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_December 12_ 2025_RR_385207.html,data/text/CRAFTSMAN__2025-12-12__crisil.txt,200,35384
+CRAFTSMAN,2025-08-22,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_August 22_ 2025_RR_376756.html,data/text/CRAFTSMAN__2025-08-22__crisil.txt,200,12237
+CRAFTSMAN,2024-10-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/CraftsmanAutomationLimited_October 16_ 2024_RR_354860.html,data/text/CRAFTSMAN__2024-10-16__crisil.txt,200,33346
+ENDURANCE,2025-12-12,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/EnduranceTechnologiesLimited_December 12_ 2025_RR_382308.html,data/text/ENDURANCE__2025-12-12__crisil.txt,200,35946
+ENDURANCE,2024-09-24,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=130045,data/text/ENDURANCE__2024-09-24__icra.txt,200,4646
+ENDURANCE,2025-09-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=138122,data/text/ENDURANCE__2025-09-30__icra.txt,200,4646
+ENDURANCE,2024-10-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/EnduranceTechnologiesLimited_October 09_ 2024_RR_350886.html,data/text/ENDURANCE__2024-10-09__crisil.txt,200,33642
+ENKEIWHEL,2023-01-13,fitch,https://www.indiaratings.co.in/pressrelease/60604,data/text/ENKEIWHEL__2023-01-13__fitch.txt,200,78
+ENDURANCE,2023-12-29,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/EnduranceTechnologiesLimited_December 29, 2023_RR_334160.html",data/text/ENDURANCE__2023-12-29__crisil.txt,200,31725
+FRONTSP,2025-05-20,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/FrontierSpringsLimited_May 20_ 2025_RR_368953.html,data/text/FRONTSP__2025-05-20__crisil.txt,200,16484
+FRONTSP,2025-03-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/FrontierSpringsLimited_March 28_ 2025_RR_364971.html,data/text/FRONTSP__2025-03-28__crisil.txt,200,14940
+FRONTSP,2024-01-31,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/FrontierSpringsLimited_January 31, 2024_RR_335807.html",data/text/FRONTSP__2024-01-31__crisil.txt,200,16257
+FRONTSP,2022-11-29,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/FrontierSpringsLimited_November 29, 2022_RR_306583.html",data/text/FRONTSP__2022-11-29__crisil.txt,200,15953
+FRONTSP,2021-09-29,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/FrontierSpringsLimited_September 29, 2021_RR_278768.html",data/text/FRONTSP__2021-09-29__crisil.txt,200,15447
+FRONTSP,2020-06-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Frontier_Springs_Limited_June_24_2020_RR.html,data/text/FRONTSP__2020-06-24__crisil.txt,200,15342
+GNA,2026-01-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=140190,data/text/GNA__2026-01-09__icra.txt,200,4630
+GNA,2025-09-19,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=137740,data/text/GNA__2025-09-19__icra.txt,200,4628
+GNA,2024-01-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=124969,data/text/GNA__2024-01-22__icra.txt,200,4657
+GNA,2025-01-02,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=132233,data/text/GNA__2025-01-02__icra.txt,200,4654
+HAPPYFORGE,2026-09-14,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=145558,data/text/HAPPYFORGE__2026-09-14__icra.txt,200,4636
+HAPPYFORGE,2026-09-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HappyForgingsLimited_September 30_ 2026_RR_406188.html,data/text/HAPPYFORGE__2026-09-30__crisil.txt,200,15641
+GNA,2024-06-14,care,https://www.careratings.com/upload/CompanyFiles/PR/202406120614_GNA_Axles_Limited.pdf,data/text/GNA__2024-06-14__care.txt,200,16959
+GNA,2023-07-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202307130721_GNA_Axles_Limited.pdf,data/text/GNA__2023-07-07__care.txt,200,18945
+HAPPYFORGE,2026-08-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HappyForgingsLimited_August 07_ 2026_RR_401153.html,data/text/HAPPYFORGE__2026-08-07__crisil.txt,200,27521
+HAPPYFORGE,2026-07-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144114,data/text/HAPPYFORGE__2026-07-07__icra.txt,200,4638
+HAPPYFORGE,2025-09-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=138136,data/text/HAPPYFORGE__2025-09-30__icra.txt,200,4636
+HAPPYFORGE,2026-03-17,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141619,data/text/HAPPYFORGE__2026-03-17__icra.txt,200,4636
+HEROMOTORS,2026-09-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_September 29_ 2026_RR_405311.html,data/text/HEROMOTORS__2026-09-29__crisil.txt,200,31743
+HEROMOTORS,2023-12-22,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_December 22, 2023_RR_334082.html",data/text/HEROMOTORS__2023-12-22__crisil.txt,200,11392
+HEROMOTORS,2023-11-29,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_November 29, 2023_RR_332492.html",data/text/HEROMOTORS__2023-11-29__crisil.txt,200,11326
+HEROMOTORS,2025-07-01,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_July 01_ 2025_RR_371415.html,data/text/HEROMOTORS__2025-07-01__crisil.txt,200,22807
+HEROMOTORS,2024-12-10,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_December 10_ 2024_RR_356565.html,data/text/HEROMOTORS__2024-12-10__crisil.txt,200,22538
+HEROMOTORS,2024-04-02,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/HeroMotorsLimited_April 02_ 2024_RR_336285.html,data/text/HEROMOTORS__2024-04-02__crisil.txt,200,21878
+HITECHGEAR,2026-06-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TheHi_TechGearsLimited_June 29_ 2026_RR_397971.html,data/text/HITECHGEAR__2026-06-29__crisil.txt,200,26210
+HITECHGEAR,2026-02-02,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TheHi_TechGearsLimited_February 02_ 2026_RR_387789.html,data/text/HITECHGEAR__2026-02-02__crisil.txt,200,11589
+HITECHGEAR,2025-05-08,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TheHi_TechGearsLimited_May 08_ 2025_RR_368641.html,data/text/HITECHGEAR__2025-05-08__crisil.txt,200,20632
+HITECHGEAR,2024-12-03,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TheHi_TechGearsLimited_December 03_ 2024_RR_358548.html,data/text/HITECHGEAR__2024-12-03__crisil.txt,200,10400
+HITECHGEAR,2024-02-08,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TheHi-TechGearsLimited_February 08, 2024_RR_337237.html",data/text/HITECHGEAR__2024-02-08__crisil.txt,200,22389
+HITECHGEAR,2026-05-12,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/The Hi-Tech Gears Limited-RU-12-05-2026.pdf,data/text/HITECHGEAR__2026-05-12__crisil.txt,200,32666
+IGARASHI,2021-12-21,care,https://www.careratings.com/upload/CompanyFiles/PR/21122021062044_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2021-12-21__care.txt,200,18477
+IGARASHI,2026-03-30,care,https://www.careratings.com/upload/CompanyFiles/PR/202603120314_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2026-03-30__care.txt,200,22779
+IGARASHI,2023-03-06,care,https://www.careratings.com/upload/CompanyFiles/PR/06032023091626_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2023-03-06__care.txt,200,21112
+IGARASHI,2025-03-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202503140355_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2025-03-04__care.txt,200,19892
+IGARASHI,2024-02-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202402130245_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2024-02-07__care.txt,200,22630
+IGARASHI,2021-03-12,care,https://www.careratings.com/upload/CompanyFiles/PR/21122021062044_Igarashi_Motors_India_Limited.pdf,data/text/IGARASHI__2021-03-12__care.txt,200,18477
+INVPRECQ,2025-07-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202507130732_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2025-07-04__care.txt,200,18918
+INVPRECQ,2022-07-04,care,https://www.careratings.com/upload/CompanyFiles/PR/04072022071343_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2022-07-04__care.txt,200,16440
+INVPRECQ,2023-06-22,care,https://www.careratings.com/upload/CompanyFiles/PR/202306120609_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2023-06-22__care.txt,200,17048
+INVPRECQ,2024-07-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202407130702_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2024-07-04__care.txt,200,17065
+INVPRECQ,2026-07-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202607130735_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2026-07-09__care.txt,200,22438
+INVPRECQ,2021-06-24,care,https://www.careratings.com/upload/CompanyFiles/PR/24062021063229_Investment_&_Precision_Castings_Limited.pdf,data/text/INVPRECQ__2021-06-24__care.txt,200,17867
+JAMNAAUTO,2026-04-20,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=142487,data/text/JAMNAAUTO__2026-04-20__icra.txt,200,4725
+JAMNAAUTO,2025-04-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134861,data/text/JAMNAAUTO__2025-04-30__icra.txt,200,4674
+JAMNAAUTO,2024-04-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127184,data/text/JAMNAAUTO__2024-04-25__icra.txt,200,4645
+JBMA,2026-08-05,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_August 05_ 2026_RR_401025.html,data/text/JBMA__2026-08-05__crisil.txt,200,32996
+JAMNAAUTO,2026-03-16,care,https://www.careratings.com/upload/CompanyFiles/PR/202603120342_Jamna_Auto_Industries_Limited.pdf,data/text/JAMNAAUTO__2026-03-16__care.txt,200,24779
+JAMNAAUTO,2025-02-26,care,https://www.careratings.com/upload/CompanyFiles/PR/202502120258_Jamna_Auto_Industries_Limited.pdf,data/text/JAMNAAUTO__2025-02-26__care.txt,200,19708
+JAMNAAUTO,2026-01-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202601150132_Jamna_Auto_Industries_Limited.pdf,data/text/JAMNAAUTO__2026-01-09__care.txt,200,24130
+JBMA,2026-03-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_March 16_ 2026_RR_391743.html,data/text/JBMA__2026-03-16__crisil.txt,200,12631
+JBMA,2025-05-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_May 07_ 2025_RR_365388.html,data/text/JBMA__2025-05-07__crisil.txt,200,25720
+JBMA,2024-12-13,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_December 13_ 2024_RR_357405.html,data/text/JBMA__2024-12-13__crisil.txt,200,29723
+JBMA,2023-09-15,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_September 15, 2023_RR_318474.html",data/text/JBMA__2023-09-15__crisil.txt,200,30471
+JBMA,2022-08-05,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/JBMAutoLimited_August 05, 2022_RR_299966.html",data/text/JBMA__2022-08-05__crisil.txt,200,25730
+JTEKTINDIA,2025-07-04,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136195,data/text/JTEKTINDIA__2025-07-04__icra.txt,200,4658
+JTEKTINDIA,2026-07-08,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144130,data/text/JTEKTINDIA__2026-07-08__icra.txt,200,4659
+JTEKTINDIA,2024-05-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127373,data/text/JTEKTINDIA__2024-05-07__icra.txt,200,4658
+JTEKTINDIA,2023-04-19,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=119390,data/text/JTEKTINDIA__2023-04-19__icra.txt,200,4635
+JTEKTINDIA,2022-04-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=111333,data/text/JTEKTINDIA__2022-04-22__icra.txt,200,4670
+KALYANIFRG,2026-08-18,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/KalyaniForgeLimited_August 18_ 2026_RR_402365.html,data/text/KALYANIFRG__2026-08-18__crisil.txt,200,20825
+JTEKTINDIA,2021-04-15,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=102691,data/text/JTEKTINDIA__2021-04-15__icra.txt,200,4682
+KALYANIFRG,2026-02-27,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/KalyaniForgeLimited_February 27_ 2026_RR_386662.html,data/text/KALYANIFRG__2026-02-27__crisil.txt,200,18634
+LUMAXIND,2026-04-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=142650,data/text/LUMAXIND__2026-04-27__icra.txt,200,4692
+KALYANIFRG,2025-03-06,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/KalyaniForgeLimited_March 06_ 2025_RR_361579.html,data/text/KALYANIFRG__2025-03-06__crisil.txt,200,16949
+KALYANIFRG,2024-06-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/KalyaniForgeLimited_June 24_ 2024_RR_325514.html,data/text/KALYANIFRG__2024-06-24__crisil.txt,200,18150
+LUMAXIND,2025-04-04,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134284,data/text/LUMAXIND__2025-04-04__icra.txt,200,4663
+LUMAXIND,2024-02-19,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=125587,data/text/LUMAXIND__2024-02-19__icra.txt,200,4663
+LUMAXIND,2023-01-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=117507,data/text/LUMAXIND__2023-01-23__icra.txt,200,4663
+KALYANIFRG,2026-07-08,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Kalyani Forge Limited-RU-08-07-2026.pdf,data/text/KALYANIFRG__2026-07-08__crisil.txt,200,30224
+KALYANIFRG,2026-01-19,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Kalyani Forge Limited-RU-19-01-2026.pdf,data/text/KALYANIFRG__2026-01-19__crisil.txt,200,28477
+LUMAXIND,2022-10-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=115392,data/text/LUMAXIND__2022-10-27__icra.txt,200,4726
+LUMAXIND,2021-10-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=107499,data/text/LUMAXIND__2021-10-22__icra.txt,200,4640
+LUMAXTECH,2026-03-06,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_March 06_ 2026_RR_389904.html,data/text/LUMAXTECH__2026-03-06__crisil.txt,200,31516
+LUMAXTECH,2026-05-14,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_May 14_ 2026_RR_396061.html,data/text/LUMAXTECH__2026-05-14__crisil.txt,200,37973
+LUMAXTECH,2025-09-03,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_September 03_ 2025_RR_376809.html,data/text/LUMAXTECH__2025-09-03__crisil.txt,200,32330
+LUMAXTECH,2023-05-15,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_May 15, 2023_RR_319644.html",data/text/LUMAXTECH__2023-05-15__crisil.txt,200,11520
+LUMAXTECH,2024-09-03,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_September 03_ 2024_RR_351993.html,data/text/LUMAXTECH__2024-09-03__crisil.txt,200,28114
+LUMAXTECH,2024-01-31,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/LumaxAutoTechnologiesLimited_January 31, 2024_RR_336427.html",data/text/LUMAXTECH__2024-01-31__crisil.txt,200,28558
+MENNPIS,2025-07-18,care,https://www.careratings.com/upload/CompanyFiles/PR/202507130717_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2025-07-18__care.txt,200,18633
+MENNPIS,2024-09-27,care,https://www.careratings.com/upload/CompanyFiles/PR/202409120929_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2024-09-27__care.txt,200,16573
+MENNPIS,2026-07-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202607130713_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2026-07-07__care.txt,200,23010
+MENNPIS,2023-01-02,care,https://www.careratings.com/upload/CompanyFiles/PR/02012023074902_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2023-01-02__care.txt,200,16061
+MENNPIS,2023-10-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202310121044_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2023-10-03__care.txt,200,17086
+MENNPIS,2021-12-23,care,https://www.careratings.com/upload/CompanyFiles/PR/23122021062711_Menon_Pistons_Limited.pdf,data/text/MENNPIS__2021-12-23__care.txt,200,17315
+MENONBE,2026-04-23,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MenonBearingsLimited_April 23_ 2026_RR_385495.html,data/text/MENONBE__2026-04-23__crisil.txt,200,23756
+MENONBE,2025-01-23,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MenonBearingsLimited_January 23_ 2025_RR_356300.html,data/text/MENONBE__2025-01-23__crisil.txt,200,16887
+MENONBE,2023-10-26,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MenonBearingsLimited_October 26, 2023_RR_324602.html",data/text/MENONBE__2023-10-26__crisil.txt,200,17595
+MENONBE,2022-08-02,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MenonBearingsLimited_August 02, 2022_RR_292330.html",data/text/MENONBE__2022-08-02__crisil.txt,200,17570
+MINDACORP,2026-08-07,fitch,https://www.indiaratings.co.in/pressrelease/84772,data/text/MINDACORP__2026-08-07__fitch.txt,200,78
+MENONBE,2021-05-24,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MenonBearingsLimited_May 24, 2021_RR_260398.html",data/text/MENONBE__2021-05-24__crisil.txt,200,15542
+MENONBE,2020-02-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Menon_Bearings_Limited_February_24_2020_RR.html,data/text/MENONBE__2020-02-24__crisil.txt,200,15500
+MINDACORP,2026-06-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MindaCorporationLimited_June 09_ 2026_RR_398006.html,data/text/MINDACORP__2026-06-09__crisil.txt,200,16329
+MINDACORP,2025-08-08,fitch,https://www.indiaratings.co.in/pressrelease/78195,data/text/MINDACORP__2025-08-08__fitch.txt,200,78
+MINDACORP,2025-04-23,fitch,https://www.indiaratings.co.in/pressrelease/76307,data/text/MINDACORP__2025-04-23__fitch.txt,200,78
+MINDACORP,2026-04-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MindaCorporationLimited_April 24_ 2026_RR_394268.html,data/text/MINDACORP__2026-04-24__crisil.txt,200,32596
+MINDACORP,2025-01-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MindaCorporationLimited_January 24_ 2025_RR_361358.html,data/text/MINDACORP__2025-01-24__crisil.txt,200,24544
+MMFL,2024-04-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202404130405_M_M_Forgings_Limited.pdf,data/text/MMFL__2024-04-03__care.txt,200,20688
+MMFL,2022-04-07,care,https://www.careratings.com/upload/CompanyFiles/PR/07042022063934_MM_Forgings_Limited.pdf,data/text/MMFL__2022-04-07__care.txt,200,20088
+MMFL,2026-06-30,care,https://www.careratings.com/upload/CompanyFiles/PR/202606120650_M_M_Forgings_Limited.pdf,data/text/MMFL__2026-06-30__care.txt,200,25803
+MMFL,2026-04-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202604140416_M_M_Forgings_Limited.pdf,data/text/MMFL__2026-04-09__care.txt,200,21850
+MMFL,2025-03-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202503120319_M_M_Forgings_Limited.pdf,data/text/MMFL__2025-03-04__care.txt,200,20066
+MMFL,2021-04-07,care,https://www.careratings.com/upload/CompanyFiles/PR/07042022063934_MM_Forgings_Limited.pdf,data/text/MMFL__2021-04-07__care.txt,200,20088
+MSUMI,2026-07-02,fitch,https://www.indiaratings.co.in/pressrelease/84009,data/text/MSUMI__2026-07-02__fitch.txt,200,78
+MSUMI,2025-04-16,fitch,https://www.indiaratings.co.in/pressrelease/76226,data/text/MSUMI__2025-04-16__fitch.txt,200,78
+MSUMI,2025-10-01,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MothersonSumiWiringIndiaLimited_October 01_ 2025_RR_379146.html,data/text/MSUMI__2025-10-01__crisil.txt,200,25036
+MSUMI,2023-09-15,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MothersonSumiWiringIndiaLimited_September 15, 2023_RR_325812.html",data/text/MSUMI__2023-09-15__crisil.txt,200,24898
+MSUMI,2024-07-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MothersonSumiWiringIndiaLimited_July 16_ 2024_RR_333979.html,data/text/MSUMI__2024-07-16__crisil.txt,200,23934
+MSUMI,2023-04-12,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MothersonSumiWiringIndiaLimited_April 12, 2023_RR_316075.html",data/text/MSUMI__2023-04-12__crisil.txt,200,23771
+MUNJALAU,2026-07-29,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144617,data/text/MUNJALAU__2026-07-29__icra.txt,200,4690
+MUNJALAU,2024-07-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=129171,data/text/MUNJALAU__2024-07-31__icra.txt,200,4646
+MUNJALAU,2022-10-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=115532,data/text/MUNJALAU__2022-10-31__icra.txt,200,4646
+MUNJALAU,2025-07-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136690,data/text/MUNJALAU__2025-07-28__icra.txt,200,4646
+MUNJALAU,2023-07-20,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=121013,data/text/MUNJALAU__2023-07-20__icra.txt,200,4646
+MUNJALAU,2020-10-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=98784,data/text/MUNJALAU__2020-10-23__icra.txt,200,4668
+MUNJALSHOW,2025-08-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_August 29_ 2025_RR_376497.html,data/text/MUNJALSHOW__2025-08-29__crisil.txt,200,22106
+MUNJALSHOW,2024-09-02,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_September 02_ 2024_RR_350170.html,data/text/MUNJALSHOW__2024-09-02__crisil.txt,200,20133
+MUNJALSHOW,2023-12-28,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_December 28, 2023_RR_332566.html",data/text/MUNJALSHOW__2023-12-28__crisil.txt,200,21312
+MUNJALSHOW,2023-01-19,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_January 19, 2023_RR_309839.html",data/text/MUNJALSHOW__2023-01-19__crisil.txt,200,20989
+MUNJALSHOW,2022-02-01,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_February 01, 2022_RR_285356.html",data/text/MUNJALSHOW__2022-02-01__crisil.txt,200,20925
+MUNJALSHOW,2021-02-23,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MunjalShowaLimited_February 23, 2021_RR_265583.html",data/text/MUNJALSHOW__2021-02-23__crisil.txt,200,18873
+NDRAUTO,2026-10-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=146534,data/text/NDRAUTO__2026-10-27__icra.txt,200,4643
+NDRAUTO,2025-07-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136200,data/text/NDRAUTO__2025-07-07__icra.txt,200,4661
+NIBL,2024-10-25,care,https://www.careratings.com/upload/CompanyFiles/PR/202410121057_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2024-10-25__care.txt,200,11218
+NIBL,2024-05-29,care,https://www.careratings.com/upload/CompanyFiles/PR/202405120502_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2024-05-29__care.txt,200,12631
+NIBL,2023-11-02,care,https://www.careratings.com/upload/CompanyFiles/PR/202311141117_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2023-11-02__care.txt,200,12490
+NIBL,2022-09-16,care,https://www.careratings.com/upload/CompanyFiles/PR/16092022063328_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2022-09-16__care.txt,200,13596
+NIBL,2021-12-10,care,https://www.careratings.com/upload/CompanyFiles/PR/10122021065308_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2021-12-10__care.txt,200,12197
+NIBL,2021-02-18,care,https://www.careratings.com/upload/CompanyFiles/PR/18022021094530_NRB_Industrial_Bearings_Limited.pdf,data/text/NIBL__2021-02-18__care.txt,200,14183
+NRBBEARING,2026-07-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_July 29_ 2026_RR_400601.html,data/text/NRBBEARING__2026-07-29__crisil.txt,200,31545
+NRBBEARING,2025-07-31,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_July 31_ 2025_RR_370882.html,data/text/NRBBEARING__2025-07-31__crisil.txt,200,26724
+NRBBEARING,2024-07-31,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_July 31_ 2024_RR_344549.html,data/text/NRBBEARING__2024-07-31__crisil.txt,200,23751
+NRBBEARING,2024-01-15,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_January 15, 2024_RR_335398.html",data/text/NRBBEARING__2024-01-15__crisil.txt,200,11751
+OMAXAUTO,2023-09-29,fitch,https://www.indiaratings.co.in/pressrelease/66321,data/text/OMAXAUTO__2023-09-29__fitch.txt,200,78
+NRBBEARING,2023-11-06,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_November 06, 2023_RR_325867.html",data/text/NRBBEARING__2023-11-06__crisil.txt,200,25394
+NRBBEARING,2023-03-06,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/NRBBearingsLimited_March 06, 2023_RR_312394.html",data/text/NRBBEARING__2023-03-06__crisil.txt,429,0
+OMAXAUTO,2023-09-18,fitch,https://www.indiaratings.co.in/pressrelease/63650,data/text/OMAXAUTO__2023-09-18__fitch.txt,200,78
+OMAXAUTO,2022-07-21,fitch,https://www.indiaratings.co.in/pressrelease/59012,data/text/OMAXAUTO__2022-07-21__fitch.txt,200,78
+PPAP,2026-01-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_January 16_ 2026_RR_386939.html,data/text/PPAP__2026-01-16__crisil.txt,200,20760
+PPAP,2025-10-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_October 28_ 2025_RR_381204.html,data/text/PPAP__2025-10-28__crisil.txt,200,20124
+PPAP,2024-08-06,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_August 06_ 2024_RR_350140.html,data/text/PPAP__2024-08-06__crisil.txt,200,21589
+PPAP,2021-03-30,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_March 30, 2021_RR_267833.html",data/text/PPAP__2021-03-30__crisil.txt,429,0
+OMAXAUTO,2024-01-18,infomerics,https://www.infomerics.com/admin/uploads/pr-Omax-Auto-18jan24.pdf,data/text/OMAXAUTO__2024-01-18__infomerics.txt,200,10290
+OMAXAUTO,2023-06-16,infomerics,https://www.infomerics.com/admin/uploads/pr-Omax-Autos-16jun23.pdf,data/text/OMAXAUTO__2023-06-16__infomerics.txt,200,10046
+OMAXAUTO,2023-02-10,infomerics,https://www.infomerics.com/admin/uploads/Pr-OAL-10FEB23.pdf,data/text/OMAXAUTO__2023-02-10__infomerics.txt,200,9639
+PPAP,2023-06-12,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_June 12, 2023_RR_321713.html",data/text/PPAP__2023-06-12__crisil.txt,200,22784
+PPAP,2022-04-08,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PPAPAutomotiveLimited_April 08, 2022_RR_283860.html",data/text/PPAP__2022-04-08__crisil.txt,200,22054
+PRECAM,2025-09-10,care,https://www.careratings.com/upload/CompanyFiles/PR/202509120949_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2025-09-10__care.txt,200,23966
+PRECAM,2026-10-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202610121027_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2026-10-07__care.txt,200,24453
+PRECAM,2024-10-28,care,https://www.careratings.com/upload/CompanyFiles/PR/202410121007_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2024-10-28__care.txt,200,21665
+PRECAM,2023-10-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202310121010_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2023-10-03__care.txt,200,22667
+PRECAM,2023-01-05,care,https://www.careratings.com/upload/CompanyFiles/PR/05012023060706_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2023-01-05__care.txt,200,21833
+PRECAM,2022-01-07,care,https://www.careratings.com/upload/CompanyFiles/PR/07012022061049_Precision_Camshafts_Limited.pdf,data/text/PRECAM__2022-01-07__care.txt,200,22900
+PRICOLLTD,2026-10-01,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PricolLimited_October 01_ 2026_RR_406293.html,data/text/PRICOLLTD__2026-10-01__crisil.txt,200,34215
+PRICOLLTD,2026-07-07,fitch,https://www.indiaratings.co.in/pressrelease/84074,data/text/PRICOLLTD__2026-07-07__fitch.txt,200,78
+PRICOLLTD,2026-07-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PricolLimited_July 07_ 2026_RR_399254.html,data/text/PRICOLLTD__2026-07-07__crisil.txt,200,33897
+PRICOLLTD,2025-12-02,fitch,https://www.indiaratings.co.in/pressrelease/80278,data/text/PRICOLLTD__2025-12-02__fitch.txt,200,78
+PRICOLLTD,2026-01-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PricolLimited_January 30_ 2026_RR_384615.html,data/text/PRICOLLTD__2026-01-30__crisil.txt,200,29579
+PRICOLLTD,2025-02-11,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PricolLimited_February 11_ 2025_RR_362819.html,data/text/PRICOLLTD__2025-02-11__crisil.txt,200,30472
+PRITIKAUTO,2025-11-28,care,https://www.careratings.com/upload/CompanyFiles/PR/202511141107_Pritika_Auto_Industries_Limited.pdf,data/text/PRITIKAUTO__2025-11-28__care.txt,200,19391
+PRITIKAUTO,2024-09-05,care,https://www.careratings.com/upload/CompanyFiles/PR/202409130913_Pritika_Auto_Industries_Limited.pdf,data/text/PRITIKAUTO__2024-09-05__care.txt,200,17897
+PRITIKAUTO,2026-08-12,infomerics,https://www.infomerics.com/admin/uploads/pr-PritikaAuto-12aug26.pdf,data/text/PRITIKAUTO__2026-08-12__infomerics.txt,200,20596
+RACLGEAR,2025-10-10,care,https://www.careratings.com/upload/CompanyFiles/PR/202510121057_RACL_Geartech_Limited.pdf,data/text/RACLGEAR__2025-10-10__care.txt,200,19297
+RACLGEAR,2024-10-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202410121051_RACL_Geartech_Limited.pdf,data/text/RACLGEAR__2024-10-04__care.txt,200,18062
+RACLGEAR,2023-10-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202310121032_RACL_Geartech_Limited.pdf,data/text/RACLGEAR__2023-10-03__care.txt,200,17703
+PRITIKAUTO,2023-08-08,brickwork,http://bcrisp.in///BLRHTML/HTMLDocument/ViewRatingRationaleINCNew?id=116786,data/text/PRITIKAUTO__2023-08-08__brickwork.txt,200,12700
+PRITIKAUTO,2025-04-17,brickwork,http://bcrisp.in///BLRHTML/HTMLDocument/ViewRatingRationaleINCWD?id=171041,data/text/PRITIKAUTO__2025-04-17__brickwork.txt,200,13313
+PRITIKAUTO,2024-10-16,brickwork,http://bcrisp.in///BLRHTML/HTMLDocument/ViewRatingRationaleINCNew?id=153771,data/text/PRITIKAUTO__2024-10-16__brickwork.txt,200,13722
+REMSONSIND,2025-09-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RemsonsIndustriesLimited_September 30_ 2025_RR_378819.html,data/text/REMSONSIND__2025-09-30__crisil.txt,200,18608
+REMSONSIND,2025-09-17,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RemsonsIndustriesLimited_September 17_ 2025_RR_371299.html,data/text/REMSONSIND__2025-09-17__crisil.txt,200,20078
+RACLGEAR,2022-09-23,care,https://www.careratings.com/upload/CompanyFiles/PR/23092022062233_RACL_Geartech_Limited.pdf,data/text/RACLGEAR__2022-09-23__care.txt,200,18555
+REMSONSIND,2026-07-10,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144166,data/text/REMSONSIND__2026-07-10__icra.txt,200,4675
+REMSONSIND,2025-06-19,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=135786,data/text/REMSONSIND__2025-06-19__icra.txt,200,4705
+REMSONSIND,2025-08-22,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Remsons Industries Limited-RU-22-08-2025.pdf,data/text/REMSONSIND__2025-08-22__crisil.txt,429,0
+RACLGEAR,2021-10-27,care,https://www.careratings.com/upload/CompanyFiles/PR/27102021073231_RACL_Geartech_Limited.pdf,data/text/RACLGEAR__2021-10-27__care.txt,200,17928
+RACLGEAR,2020-09-03,care,https://www.careratings.com/upload/CompanyFiles/PR/RACL Geartech Limited-09-03-2020.pdf,data/text/RACLGEAR__2020-09-03__care.txt,200,17593
+RICOAUTO,2026-09-04,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_September 04_ 2026_RR_404976.html,data/text/RICOAUTO__2026-09-04__crisil.txt,200,16349
+REMSONSIND,2024-09-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=129820,data/text/REMSONSIND__2024-09-09__icra.txt,200,4673
+RICOAUTO,2026-10-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_October 30_ 2026_RR_406110.html,data/text/RICOAUTO__2026-10-30__crisil.txt,200,30503
+RICOAUTO,2025-12-02,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_December 02_ 2025_RR_384710.html,data/text/RICOAUTO__2025-12-02__crisil.txt,200,23758
+RKFORGE,2026-05-18,fitch,https://www.indiaratings.co.in/pressrelease/83095,data/text/RKFORGE__2026-05-18__fitch.txt,200,78
+RKFORGE,2026-06-22,fitch,https://www.indiaratings.co.in/pressrelease/83847,data/text/RKFORGE__2026-06-22__fitch.txt,200,78
+RICOAUTO,2024-10-01,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_October 01_ 2024_RR_352962.html,data/text/RICOAUTO__2024-10-01__crisil.txt,200,22336
+RICOAUTO,2024-06-12,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_June 12_ 2024_RR_346051.html,data/text/RICOAUTO__2024-06-12__crisil.txt,200,12067
+RICOAUTO,2024-06-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RicoAutoIndustriesLimited_June 07_ 2024_RR_346026.html,data/text/RICOAUTO__2024-06-07__crisil.txt,200,12022
+RKFORGE,2025-12-19,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RamkrishnaForgingsLimited_December 19_ 2025_RR_385423.html,data/text/RKFORGE__2025-12-19__crisil.txt,200,28445
+RKFORGE,2025-09-22,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RamkrishnaForgingsLimited_September 22_ 2025_RR_378610.html,data/text/RKFORGE__2025-09-22__crisil.txt,200,28913
+RKFORGE,2025-06-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RamkrishnaForgingsLimited_June 24_ 2025_RR_371495.html,data/text/RKFORGE__2025-06-24__crisil.txt,429,0
+RML,2025-12-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_December 29_ 2025_RR_385889.html,data/text/RML__2025-12-29__crisil.txt,429,0
+RKFORGE,2025-07-11,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136292,data/text/RKFORGE__2025-07-11__icra.txt,200,4642
+RML,2025-04-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_April 24_ 2025_RR_367335.html,data/text/RML__2025-04-24__crisil.txt,429,0
+RML,2026-07-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_July 09_ 2026_RR_399250.html,data/text/RML__2026-07-09__crisil.txt,200,37567
+SANDHAR,2026-05-22,fitch,https://www.indiaratings.co.in/pressrelease/83161,data/text/SANDHAR__2026-05-22__fitch.txt,200,78
+RML,2025-04-15,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_April 15_ 2025_RR_366841.html,data/text/RML__2025-04-15__crisil.txt,429,0
+RML,2025-02-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_February 28_ 2025_RR_363486.html,data/text/RML__2025-02-28__crisil.txt,429,0
+SANDHAR,2026-06-03,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=143443,data/text/SANDHAR__2026-06-03__icra.txt,200,4664
+SANDHAR,2026-03-11,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141508,data/text/SANDHAR__2026-03-11__icra.txt,200,4643
+SANDHAR,2025-05-23,fitch,https://www.indiaratings.co.in/pressrelease/76674,data/text/SANDHAR__2025-05-23__fitch.txt,200,78
+SANSERA,2026-04-07,fitch,https://www.indiaratings.co.in/pressrelease/82536,data/text/SANSERA__2026-04-07__fitch.txt,200,78
+RML,2024-12-04,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RaneMadrasLimited_December 04_ 2024_RR_356848.html,data/text/RML__2024-12-04__crisil.txt,429,0
+SANSERA,2026-01-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=140552,data/text/SANSERA__2026-01-28__icra.txt,200,4643
+SANSERA,2025-02-10,fitch,https://www.indiaratings.co.in/pressrelease/74742,data/text/SANSERA__2025-02-10__fitch.txt,200,78
+SANSERA,2024-03-28,fitch,https://www.indiaratings.co.in/pressrelease/69274,data/text/SANSERA__2024-03-28__fitch.txt,200,78
+SANDHAR,2025-03-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134197,data/text/SANDHAR__2025-03-31__icra.txt,200,4663
+SANSERA,2025-01-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=132697,data/text/SANSERA__2025-01-28__icra.txt,200,4716
+SANSERA,2024-02-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=125868,data/text/SANSERA__2024-02-28__icra.txt,200,4666
+SETCO,2021-12-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=108566,data/text/SETCO__2021-12-09__icra.txt,200,4638
+SANDHAR,2025-03-20,care,https://www.careratings.com/upload/CompanyFiles/PR/202503120305_Sandhar_Technologies_Limited.pdf,data/text/SANDHAR__2025-03-20__care.txt,200,20430
+SETCO,2021-06-02,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=103818,data/text/SETCO__2021-06-02__icra.txt,200,4638
+SETCO,2022-01-25,care,https://www.careratings.com/upload/CompanyFiles/PR/25012022063643_Setco_Automotive_Limited.pdf,data/text/SETCO__2022-01-25__care.txt,200,8088
+SETCO,2021-04-05,care,https://www.careratings.com/upload/CompanyFiles/PR/25012022063643_Setco_Automotive_Limited.pdf,data/text/SETCO__2021-04-05__care.txt,200,8088
+SHARDAMOTR,2026-10-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShardaMotorIndustriesLimited_October 28_ 2026_RR_409277.html,data/text/SHARDAMOTR__2026-10-28__crisil.txt,429,0
+SHARDAMOTR,2026-10-08,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sharda Motor Industries Limited-RU-08-10-2026.pdf,data/text/SHARDAMOTR__2026-10-08__crisil.txt,429,0
+SETCO,2020-11-10,care,https://www.careratings.com/upload/CompanyFiles/PR/25012022063643_Setco_Automotive_Limited.pdf,data/text/SETCO__2020-11-10__care.txt,200,8088
+SHARDAMOTR,2025-07-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShardaMotorIndustriesLimited_July 30_ 2025_RR_369590.html,data/text/SHARDAMOTR__2025-07-30__crisil.txt,429,0
+SHARDAMOTR,2025-04-08,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShardaMotorIndustriesLimited_April 08_ 2025_RR_366651.html,data/text/SHARDAMOTR__2025-04-08__crisil.txt,429,0
+SHARDAMOTR,2024-05-31,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShardaMotorIndustriesLimited_May 31_ 2024_RR_345061.html,data/text/SHARDAMOTR__2024-05-31__crisil.txt,429,0
+SHARDAMOTR,2024-04-15,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShardaMotorIndustriesLimited_April 15_ 2024_RR_337629.html,data/text/SHARDAMOTR__2024-04-15__crisil.txt,429,0
+SETCO,2020-11-10,care,https://www.careratings.com/upload/CompanyFiles/PR/Setco Automotive Limited-11-10-2020.pdf,data/text/SETCO__2020-11-10__care.txt,200,9797
+SHIVAMAUTO,2026-01-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202601140125_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2026-01-09__care.txt,200,18154
+SHIVAMAUTO,2025-07-22,care,https://www.careratings.com/upload/CompanyFiles/PR/202507120704_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2025-07-22__care.txt,200,17316
+SHRIPISTON,2025-03-18,fitch,https://www.indiaratings.co.in/pressrelease/75476,data/text/SHRIPISTON__2025-03-18__fitch.txt,200,78
+SHIVAMAUTO,2022-02-23,care,https://www.careratings.com/upload/CompanyFiles/PR/23022022064519_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2022-02-23__care.txt,200,12144
+SHIVAMAUTO,2025-01-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202501130148_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2025-01-03__care.txt,200,14321
+SHIVAMAUTO,2022-09-30,care,https://www.careratings.com/upload/CompanyFiles/PR/30092022062111_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2022-09-30__care.txt,200,14035
+SHIVAMAUTO,2023-10-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202310131020_Shivam_Autotech_Limited.pdf,data/text/SHIVAMAUTO__2023-10-09__care.txt,200,14136
+SHRIPISTON,2022-09-21,fitch,https://www.indiaratings.co.in/pressrelease/59565,data/text/SHRIPISTON__2022-09-21__fitch.txt,200,78
+SHRIPISTON,2024-03-19,fitch,https://www.indiaratings.co.in/pressrelease/69143,data/text/SHRIPISTON__2024-03-19__fitch.txt,200,78
+SHRIPISTON,2023-09-20,fitch,https://www.indiaratings.co.in/pressrelease/65438,data/text/SHRIPISTON__2023-09-20__fitch.txt,200,78
+SHRIPISTON,2021-07-16,fitch,https://www.indiaratings.co.in/pressrelease/55584,data/text/SHRIPISTON__2021-07-16__fitch.txt,200,78
+SHRIPISTON,2022-07-13,fitch,https://www.indiaratings.co.in/pressrelease/58953,data/text/SHRIPISTON__2022-07-13__fitch.txt,200,78
+SONACOMS,2026-06-25,fitch,https://www.indiaratings.co.in/pressrelease/83916,data/text/SONACOMS__2026-06-25__fitch.txt,200,78
+SONACOMS,2025-05-19,fitch,https://www.indiaratings.co.in/pressrelease/76625,data/text/SONACOMS__2025-05-19__fitch.txt,200,78
+SONACOMS,2024-02-23,fitch,https://www.indiaratings.co.in/pressrelease/68580,data/text/SONACOMS__2024-02-23__fitch.txt,200,78
+SONACOMS,2023-02-28,fitch,https://www.indiaratings.co.in/pressrelease/61103,data/text/SONACOMS__2023-02-28__fitch.txt,200,78
+SONACOMS,2021-12-02,fitch,https://www.indiaratings.co.in/pressrelease/56846,data/text/SONACOMS__2021-12-02__fitch.txt,200,78
+SSWL,2026-02-18,fitch,https://www.indiaratings.co.in/pressrelease/81504,data/text/SSWL__2026-02-18__fitch.txt,200,78
+SONACOMS,2019-06-06,fitch,https://www.indiaratings.co.in/pressrelease/37233,data/text/SONACOMS__2019-06-06__fitch.txt,200,78
+SSWL,2023-10-13,fitch,https://www.indiaratings.co.in/pressrelease/66497,data/text/SSWL__2023-10-13__fitch.txt,200,78
+SSWL,2022-07-18,fitch,https://www.indiaratings.co.in/pressrelease/58986,data/text/SSWL__2022-07-18__fitch.txt,200,78
+SSWL,2021-09-20,fitch,https://www.indiaratings.co.in/pressrelease/56167,data/text/SSWL__2021-09-20__fitch.txt,200,78
+SSWL,2021-03-09,fitch,https://www.indiaratings.co.in/pressrelease/54107,data/text/SSWL__2021-03-09__fitch.txt,200,78
+SSWL,2020-06-02,fitch,https://www.indiaratings.co.in/pressrelease/41201,data/text/SSWL__2020-06-02__fitch.txt,200,78
+SUBROS,2026-11-03,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=146733,data/text/SUBROS__2026-11-03__icra.txt,200,4654
+SUBROS,2026-03-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141949,data/text/SUBROS__2026-03-27__icra.txt,200,4653
+SUBROS,2025-02-17,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=133059,data/text/SUBROS__2025-02-17__icra.txt,200,4630
+SUBROS,2024-01-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=125303,data/text/SUBROS__2024-01-31__icra.txt,200,4744
+SUBROS,2023-01-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=117694,data/text/SUBROS__2023-01-31__icra.txt,200,4659
+SUNDRMBRAK,2026-03-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141943,data/text/SUNDRMBRAK__2026-03-27__icra.txt,200,4678
+SUBROS,2022-01-24,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=109481,data/text/SUBROS__2022-01-24__icra.txt,200,4630
+SUNDRMBRAK,2025-09-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=137840,data/text/SUNDRMBRAK__2025-09-23__icra.txt,200,4644
+SUNDRMBRAK,2025-04-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134318,data/text/SUNDRMBRAK__2025-04-07__icra.txt,200,4646
+SUNDRMBRAK,2024-03-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=126732,data/text/SUNDRMBRAK__2024-03-31__icra.txt,200,4670
+SUNDRMBRAK,2024-04-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127243,data/text/SUNDRMBRAK__2024-04-26__icra.txt,200,4670
+SUNDRMBRAK,2023-03-02,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=118379,data/text/SUNDRMBRAK__2023-03-02__icra.txt,200,4669
+SUNDRMFAST,2026-04-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_April 28_ 2026_RR_393949.html,data/text/SUNDRMFAST__2026-04-28__crisil.txt,429,0
+SUNDRMFAST,2025-04-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_April 28_ 2025_RR_366597.html,data/text/SUNDRMFAST__2025-04-28__crisil.txt,429,0
+SUNDRMFAST,2024-05-03,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_May 03_ 2024_RR_341883.html,data/text/SUNDRMFAST__2024-05-03__crisil.txt,429,0
+SUNDRMFAST,2023-05-09,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_May 09, 2023_RR_317984.html",data/text/SUNDRMFAST__2023-05-09__crisil.txt,429,0
+SUNDRMFAST,2022-05-10,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_May 10, 2022_RR_289865.html",data/text/SUNDRMFAST__2022-05-10__crisil.txt,429,0
+SUNDRMFAST,2021-05-28,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SundramFastenersLimited_May 28, 2021_RR_271029.html",data/text/SUNDRMFAST__2021-05-28__crisil.txt,429,0
+SUPRAJIT,2026-07-16,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144233,data/text/SUPRAJIT__2026-07-16__icra.txt,200,4677
+SUPRAJIT,2026-02-09,fitch,https://www.indiaratings.co.in/pressrelease/81411,data/text/SUPRAJIT__2026-02-09__fitch.txt,200,78
+SUPRAJIT,2026-07-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuprajitEngineeringLimited_July 16_ 2026_RR_397904.html,data/text/SUPRAJIT__2026-07-16__crisil.txt,429,0
+SUPRAJIT,2025-09-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=137805,data/text/SUPRAJIT__2025-09-22__icra.txt,200,4642
+SUPRAJIT,2025-06-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136107,data/text/SUPRAJIT__2025-06-30__icra.txt,200,4644
+SUPRAJIT,2025-06-25,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuprajitEngineeringLimited_June 25_ 2025_RR_371670.html,data/text/SUPRAJIT__2025-06-25__crisil.txt,429,0
+TALBROAUTO,2022-06-21,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TalbrosAutomotiveComponentsLimited_June 21, 2022_RR_296500.html",data/text/TALBROAUTO__2022-06-21__crisil.txt,429,0
+UCAL,2024-08-16,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/UcalLimited_August 16_ 2024_RR_350514.html,data/text/UCAL__2024-08-16__crisil.txt,429,0
+UCAL,2024-06-24,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/UcalLimited_June 24_ 2024_RR_346662.html,data/text/UCAL__2024-06-24__crisil.txt,429,0
+TALBROAUTO,2023-10-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202310121057_Talbros_Automotive_Components_Limited.pdf,data/text/TALBROAUTO__2023-10-04__care.txt,200,19283
+TALBROAUTO,2025-12-05,care,https://www.careratings.com/upload/CompanyFiles/PR/202512131256_Talbros_Automotive_Components_Limited.pdf,data/text/TALBROAUTO__2025-12-05__care.txt,200,19697
+TALBROAUTO,2024-09-30,care,https://www.careratings.com/upload/CompanyFiles/PR/202409120911_Talbros_Automotive_Components_Limited.pdf,data/text/TALBROAUTO__2024-09-30__care.txt,200,20906
+TALBROAUTO,2023-04-03,care,https://www.careratings.com/upload/CompanyFiles/PR/202304150446_Talbros Automotive Components Limited.pdf,data/text/TALBROAUTO__2023-04-03__care.txt,200,18102
+TALBROAUTO,2022-04-21,care,https://www.careratings.com/upload/CompanyFiles/PR/21042022060416_Talbros_Automotive_Components_Limited.pdf,data/text/TALBROAUTO__2022-04-21__care.txt,200,19832
+UCAL,2024-05-28,care,https://www.careratings.com/upload/CompanyFiles/PR/202405130511_UCAL_Limited.pdf,data/text/UCAL__2024-05-28__care.txt,200,8320
+UCAL,2023-08-02,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/UcalLimited_August 02, 2023_RR_324555.html",data/text/UCAL__2023-08-02__crisil.txt,429,0
+UCAL,2023-01-27,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/UcalFuelSystemsLimited_January 27, 2023_RR_304538.html",data/text/UCAL__2023-01-27__crisil.txt,429,0
+UNOMINDA,2026-08-17,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144984,data/text/UNOMINDA__2026-08-17__icra.txt,200,4716
+UCAL,2023-09-06,care,https://www.careratings.com/upload/CompanyFiles/PR/202309120911_UCAL_Limited.pdf,data/text/UCAL__2023-09-06__care.txt,200,17200
+UNOMINDA,2025-07-04,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136193,data/text/UNOMINDA__2025-07-04__icra.txt,200,4748
+UNOMINDA,2023-09-18,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=122231,data/text/UNOMINDA__2023-09-18__icra.txt,200,4682
+UNOMINDA,2026-03-12,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141532,data/text/UNOMINDA__2026-03-12__icra.txt,200,4656
+UNOMINDA,2023-08-31,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=122044,data/text/UNOMINDA__2023-08-31__icra.txt,200,4682
+UNOMINDA,2024-04-02,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=126776,data/text/UNOMINDA__2024-04-02__icra.txt,200,4631
+WHEELS,2026-10-23,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=146486,data/text/WHEELS__2026-10-23__icra.txt,200,4665
+WHEELS,2026-02-18,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141009,data/text/WHEELS__2026-02-18__icra.txt,200,4659
+WHEELS,2025-02-21,fitch,https://www.indiaratings.co.in/pressrelease/75177,data/text/WHEELS__2025-02-21__fitch.txt,200,78
+WHEELS,2026-02-20,fitch,https://www.indiaratings.co.in/pressrelease/81551,data/text/WHEELS__2026-02-20__fitch.txt,200,78
+WHEELS,2025-01-24,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=132606,data/text/WHEELS__2025-01-24__icra.txt,200,4693
+WHEELS,2024-03-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=126692,data/text/WHEELS__2024-03-28__icra.txt,200,4636
+ZFSTEERING,2025-06-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=135978,data/text/ZFSTEERING__2025-06-26__icra.txt,200,4671
+ZFSTEERING,2026-08-04,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144806,data/text/ZFSTEERING__2026-08-04__icra.txt,200,4648
+ZFSTEERING,2022-11-29,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=116191,data/text/ZFSTEERING__2022-11-29__icra.txt,200,4654
+ZFSTEERING,2024-05-20,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=127574,data/text/ZFSTEERING__2024-05-20__icra.txt,200,4648
+ZFSTEERING,2023-03-21,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=118698,data/text/ZFSTEERING__2023-03-21__icra.txt,200,4648
+ZFSTEERING,2022-03-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=110790,data/text/ZFSTEERING__2022-03-28__icra.txt,200,4648
+ACGL,2025-09-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202509140907_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2025-09-04__care.txt,200,17984
+ACGL,2024-08-20,care,https://www.careratings.com/upload/CompanyFiles/PR/202408130836_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2024-08-20__care.txt,200,13470
+ACGL,2022-08-05,care,https://www.careratings.com/upload/CompanyFiles/PR/05082022062157_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2022-08-05__care.txt,200,15516
+ACGL,2023-08-02,care,https://www.careratings.com/upload/CompanyFiles/PR/202308120825_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2023-08-02__care.txt,200,14738
+ACGL,2026-10-08,care,https://www.careratings.com/upload/CompanyFiles/PR/202610121020_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2026-10-08__care.txt,200,17943
+ACGL,2021-08-02,care,https://www.careratings.com/upload/CompanyFiles/PR/02082021070738_Automobile_Corporation_of_Goa_Limited.pdf,data/text/ACGL__2021-08-02__care.txt,200,17332
+JAYBARMARU,2025-09-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=137497,data/text/JAYBARMARU__2025-09-09__icra.txt,200,4641
+JAYBARMARU,2022-05-30,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=112069,data/text/JAYBARMARU__2022-05-30__icra.txt,200,4744
+JAYBARMARU,2024-07-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=129067,data/text/JAYBARMARU__2024-07-26__icra.txt,200,4664
+JAYBARMARU,2023-05-29,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=120161,data/text/JAYBARMARU__2023-05-29__icra.txt,200,4726
+GABRIEL,2026-08-27,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_August 27_ 2026_RR_403968.html,data/text/GABRIEL__2026-08-27__crisil.txt,429,0
+JAYBARMARU,2021-05-21,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=103489,data/text/JAYBARMARU__2021-05-21__icra.txt,200,4664
+GABRIEL,2026-07-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_July 29_ 2026_RR_400977.html,data/text/GABRIEL__2026-07-29__crisil.txt,429,0
+JAYBARMARU,2020-06-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=95506,data/text/JAYBARMARU__2020-06-09__icra.txt,200,4658
+GABRIEL,2025-07-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_July 09_ 2025_RR_373339.html,data/text/GABRIEL__2025-07-09__crisil.txt,429,0
+GABRIEL,2024-09-20,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_September 20_ 2024_RR_352580.html,data/text/GABRIEL__2024-09-20__crisil.txt,429,0
+GABRIEL,2023-07-28,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_July 28, 2023_RR_323772.html",data/text/GABRIEL__2023-07-28__crisil.txt,429,0
+GABRIEL,2022-05-17,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/GabrielIndiaLimited_May 17, 2022_RR_285371.html",data/text/GABRIEL__2022-05-17__crisil.txt,429,0
+BANCOINDIA,2026-06-25,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BancoProductsIndiaLimited_June 25_ 2026_RR_395513.html,data/text/BANCOINDIA__2026-06-25__crisil.txt,429,0
+BANCOINDIA,2025-10-29,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BancoProductsIndiaLimited_October 29_ 2025_RR_380316.html,data/text/BANCOINDIA__2025-10-29__crisil.txt,429,0
+BANCOINDIA,2025-09-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Banco Products India Limited-RU-30-09-2025.pdf,data/text/BANCOINDIA__2025-09-30__crisil.txt,429,0
+BANCOINDIA,2024-07-31,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BancoProductsIndiaLimited_July 31_ 2024_RR_341081.html,data/text/BANCOINDIA__2024-07-31__crisil.txt,429,0
+BELRISE,2026-03-27,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_March 27_ 2026_RR_392362.html,data/text/BELRISE__2026-03-27__crisil.txt,429,0
+BELRISE,2026-02-10,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_February 10_ 2026_RR_388119.html,data/text/BELRISE__2026-02-10__crisil.txt,429,0
+BELRISE,2025-12-08,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_December 08_ 2025_RR_384847.html,data/text/BELRISE__2025-12-08__crisil.txt,429,0
+BELRISE,2025-09-10,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_September 10_ 2025_RR_378166.html,data/text/BELRISE__2025-09-10__crisil.txt,429,0
+BANCOINDIA,2026-07-06,care,https://www.careratings.com/upload/CompanyFiles/PR/202607120714_Banco_Products_(India)_Limited.pdf,data/text/BANCOINDIA__2026-07-06__care.txt,200,25452
+BELRISE,2025-03-17,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_March 17_ 2025_RR_364941.html,data/text/BELRISE__2025-03-17__crisil.txt,429,0
+BELRISE,2025-03-11,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BelriseIndustriesLimited_March 11_ 2025_RR_364467.html,data/text/BELRISE__2025-03-11__crisil.txt,429,0
+BANCOINDIA,2025-07-01,care,https://www.careratings.com/upload/CompanyFiles/PR/202507130755_Banco_Products_(India)_Limited.pdf,data/text/BANCOINDIA__2025-07-01__care.txt,200,20081
+MOTHERSON,2026-06-18,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SamvardhanaMothersonInternationalLimited_June 18_ 2026_RR_398205.html,data/text/MOTHERSON__2026-06-18__crisil.txt,429,0
+MOTHERSON,2026-08-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144868,data/text/MOTHERSON__2026-08-07__icra.txt,200,4689
+MOTHERSON,2026-03-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141456,data/text/MOTHERSON__2026-03-09__icra.txt,200,4728
+MOTHERSON,2025-06-18,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=135758,data/text/MOTHERSON__2025-06-18__icra.txt,200,4700
+BOSCHLTD,2016-01-04,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=3447,data/text/BOSCHLTD__2016-01-04__icra.txt,200,4619
+MOTHERSON,2025-06-18,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SamvardhanaMothersonInternationalLimited_June 18_ 2025_RR_371360.html,data/text/MOTHERSON__2025-06-18__crisil.txt,429,0
+MOTHERSON,2024-07-10,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SamvardhanaMothersonInternationalLimited_July 10_ 2024_RR_347773.html,data/text/MOTHERSON__2024-07-10__crisil.txt,429,0
+ZFCVINDIA,2016-01-12,fitch,https://www.indiaratings.co.in/pressrelease/21999,data/text/ZFCVINDIA__2016-01-12__fitch.txt,200,78
+SJS,2026-02-24,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=141148,data/text/SJS__2026-02-24__icra.txt,200,4667
+ZFCVINDIA,2015-06-08,fitch,https://www.indiaratings.co.in/pressrelease/1860,data/text/ZFCVINDIA__2015-06-08__fitch.txt,200,78
+SJS,2023-05-10,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=119839,data/text/SJS__2023-05-10__icra.txt,200,4645
+SJS,2025-01-21,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=132500,data/text/SJS__2025-01-21__icra.txt,200,4679
+SJS,2022-08-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=113999,data/text/SJS__2022-08-25__icra.txt,200,4638
+SJS,2023-11-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=123749,data/text/SJS__2023-11-27__icra.txt,200,4667
+ASAHIINDIA,2026-04-27,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AsahiIndiaGlassLimited_April 27_ 2026_RR_394249.html,data/text/ASAHIINDIA__2026-04-27__crisil.txt,429,0
+ASAHIINDIA,2025-10-07,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AsahiIndiaGlassLimited_October 07_ 2025_RR_376498.html,data/text/ASAHIINDIA__2025-10-07__crisil.txt,429,0
+SEDEMAC,2026-09-15,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=145585,data/text/SEDEMAC__2026-09-15__icra.txt,200,4746
+SEDEMAC,2025-06-27,fitch,https://www.indiaratings.co.in/pressrelease/77396,data/text/SEDEMAC__2025-06-27__fitch.txt,200,78
+SEDEMAC,2024-07-30,fitch,https://www.indiaratings.co.in/pressrelease/71647,data/text/SEDEMAC__2024-07-30__fitch.txt,200,78
+SEDEMAC,2023-06-08,fitch,https://www.indiaratings.co.in/pressrelease/62251,data/text/SEDEMAC__2023-06-08__fitch.txt,200,78
+SEDEMAC,2022-03-29,fitch,https://www.indiaratings.co.in/pressrelease/57944,data/text/SEDEMAC__2022-03-29__fitch.txt,200,78
+ASAHIINDIA,2026-07-09,care,https://www.careratings.com/upload/CompanyFiles/PR/202607120743_Asahi_India_Glass_Limited.pdf,data/text/ASAHIINDIA__2026-07-09__care.txt,200,30626
+KROSS,2026-06-01,fitch,https://www.indiaratings.co.in/pressrelease/83241,data/text/KROSS__2026-06-01__fitch.txt,200,78
+ASAHIINDIA,2024-09-19,care,https://www.careratings.com/upload/CompanyFiles/PR/202409120914_Asahi_India_Glass_Limited.pdf,data/text/ASAHIINDIA__2024-09-19__care.txt,200,23749
+ASAHIINDIA,2026-01-12,care,https://www.careratings.com/upload/CompanyFiles/PR/202601130143_Asahi_India_Glass_Limited.pdf,data/text/ASAHIINDIA__2026-01-12__care.txt,200,27162
+ASAHIINDIA,2025-07-08,care,https://www.careratings.com/upload/CompanyFiles/PR/202507130728_Asahi_India_Glass_Limited.pdf,data/text/ASAHIINDIA__2025-07-08__care.txt,200,25890
+SEDEMAC,2025-06-20,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=135807,data/text/SEDEMAC__2025-06-20__icra.txt,200,4713
+KROSS,2024-09-04,fitch,https://www.indiaratings.co.in/pressrelease/72029,data/text/KROSS__2024-09-04__fitch.txt,200,78
+KROSS,2024-01-08,fitch,https://www.indiaratings.co.in/pressrelease/67935,data/text/KROSS__2024-01-08__fitch.txt,200,78
+KROSS,2023-09-12,fitch,https://www.indiaratings.co.in/pressrelease/63297,data/text/KROSS__2023-09-12__fitch.txt,200,78
+ROLEXRINGS,2026-06-19,fitch,https://www.indiaratings.co.in/pressrelease/83809,data/text/ROLEXRINGS__2026-06-19__fitch.txt,200,78
+KROSS,2024-10-07,care,https://www.careratings.com/upload/CompanyFiles/PR/202410141024_Kross_Limited.pdf,data/text/KROSS__2024-10-07__care.txt,200,9084
+KROSS,2025-12-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202512141227_Kross_Limited.pdf,data/text/KROSS__2025-12-04__care.txt,200,9124
+ROLEXRINGS,2025-02-25,care,https://www.careratings.com/upload/CompanyFiles/PR/202502120222_Rolex_Rings_Limited.pdf,data/text/ROLEXRINGS__2025-02-25__care.txt,200,5124
+ROLEXRINGS,2024-02-27,fitch,https://www.indiaratings.co.in/pressrelease/68599,data/text/ROLEXRINGS__2024-02-27__fitch.txt,200,78
+ROLEXRINGS,2026-10-30,care,https://www.careratings.com/upload/CompanyFiles/PR/202610141020_Rolex_Rings_Limited.pdf,data/text/ROLEXRINGS__2026-10-30__care.txt,200,22269
+ROLEXRINGS,2025-08-04,care,https://www.careratings.com/upload/CompanyFiles/PR/202508130845_Rolex_Rings_Limited.pdf,data/text/ROLEXRINGS__2025-08-04__care.txt,200,20767
+ROLEXRINGS,2024-07-24,care,https://www.careratings.com/upload/CompanyFiles/PR/202407120701_Rolex_Rings_Limited.pdf,data/text/ROLEXRINGS__2024-07-24__care.txt,200,19672
+LGBBROSLTD,2025-07-17,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136405,data/text/LGBBROSLTD__2025-07-17__icra.txt,200,4672
+LGBBROSLTD,2026-07-16,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=144241,data/text/LGBBROSLTD__2026-07-16__icra.txt,200,4649
+LGBBROSLTD,2024-07-29,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=129089,data/text/LGBBROSLTD__2024-07-29__icra.txt,200,4648
+LGBBROSLTD,2023-07-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=121303,data/text/LGBBROSLTD__2023-07-28__icra.txt,200,4648
+LGBBROSLTD,2022-07-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=113035,data/text/LGBBROSLTD__2022-07-07__icra.txt,200,4680
+SUNCLAY,2025-04-23,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram_ClaytonLimited_April 23_ 2025_RR_367366.html,data/text/SUNCLAY__2025-04-23__crisil.txt,429,0
+SUNCLAY,2026-01-22,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram_ClaytonLimited_January 22_ 2026_RR_387569.html,data/text/SUNCLAY__2026-01-22__crisil.txt,429,0
+SUNCLAY,2026-05-28,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram_ClaytonLimited_May 28_ 2026_RR_397027.html,data/text/SUNCLAY__2026-05-28__crisil.txt,429,0
+LGBBROSLTD,2022-06-13,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=112319,data/text/LGBBROSLTD__2022-06-13__icra.txt,200,4727
+SUNCLAY,2025-03-19,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram_ClaytonLimited_March 19_ 2025_RR_365110.html,data/text/SUNCLAY__2025-03-19__crisil.txt,429,0
+SUNCLAY,2024-10-09,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram_ClaytonLimited_October 09_ 2024_RR_354590.html,data/text/SUNCLAY__2024-10-09__crisil.txt,429,0
+UNIPARTS,2026-05-07,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=142900,data/text/UNIPARTS__2026-05-07__icra.txt,200,4638
+SUNCLAY,2024-02-19,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Sundaram-ClaytonLimited_February 19, 2024_RR_337615.html",data/text/SUNCLAY__2024-02-19__crisil.txt,429,0
+UNIPARTS,2025-09-18,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=137686,data/text/UNIPARTS__2025-09-18__icra.txt,200,4636
+UNIPARTS,2024-01-08,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=124695,data/text/UNIPARTS__2024-01-08__icra.txt,200,4638
+UNIPARTS,2025-04-25,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=134724,data/text/UNIPARTS__2025-04-25__icra.txt,200,4638
+UNIPARTS,2023-01-16,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=117296,data/text/UNIPARTS__2023-01-16__icra.txt,200,4664
+UNIPARTS,2022-01-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=109619,data/text/UNIPARTS__2022-01-28__icra.txt,200,4667
+VARROC,2023-10-11,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=122855,data/text/VARROC__2023-10-11__icra.txt,200,4642
+VARROC,2025-04-25,fitch,https://www.indiaratings.co.in/pressrelease/76327,data/text/VARROC__2025-04-25__fitch.txt,200,78
+VARROC,2024-07-01,fitch,https://www.indiaratings.co.in/pressrelease/70683,data/text/VARROC__2024-07-01__fitch.txt,200,78
+VARROC,2026-04-24,fitch,https://www.indiaratings.co.in/pressrelease/82780,data/text/VARROC__2026-04-24__fitch.txt,200,78
+VARROC,2023-08-22,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=121704,data/text/VARROC__2023-08-22__icra.txt,404,0
+VARROC,2023-08-18,fitch,https://www.indiaratings.co.in/pressrelease/63036,data/text/VARROC__2023-08-18__fitch.txt,200,78
+HINDCOMPOS,2026-08-03,smera,https://connect.acuite.in/fcompany-details/HINDUSTAN_COMPOSITES_LIMITED/3rd_Aug_26,data/text/HINDCOMPOS__2026-08-03__smera.txt,403,0
+HINDCOMPOS,2025-09-03,smera,https://www.acuite.in/documents/ratings/revised/18243-RR-20250903.pdf,data/text/HINDCOMPOS__2025-09-03__smera.txt,404,0
+HINDCOMPOS,2024-06-05,smera,https://www.acuite.in/documents/ratings/revised/18243-RR-20240605.pdf,data/text/HINDCOMPOS__2024-06-05__smera.txt,200,13633
+HINDCOMPOS,2022-01-12,smera,https://www.acuite.in/documents/ratings/revised/18243-RR-20220112.pdf,data/text/HINDCOMPOS__2022-01-12__smera.txt,200,17030
+HINDCOMPOS,2025-09-25,smera,https://www.acuite.in/documents/ratings/revised/18243-RR-20250925.pdf,data/text/HINDCOMPOS__2025-09-25__smera.txt,200,14810
+HINDCOMPOS,2023-03-08,smera,https://www.acuite.in/documents/ratings/revised/18243-RR-20230308.pdf,data/text/HINDCOMPOS__2023-03-08__smera.txt,200,14165
+FMGOETZE,2025-04-08,care,https://www.careratings.com/upload/CompanyFiles/PR/202504150436_Federal_Mogul_Goetze_India_Limited.pdf,data/text/FMGOETZE__2025-04-08__care.txt,200,23917
+FMGOETZE,2022-01-06,care,https://www.careratings.com/upload/CompanyFiles/PR/06012022065503_Federal_Mogul_Goetze_India_Limited.pdf,data/text/FMGOETZE__2022-01-06__care.txt,200,16171
+FMGOETZE,2021-03-24,care,https://www.careratings.com/upload/CompanyFiles/PR/06012022065503_Federal_Mogul_Goetze_India_Limited.pdf,data/text/FMGOETZE__2021-03-24__care.txt,200,16171
+EXIDEIND,2026-06-11,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=143548,data/text/EXIDEIND__2026-06-11__icra.txt,200,4640
+FMGOETZE,2020-03-31,care,https://www.careratings.com/upload/CompanyFiles/PR/Federal Mogul Goetze (India) Limited-03-31-2020.pdf,data/text/FMGOETZE__2020-03-31__care.txt,200,11679
+EXIDEIND,2025-06-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=136053,data/text/EXIDEIND__2025-06-27__icra.txt,200,4620
+EXIDEIND,2024-07-09,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=128678,data/text/EXIDEIND__2024-07-09__icra.txt,200,4638
+EXIDEIND,2024-06-28,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=128508,data/text/EXIDEIND__2024-06-28__icra.txt,200,4664
+EXIDEIND,2022-06-27,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=112747,data/text/EXIDEIND__2022-06-27__icra.txt,200,4640
+ARE&M,2026-03-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaEnergyAndMobilityLimited_March 30_ 2026_RR_392344.html,data/text/AREandM__2026-03-30__crisil.txt,429,0
+EXIDEIND,2023-06-26,icra,https://www.icra.in/Rationale/ShowRationaleReport/?Id=120621,data/text/EXIDEIND__2023-06-26__icra.txt,200,4641
+ARE&M,2024-12-30,crisil,https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaEnergyAndMobilityLimited_December 30_ 2024_RR_360250.html,data/text/AREandM__2024-12-30__crisil.txt,429,0
+ARE&M,2023-11-03,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaEnergyAndMobilityLimited_November 03, 2023_RR_326514.html",data/text/AREandM__2023-11-03__crisil.txt,429,0
+ARE&M,2023-05-31,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaBatteriesLimited_May 31, 2023_RR_320397.html",data/text/AREandM__2023-05-31__crisil.txt,429,0
+ARE&M,2023-02-09,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaBatteriesLimited_February 09, 2023_RR_311783.html",data/text/AREandM__2023-02-09__crisil.txt,429,0
+ARE&M,2022-07-01,crisil,"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AmaraRajaBatteriesLimited_July 01, 2022_RR_294516.html",data/text/AREandM__2022-07-01__crisil.txt,429,0
+FMGOETZE,2026-04-02,care,https://www.careratings.com/upload/CompanyFiles/PR/202604140442_Federal_Mogul_Goetze_India_Limited.pdf,data/text/FMGOETZE__2026-04-02__care.txt,502,0
+FMGOETZE,2024-03-11,care,https://www.careratings.com/upload/CompanyFiles/PR/202403130339_Federal_Mogul_Goetze_India_Limited.pdf,data/text/FMGOETZE__2024-03-11__care.txt,502,0

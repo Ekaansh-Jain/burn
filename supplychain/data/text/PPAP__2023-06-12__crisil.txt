@@ -1,0 +1,578 @@
+Rating Rationale
+Rating Rationale
+June 12, 2023 | Mumbai
+PPAP Automotive Limited
+Rating outlook revised to 'Negative'; Ratings reaffirmed
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.200 Crore
+Long Term Rating
+CRISIL A/Negative (Outlook revised from 'Stable'; Rating Reaffirmed)
+Short Term Rating
+CRISIL A1 (Reaffirmed)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has revised its outlook on the long-term bank facilities of PPAP Automotive Ltd (PPAP; a part of the PPAP group
+) to
+‘Negative’
+from ‘Stable’ while reaffirming the ratings at 'CRISIL
+A
+/CRISIL A
+1
+’.
+The outlook revision reflects the belief that the operating margin of PPAP group will remain under pressure over the medium term. The margin declined continuously to
+~
+8
+.5
+% in fiscal 2023
+from more than 15-20% in the past fiscals
+,
+leading to
+low
+return on capital employed (RoCE) of around 2.5% for fiscal 2023. The decline was driven by high overhead cost and inability to pass on the increase in raw material prices to custom
+ers
+along with continued
+losses in the subsidiary company
+and JV company.
+Improvement in the operating profitability to more than 1
+0
+% will remains a key monitorable over the medium term.
+However
+,
+the revenue of the company improved by around 21% to Rs.51
+1 crore in fiscal 2023 against Rs.421 crore in fiscal 202
+2
+, which is
+in line with expectations, the improvement
+in
+the
+revenue is due to overall
+growth
+in the automotive (auto) industr
+y
+. Further, as the
+demand of auto products is expected to remain stable
+along with other
+initiatives for business diversification may support the growth in future.
+F
+inancial risk profile should remain strong, with total outside liabilities to tangible networth ratio at ~0.
+7
+time and interest coverage ratio above
+4
+times in f
+iscal 202
+3
+and with no major debt-funded capital expenditure (capex) expected. Cash accrual is projected at
+over Rs 30
+-35
+crore per annum, sufficient to meet debt obligation of Rs
+.20-25
+crore over the medium term.
+The ratings continue to reflect PPAP's le
+adership position in the polyvinyl chloride (PVC)/thermo plastic olefins (TPO) auto components industry, along with strong relationships with large original equipment manufacturers (OEMs), and robust financial risk profile. These strengths are partially of
+fset by customer concentration in revenue and the exposure to volatility in raw material prices and foreign exchange (forex) rates.
+Analytical Approach
+CRISIL Ratings has combined the business and financial risk profiles of PPAP and its wholly owned s
+ubsidiaries and JV company: PPAP Technology Limited, Elpis Components Distributors Pvt Ltd. and
+PPAP Tokai India Rubber Pvt. Ltd.
+(Joint venture)
+.
+This is because all these entities, collectively referred to as the PPAP group, are under a common managemen
+t and have financial linkages.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Leadership in t
+he PVC/TPO profiles segment and strong relationships with large OEMs
+:
+PPAP is one of the largest players in the PVC/TPO-based profiles segment for the auto industry and is associated with industry leader, Maruti Suzuki India Ltd, besides Honda Cars India Lt
+d, Nissan Motor India Pvt Ltd, and Toyota Kirloskar Motor Pvt Ltd The company has been gradually diversifying their customer base and now caters to many OEMs. The strong market position has led to sustenance of the operating revenue at Rs
+.511
+crore
+in FY23
+.
+Robust financial risk profile
+:
+Strong
+n
+etworth
+of
+Rs. 295
+crores
+as on
+March 31, 202
+3
+due to continuous accretion of reserves.
+Debt protection metrics may remain strong, with interest coverage and net cash accrual to adjusted debt ratios of
+4
+times and 0
+.
+26
+time, respectively, for fiscal 202
+3
+.
+Furthermore, the company has limited working capital debt with average utilisation of
+~40
+%
+.
+With
+no major, debt-funded capex planned for the medium ter
+m the financial risk profile is expected to remain comfortable
+over the medium term.
+Weakness
+es
+:
+Customer concentration in revenue
+:
+The top two customers accounted for
+more than
+7
+0
+% of revenue in fiscal 202
+3
+. However, customer concentration reduced gradually over the past few years as last year the cumulative contribu
+tion of top two customers was
+79
+%. Furthermore, strong relationships with customers and preferred relationship with them has supported and protected PPAP from any customer-related issue and the company’s strategy of entering into new areas of growth such a
+s expansion in electric vehicle (EV) business, manufacturing of
+industrial products
+is expected to bring diversification and reduce customer concentration in the revenue profile. Adequate customer diversification, leading to reduction in client concentrati
+on risk, will be a key monitorable.
+Exposure to volatility in raw material prices and forex rates
+:
+The prices of key raw materials, PVC and other petrochemical derivatives, are volatile. Besides, as some raw material is imported, the company is susceptibl
+e to fluctuation in forex rates
+.
+Though imports have reduced gradually over the past few years, 20-25% of raw material is still imported and the company remains vulnerable to volatility in raw material prices and forex rates.
+The company is partially able
+to pass on the price hike to customers due to which the earnings before interest, taxes, depreciation, and amortization margin declined from more than 18% in fiscal 2019 to
+~8.5
+% in fiscal 202
+3
+. Further, the margin decline is because of the dip in sales, d
+irectly affecting the fixed cost absorption capacity of the company
+and also the continued losses in subsidiary and JV company.
+However, the company is undertaking initiatives to expand operations by entering into new areas of growth such as batteries for
+EV, industr
+ial products
+and
+aftermarket
+which are expected
+to grow in the coming fiscal
+and in turn improve profitability.
+I
+mprovement in operating scale and revival in the overall margin will remain key
+monitorable over the medium term.
+Liquidity
+: S
+trong
+Bank limit utilisation was 40% for the 12 months through March 2023. Cash accrual is expected at more than Rs 30
+-35
+crore per annum, sufficient to meet term debt obligation of Rs
+.20-25
+crore over the medium term. Current ratio was 1.
+1
+times as on Ma
+rch 31, 202
+3
+. Low gearing and moderate networth also support financial flexibility
+.
+Outlook
+:
+Negative
+CRISIL Ratings believes the operating margin of PPAP
+gro
+up
+will remain under pressure over the medium term.
+Rating Sensitivity factors
+Upward
+factors:
+Operating margin sustaining above
+10.5
+% over the medium term leading to increase in cash accruals.
+Stable
+financial risk profile of the company with gearing levels remains below 0.50 times.
+Downward
+factors:
+Operating margin declining below
+9
+%
+at group level
+, leading to cash accrual less than Rs 2
+5
+crore
+Large, debt-funded capex weaken capital structure of the company
+with gearing of more than
+1
+times
+.
+About the Company
+:
+PPAP
+Set up in 1978 as a partnership firm by Mr D
+C Jain, Ms Asha Jain, and Ms Vinay Kumari Jain, PPAP was reconstituted as a public-limited company, Precision Pipes and Profiles Company Ltd, in 1995. The company got its present name in May 2014. PPAP manufactures auto sealing systems and interior and ex
+terior injection moulded products. The company was listed on the National Stock Exchange and Bombay Stock Exchange in January 2008. The company's core business is in developing plastic and rubber-based extrusion systems as well as plastic injection molding
+systems for various industries. The company also in the business of developing high-precision plastic injection tooling
+About PPAP Automotive Technology Pvt. Ltd.
+PPAP Automotive has acquired PPAP Automotive Technology Pvt. Ltd. in 2019. The said company
+has been acquired established to start a new business of manufacturing of lithium battery pack for electric vehicles and for storage applications
+cars.
+About Elpis Components Distributors Pvt Ltd
+The company has commenced its operations from Nov 2019. Th
+e group is expanding its business
+opportunities into new market in the field of automotive component and accessories. It is mainly
+involved in the business of development and sale of spare parts and accessories in after markettrading of auto components. It
+has created a pan india new network/dealer channel.
+under this company and would purchase components from PPAP.
+About PPAP Tokai India Rubber Pvt. Ltd
+B
+ased automotive sealing systems by establishing a 50:50 Joint Venture (JV)-PPAP Tokai India Rubber
+Private Limited (PTI) with its Technology Partner Tokai Kogyo Co. Limited, Japan. It was set up to manufacture EPDM Automotive Body Sealing & Rubber and TPV Glass Run Channels
+auto ceiling parts which are rubber based.
+Key Financial Indicators
+*
+As on /
+for the period ended March 31
+202
+3
+2022
+Operating income
+Rs crore
+511
+421
+Reported profit after tax
+(PAT)
+Rs crore
+-5.94
+-0.78
+PAT margin
+%
+-1.16
+-0.18
+Adjusted debt/adjusted networth
+Times
+0.35
+0.37
+Interest coverage
+Times
+4.3
+5.2
+*Crisil adjust
+ed figures
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of the instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs. Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+NA
+Cash credit
+NA
+NA
+NA
+61
+NA
+CRISIL A/Negative
+NA
+Term loan
+NA
+NA
+Mar-26
+90.18
+NA
+CRISIL A/Negative
+NA
+Proposed term loan
+NA
+NA
+NA
+18.76
+NA
+CRISIL A/Negative
+NA
+Bank guarantee
+NA
+NA
+NA
+20.56
+NA
+CRISIL A1
+NA
+Letter of Credit
+NA
+NA
+NA
+9.5
+NA
+CRISIL A1
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+PPAP Automotive Limited
+100%
+Holding com
+pany
+PPAP Automotive Technology Private Limited
+100%
+Wholly owned subsidiary company
+Elpis Components Distributors Pvt Ltd
+100%
+Wholly owned subsidiary company
+PPAP Tokai India Rubber Pvt. Ltd
+50%
+Joint venture
+Annexure - Rating History for last 3 Years
+Current
+2023 (History)
+2022
+2021
+2020
+Start of 2020
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+169.94
+CRISIL A/Negative
+--
+08-04-22
+CRISIL A/Stable
+30-03-21
+CRISIL A+/Stable
+--
+CRISIL A+/Stable
+--
+--
+--
+08-02-21
+CRISIL A+/Stable
+--
+--
+--
+--
+--
+05-02-21
+CRISIL A+/Stable
+--
+--
+Non-Fund Based Facilities
+ST
+30.06
+CRISIL A1
+--
+08-04-22
+CRISIL A1
+30-03-21
+CRISIL A1
+--
+CRISIL A1
+--
+--
+--
+08-02-21
+CRISIL A1
+--
+--
+--
+--
+--
+05-02-21
+CRISIL A1
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Bank Guarantee
+14.35
+HDFC Bank Limited
+CRISIL A1
+Bank Guarantee
+1.21
+Axis Bank Limited
+CRISIL A1
+Bank Guarantee
+5
+ICICI Bank Limited
+CRISIL A1
+Cash Credit
+18
+HDFC Bank Limited
+CRISIL A/Negative
+Cash Credit
+22
+ICICI Bank Limited
+CRISIL A/Negative
+Cash Credit
+20
+HSBC Bank Plc
+CRISIL A/Negative
+Cash Credit
+1
+Axis Bank Limited
+CRISIL A/Negative
+Letter of Credit
+9.5
+ICICI Bank Limited
+CRISIL A1
+Proposed Term Loan
+18.76
+HDFC Bank Limited
+CRISIL A/Negative
+Term Loan
+1.73
+HDFC Bank Limited
+CRISIL A/Negative
+Term Loan
+21.93
+Axis Bank Limited
+CRISIL A/Negative
+Term Loan
+10
+ICICI Bank Limited
+CRISIL A/Negative
+Term Loan
+20.14
+HSBC Bank Plc
+CRISIL A/Negative
+Term Loan
+9.9
+HDFC Bank Limited
+CRISIL A/Negative
+Term Loan
+6.48
+Axis Bank Limited
+CRISIL A/Negative
+Term Loan
+20
+HDFC Bank Limited
+CRISIL A/Negative
+Criteria Details
+Links to related criteria
+CRISILs Bank Loan Ratings - process, scale and default recognition
+CRISILs Approach to Financial Ratios
+Understanding CRISILs Ratings and Rating Scales
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Aveek Datta
+Media Relations
+CRISIL Limited
+M: +91 99204 93912
+B: +91 22 3342 3000
+AVEEK.DATTA@crisil.com
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Nitin Kansal
+Director
+CRISIL Ratings Limited
+D:
++91 124 672 2154
+nitin.kansal@crisil.com
+Rachna Anand
+Associate Director
+CRISIL Ratings Limited
+D:
++91 22 4040 2953
+rachna.anand@crisil.com
+Naman Jain
+Manager
+CRISIL Ratings Limited
+B:
++91 124 672 2000
+Naman.Jain@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') that is provided by CRISIL Ratings Limited ('CRISIL Ratings'). To avoid doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for the jurisdiction of India only. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings providing or intending to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities referred to above. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+We are not aware that any user intends to rely on the report or of the manner in which a user intends to use the report. In preparing our report we have not taken into consideration the objectives or particular needs of any particular user. It is made abundantly clear that the report is not intended to and does not constitute an investment advice. The report is not an offer to sell or an offer to purchase or subscribe for any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The report should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in the US).
+Ratings from CRISIL Ratings are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold or sell any securities/instruments or to make any investment decisions. Any opinions expressed here are in good faith, are subject to change without notice, and are only current as of the stated date of their issue. CRISIL Ratings assumes no obligation to update its opinions following publication in any form or format although CRISIL Ratings may disseminate its opinions and analysis. The rating contained in the report is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment or other business decisions. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains.
+Neither CRISIL Ratings nor its affiliates, third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively, 'CRISIL Ratings Parties') guarantee the accuracy, completeness or adequacy of the report, and no CRISIL Ratings Party shall have any liability for any errors, omissions or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the report. EACH CRISIL RATINGS PARTY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall any CRISIL Ratings Party be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the regulations of the Securities and Exchange Board of India (and other applicable regulations, if any), are made available on its website, www.crisilratings.com (free of charge). Reports with more detail and additional information may be available for subscription at a fee - more details about ratings by CRISIL Ratings are available here: www.crisilratings.com.
+CRISIL Ratings and its affiliates do not act as a fiduciary. While CRISIL Ratings has obtained information from sources it believes to be reliable, CRISIL Ratings does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives and/or relies on in its reports. CRISIL Ratings has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process. CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For details please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+.
+Rating criteria by CRISIL Ratings are generally available without charge to the public on the CRISIL Ratings public website, www.crisilratings.com. For latest rating information on any instrument of any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+This report should not be reproduced or redistributed to any other person or in any form without prior written consent from CRISIL Ratings.
+All rights reserved @ CRISIL Ratings Limited. CRISIL Ratings is a wholly owned subsidiary of CRISIL Limited.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link:
+https://www.crisil.com/en/home/our-businesses/ratings/credit-ratings-scale.html

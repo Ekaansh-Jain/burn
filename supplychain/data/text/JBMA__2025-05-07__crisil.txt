@@ -1,0 +1,558 @@
+Rating Rationale
+Rating Rationale
+May 07, 2025 | Mumbai
+JBM Auto Limited
+Ratings reaffirmed at 'Crisil A/Stable/Crisil A1'
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.2020 Crore
+Long Term Rating
+Crisil A/Stable (Reaffirmed)
+Short Term Rating
+Crisil A1 (Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+Crisil
+Ratings
+has
+reaffirmed its
+‘Crisil A/Stable/Crisil A1’ ratings on the bank facilities of
+JBM Auto Limited
+(JAL)
+.
+The ratings continue to reflect the company’s leadership position with scaling up of e-bus manufacturing, diversified customer profile, longstanding presence in the auto components industry and average financial risk profile. These strengths are partially offset by high leverage in the bus manufacturing and operating division, large working capital requirement and susceptibility to volatility in raw material cost and pricing pressures from original equipment manufacturers (OEMs).
+In fiscal 2026, r
+evenue is expected to increase 9-10%, driven by 24-25% surge in the bus OEM division, fueled by a robust order book of more than 10,000 buses. However, the component and tooling division will experience flat sales due to moderate growth in the passenger vehicle (PV) and commercial vehicle (CV) segments. The operating margin was 12.5% as of December 2024 and is expected to remain stable at 12% over the medium term. Slower-than-expected ramp-up in execution of bus OEM orders due to delay in clearances, as see
+n last fiscal, will remain a key rating sensitivity factor.
+In fiscal 2025, an investor infused money into a wholly owned subsidiary of JAL, which will ease the burden of equity infusion into the GCC SPVs. The company's working capital has improved in fiscal 2025.
+Furthermore, capital expenditure (capex) plans over the next 2-3 years are likely to be limited to maintenance capex and some investments in JBM Green Energy Systems Pvt Ltd. As a result, the debt to earnings before interest, tax, depreciation a
+nd amortisation (Ebitda) ratio (Crisil adjusted) is anticipated to reduce from ~4.0 times in fiscal 2024 to 3.3 times in fiscal 2025 and 2.8-3 times over the medium term. The interest coverage ratio is expected to improve to above 3.5 times in fiscal 2026 (from expected 3.1 times in fiscal 2025 and from 3.5 times in fiscal 2024).
+Cash accrual is expected to increase to (Crisil adjusted) Rs 350-400 crore per annum over this and the next two fiscals. This will comfortably cover the annual consolidated debt o
+bligation of Rs 150-230 crore. Furthermore, the company has strong market capitalisation which provides financial flexibility.
+Lower-than-expected increase in cash accrual, resulting in sustained high leverage, will be a key monitorable.
+Analytical Approach
+Crisil Ratings has fully consolidated the business and financial risk profiles of JAL and its subsidiaries apart from its GCC SPVs. JBM Green and JBM EV Industries that are joint ventures of its subsidiary, JBM Electric Vehicle, have been fully consolidated because these entities are engaged in similar business, with a common management and strong business linkage. Other joint ventures have been consolidated to the extent of JAL’s shareholding.
+Crisil Ratings has moderately consolidated
+existing and upcoming GCC SPVs, to the extent of equity commitment and cash flow mismatches during operations.
+However, the SPV - Ecolife Green One Mobility Pvt Ltd has been fully consolidated as the company has provided an unconditional and irrevocable guarantee against the project debt undertaken in the SPV.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and the analytical treatment of consolidation
+.
+Key Rating Drivers & Detailed Description
+Strengths:
+Established business position with foray into e-bus manufacturing along with a diverse customer profile
+With longstanding relationships with Tata Motors Ltd (‘Crisil AA+/Stable/Crisil A1+’) and Mahindra & Mahindra Ltd (‘Crisil AAA/Stable/Crisil A1+’) as well as CV players, such as VE Commercial Vehicles Ltd, JAL has a solid base of repeat orders from these customers in the component business which accounts for ~55% of JAL Revenue. The tooling business accounts for about ~6% of revenue and is a high-margin b
+usiness, which continues to grow in line with the industry.
+The company has also ventured into the e-bus division since 2019 with 33% of the company’s revenue coming from this segment in fiscal 2024. With a strong focus on e-bus manufacturing and execution of over 2000 e-bus orders in the last three years, revenue contribution from this segment is expected to increase to 24-25% over the medium term, supporting diversification in revenue.
+Ramp-up in revenue from the OEM bus segment should support diversif
+ication of revenue and operating performance this fiscal.
+Longstanding presence in the auto components industry
+Industry presence of over four decades, robust product portfolio and established clientele will continue to support the business. JBM Group, by way of its various companies in the auto systems & assemblies domain, commands expertise in the design and manufacturing of key safety critical auto components such as chassis & suspension systems, exhaust systems, skin panels, BIW parts, high level ass
+emblies & sub-assemblies, etc. for the entire spectrum of vehicles including 2 wheelers, 3 wheelers, passenger cars, commercial vehicles, farm & construction equipments. The Group also does contract manufacturing of SUVs & MPVs for OEMs like Mahindra & Mahindra, etc. Also, its joint venture with Arcelor Mittal manufactures specialized products like Tailor Welded Blanks (TWBs).
+Average financial risk profile
+JAL's capex plans over the next 2-3 years are expected to be limited to maintenance capex and some investments in JBM Green Energy Systems Pvt Ltd. Additionally, infusion of funds from the investor within fiscal 2025 for the platform (JBM Ecolife Mobility Pvt Ltd) that houses its GCC SPVs, will ease the burden of equity infusion by JAL into the GCC SPVs, supporting the credit profile of JAL.
+The company’s networth is expected to improve to Rs. 1300-1600 crores over the medium term (Rs 1,100 crore networth
+expected in fiscal 2025 and Rs 919 crore in fiscal 2024). As a result, the debt to Ebitda ratio is expected to reduce to 3.3 times in fiscal 2025 and 2.8-3.0 times over the medium term from ~4.0 times in fiscal 2024. The interest coverage ratio is expected to improve to above (Crisil adjusted) 3.5 times in fiscal 2026 (estimated at 3.1 times in fiscal 2025 and 3.5 times in fiscal 2024).
+Lower-than-expected ramp-up in cash accrual, resulting in sustained high leverage, will be a key monitorable.
+Weaknesses
+:
+Working capital-intensive operations
+Consolidated gross current assets (GCAs) are expected to be ~180 days over the medium term (~180 days estimated as on March 31, 2025, and 233 days as on March 31, 2024).
+The working capital cycle is expected to improve in fiscal 2026 and over the medium term. The working capital cycle was impacted in fiscal 2024 as inventory and unbilled revenue levels surged significantly, despite stable receivables. To accommodate the increased working capital requirement, payables a
+lso rose.
+Any increase in working capital requirement due to the execution of bus orders resulting in a large increase in GCAs will remain monitorable.
+Exposure to cyclicality in demand in automobile industry
+JAL’s revenues, though diversified, remain closely aligned with performance and demand in automobile industry. Due to dependence on auto OEMs, JAL’s business prospects are exposed to cyclical demand patterns inherent to automobile industry and ability of auto OEMs to sustain their operating performa
+nce.
+Liquidity
+:
+Adequate
+Cash accrual is expected to increase to Rs 350-400 crore per annum over this and the next two fiscals. This will comfortably cover the annual consolidated debt obligation of Rs 150-230 crore. However, fund-based bank limit utilisation was moderate at ~67% of the sanctioned limit in the last 6 months ending March 2025.
+Outlook
+:
+Stable
+Crisil Ratings believes JAL will continue to benefit from its established position in the auto components industry, healthy relationships with OEMs and moderate financial risk profile.
+Rating
+S
+ensitivity
+F
+actors
+Upward factors
+Improvement in the financial risk profile, driven by healthy increase in cash accrual or equity infusion, for instance debt to Ebitda ratio below 2.8-3 times on sustained basis
+Significant improvement in the working capital cycle, leading to higher cushion in bank limits
+Expansion in scale of operations supported by improving customer and product diversity and increase in profitability on sustained basis
+Downward factors
+Larger-than-expected debt-funded capex or higher-than-expected corporate guarantees to the subsidiaries, adversely impacting credit metrics with debt to Ebitda ratio of 3.5-3.7 times on sustained basis
+Significantly weaker-than-expected profitability resulting in net cash accrual below Rs 250 crore on sustained basis
+Any delay in debt reduction due to continued stretch in the working capital cycle or increase in working capital requirement leading to lower cushion in bank limits
+About the Company
+Incorporated in 1996, JAL manufactures
+auto components, assemblies and sub-assemblies, tools, dies and moulds. It is primarily a tier-1 supplier of key systems and assemblies to the automotive OEM industry. JAL has 14 manufacturing facilities for
+auto metal components and tooling and one
+skill development centre (SDC). JAL, along with its subsidiaries, is also involved in the manufacturing of e-buses. It has set up various subsidiaries to cater to the increased demand from the e-bus segm
+ent.
+Key Financial Indicators
+Particulars
+Units
+2024*
+2023*
+Revenue
+Rs crore
+4511
+3741
+Profit after tax (PAT)
+Rs crore
+191
+117
+PAT margin
+%
+4.2
+3.1
+Adjusted gearing
+Times
+2.29
+1.97
+Adjusted interest coverage
+Times
+3.50
+3.61
+*
+Crisil Ratings-adjusted numbers
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name Of Instrument
+Date Of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs.Crore)
+Complexity Levels
+Rating Outstanding with Outlook
+NA
+Cash Credit & Working Capital Demand Loan
+NA
+NA
+NA
+966.00
+NA
+Crisil A/Stable
+NA
+Cash Credit & Working Capital Demand Loan*
+NA
+NA
+NA
+161.20
+NA
+Crisil A/Stable
+NA
+Letter of credit & Bank Guarantee
+NA
+NA
+NA
+454.00
+NA
+Crisil A1
+NA
+Proposed Long Term Bank Loan Facility
+NA
+NA
+NA
+48.19
+NA
+Crisil A/Stable
+NA
+Proposed Term Loan
+NA
+NA
+NA
+61.65
+NA
+Crisil A/Stable
+NA
+Term Loan
+NA
+NA
+30-Jun-27
+78.75
+NA
+Crisil A/Stable
+NA
+Term Loan
+NA
+NA
+31-Dec-29
+125.00
+NA
+Crisil A/Stable
+NA
+Term Loan
+NA
+NA
+31-Dec-25
+18.75
+NA
+Crisil A/Stable
+NA
+Term Loan
+NA
+NA
+31-Dec-25
+28.57
+NA
+Crisil A/Stable
+NA
+Term Loan
+NA
+NA
+30-Sep-30
+77.89
+NA
+Crisil A/Stable
+*Fully interchangeable with non-fund based
+Annexure
+-
+List of
+E
+ntities
+C
+onsolidated
+Names of entities consolidated
+Extent of consolidation
+Rationale for consolidation
+INDO Toolings Pvt Ltd
+Full
+Strong operational and financial linkages
+JBM Electric Vehicles Pvt Ltd
+Full
+Strong operational and financial linkages
+JBM Green Energy Systems Pvt Ltd
+Full
+Strong operational and financial linkages
+JBM EV Industries Pvt Ltd
+Full
+Strong operational and financial linkages
+JBM Ecolife Mobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+MH Ecolife Emobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+Ecolife Green One Mobility Pvt Ltd
+Full
+Corporate guarantee extended by JAL
+VT Emobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+JBM Ecolife Mobility Haryana Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+JBM Ecolife Mobility Surat Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+JBM Eco Tech Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+TL Ecolife Mobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+Ecolife Mobility Bhubaneswar Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+JBM EV Technologies Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+Ecolife Indraprastha Mobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+Ecolife GT Mobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+Ecolife Mobility Mumbai Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+KA Ecolife Mobility Pvt Ltd
+Moderate
+Support towards equity commitment and cash flow mismatch during operations
+JBM Ogihara Automotive India Ltd
+Equity method
+Proportionate consolidation
+JBM Ogihara Die Tech Pvt Ltd
+Equity method
+Proportionate consolidation
+Annexure - Rating History for last 3 Years
+Current
+2025 (History)
+2024
+2023
+2022
+Start of 2022
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+1566.0
+Crisil A/Stable
+--
+13-12-24
+Crisil A/Stable
+15-09-23
+Crisil A/Stable
+05-08-22
+Crisil A/Stable
+Crisil A/Stable
+--
+--
+--
+--
+29-07-22
+Crisil A/Stable
+--
+Non-Fund Based Facilities
+ST
+454.0
+Crisil A1
+--
+13-12-24
+Crisil A1
+15-09-23
+Crisil A1
+05-08-22
+Crisil A1
+Crisil A1
+--
+--
+--
+--
+29-07-22
+Crisil A1
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Cash Credit & Working Capital Demand Loan
+&
+115
+DBS Bank India Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+50
+Kotak Mahindra Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+&
+46.2
+CTBC Bank Co Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+26.81
+IndusInd Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+40
+Qatar National Bank (Q.P.S.C.)
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+120
+IDFC FIRST Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+144.19
+IndusInd Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+117
+HDFC Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+200
+YES Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+1
+ICICI Bank Limited
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+150
+Indian Bank
+Crisil A/Stable
+Cash Credit & Working Capital Demand Loan
+117
+Axis Bank Limited
+Crisil A/Stable
+Letter of credit & Bank Guarantee
+50
+Kotak Mahindra Bank Limited
+Crisil A1
+Letter of credit & Bank Guarantee
+60
+RBL Bank Limited
+Crisil A1
+Letter of credit & Bank Guarantee
+24
+Axis Finance Limited
+Crisil A1
+Letter of credit & Bank Guarantee
+75
+Bank of Bahrain and Kuwait B.S.C.
+Crisil A1
+Letter of credit & Bank Guarantee
+56
+ICICI Bank Limited
+Crisil A1
+Letter of credit & Bank Guarantee
+120
+IndusInd Bank Limited
+Crisil A1
+Letter of credit & Bank Guarantee
+69
+HDFC Bank Limited
+Crisil A1
+Proposed Long Term Bank Loan Facility
+48.19
+Not Applicable
+Crisil A/Stable
+Proposed Term Loan
+61.65
+Not Applicable
+Crisil A/Stable
+Term Loan
+125
+IDFC FIRST Bank Limited
+Crisil A/Stable
+Term Loan
+28.57
+RBL Bank Limited
+Crisil A/Stable
+Term Loan
+77.89
+Axis Bank Limited
+Crisil A/Stable
+Term Loan
+78.75
+Axis Finance Limited
+Crisil A/Stable
+Term Loan
+18.75
+CTBC Bank Co Limited
+Crisil A/Stable
+&Fully interchangeable with Non fund based
+Criteria Details
+Links to related criteria
+Basics of Ratings (including default recognition, assessing information adequacy)
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios)
+Criteria for consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Kartik Behl
+Media Relations
+Crisil Limited
+M: +91 90043 33899
+B: +91 22 6137 3000
+kartik.behl@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+Manish Kumar Gupta
+Senior Director
+Crisil Ratings Limited
+B:
++91 22 6137 3000
+manish.gupta@crisil.com
+Gautam Shahi
+Director
+Crisil Ratings Limited
+B:
++91 124 672 2000
+gautam.shahi@crisil.com
+Maninder Singh
+Rating Analyst
+Crisil Ratings Limited
+B:
++91 124 672 2000
+Maninder.Singh1@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

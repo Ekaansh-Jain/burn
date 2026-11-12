@@ -1,0 +1,208 @@
+Press Release
+Automobile Corporation of Goa Limited
+August 20, 2024
+Facilities/Instruments Amount (₹ crore) Rating1 Rating Action
+Long-term bank facilities 10.00 CARE AA-; Stable Reaffirmed
+Short-term bank facilities 3.00 CARE A1+ Reaffirmed
+Details of instruments/facilities in Annexure-1.
+Rationale and key rating drivers
+The ratings assigned to the bank facilities of Automobile Corporation of Goa Limited (ACGL) reflects sustained improvements in
+its operating and financial performance. Ratings also factor in the strong linkages with Tata Motors Limited (TML; rated CARE
+AA+; Stable/CARE A1+), which holds 48.98% stake in ACGL as on July 22, 2024. The ratings continue to factor in its position as
+a strategic supplier to TML and meeting ~45-50% of TML’s requirement for bus body. This strategic partnership has led to a
+significant portion of ACGL's revenue being sourced from TML.
+However, the ratings are constrained company’s unutilized capacity, exposure to volatile commodity prices and cyclicality in the
+commercial vehicles industry.
+Rating sensitivities: Factors likely to lead to rating actions
+Positive factors
+• Significant improvement in capacity utilization leading to sharp improvement in revenue and operating margins around 10%
+on a sustained basis
+• Substantial increase in the proportion of TML’s buses supplied by ACGL
+Negative factors
+• Any weakening of credit profile or weakening of linkages with TML
+• Any large debt funded capital expenditure deteriorating its overall gearing ratio over 0.50x on a sustained basis
+Analytical approach: Standalone
+Factoring the strong operational and managerial linkages with TML. For arriving at the ratings, CARE Ratings Limited (CARE
+Ratings) has used its notch-up framework, considering the support derived from being part of TML.
+Outlook: Stable
+CARE Ratings has assigned a stable outlook to ACGL's facilities due to its strong operational and managerial linkages with TML,
+coupled with sustained growth in its business and a strong financial profile. ACGL is expected to further improve its scale, driven
+by higher demand for buses from TML.
+Detailed description of the key rating drivers:
+Key strengths
+Strong operational linkages and management representation derived from Tata Motors Limited (TML)
+ACGL enjoys strong operational linkages with TML, being one of its leading suppliers for bus body requirements, contributing
+~45-50% of TML’s ICE bus body needs. As a part of the Tata group, ACGL benefits from managerial support, board representation,
+and the expertise of the larger organisation. Mr. Girish Wagh, Executive Director of TML, is also the Non-Executive Non-
+Independent Director of ACGL. The company derives the majority of its sales revenue from TML, accounting for 91.8% of the
+Total Revenue in FY24. Additionally, the company keeps Inter-Corporate Deposits (ICDs) with TML, which are callable in 2-3 days.
+These operational linkages and management representation underscore ACGL’s close ties with TML.
+1Complete definition of the ratings assigned are available at www.careedge.in and other CARE Ratings Ltd.’s publications
+1 CARE Ratings Ltd.
+Press Release
+Improved Business Risk Profile in FY24
+ACGL operates with a bus-building capacity of 10,000 units per year at 65% utilisation. In FY24, ACGL's Total Revenue increased
+by 15.81% to ₹586.23 crore, driven by improved sales realisations, higher volumes, and better capacity utilisation. The company
+achieved its highest-ever bus sales, marking a strong performance. The Bus body building division remains the primary revenue
+contributor, while the Pressing division also showed growth. PBILDT margins improved by 150 bps to 7.62% in FY24, supported
+by increased volumes, reduced costs, and a flexible pricing strategy with TML. With Q1FY25 revenue surging by 35.19% to
+₹207.31 crore, ACGL’s business risk profile appears favourable, indicating strong growth prospects for the remainder of FY25.
+Comfortable capital structure and debt coverage indicators
+The company is net debt-free and has no long-term debt obligations, reflecting a strong financial position. It has secured a bill
+discounting facility from bank, which further enhances its liquidity. ACGL has placed Inter-Corporate Deposits (ICDs) worth ₹92
+crore with TML and is expected to continue doing so, leveraging its strong relationship with TML. The company’s overall gearing
+improved to 0.29x in FY24, supported by prudent financial management. CARE Ratings expects that the company’s capital
+structure will remain strong in near to medium term in the absence of any major debt funded capex plans.
+Liquidity: Strong
+The company’s liquidity remains robust due to consistent accruals and liquid investments, with no long-term debt obligations. As
+of end-FY24, ACGL has extended callable ICDs to TML. The company also maintains a liquidity buffer of ₹40.54 crore in
+unencumbered cash and liquid investments. Additionally, ACGL has a cash credit limit with minimal utilization over the past 12
+months. With low gearing levels and minimal use of bank lines, the company has ample capacity to meet any additional working
+capital or capital expenditure needs.
+Key weaknesses
+Exposed to commodity price risk
+Buses are made from a variety of structural components used in the automotive industry, including iron, steel, rubber, fiberglass,
+aluminium, and composite materials. Steel, a major commodity for the bus body industry, has shown significant price volatility
+recently. Fluctuations in steel prices directly affect the company’s gross margins. For ACGL, raw materials consumed account for
+~70%-72% of Total Revenue, significantly impacting its profitability. To mitigate the effects of adverse movements in raw material
+prices, ACGL negotiates prices with TML on a quarterly basis. These negotiations help to manage the commodity risk and maintain
+the company’s financial stability.
+Cyclicality in the CV industry
+ACGL’s revenues are exposed to the highly cyclical bus segment within the CV segment, which depends on budget allocations for
+public transportation and economic conditions. This, coupled with the entry of various global manufacturers, has altered the
+market dynamics, making it a highly challenging business for original equipment manufacturers (OEMs) like TML, thereby
+impacting ACGL’s growth. Additionally, ACGL remains majorly dependent on TML for operations as it constitutes ~92% of ACGL’s
+TOI in FY24. The high contribution from a single customer restricts ACGL’s bargaining power.
+Applicable criteria
+Definition of Default
+Factoring Linkages Parent Sub JV Group
+Liquidity Analysis of Non-financial sector entities
+Rating Outlook and Rating Watch
+Manufacturing Companies
+Financial Ratios – Non financial Sector
+Auto Components & Equipments
+Short Term Instruments
+About the company and industry
+Industry classification
+Macro-Economic Sector Industry Basic Industry
+Indicator
+Consumer Discretionary Automobile and Auto Auto Components Auto Components &
+Components Equipments
+2 CARE Ratings Ltd.
+Press Release
+ACGL is promoted by Tata Motors Limited (TML) and Tata Motor Finance Limited (TMFL), a subsidiary of TML. TML holds ~48.98%
+direct stake and 0.79% stake through TMFL. The company engages in the manufacturing and sale of sheet metal components
+and bus bodies, with the majority of its revenue coming from the bus body building division. ACGL has five manufacturing facilities
+at four locations: Honda and Buimpal, Goa (with two facilities in Buimpal); Jejuri, Maharashtra; and Dharwad, Karnataka. As of
+FY24, ACGL has a bus building capacity of 10,000 buses per annum.
+Brief Financials (₹ crore) FY23 (A) FY24 (A) Q1FY25 (UA)
+Total operating income 506.21 586.23 203.90
+PBILDT 30.98 44.68 25.29
+PAT 26.29 37.42 18.35
+Overall gearing (times) 0.37 0.29 NA
+Interest coverage (times) 375.05 526.29 NA
+A: Audited; UA: Unaudited; NA: Not Available; Note: ‘the above results are latest financial results available’
+Status of non-cooperation with previous CRA: Not Applicable
+Any other information: Not Applicable
+Rating history for last three years: Please refer Annexure-2
+Covenants of rated instrument / facility: Detailed explanation of covenants of the rated instruments/facilities is given in
+Annexure-3
+Complexity level of various instruments rated: Annexure-4
+Lender details: Annexure-5
+Annexure-1: Details of instruments/facilities
+Rating
+Date of
+Maturity Size of the Assigned
+Name of the Issuance Coupon
+ISIN Date (DD- Issue along with
+Instrument (DD-MM- Rate (%)
+MM-YYYY) (₹ crore) Rating
+YYYY)
+Outlook
+Fund-based - CARE AA-;
+- - - 10.00
+LT-Cash Credit Stable
+Non-fund-
+based - ST- - - - 3.00 CARE A1+
+BG/LC
+3 CARE Ratings Ltd.
+Press Release
+Annexure-2: Rating history for the last three years
+Current Ratings Rating History
+Date(s) Date(s) Date(s) Date(s)
+Name of the
+and and and and
+Sr. No. Instrument/Bank Amount
+Rating(s) Rating(s) Rating(s) Rating(s)
+Facilities Type Outstanding Rating
+assigned assigned assigned assigned
+(₹ crore)
+in 2024- in 2023- in 2022- in 2021-
+2025 2024 2023 2022
+1)CARE 1)CARE 1)CARE
+CARE AA-; AA-; AA-;
+Fund-based - LT-
+1 LT 10.00 AA-; - Stable Stable Stable
+Cash Credit
+Stable (02-Aug- (05-Aug- (02-Aug-
+23) 22) 21)
+1)CARE 1)CARE 1)CARE
+Non-fund-based - CARE A1+ A1+ A1+
+2 ST 3.00 -
+ST-BG/LC A1+ (02-Aug- (05-Aug- (02-Aug-
+23) 22) 21)
+LT: Long term; ST: Short term
+Annexure-3: Detailed explanation of covenants of the rated instruments/facilities: Not Applicable
+Annexure-4: Complexity level of the various instruments rated
+Sr. No. Name of the Instrument Complexity Level
+1 Fund-based - LT-Cash Credit Simple
+2 Non-fund-based - ST-BG/LC Simple
+Annexure-5: Lender details
+To view the lender wise details of bank facilities please click here
+Note on the complexity levels of the rated instruments: CARE Ratings has classified instruments rated by it on the basis
+of complexity. Investors/market intermediaries/regulators or others are welcome to write to care@careedge.in for any
+clarifications.
+4 CARE Ratings Ltd.
+Press Release
+Contact us
+Media Contact Analytical Contacts
+Mradul Mishra Ranjan Sharma
+Director Senior Director
+CARE Ratings Limited CARE Ratings Limited
+Phone: +91-22-6754 3596 Phone: +91-22-6754 3453
+E-mail: mradul.mishra@careedge.in E-mail: ranjan.sharma@careedge.in
+Relationship Contact Hardik Manharbhai Shah
+Director
+Saikat Roy CARE Ratings Limited
+Senior Director Phone: +91-22-6754 3591
+CARE Ratings Limited E-mail: hardik.shah@careedge.in
+Phone: +91-22-6754 3404
+E-mail: saikat.roy@careedge.in Arti Roy
+Associate Director
+CARE Ratings Limited
+Phone: +91-22-6754 3657
+E-mail: arti.roy@careedge.in
+About us:
+Established in 1993, CARE Ratings is one of the leading credit rating agencies in India. Registered under the Securities and
+Exchange Board of India, it has been acknowledged as an External Credit Assessment Institution by the RBI. With an equitable
+position in the Indian capital market, CARE Ratings provides a wide array of credit rating services that help corporates raise capital
+and enable investors to make informed decisions. With an established track record of rating companies over almost three decades,
+CARE Ratings follows a robust and transparent rating process that leverages its domain and analytical expertise, backed by the
+methodologies congruent with the international best practices. CARE Ratings has played a pivotal role in developing bank debt
+and capital market instruments, including commercial papers, corporate bonds and debentures, and structured credit.
+Disclaimer:
+The ratings issued by CARE Ratings are opinions on the likelihood of timely payment of the obligations under the rated instrument and are not recommendations to
+sanction, renew, disburse, or recall the concerned bank facilities or to buy, sell, or hold any security. These ratings do not convey suitability or price for the investor.
+The agency does not constitute an audit on the rated entity. CARE Ratings has based its ratings/outlook based on information obtained from reliable and credible
+sources. CARE Ratings does not, however, guarantee the accuracy, adequacy, or completeness of any information and is not responsible for any errors or omissions
+and the results obtained from the use of such information. Most entities whose bank facilities/instruments are rated by CARE Ratings have paid a credit rating fee,
+based on the amount and type of bank facilities/instruments. CARE Ratings or its subsidiaries/associates may also be involved with other commercial transactions with
+the entity. In case of partnership/proprietary concerns, the rating/outlook assigned by CARE Ratings is, inter-alia, based on the capital deployed by the
+partners/proprietors and the current financial strength of the firm. The ratings/outlook may change in case of withdrawal of capital, or the unsecured loans brought
+in by the partners/proprietors in addition to the financial performance and other relevant factors. CARE Ratings is not responsible for any errors and states that it has
+no financial liability whatsoever to the users of the ratings of CARE Ratings. The ratings of CARE Ratings do not factor in any rating-related trigger clauses as per the
+terms of the facilities/instruments, which may involve acceleration of payments in case of rating downgrades. However, if any such clauses are introduced and
+triggered, the ratings may see volatility and sharp downgrades.
+For the detailed Rationale Report and subscription information,
+please visit www.careedge.in
+5 CARE Ratings Ltd.

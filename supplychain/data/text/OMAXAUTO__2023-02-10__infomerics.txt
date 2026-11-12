@@ -1,0 +1,183 @@
+Omax Autos Limited
+February 10, 2023
+Ratings
+Instrument / Amount Ratings Rating Complexity
+Facility (Rs.crore) Action Indicator
+LongTermBank 81.81 IVRBB-/Stable Assigned Simple
+Facilities (IVR Double B Minus with
+StableOutlook)
+Total 81.81 RupeesEightyOneCroreandEightyOneLakhs
+Only
+Detailsof FacilitiesareinAnnexure1
+DetailedRationale
+Informerics Valuations and Ratings Private Limited (IVR) has assigned long-term rating of
+IVRBB- with aStable Outlookforthebankloan facilities of OmaxAutosLimited(OAL).
+The rating draws comfort from its experienced promoters, OAL healthy market share with
+Tata Motors Limited (TML) and improvement in scale of operations. However, these
+strengths are partially offset by deterioration in operating margins, average financial risk
+profileandhighcustomer concentrationrisk.
+IVR has principally relied on the standalone audited financial results of Omax upto 31 March
+2022, H1FY23 and projected financials for FY23, FY24 and FY25, and publicly available
+information/clarificationsprovided bythecompany’smanagement.
+KeyRatingSensitivities:
+UpwardFactors
+ Growth in scale of operations with improvement in profitability and debt protection
+metricsona sustainedbasis.
+ Prudentworkingcapital management withimprovementin liquidityposition.
+1
+DownwardFactors
+ Moderation in scale of operations and/or profitability impacting the operating margin
+debt protection metricson asustainedbasis.
+ Moderationin thecapitalstructure.
+Listof Key Rating Drivers withDetailedDescription
+KeyRatingStrengths
+Experiencedpromoters
+The promoters, Mr. Jatender Kumar Mehta (Vice Chairman) and Bharat Kaushal (Chairman)
+hasa vast experience of aroundthreedecadesin thefield of Automobileand itscomponents
+Industry. Further, Mr. Devashish Mehta (Managing Director) has rich experience of around a
+decade. Extensive experience of the promoters underpins the business risk profile of the
+company and supports it to develop established relationship with its customers which
+enabled thecompanytoreceive repeatorders.
+OAL healthymarketsharewithTML
+OAL has healthy market share with Tata Motors Limited (TML), both in long-member
+manufacturing and frame assembly for medium and heavy trucks, and buses, as well as for
+frame assembly of intermediate CV running on compressed natural gas. Further, TML is
+major customerof Omax.
+Improvement inscaleof operations
+The total operating income (TOI) of the company has witnessed growth of ~38.00% during
+FY2022. TOI improved to Rs. 222.20 crore in FY2022 from Rs.161.49 crore in FY2021
+driven by upliftment of lockdown and commencement of production at Long Member Plant
+(fromJanuary2021).
+2
+KeyRatingWeaknesses
+Deteriorationinoperating margins
+The profitability of company in terms of absolute EBITDA remained negative at Rs. (-25.12)
+crore in FY2022 as against negative Rs. (-41.65) crore in FY2021. This was due to the
+operating losses in the railway segment. However, PAT improved from negative Rs. 10.10
+crore (-5.50%) in FY2021 to Rs. 23.46 crore (9.25%) in FY2022 onn account of gain from
+saleof propertiesduring FY2022.
+Averagefinancialriskprofile
+The company’s total debt has declined from Rs 239.29 crore in FY2021 to Rs 152.35 crore
+in FY2022 mainly due to reduction debt through sale of assets as well as lower utilization
+working capitallimits due tolower sales tothe railways segment. Thedebt protection metrics
+of the company remained stretched with negative interest coverage ratio in FY2022. This
+wasaccount onoperating lossesincurredbythecompanyduringFY2022.
+Highcustomer concentrationrisk
+The company’s revenue from its major customers’ accounts for ~93.00%, thereby indicating
+very high customer concentration risk. If the company loses any of its top customers, then
+performance of the company might be impacted over the medium term. However, the risk
+canbemitigated asmajor clientsaregovernmentbodies and reputedTatagroup.
+AnalyticalApproach: For arriving at theratings, IVRhasanalysed OAL’scredit profileby
+consideringthestandalonefinancial statementsofthecompany.
+ApplicableCriteria:
+RatingMethodologyfor Manufacturing Companies
+Financial Ratios& Interpretation (Non-Financial Sector)
+Criteriaforassigning rating outlook
+3
+Liquidity– Stretched
+The company’s liquidity stood stretched with low gross cash accruals of Rs.37.93 crore in
+FY2022 against its debt repayment of Rs. 54.95 crore. However, the company’s cashflows
+are supported by asset sale proceeds from Manesar and Dharuhera properties and sale of
+few machineries in FY2022. During FY22, debt obligations repayments are being done
+through the same. The company has a current ratio of 0.83x as of March 31, 2022, which
+stands below benchmark. However, the company is expected to generate cash accruals in
+the range of Rs.34.00 - 57.00 crore as against its debt servicing obligation of ~Rs.16.00-
+36.00 crore FY23-25. The company had an unencumbered cash balance of Rs. 17.06 crore
+ason March 31,2022.
+About theCompany
+Omax Autos Limited’s (OAL) was established in 1983. The company is into the business of
+manufacturing and selling sheet metal components related to automobile and Railways,
+having its manufacturing units in the state of Uttar Pradesh and Haryana. The company is a
+publicly listedcompany. OALcatersto TataMotorsLimitedforits CVsegment andis also an
+approvedsupplier toIndianRailways.
+Financials(Standalone):
+(Rs.Crore)
+For theyear ended* 31-03-2021 31-03-2022
+Audited Audited
+TotalOperatingIncome 161.49 222.20
+EBITDA -41.65 -25.12
+PAT -10.10 23.46
+TotalDebt 239.29 152.35
+Tangible Net worth 272.37 295.82
+EBITDAMargin (%) -25.79 -11.30
+PATMargin (%) -5.50 9.25
+OverallGearing Ratio (x) 0.88 0.51
+*ClassificationasperInfomerics’standards
+Statusof non-cooperationwithpreviousCRA: None.
+4
+Anyother information:Nil
+RatingHistory forlast threeyears:
+Sr. Type of CurrentRatings(Year2022-23) RatingHistoryfor thepast 3 years
+No. Facilities
+Type Amount Rating Date(s) & Date(s) & Date(s) &
+outstanding Rating(s) Rating(s) Rating(s)
+(Rs.Crore) assigned assigned assigned
+in2021-22 in2020-21 in2019-20
+1. TermLoan Long 43.83 IVRBB-/
+- - -
+Term Stable
+2. CashCredit Long 3.20 IVRBB-/
+- - -
+Term Stable
+3. ECLGS Long 14.78 IVRBB-/
+- - -
+Term Stable
+4. Bank Long 20.00 IVRBB-/
+- - -
+Guarantee Term Stable
+NameandContact Detailsof theRatingAnalyst:
+Name:Ms. Shilpa Yadav Name: Mr.Om PrakashJain
+Tel: (011)24601142 Tel: (011) 24601142
+Email: shilpa.yadav@infomerics.com Email: opjain@infomerics.com
+About Infomerics:
+Infomerics was founded in the year 1986 by a team of highly experienced and
+knowledgeable finance professionals. Subsequently, after obtaining Securities Exchange
+Board of India registration and RBI accreditation and the activities of the company are
+extendedtoExternal Credit Assessment Institution (ECAI).
+Adhering to best International Practices and maintaining high degree of ethics, the team of
+knowledgeableanalytical professionalsdeliver credible evaluationof rating.
+Infomerics evaluates wide range of debt instruments which helps corporates open horizons
+toraise capital and provides investorsenlightened investment opportunities. Thetransparent,
+robust and credible rating has gained the confidence of Investors and Banks. Infomerics has
+a pan India presence with Head Office in Delhi, branches in major cities and representatives
+in severallocations.
+5
+For moreinformationvisit www.infomerics.com.
+Disclaimer: Infomerics ratings are based on information provided by the issuer on an ‘as is where is’ basis.
+Infomericscreditratingsareanopiniononthecreditriskoftheissue/issuerandnota recommendationtobuy,
+hold or sell securities. Infomerics reserves the right to change, suspend or withdraw the credit ratings at any
+point in time. Infomerics ratings are opinions on financial statements based on information provided by the
+managementandinformationobtainedfromsourcesbelievedbyittobeaccurateandreliable.Thecreditquality
+ratings are not recommendations to sanction, renew, disburse or recall the concerned bank facilities or to buy,
+sell or hold any security. We, however, do not guarantee the accuracy, adequacy or completeness of any
+information,which we accepted and presumed to be free from misstatement, whether due to error or fraud. We
+arenotresponsibleforanyerrorsoromissionsorfortheresultsobtainedfromtheuseofsuchinformation.Most
+entitieswhosebankfacilities/instrumentsareratedbyushavepaidacreditratingfee,basedontheamountand
+type of bank facilities/instruments. In case of partnership/proprietary concerns/Association of Persons (AOPs),
+the rating assigned by Infomerics is based on the capital deployed by the partners/proprietor/ AOPs and the
+financial strength of the firm at present. The rating may undergo change in case of withdrawal of capital or the
+unsecured loans brought in by the partners/proprietor/ AOPs in addition to the financial performance and other
+relevantfactors.
+Annexure1: Detailsof Facilities
+Nameof Facility Dateof Coupon Maturity Sizeof Rating
+Issuance Rate/IRR Date Facility Assigned/
+(Rs.Crore) Outlook
+43.83 IVRBB-/Stable
+TermLoan - - -
+3.20 IVRBB-/Stable
+CashCredit - - -
+14.78 IVRBB-/Stable
+TermLoan-ECLGS - - -
+LongTermFacility- 20.00 IVRBB-/Stable
+- - -
+BankGuarantee
+Annexure2: Listof companies consideredfor consolidatedanalysis:Not Applicable
+Annexure3: Facilitywiselender details
+https://www.infomerics.com/admin/prfiles/OMAX-FEB23.pdf
+Annexure 4: Detailed explanation of covenants of the rated instrument/facilities: Not
+Applicable
+6
+Noteoncomplexity levelsof therated instrument:Infomerics hasclassified instruments
+ratedby it onthebasisof complexityanda notethereonis available atComplexityLevel of
+RatedInstruments/Facilities.
+7

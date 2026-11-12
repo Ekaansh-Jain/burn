@@ -1,0 +1,301 @@
+January 31, 2024
+Subros Limited: Long-term rating upgraded; short-term rating reaffirmed; outlook
+revised to Stable; rating withdrawn for commercial paper programme
+Summary of rating action
+Previous Rated Amount Current Rated Amount
+Instrument* Rating Action
+(Rs. crore) (Rs. crore)
+[ICRA]AA upgraded from [ICRA]AA-;
+Term loans 13.40 5.63 Outlook revised to Stable from
+Positive
+Non-Fund based facilities 95.00 50.00 [ICRA]A1+; reaffirmed
+[ICRA]AA upgraded from [ICRA]AA-/
+Fund based limits 80.00 80.00 [ICRA]A1+ reaffirmed; Outlook
+revised to Stable from Positive
+[ICRA]AA upgraded from [ICRA]AA-/
+Fund/Non Fund-based Limits 100.00 100.00 [ICRA]A1+ reaffirmed; Outlook
+revised to Stable from Positive
+[ICRA]AA upgraded from [ICRA]AA-/
+Unallocated limits 15.10 67.87 [ICRA]A1+ reaffirmed; Outlook
+revised to Stable from Positive
+Total bank facilities 303.50 303.50
+Commercial paper 40.00 00.00 [ICRA]A1+; reaffirmed and withdrawn
+*Instrument details are provided in Annexure-I
+Rationale
+The upgrade in the long-term rating for Subros Limited (Subros) factors in the expectation of continuation of strong operating
+performance of the company and a gradual uptick in its operating profit margin, which would aid in further strengthening the
+company’s credit profile. Subros reported a healthy YoY revenue growth of 25% (revenues of ~Rs. 2,806.3 crore) in FY2023 and
+7% (~Rs. 1,506.6 crore) in H1 FY2024, aided by healthy underlying demand in the passenger vehicle (PV) industry. Its medium-
+term growth prospects remain healthy, given its strong market position in the PV industry and continued demand in the
+industry. Further, the recent notification from the Government of India mandating air-conditioned (AC) fitted cabins in N2 and
+N3 trucks (both segments combined cover trucks having gross vehicle weight exceeding 3.5 tonnes), manufactured after
+October 2025, is expected to generate incremental revenue prospects for the company. While the company has significantly
+muted its sales in the home AC segment (sales of Rs. 3.5 crore in H1 FY2024 vis-à-vis ~Rs. 84.4 crore in FY2023) due to low
+segment margins amid inflationary pressure in the fixed price nature of contracts, an increase in contribution from the other
+business segments such as commercial vehicle (CVs) and Indian Railways is expected to support its earnings growth prospects.
+The ratings for Subros continue to factor in its strong market position in the thermal products segment of the PV industry,
+benefitting from its integrated manufacturing operations and strong product development capabilities, which is supported by
+technical support from Denso Corporation, Japan. The company is expected to continue its growth momentum on account of
+new product development for various models of PVs, buses, trucks and the railways segment. The ratings also continue to
+favourably factor in Subros’s healthy financial risk profile, characterised by a net negative debt position, strong debt coverage
+indicators (total debt/OPBDITA of 0.5 times, interest coverage of 24.8 times and DSCR of 8.8 times in FY2023) and a strong
+liquidity profile (cash and liquid investments of ~Rs. 124.5 crore as on December 31, 2023).
+The company’s business remains characterised by high customer and segment concentration risk with sales to Maruti Suzuki
+India Limited (MSIL, including indirect sales) accounting for ~84% of revenues in FY2023. The same is mitigated to an extent by
+its strong share of business (SOB) with MSIL and the OEM's market leadership in the PV segment. Moreover, business gains
+from the new segments are expected to lead to some moderation in the segment and client concentration risks going forward.
+www.icra .in 1
+Page |
+The company’s operating profitability, which remained impacted over FY2020-FY2023 (6% in FY2023) by inflationary pressures,
+improved to 7.8% in H1 FY2024, aided by the easing of commodity prices and sustained reduction in import content (stood at
+~16% of revenues as of September 2023 end). While profitability continues to remain susceptible to commodity and logistics
+costs owing to any adverse geopolitical situation, the operating margins and return indicators are expected to improve over
+the medium term, aided by operational efficiencies, cost efficiency measures as well as increased localisation. The company
+has moderate capex requirements at ~Rs. 100-120 crore per annum, which are to be largely funded through internal accruals.
+An expectation of improved cash accruals is likely to help the company maintain its strong financial risk profile and liquidity
+position.
+The Stable outlook on the long-term rating reflects ICRA’s expectation that the company’s revenue and earnings growth will
+remain at healthy levels over the medium term, supported by continued business awards from MSIL and diversification into
+new segments. ICRA expects the company to continue maintaining a conservative financial risk profile, which is reflected by
+its limited incremental dependence on external borrowings.
+The rating assigned to the commercial paper programme of Subros has been withdrawn at the request of the company and in
+accordance with ICRA’s policy on withdrawal of the credit rating, as there are no obligations outstanding against the rated
+instrument.
+Key rating drivers and their description
+Credit strengths
+Strong market share of thermal products in PV industry; ramp up in supplies for other businesses to aid sector diversification
+over medium term – Subros is a leading automotive thermal system manufacturer in the domestic market. Despite intense
+competition, it has successfully maintained a strong market position (an estimated market share of ~42% in the addressable
+product range in PV industry), benefitting from its integrated manufacturing and strong product development capabilities. The
+company has a strong SOB of ~75% with MSIL, which has improved over the recent past with an increase in the proportion of
+sales originating from the SUV segment, where Subros holds a higher share. Over the last few years, it has also expanded its
+product range to cater to other segments such as CV OEMs and Indian railways. The company has recently secured a tender
+of ~Rs. 25 crore for supplying roof mounted ACs for Indian railways coaches. Further, the mandated usage of AC cabins in
+N2/N3 category vehicles would provide the company with incremental revenue opportunities from FY2026. Accordingly, its
+dependence on the PV segment is expected to reduce over the medium term as supplies for new business segments scale up.
+Technical collaboration with Denso Corporation strengthens product development capabilities and competitive positioning
+- Subros has a technical collaboration with Denso Corporation, a leading automotive manufacturer in the global market. The
+company's strong product development capabilities, coupled with its considerable scale of operations and low-cost structure,
+have enabled it to sustain a strong market position over the years. Its strong parentage (Suzuki Motor Corporation and Denso
+Corporation hold ~12% and ~20% equity stakes, respectively) has also helped it maintain strong business relationships with its
+primary customer, MSIL, while aiding in establishing relationships with new customers.
+Healthy financial risk profile characterised by conservative capital structure and strong debt coverage indicators – Subros
+received an equity infusion of Rs. 209.88 crore from the issue of equity shares on a preferential basis to Denso Corporation,
+Japan, in December 2018. The company utilised the equity proceeds for part repayment of its debt and creditors, and the
+financial risk profile of the entity improved significantly following the infusion. It continues to maintain healthy cash and liquid
+investments (~Rs. 124.5 crore as on December 31, 2023) and is characterised by a net negative debt position and strong debt
+coverage indicators (total debt/OPBDITA of 0.5 times, interest coverage of 24.8 times and DSCR of 8.8 times in FY2023). The
+total outside liabilities/ total net worth ratio also remains at moderate levels of 0.8 times despite the presence of significant
+creditors on the company’s books. With capex requirements are expected to remain at moderate levels going forward, an
+expectation of strong cash accruals is likely to help the company maintain its strong financial risk profile and liquidity position.
+www.icra .in 2
+Page |
+Credit challenges
+High client and segment concentration risks with MSIL, driving more than 80% of sales – The company remains exposed to
+customer concentration risk with sales to MSIL accounting for ~84% (including indirect sales) of its revenues in FY2023.
+Although it results in high client concentration risk, the same is mitigated to a large extent by the OEM’s market leadership in
+the PV segment and Subros’ strong SOB across various models of the OEM. Even as the PV segment is likely to remain the
+mainstay of the company's business, the dependence is expected to reduce over the medium term as supplies for other
+business segments materially scale up.
+Moderate profitability and return indicators – The operating profitability moderated over FY2020-FY2023 (from earlier levels
+of 10-11%) led by multiple factors such as a change in product mix (with an increase in contribution from the home AC segment,
+which entailed relatively lower margins), high commodity prices, increase in diesel prices, logistics and packaging costs. The
+company’s operating margin, however, improved in Q2 FY2024 (8.6%) and is expected to gradually improve over the medium
+term, benefitting from economies of scale, measures to rationalise costs as well as increased localisation (operating margins
+to range between 8-10%). Following the moderation in RoCE in FY2021-FY2023 to the levels of 6.5-8.5%, an expectation of a
+gradual improvement in operating margin going forward is likely to help the company improve its return indicators (RoCE
+expected to improve to 14-16% over the medium term).
+Environmental and Social Risks
+Environmental considerations: Even as Subros is not directly exposed to climate-transition risks from a likelihood of tightening
+emission control requirements, as its products are used across several fuel powertrains, its automotive manufacturing
+customers remain highly exposed to the same. Accordingly, Subros’ prospects are linked to the ability of its customers to meet
+tightening emission requirements. The company may need to invest materially to develop products for electric vehicles, even
+as a transition towards the same in the segments catered is likely to be gradual. The company’s exposure to litigation/penalties
+from issues related to waste and water management remains relatively low.
+Social considerations: Subros, like most automotive-component suppliers, has a healthy dependence on human capital, and,
+thus, retaining human capital, maintaining healthy employee relations and supplier ecosystem remain essential for disruption-
+free operations for the entity. Another social risk that Subros faces pertains to product safety and quality, wherein instances
+of product recalls and high warranty costs may not only lead to financial implications but could also harm the reputation and
+create a more long-lasting adverse impact. In this regard, Subros’ strong track record in catering to leading automotive
+manufacturers underscores its ability to mitigate these risks to an extent. The company’s strong technological capabilities,
+aided by support from Denso Corporation, are expected to align its products with any changes in customer preferences
+effectively.
+Liquidity position: Strong
+The liquidity position of the entity is strong, supported by sizeable cash and liquid investments (~Rs. 124.5 crore of cash and
+liquid investments as on December 31, 2023), low utilisation of working capital facilities (average utilisation of 15% of the
+sanctioned limit for last 12 months ended December 2023) and expectation of strong cash accruals (more than Rs. 180 crore
+per annum). The entity continues to have more than sufficient liquidity to meet its marginal debt repayments (~Rs. 0.9 crore
+in Q4 FY2024 and ~Rs. 3.8 crore in FY2025) and moderate capex plans (~Rs. 100-120 crore p.a.).
+Rating sensitivities
+Positive factors – ICRA could upgrade Subros’ rating in case of a sustained improvement in its operational profile through
+material diversification of its automotive segment mix while maintaining healthy liquidity and credit metrics.
+Negative factors – ICRA could downgrade Subros’ rating in case of a significant deterioration in its operational profile led by a
+decline in SOB with key OEMs, especially MSIL. The ratings could also be downgraded in case of a deterioration in its
+profitability indicators or a higher-than-expected capital expenditure/ acquisition outlay, which may adversely impact its credit
+www.icra .in 3
+Page |
+profile. Specific credit metrics that may lead to a downgrade include Debt/OPBDITA greater than 1.0 times on a sustained
+basis.
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies Auto Components
+Policy on Withdrawal of Credit Ratings
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of Subros
+Consolidation/Standalone
+Limited. As on March 31, 2023, the company had a JV, which is enlisted in Annexure-2.
+About the company
+Incorporated in 1985, Subros Limited is a leading thermal system manufacturer of compressors, condensers, hoses and tubes.
+The company is promoted by the Suri family, whose business interests are spread across diverse industries, such as education,
+hospitality and telecom access products. While the company was initially focused on providing cooling solutions for the PV
+segment, over the years it has gradually expanded its product portfolio to include thermal systems for homes, bus cabins, truck
+cabins, railway coaches and driver cabins.
+The company’s manufacturing plants are located in Noida (Uttar Pradesh), Manesar (Haryana), Pune (Maharashtra), Chennai
+and Karsanpura (Gujarat). It also has a manufacturing and assembly unit for residential and commercial cooling products at
+Nalagarh (Himachal Pradesh). Subros has a technological agreement with Denso Corporation, Japan, a leading automotive
+manufacturer in the global market. Denso Corporation currently owns a 20% ownership interest in Subros. Suzuki Motor
+Corporation, Japan, also holds a ~11.96% share in the listed entity, with ~36.79% held by the Suri family.
+Key financial indicators (audited)
+Subros Consolidated FY2022 FY2023 H1-FY2024*
+Operating income 2,238.6 2,806.3 1,506.6
+PAT 32.2 47.8 40.1
+OPBDIT/OI 6.7% 6.0% 7.8%
+PAT/OI 1.4% 1.7% 2.7%
+Total outside liabilities/Tangible net worth (times) 0.8 0.8 -
+Total debt1/OPBDIT (times) 0.5 0.5 0.3
+Interest coverage (times) 13.8 24.8 28.5
+Source: Company, ICRA Research; *Limited results; All ratios as per ICRA’s calculations; Amount in Rs. crore
+PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+1 Total debt includes bank borrowings and outstanding supplier’s credit amount
+www.icra .in 4
+Page |
+Rating history for past three years
+Current rating (FY2024) Chronology of rating history for the past 3 years
+Amount Date & Date & Date &
+Amount outstanding rating in rating in rating in Date & rating in FY2021
+Instrument rated
+Type as of Dec 31, FY2024 FY2023 FY2022
+(Rs.
+crore) 2023 Jan 31, Jan 24, Feb 26, May 13, Apr 24,
+(Rs. crore) Jan 31, 2024
+2023 2022 2021 2020 2020
+[ICRA]AA [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+1 Term loans Long term 5.63 5.63
+(Stable) (Positive) (Stable) (Stable) (Stable) (Stable)
+Non Fund-
+2 Based Short term 50.00 NA [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Facilities
+Long [ICRA]AA [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Fund Based
+3 term/short 80.00 NA (Stable)/ (Positive)/ (Stable)/ (Stable)/ (Stable)/ (Stable)/
+Limits
+term [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Fund/Non Long [ICRA]AA [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+4 Fund-based term/short 100.00 NA (Stable)/ (Positive)/ (Stable)/ (Stable)/ (Stable)/ (Stable)/
+Limits term [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Long [ICRA]AA [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Unallocated
+5 term/short 67.87 NA (Stable)/ (Positive)/ (Stable)/ (Stable)/ - -
+Limits
+term [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Commercial [ICRA]A1+;
+6 Short term 40.00 NA [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Paper Withdrawn
+[ICRA]AA-
+NCD [ICRA]AA-
+7 Long term - - - - - - (Stable);
+Programme (Stable)
+withdrawn
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Term loans Simple
+Non-Fund based facilities Very simple
+Fund based limits Simple
+Fund/Non-Fund based limits Simple
+Unallocated limits Not applicable
+Commercial paper Very simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click Here
+www.icra .in 5
+Page |
+Annexure I: Instrument details
+Instrument Coupon Amount Rated
+ISIN Date of Issuance Maturity Current Rating and Outlook
+Name Rate (Rs. crore)
+NA Term Loan June 2020 NA June 2025 5.63 [ICRA]AA (Stable)
+Non Fund-Based
+NA NA NA NA 50.00 [ICRA]A1+
+Facilities
+Fund Based [ICRA]AA (Stable)/
+NA NA NA NA 80.00
+Limits [ICRA]A1+
+Fund/Non Fund- [ICRA]AA (Stable)/
+NA NA NA NA 100.00
+based Limits [ICRA]A1+
+Unallocated [ICRA]AA (Stable)/
+NA NA NA NA 67.87
+Limits [ICRA]A1+
+Commercial
+NA Yet to be placed 40.00 [ICRA]A1+; Withdrawn
+Paper
+Source: Company
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Subros Consolidation
+Company Name
+Ownership Approach
+Subros Limited Rated entity Full Consolidation
+Denso Subros Thermal Engineering Centre India Limited 26.00%% Equity Method
+Source: Subros annual report FY2023
+Note: ICRA has considered consolidated financials of Subros while assigning the ratings.
+www.icra .in 6
+Page |
+ANALYST CONTACTS
+Shamsher Dewan Srikumar Krishnamurthy
++91 124 4545 300 +91 44 45964318
+shamsherd@icraindia.com ksrikumar@icraindia.com
+Rohan Kanwar Gupta Astha Bansal
++91 124 4545808 +91 124 4545342
+rohan.kanwar@icraindia.com astha.bansal@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 7
+Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2024 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.

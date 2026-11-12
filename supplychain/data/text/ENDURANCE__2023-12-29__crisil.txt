@@ -1,0 +1,520 @@
+Rating Rationale
+Rating Rationale
+December 29, 2023 | Mumbai
+Endurance Technologies Limited
+Ratings reaffirmed at 'CRISIL AA+/Stable/CRISIL A1+'
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.918.03 Crore
+Long Term Rating
+CRISIL AA+/Stable (Reaffirmed)
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Rs.100 Crore Commercial Paper
+CRISIL A1+ (Reaffirmed)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its ‘
+CRISIL AA+/Stable/CRISIL A1+
+’ ratings on the bank loan facilities and commercial paper of Endurance Technologies Ltd (ETL).
+The ratings continue to reflect the leadership position of ETL in aluminium die-casting components (ADCC; the company's largest product segment) and proprietary products, healthy relationships with major customers and well-diversified revenue streams. The ratings also factor in ETL's large scale of operations and improving operating efficiency and i
+ts healthy financial risk profile, reflected in steady profitability and comfortable debt protection metrics. These strengths are partially offset by moderately high customer concentration in revenue and exposure to cyclicality in demand in the domestic and global automobile segments.
+Revenue during fiscal 2023 grew approximately 17.0% to Rs 8,820 crore owing to strong growth recorded in domestic operations (accounted for 77% of total revenue) due to uptick in domestic sales volumes of scooters and continu
+ed momentum for demand of executive & premium motorcycles. Within domestic operations, revenue contribution is largely skewed towards the two-wheeler category. Revenue from overseas operations increased approximately 10.0% year-on-year, on the back of growth in production volume witnessed in Europe between January and March 2023. Overall operating margin contracted by nearly 110 basis points (bps) to 11.9% in fiscal 2023 owing to elevated energy prices in overseas markets and lower operating leverage due to
+under-utilization of capacities.
+During the first half of fiscal 2024, overall revenue increased nearly 12.0% y-o-y on the back of 8% growth in India operations and 26% growth in overseas operations. Operating margins witnessed about 200 bps expansion to 13% on-year owing to improvement in overseas margins on the back of moderation in energy prices.
+Overall revenue is expected to grow by 8-10% over the medium term on the back of uptick in domestic 2-wheeler volumes and strong order book position while o
+perating margin shall remain stable at 13-14% on the back of stable raw material prices, moderation in energy costs in overseas geographies, and positive operating leverage benefits with increase in capacity utilization.
+The financial profile remains strong, backed by net debt-free balance sheet and robust capital structure. Adjusted gearing (Gross Debt / Adjusted Networth) and total outside liabilities to adjusted networth (TOLANW) ratio were 0.15 time and 0.59 time, respectively, as on March 31, 2023, an
+d these metrics are expected to remain below 0.20 time and 0.60 time, respectively, over the medium term. The financial risk profile is also supported by strong liquidity of Rs. 1,149 crore as on September 30, 2023.
+Analytical Approach
+For arriving at the ratings, CRISIL Ratings has combined the business and financial risk profiles of ETL and its operating overseas subsidiaries. This is because all the entities, collectively referred to as ETL, are under a common management and are engaged in related businesses.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths:
+Leading market position for aluminium die-casting components (ADCC) and alloy wheels, healthy relationships with major customers and well-diversified revenue streams
+:
+In India, ETL is among the leading suppliers of ADCC, with revenue of about Rs 2,073 crore in this product segment in fiscal 2023. Domestic operations also include supply of suspension products, transmission products and braking systems, wherein ETL is among the three largest suppliers for the two- and three-wheeler segments in India. The company is a key supplier of these components to Bajaj Auto Ltd (CRISIL AAA/Stable/CRISIL A1+), Royal Enfield, and India Yamaha Motor Pvt Ltd, with whom it has established
+longstanding relationships. In recent years, ETL has been increasing its share of business with Honda Motorcycles and Scooters India Ltd (HMSI) and Hero MotoCorp Ltd ('CRISIL AAA/Stable/CRISIL A1+') for all its product segments and has secured a strong foothold in TVS Motors. During the first half of fiscal 2024, the company received new orders (non-Bajaj Auto) of Rs. 777 crore in India, mainly from TVS Motor Company Limited, Hero MotoCorp Ltd, Suzuki Motorcycle India Pvt Ltd, Aether, Okinawa, and Ampere.
+The company is increasing its 4W presence with new orders from JLR and Punch Powertrain.
+ETL’s order book has been growing steadily over the past five fiscals. In addition, its electric vehicle (EV) order book soared in fiscal 2023 on the back of winning 15 EV programmes from 11 customers. The company won EV suspension orders for Ather, Ampere, Hero Electric, and HMSI, and also won orders for EV brakes from Ather, Okinawa, Ampere, and Hero MotoCorp Limited. The company’s product line other than transmission is not disrupted following 2W electrification in domestic markets and 4W electrification
+in overseas markets owing to higher usage of ADCC in EVs as compared to ICE. Also, suspensions & brakes are EV agonistic products.
+Revenues by ETL from overseas operations during fiscal 2023 were Rs. 2,053 crore or Euro 245.6 million. During the first six months of fiscal 2024, the company received fresh orders worth Euro 20 million in Europe, which includes Euro 19 million EV orders from Stellantis.
+The overseas business (primarily in Germany and Italy) also benefits from healthy relationships with leading global OEMs, including Volkswagen AG (Volkswagen; rated 'BBB+/Stable/A-2' by S&P Global Ratings), Stellantis NV (rated, BBB+/Stable/A-2 by S&P Global Ratings) and
+Mercedes-Benz Group AG (Mercedes; rated A/Stable/A-1 by S&P Global Ratings)
+. Thus, a well-diversified revenue profile in terms of geographical spread and product segments, lends stability to the overall business profile. Domestic and overse
+as businesses contribute about 77.0% and 23.0%, respectively, of overall fiscal 2023 revenues and stood at similar ratio during the half year ended September 2023. In terms of products, ADCC contribute around 47.0% to the consolidated revenue, followed by suspension products (27.0%), braking (9.0%), alloy wheels (7.0%), transmission products (4.0%), and aftermarket sales (5.0%).
+Stable operating efficiency
+:
+Adjusted return on capital employed has been healthy at over 15% over the three fiscals through 2023, backed by various cost control measures, stable asset utilisation and operating profitability. In addition, ETL has managed its working capital cycle effectively during this period; the company has maintained a low net working capital cycle, thereby, resulting in strong cash conversion. Over the medium term, the sustenance of optimum asset utilizations, stable margin profile, and low net working capital cyc
+le, will ensure continued strong cash generation, leading to strong coverage of capital expenditure (capex) and fixed obligation requirements.
+Strong financial risk profile
+:
+The capital structure remains robust with adjusted gearing and TOLANW ratio at 0.15 time and 0.59 time, respectively, as on March 31, 2023. Prudent working capital management and high cash conversion has resulted in lower dependence on external debt. As a result, the company’s interest coverage ratio has also been healthy at 52.51 times during fiscal 2023. The company intends to incur annual capex of approximately Rs 750-850 crore per annum over the medium term which is expected to be largely funded through
+internal accruals. In the absence of any large debt-funded capex plans, the company’s key financial metrics i.e., adjusted gearing and TOLANW ratio are expected to remain below 0.2 time and 0.6 time, respectively, over the medium term. In addition, the company’s balance sheet continues to remain net debt-free since fiscal 2020.
+Weakness
+:
+Moderately high, though reducing, customer concentration and exposure to cyclicality in demand in the automobile industry
+:
+While the revenue profile of ETL benefits from healthy geographical and product diversity, the company remains susceptible to customer concentration in each of its markets. Bajaj Auto Ltd ('CRISIL AAA/ /Stable/CRISIL A1+') contributed about 50.0% to the domestic revenue and 38.0% of overall revenue in fiscal 2023; the same stood at 51% and 38%, respectively as of September 2023. The top three customers in Europe accounted for nearly 67.0% of revenue from the region.
+High focus on research and development,
+wide product portfolio and faster adoption of new technologies should augment the share of business with customers going forward.
+Performance in the domestic market is thus closely aligned with that of key customers. Though the company has increased its focus on the aftermarket segment, which has high growth potential, dependence on OEMs remains high, as they form over 90.0% of consolidated revenue. Business prospects of ETL are therefore, exposed to cyclical demand patterns inherent to the automobile industry and ability of the OEMs to sustain their market share in the domestic and overseas markets.
+Liquidity
+: Strong
+Expected cash accrual of Rs 950-1,050 crore per annum over fiscals 2024 to 2025, will sufficiently cover debt re-payment obligations amounting to Rs. 120-200 crore over the same period. Domestic bank limit utilisation averaged 9.0% over the 12 months through to October 2023. Liquidity is further aided by cash and cash equivalent of around Rs 1,149 crore as on September 30, 2023. Capex requirements will be largely funded through internal accruals, with limited reliance on external funding.
+Healthy capital structure enables the company to grow inorganically via acquisitions, which shall also be covered prudently.
+ESG Profile
+CRISIL Ratings believes ETL’s Environment, Social, and Governance (ESG) profile supports its already strong credit risk profile.
+The auto component sector has a moderate impact on the environment owing to moderate emissions, water consumption and waste generation. The sector’s social impact is also moderate considering the impact of operational activities on the company’s own employees. The company is focusing on mitigating environmental and social risks.
+ETL’s key ESG highlights:
+The company has disclosed that it aims for 50% renewable energy consumption as a percentage of total energy consumption by 2030.
+The company’s attrition rate has marginally decreased from 16.40% in 2022 to 16.10% in 2023.
+ETL’s governance structure is characterized by 50% of its board comprising independent directors, split position between chairman and Managing Director (MD), and presence of investor grievance cell.
+There is growing importance of ESG among investors and lenders. ETL’s commitment to ESG principles will play a key role in enhancing stakeholder confidence, given its share of overseas borrowings in
+its overall debt and has access to both domestic and foreign capital markets.
+Outlook
+:
+Stable
+ETL will continue to benefit from its strong market position, revenue diversity and healthy operating efficiency as well as its healthy financial risk profile and comfortable liquidity.
+Rating Sensitivity factors
+Upward factors
+:
+Significant increase in scale of operations and substantial diversification in customer profile while maintaining operating profitability at 13-15%.
+Sustenance of strong financial risk profile and build-up of cash surplus.
+Downward factors
+:
+Significant impact on the operating performance and debt protection metrics of the company
+Large, debt-funded capex or /acquisitions leading to gearing of over 0.8 time on a sustained basis
+About the Company
+Incorporated in 1985 in Aurangabad, Maharashtra, ETL is a leading manufacturer and supplier of ADCC for automobiles. The company also manufactures suspension, transmission and braking products for mainly two- and three-wheeler OEMs in India and derives nearly 77% of its revenue from the domestic market. Overseas operations are managed by two direct subsidiaries: Endurance Amann GmbH (Germany) and Endurance Overseas Srl (Italy). The company supplies casting and machining products to leading four-wheeler OEMs
+in Europe and also cater to aftermarket for two-wheeler components. Recently, it has acquired controlling stakes in two Italian companies to strengthen its technology base in proprietary two-wheeler components. ETL has 31 plants across India, Germany, and Italy.
+Company is also equipped with an in-house tool room, a 29-acre proving ground, 5 DSIR approved R&D facilities in India, and 2 technical centers in Italy. During fiscal 2023, the company acquired 51% equity in Maxwell Energy and has entered into adv
+ance electronic business with an agreement to acquire 100% over the next 5 years (further raised to 56% in FY24)
+Mr Anurang Jain, the promoter, along with his family members and /trusts, owns 75% of the company's equity capital; the remaining is held by the public.
+In the first six months of fiscal 2024, at a consolidated level, revenue was Rs 4,995 crore and earnings before interest, depreciation, tax, and amortization (EBIDTA) was Rs 640 crore, against Rs 4,474 crore and Rs 511 crore, respectively, in
+the corresponding period of the previous fiscal.
+Key Financial Indicators
+(CRISIL Ratings-adjusted numbers; Consolidated)
+Particulars
+Unit
+2023
+2022
+Operating income
+Rs crore
+8,820
+7,566
+Profit after tax (PAT)
+Rs crore
+480
+461
+PAT margin
+%
+5.44
+6.09
+Adjusted debt/adjusted networth
+Times
+0.15
+0.11
+Interest coverage
+Times
+52.51
+157.93
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of the instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs. Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+NA
+Cash credit
+&
+NA
+NA
+NA
+60
+NA
+CRISIL AA+/Stable
+NA
+Working Capital Facility
+~
+NA
+NA
+NA
+100
+NA
+CRISIL AA+/Stable
+NA
+Cash Credit
+^
+NA
+NA
+NA
+40
+NA
+CRISIL AA+/Stable
+NA
+Working Capital Demand Loan
+!
+NA
+NA
+NA
+50
+NA
+CRISIL AA+/Stable
+NA
+Letter of credit & Bank Guarantee
+@
+NA
+NA
+NA
+120
+NA
+CRISIL A1+
+NA
+Proposed Short Term Bank Loan Facility
+NA
+NA
+NA
+393.03
+NA
+CRISIL A1+
+NA
+Letter of Credit
+%
+NA
+NA
+NA
+80
+NA
+CRISIL A1+
+NA
+Letter of credit & Bank Guarantee
+#
+NA
+NA
+NA
+35
+NA
+CRISIL A1+
+NA
+Letter of Credit
+$
+NA
+NA
+NA
+40
+NA
+CRISIL A1+
+NA
+Commercial paper
+NA
+NA
+7-365 days
+100
+Simple
+CRISIL A1+
+& - Multicredit working capital lines, fully interchangeable with other facilities
+^ - Fully interchangeable with EPC / PCFC / FBP / FBD / EBRD / PSCFC; fully interchangeable with inland bills purchase / discounting
+% - Interchangeable with working capital overdraft facility to the extent of Rs 25 Cr, PCFC & EPC
+of Rs 50 Cr & WCDL/STL
+of Rs 80 Cr.
+$ - Interchangeable with Bank Guarantee up to Rs. 30 crores; Interchangeable with SBLC for Buyers’ Credit up to Rs. 40 crores; Interchangeable with capex LC u
+p to Rs. 30 crores
+# - Fully interchangeable with EPC/PCFC/FBP/FBN/FBD/EBR; interchangeable up to Rs. 2 crore with LFR; fully interchangeable with short-term loan-non committed line of credit (NCL-STL); interchangeable with overdraft facility up to Rs. 1 crore
+@ - Interchangeable with overdraft facility up to Rs.30 crore; Interchangeable with short-term loan facility up to Rs.35 crore; interchangeable with standby letter of credit (Trade) facility up to Rs. 120 crore; interchangeable with with bonds and gua
+rantee up to Rs. 25 crore; interchangeable with shipping guarantees facility up to Rs. 20 crore; fully interchangeable with preshipment financing under export orders facility; fully interchangeable with export bills discounting facility and export invoice financing facility; full interchangeable with import invoice financing facility, import letter of credit; interchangeable with commercial standby letter of credit up to Rs. 20 crore
+! - Interchangeable with OD limit to the extent of Rs 40 Cr and fully Int
+erchangeable
+with PCFC/EPC and letter of credit
+~ - Includes WCDL of Rs 50 Cr, fully avaialble for Pre-shipment export finance
+and post shipment export finance
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+Endurance Overseas Srl
+Full consolidation
+Subsidiary
+Endurance SpA
+Full consolidation
+Subsidiary
+Endurance Castings SpA
+Full consolidation
+Subsidiary
+Endurance Engineering Srl
+Full consolidation
+Subsidiary
+Endurance Gmbh
+Full consolidation
+Subsidiary
+Endurance Adler SpA
+Full consolidation
+Subsidiary
+Frenotecnica Srl
+Full consolidation
+Subsidiary
+Veicoli Srl
+Full consolidation
+Subsidiary
+New Fren Srl
+Full consolidation
+Subsidiary
+Maxwell Energy Systems Pvt Ltd
+Full consolidation
+Subsidiary
+GDS Sarl
+Full consolidation
+Subsidiary
+Annexure - Rating History for last 3 Years
+Current
+2023 (History)
+2022
+2021
+2020
+Start of 2020
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT/ST
+643.03
+CRISIL AA+/Stable / CRISIL A1+
+30-03-23
+CRISIL AA+/Stable / CRISIL A1+
+14-01-22
+CRISIL AA+/Stable / CRISIL A1+
+27-01-21
+CRISIL AA+/Stable / CRISIL A1+
+29-05-20
+CRISIL AA/Positive / CRISIL A1+
+CRISIL AA/Positive / CRISIL A1+
+--
+13-01-23
+CRISIL AA+/Stable / CRISIL A1+
+--
+--
+--
+--
+Non-Fund Based Facilities
+ST
+275.0
+CRISIL A1+
+30-03-23
+CRISIL A1+
+14-01-22
+CRISIL A1+
+27-01-21
+CRISIL A1+
+29-05-20
+CRISIL A1+
+CRISIL A1+
+--
+13-01-23
+CRISIL A1+
+--
+--
+--
+--
+Commercial Paper
+ST
+100.0
+CRISIL A1+
+30-03-23
+CRISIL A1+
+14-01-22
+CRISIL A1+
+27-01-21
+CRISIL A1+
+29-05-20
+CRISIL A1+
+CRISIL A1+
+--
+13-01-23
+CRISIL A1+
+--
+--
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Cash Credit
+&
+40
+Axis Bank Limited
+CRISIL AA+/Stable
+Cash Credit
+^
+60
+Citibank N. A.
+CRISIL AA+/Stable
+Letter of Credit
+%
+40
+Axis Bank Limited
+CRISIL A1+
+Letter of Credit
+$
+80
+ICICI Bank Limited
+CRISIL A1+
+Letter of credit & Bank Guarantee
+#
+120
+Standard Chartered Bank Limited
+CRISIL A1+
+Letter of credit & Bank Guarantee
+@
+35
+IDBI Bank Limited
+CRISIL A1+
+Proposed Short Term Bank Loan Facility
+393.03
+Not Applicable
+CRISIL A1+
+Working Capital Demand Loan
+!
+50
+The Hongkong and Shanghai Banking Corporation Limited
+CRISIL AA+/Stable
+Working Capital Facility
+~
+100
+BNP Paribas Bank
+CRISIL AA+/Stable
+& - Fully interchangeable with EPC / PCFC / FBP / FBD / EBRD / PSCFC; fully interchangeable with inland bills purchase / discounting
+^ - Multicredit working capital lines, fully interchangeable with other facilities
+% - Interchangeable with Bank Guarantee up to Rs. 30 crores; Interchangeable with SBLC for Buyers’ Credit up to Rs. 40 crores; Interchangeable with capex LC up to Rs. 30 crores
+$ - Interchangeable with working capital overdraft facility to the extent of Rs 25 Cr, PCFC & EPC of Rs 50 Cr & WCDL/STL of Rs 80 Cr.
+# - Interchangeable with overdraft facility up to Rs.30 crore; Interchangeable with short-term loan facility up to Rs.35 crore; interchangeable with standby letter of credit (Trade) facility up to Rs. 120 crore; interchangeable with with bonds and guarantee up to Rs. 25 crore; interchangeable with shipping guarantees facility up to Rs. 20 crore; fully interchangeable with preshipment financing under export orders facility; fully interchangeable with export bills discounting facility and export invoice financing facility; full interchangeable with import invoice financing facility, import letter of credit; interchangeable with commercial standby letter of credit up to Rs. 20 crore
+@ - Fully interchangeable with EPC/PCFC/FBP/FBN/FBD/EBR; interchangeable up to Rs. 2 crore with LFR; fully interchangeable with short-term loan-non committed line of credit (NCL-STL); interchangeable with overdraft facility up to Rs. 1 crore
+! - Interchangeable with OD limit to the extent of Rs 40 Cr and fully Interchangeable with PCFC/EPC and letter of credit
+~ - Includes WCDL of Rs 50 Cr, fully avaialble for Pre-shipment export finance and post shipment export finance
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Understanding CRISILs Ratings and Rating Scales
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Aveek Datta
+Media Relations
+CRISIL Limited
+M: +91 99204 93912
+B: +91 22 3342 3000
+AVEEK.DATTA@crisil.com
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Anuj Sethi
+Senior Director
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+Varun Sanjeev Nanavati
+Senior Rating Analyst
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+Varun.Nanavati@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') that is provided by CRISIL Ratings Limited ('CRISIL Ratings'). To avoid doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for the jurisdiction of India only. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings providing or intending to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities referred to above. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+We are not aware that any user intends to rely on the report or of the manner in which a user intends to use the report. In preparing our report we have not taken into consideration the objectives or particular needs of any particular user. It is made abundantly clear that the report is not intended to and does not constitute an investment advice. The report is not an offer to sell or an offer to purchase or subscribe for any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The report should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in the US).
+Ratings from CRISIL Ratings are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold or sell any securities/instruments or to make any investment decisions. Any opinions expressed here are in good faith, are subject to change without notice, and are only current as of the stated date of their issue. CRISIL Ratings assumes no obligation to update its opinions following publication in any form or format although CRISIL Ratings may disseminate its opinions and analysis. The rating contained in the report is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment or other business decisions. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains.
+Neither CRISIL Ratings nor its affiliates, third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively, 'CRISIL Ratings Parties') guarantee the accuracy, completeness or adequacy of the report, and no CRISIL Ratings Party shall have any liability for any errors, omissions or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the report. EACH CRISIL RATINGS PARTY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall any CRISIL Ratings Party be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the regulations of the Securities and Exchange Board of India (and other applicable regulations, if any), are made available on its website, www.crisilratings.com (free of charge). Reports with more detail and additional information may be available for subscription at a fee - more details about ratings by CRISIL Ratings are available here: www.crisilratings.com.
+CRISIL Ratings and its affiliates do not act as a fiduciary. While CRISIL Ratings has obtained information from sources it believes to be reliable, CRISIL Ratings does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives and/or relies on in its reports. CRISIL Ratings has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process. CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For details please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+.
+Rating criteria by CRISIL Ratings are generally available without charge to the public on the CRISIL Ratings public website, www.crisilratings.com. For latest rating information on any instrument of any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+This report should not be reproduced or redistributed to any other person or in any form without prior written consent from CRISIL Ratings.
+All rights reserved @ CRISIL Ratings Limited. CRISIL Ratings is a wholly owned subsidiary of CRISIL Limited.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link:
+https://www.crisil.com/en/home/our-businesses/ratings/credit-ratings-scale.html

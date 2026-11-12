@@ -1,0 +1,536 @@
+Rating Rationale
+Rating Rationale
+May 09, 2023 | Mumbai
+Sundram Fasteners Limited
+Rating reaffirmed at 'CRISIL A1+'
+Rating Action
+Rs.25 Crore Short Term Debt
+CRISIL A1+ (Reaffirmed)
+Rs.100 Crore Commercial Paper
+CRISIL A1+ (Reaffirmed)
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its 'CRISIL A1+' rating on the short-term debt and commercial paper programme of Sundram Fasteners Limited (SFL).
+SFL
+’s
+consolidated
+revenues
+gr
+ew
+by
+~1
+6
+% in fiscal 2023, supported by strong demand from domestic
+original equipment manufacturers (OEMs), steady aftermarket and export sales. This comes after a 35% growth in revenues in fiscal 2022. SFL’s o
+perating profit
+ability
+moderate
+d
+to
+~
+15% in fiscal 2023 compared to 16.7% in fiscal 2022 mainly due to higher cos
+t of raw material
+, which are being passed on with a lag, higher power costs, and moderation in performance of its Chinese subsidiary.
+The c
+ompany has also received
+a
+long
+-
+term contract for export of sub-assemblies for electric vehicle (EV)
+aggregating US
+D 250 million
+from one major automobile
+OEM based in the US. Increasing share of contribution from new products, as well as higher supplies to EV OEMs, and non-automotive customers (currently ~30% of revenues), besides steady demand from existing and expor
+t customers is expected to
+lead to 8-10% growth over the medium term for SFL, while operating profitability is expected to settle at ~15%
+-
+16
+%
+.
+The company is expected to incur capex of Rs.1000 crores between fiscals 2023-2025, to add capacity across existi
+ng business lines, for wind energy equipment related fasteners and the new US based EV OEM in the US. SFL is
+expected to generate
+accruals of
+over Rs.
+5
+00
+crores annually, which will suffice to meet annual debt obligations of ~Rs.100-168 crore and majority
+of capex needs. Debt metrics which are already at robust levels, with gearing at less than 0.3 times, and interest cover ratio of over 22 times, will continue to remain at comfortable levels over the medium term, in the absence of material debt addition.
+The ratings continue to reflect SFL's leading market position in the fasteners industry, revenue diversity, healthy operating efficiency, and strong financial risk profile. These rating strengths are partially offset by working capital-intensive operations
+, and moderate profitability of overseas subsidiaries.
+Analytical Approach
+For arriving at its rating, CRISIL has combined the business and financial risk profiles of SFL and its subsidiaries held directly or indirectly, as the entities share a common management, and operate with significant operational and financial linkages.
+P
+lease refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Leading market position in the fasteners segment, diverse produc
+t portfolio, and wide geographical reach:
+SFL
+continue to
+dominate the domestic fasteners market accounting for a sizeable market share. Revenue mix is healthy, with domestic sales (including OEMs and aftermarket) accounting for ~
+70
+% in fiscal 202
+3
+, and
+exports bringing in ~
+3
+0
+% (including subsidiary operations)
+.
+Product portfolio broadly comprises fasteners,
+sintered metal products, cold extruded parts
+, radiator caps, and automotive pumps and assemblies. Established relationship across commercial vehicles
+(CVs)
+, passenger vehicles
+(PVs)
+, tractors and two-wheeler
+OEMs’
+lends stability to revenues.
+Supplies to CV and PV OEMs account for ~65-70% of standalone OE sales, with the balance being contributed by tractor, two-wheeler and wind energy equipment manufa
+cturers.
+SFL is also
+gradually
+diversifying its customer base by
+enhancing
+manufacturing of industrial fasteners
+, including for wind equipment,
+to reduce dependence on the cyclical auto
+motive
+sector
+.
+Healthy operating efficiency:
+SFL has
+maintained strong focus on processes, quality improvement, and cost reduction, apart from continuously improving productivity. Implementation of industry-wide best practices, such as Total Quality Management, other internal automation measures,
+and
+improve
+operating efficiencies help products meet the rigorous standards of the clients. Having manufacturing units abroad, and established supply chain logistics enables the company to cater to customers on 'just-in-time' basis. Operating margins have averaged b
+etween 16% to 18% over fiscals 2018-2021
+, and have moderated to ~15% in fiscal 2023, as costs have risen sharply
+. Additionally, the shift in product mix towards more profitable products like hubs
+&
+shafts
+and EV components
+, compared with traditional fasten
+ers,
+and improving contribution from subsidiaries
+is expected to
+keep operating profitability at ~15%
+to 1
+6
+%
+over the medium term.
+Strong financial risk profile:
+SFL’s f
+inancial risk
+profile
+has
+remain
+ed
+strong supported
+by healthy cash accrual
+and prudent funding of capex, even as working capital intensity remains high.
+Net
+-
+worth
+is
+expected to surpass Rs 3000 cr in fiscal 2023 with gearing of less than 0.3 times, and healthy interest coverage ratio of over 22 times.
+Ca
+pex
+of
+~
+Rs.
+300
+cr
+in fiscal 202
+3
+was
+funded mainly
+through
+internal
+accruals.
+SFL is expected to incur capex of ~Rs.750 crores in fiscals 2024 and 2025 as the company plans to invest more on new product development especially on the EV technology side, add
+capacity across existing lines, and for wind equipment fasteners as well. Some of t
+hese products are expected to further improve diversity in revenues
+and lend more stability to profitability. With healthy annual cash accruals of over Rs.500 crores, capex
+needs are expected to be largely funded from accruals, while incremental debt is expected on account of incremental working capital needs. Debt metrics will hence continue to remain at comfortable levels. Any sizeable debt funded
+expansion
+plan
+, materiall
+y impacting debt metrics, will however, be a monitorable.
+Weaknesses
+:
+Working capital-intensive operations
+Due to the large number and different sizes of products manufactured, inventory levels are higher, relative to its peers in the automotive
+component space. Besides, raw material imports and increasing export (longer lead time) also contribute to high working capital needs. Consequently, gross current assets
+expected to be between
+130-
+14
+0
+days as on March 31, 202
+3
+and are expected to continue
+at the same levels over the medium term.
+Modest, albeit improving, performance of subsidiaries:
+Even as SFL's standalone performance had been continuously improving
+since
+fiscal 2019
+except for the intermittent impact on account of economic slowdown and C
+OVID pandemic
+, its overall performance was partially tempered by modest contribution of its subsidiaries, especially those overseas. The subsidiaries
+expected to
+contribute
+12-
+1
+3
+% to the consolidated revenues in fiscal 202
+3
+; however, the contribution to th
+e consolidated profitability
+is expected be
+at ~
+6-7
+%
+.
+Performance in the Chinese subsidiary was
+under pressure in the first six months of the fiscal 2023 due to severe covid lockdown in its key operating areas. However, with the lifting of the covid
+measures in China from the third quarter, operations have ramped up and are expected to witness strong recovery in fiscal 2024. Performance of the UK subsidiary, Cramlington Precision Forge Limited, is expected to be stable with strong demand from the auto
+mobile segment, especially CVs.
+Performance in TVS Upasana, the domestic subsidiary is also expected to be stable in fiscal 2023, and improve further in fiscal 2024. Contribution from the other smaller subsidiaries is expected to negligible in fiscal 2023.
+Liquidity
+:
+Strong
+SFL has strong liquidity with accruals of over Rs
+500
+crore over the medium term which shall be sufficient to meet repayment obligations of ~Rs
+100-168 crore through fiscal 2025. Major portion of the capex plans in the next two fiscal (
+2024-25) is expected to be met through internal accruals.
+The company also has adequate cushion in bank limits of around Rs 1800 crore, utilized to the tune of ~15%
+,
+on an average over the 12 months ended March
+31,
+202
+3
+.
+The company’s cash surpluses were
+moderate ranging from Rs.70-100 crores.
+Rating Sensitivity factors
+Downward Factors
+Decline in revenues on a sustained basis along with deterioration in
+operating
+profitability
+to below 11-12%, also impacting cash generation
+Large debt-funded capex/acquisition
+or steep elongation in working capital cycle, impacting the financial risk profile and debt metrics
+ESG Profile of SFL:
+CRISIL Ratings believes that Sundram Fasteners Li
+mited’s (SFL) Environment, Social, and Governance (ESG) profile supports its already strong credit risk profile.
+The auto component sector has a moderate impact on the environment owing to moderate emissions, water consumption and waste
+generation. The sector’s social impact is also moderate considering the impact of operational activities on the company’s own employees.
+The company is focusing on mitigating environmental and social risks.
+Key ESG highlights:
+The Company has a continuous focus on conservation of energy. Targets in terms of sourcing mix and cost are set every year and action plans are drawn.
+Share of energy from renewal sources was
+about
+4
+0
+% in FY22 which was
+comparatively
+better than the indus
+try
+average
+. Further addition to solar power roof top capacity is planned in the financial year 2022-2023.
+During the year, no
+fatal accidents
+were observed by the company which is a representation of company’s focus on
+employee
+health and safety
+.
+The com
+pany encourages local sourcing wherever possible and procures
+~
+9
+0
+% of the raw materials from local suppliers
+The governance structure is characterised by
+50
+% of its board comprising independent directors.
+Position of
+the chairman and CEO
+are split
+. It has a committee at the Board level to address investor grievances and also put out extensive disclosures.
+There is growing importance of ESG among investors and lenders. The commitment of
+SFL
+to ESG principles will play
+a key role in enhancing stakeholder confidence, given high share of market borrowing in its overall debt and access to both domestic and foreign capital markets
+About the Company
+SFL led by Mr Suresh Krishna, is a leading automotive component supplier with
+seven manufacturing facilities in Tamil Nadu, one in Puducherry, one at Sri City in Andhra Pradesh and one each at Medak in Telangana and Pantnagar in Uttarakhand. The company has
+key
+operating subsidiar
+ies
+in India,
+in China and the UK. The company’s product range comprises fasteners, power train components, sintered metal products, iron powder, cold extruded parts, radiator caps, water pumps, oil pumps and wind energy components. Key export customers include
+USA, Ge
+rmany,
+UK, Brazil, Italy and France.
+As on March 31, 2023, promoter and promoter held investment companies held 48.51% stake in SFL,
+mutual funds 13.69%, insurance companies 4.82%, foreign portfolio investors 11.50%, with the balance held by public and
+others.
+Key Financial
+Indicators
+(consolidated)
+As on / for the period ended March 31
+2023
+2022
+Revenue
+Rs crore
+5663
+4902
+PAT
+Rs crore
+500
+462
+PAT margin
+%
+8.8
+9.4
+Adjusted debt/adjusted net worth
+Times
+0.26
+0.29
+Interest coverage
+Times
+22.47
+29.26
+Any other information
+:
+Not applicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of instrument
+Date of
+allotment
+Coupon
+rate (%)
+Maturity
+date
+Issue size
+(Rs crore)
+Complexity
+levels
+Rating assigned
+with outlook
+NA
+Short Term Debt
+NA
+NA
+7-365 days
+100
+Simple
+CRISIL A1+
+NA
+Commercial Paper
+NA
+NA
+7-365 days
+25
+Simple
+CRISIL A1+
+Annexure – List of entities consolidated
+Names of entities consolidated
+Extent of consolidation
+Rationale for consolidation
+Sundram Fasteners Investments Ltd, Chennai
+Full
+Subsidiary; business linkages and common management
+TVS Upasana Ltd, Chennai
+Full
+Subsidiary; business linkages and common management
+Sundram Non-Conventional Energy Systems Ltd, Chennai
+Full
+Subsidiary; business linkages and common management
+TVS Next Ltd
+Full
+Subsidiary; business linkages and common management
+TVS Engineering Limited
+Full
+Subsidiary; business linkages and common management
+Cramlington Precision Forge Ltd, Northumberland, United Kingdom
+Full
+Subsidiary; business linkages and common management
+Sundram Fasteners (Zhejiang) Ltd, Zhejiang Peoples Republic of China
+Full
+Subsidiary; business linkages and common management
+Sundram International Inc, USA
+Full
+Subsidiary; business linkages and common management
+TVS Next Inc. (subsidiary of TVS Next Ltd)
+Full
+Subsidiary; business linkages and common management
+Sundram International Ltd, United Kingdom
+Full
+Subsidiary; business linkages and common management
+Sunfast TVS Limited
+Full
+Subsidiary; business linkages and common management
+Annexure - Rating History for last 3 Years
+Current
+2023 (History)
+2022
+2021
+2020
+Start of 2020
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Commercial Paper
+ST
+100.0
+CRISIL A1+
+--
+10-05-22
+CRISIL A1+
+28-05-21
+CRISIL A1+
+05-05-20
+CRISIL A1+
+CRISIL A1+
+--
+--
+--
+--
+22-04-20
+CRISIL A1+
+--
+Short Term Debt
+ST
+25.0
+CRISIL A1+
+--
+10-05-22
+CRISIL A1+
+28-05-21
+CRISIL A1+
+05-05-20
+CRISIL A1+
+CRISIL A1+
+--
+--
+--
+--
+22-04-20
+CRISIL A1+
+--
+All amounts are in Rs.Cr.
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Aveek Datta
+Media Relations
+CRISIL Limited
+M: +91 99204 93912
+B: +91 22 3342 3000
+AVEEK.DATTA@crisil.com
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Anuj Sethi
+Senior Director
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+Sudhanshu Cyril
+Manager
+CRISIL Ratings Limited
+B:
++91 44 6656 3100
+Sudhanshu.Cyril@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') that is provided by CRISIL Ratings Limited ('CRISIL Ratings'). To avoid doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for the jurisdiction of India only. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings providing or intending to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities referred to above. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+We are not aware that any user intends to rely on the report or of the manner in which a user intends to use the report. In preparing our report we have not taken into consideration the objectives or particular needs of any particular user. It is made abundantly clear that the report is not intended to and does not constitute an investment advice. The report is not an offer to sell or an offer to purchase or subscribe for any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The report should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in the US).
+Ratings from CRISIL Ratings are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold or sell any securities/instruments or to make any investment decisions. Any opinions expressed here are in good faith, are subject to change without notice, and are only current as of the stated date of their issue. CRISIL Ratings assumes no obligation to update its opinions following publication in any form or format although CRISIL Ratings may disseminate its opinions and analysis. The rating contained in the report is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment or other business decisions. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains.
+Neither CRISIL Ratings nor its affiliates, third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively, 'CRISIL Ratings Parties') guarantee the accuracy, completeness or adequacy of the report, and no CRISIL Ratings Party shall have any liability for any errors, omissions or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the report. EACH CRISIL RATINGS PARTY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall any CRISIL Ratings Party be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the regulations of the Securities and Exchange Board of India (and other applicable regulations, if any), are made available on its website, www.crisilratings.com (free of charge). Reports with more detail and additional information may be available for subscription at a fee - more details about ratings by CRISIL Ratings are available here: www.crisilratings.com.
+CRISIL Ratings and its affiliates do not act as a fiduciary. While CRISIL Ratings has obtained information from sources it believes to be reliable, CRISIL Ratings does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives and/or relies on in its reports. CRISIL Ratings has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process. CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For details please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+.
+Rating criteria by CRISIL Ratings are generally available without charge to the public on the CRISIL Ratings public website, www.crisilratings.com. For latest rating information on any instrument of any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+This report should not be reproduced or redistributed to any other person or in any form without prior written consent from CRISIL Ratings.
+All rights reserved @ CRISIL Ratings Limited. CRISIL Ratings is a wholly owned subsidiary of CRISIL Limited.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link:
+https://www.crisil.com/en/home/our-businesses/ratings/credit-ratings-scale.html

@@ -1,0 +1,488 @@
+Rating Rationale
+Rating Rationale
+February 28, 2025 | Mumbai
+Rane (Madras) Limited
+Long-term rating continues on 'Watch Positive'; Short-term rating reaffirmed
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.682.75 Crore
+Long Term Rating
+Crisil A/Watch Positive (Continues on 'Rating Watch with Positive Implications')
+Short Term Rating
+Crisil A1 (Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+Crisil Ratings has continues its rating on the long term bank facilities of Rane (Madras) Limited (RML) on
+‘Rating Watch with Positive Implications’
+. The rating on the short term bank facilities have been reaffirmed at ‘Crisil A1’.
+The ratings were placed on watch, following the announcement by RML at the stock exchanges on
+February 9, 2024
+,
+that its Board of Directors has approved a scheme of arrangement wherein two listed entities of the Rane group, Rane Engine Valve Limited (REVL; rated 'Crisil BBB+/Crisil A2/Watch Positive') and Rane Brake Linings Ltd (RBLL) will be merged with RML on a share-swap basis, subject to approval from the National Company Law Tribunal (NCLT). 21 shares of RML will be issued for every 20 shares of RBLL to its sh
+areholders while 9 shares of RML will be issued for every 20 shares of REVL for its shareholders.
+The merger of the listed operating companies of the Rane group is expected to provide synergistic benefits in the form of common raw material procurement and logistics, better negotiations leading to better procurement strategy, besides streamlining of administration and other cost including insurance premiums for its product warranties. The merger will also create a larger entity, with better revenue and prod
+uct diversity, and healthy operating margin of 8-10%. Operating margin will also benefit from sale of the erstwhile loss-making subsidiary, Rane Light Metal Castings, USA Inc (RLMC).
+The balance sheet is also likely to strengthen due to modest debt at REVL, zero debt at RBLL and no further requirement to support RLMC.
+The combined entity is expected to have a networth of more than Rs 650 crore, compared to Rs 250 crore estimated (at RML) as on March 31, 2024. Consolidated debt is projected at close to Rs.8
+50 crore, resulting in gearing of 1.26 times, compared to 2.8 times estimated (at RML) as on March 31, 2024.
+RML has obtained the no-objection certificate (NOC) from all lenders and stock exchanges. The scheme has been filed with NCLT, and the final approval is expected by end of fiscal 2025. The reorganisation should be able to unlock synergies and optimise support functions to improve efficiency in the Rane group, beginning fiscal 2026.
+Crisil Ratings will resolve the watch post receipt of necessary a
+pprovals and completion of necessary documentation for the merger, and receipt of necessary information from the management of RML.
+Crisil Ratings believes that upon resolution of the watch, the ratings may go up, should the companies sustain the improvement in business performance.
+In September 2023, RML divested its step-down subsidiary, RLMC, which was incurring operational losses of Rs 40-50 crore per annum. Sluggish demand conditions, leading to delay in breakeven, would have resulted in sustained dep
+endence on RML, which had already invested Rs 450-500 crore between fiscals 2016 and 2024. As on March 31, 2023, RLMC had total debt of USD 16 million, with USD 11 million of term debt and USD 5 million of working capital debt. In fiscal 2024, RML infused USD 16 million in RLMC to repay the debt and sold the entity to a US-based firm.
+The sale consideration agreed with the buyer was around USD 4.9 million, as per acquisition terms. However, RML is yet to receive USD 2.9 mn out of which it has provisioned ~U
+SD 1.5 mn in the last quarter of fiscal 2024 and USD 1.4 mn in the second quarter of fiscal 2025, partially impacted profit after tax.
+Towards losses on investments in RLMC, an impairment of Rs 223 crore was taken in fiscal 2023, while Rs 122 crore was recorded in fiscal 2024.
+In September 2023, RML floated a new subsidiary in Mexico, Rane Auto Components Mexico (RACM), which is likely to assemble some of its products from fiscal 2026, for supplies to customers in USA, Mexico and Canada. The company is li
+kely to invest around USD 8 million in RACM over a three-year period.
+During fiscal 2024, at a standalone level, revenue performance of RML remained flat on account of reduced offtake and piling up of inventory from the passenger vehicle (PV) segment and lesser demand from original equipment manufacturers (OEMs) in commercial vehicle (CV) segment. Operating margin moderated by 150 basis points, owing to the product mix and lower fixed cost absorption. RLMC recorded an operating loss of Rs 32 crore in the f
+irst half of fiscal 2024. With its divestment, consolidated revenue of RML de-grew by 5% in fiscal 2024. Operating margin stood at 7.4%, in the absence of operational losses from RLMC in the second half of the year.
+In addition, due to sale of RLMC, RML has accrued deferred tax benefit of Rs 113 crores which will reduce its tax liability over the medium term leading to improved accruals.
+The ratings continue to reflect the healthy market position of RML in the domestic automotive steering components segmen
+t, its diversified revenue profile and benefits from being part of the Rane group. The ratings also factor in the moderate, though improving, financial risk profile. These rating strengths are partially offset by sizeable investment in the domestic and overseas diecasting business and modest though improving operating profitability. RML also remains exposed to cyclicality in demand and pricing pressure arising from large exposure to original equipment manufacturers (OEMs) in the automobile industry.
+Anal
+ytical Approach
+Crisil Ratings will consolidate the business and financial risk profiles of REVL, RBLL with RML and its subsidiaries, Rane (Madras) International Holdings B V, Netherlands (RMIH) and Rane Auto Components, Mexico (RACM) from fiscal 2025. REVL and RBBL are proposed to get merged into RML from fiscal 2025.
+Prior to announcement of the merger, support from Rane group was factored in while assessing the consolidated credit profile of RML. To arrive at the group rating, Crisil Ratings had consoli
+dated the operating entities of the Rane group and proportionately consolidated the operating joint ventures
+.
+Please
+refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths:
+Leading position in India’s auto steering market
+:
+RML is a leading player in the domestic steering market with strong presence in mechanical steering gears and hydrostatic gear systems. Further, RML has longstanding relationships with marque clients across vehicle segments, namely Maruti Suzuki India Ltd (MSIL; rated ‘Crisil AAA/Stable/Crisil A1+’), Tata Motors Ltd (TML; rated ‘Crisil AA+/Stable/Crisil A1+’), Tractors and Farm Equipment Ltd (TAFE; rated ‘Crisil AA+/Positive/Crisil A1+’), Mahindra & Mahindra Ltd (M&M; rated ‘Crisil AAA/Stable/Crisil A1+’),
+etc. RML also acquired the steering component business of Yagachi Technologies in November 2021, for a consideration of Rs 23.19 crore. The acquisition has provided RML access to other major OEMs and has enhanced its leadership position in the domestic PV market.
+Supported by its established presence, RML has managed to increase the share of business with its customers by bagging large orders. Besides, in-house capabilities have enabled the company to enhance products as per the requirement of key customers and sustain its healthy market position, despite competition from established peers such as ZF Steering Gear (India) Ltd and JTEKT India Ltd.
+Diversified revenue profile
+:
+RML has a diversified revenue profile with presence across market segments, namely domestic OEMs, aftermarket and exports. Domestic OEMs contribute 60-65% of revenue. Within OEMs, RML caters to PVs, commercial vehicles (CVs), and tractor segments.
+The company also derives 15-20% of revenue from die-casting components sold to domestic and overseas customers.
+Post merger, the combined entity will manufacture steering linkage products, engine valves, light metal castings and friction material. RBLL also has a material presence in the aftermarket, providing further revenue diversity.
+Crisil Ratings expects RML (excluding RLMC) to post healthy single-digit revenue growth over the medium term, supported by steady demand from OEMs, and better aftermarket sales, even as exports are likely to remain flattish.
+Moderate though improving financial risk profile
+:
+RML has a moderate financial risk profile at present. marked by gearing of 2.8 times as on March 31, 2024; the same is however expected to improve from fiscal 2025 post merger and supported by improving cash generation. Total debt levels on combined basis as of December 31, 2024 was at Rs.844 crore comprising of long-term debt of Rs.380 crore and short-term debt of Rs.464 crore respectively. Networth of the consolidated entity is likely to exceed Rs 650 crore. This, along with gradually lower debt will help
+gearing improve to less than 1.5 times by March 31, 2025, despite annual capex of Rs 100-120 crore and modest investments in RACM. Besides, interest cover and ratio of debt/EBITDA are expected to improve to over 4-5 times and less than 2.5-3 times, respectively, in fiscal 2025. Besides this, company is also in plans of lowering its debt levels further through monetization of some of its none-core assets which is expected in fiscal 2026.
+Earlier, debt levels
+increased year-on- year in fiscal 2024. due to higher capex and debt raised to pay off loans in RLMC. The interest cover and ratio of debt/EBITDA declined to 3 times and 4.3 times, respectively, in fiscal 2024, compared to 5.8 times and 3.3 times, respectively, in fiscal 2023, driven by increase in debt.
+Established presence of Rane group
+:
+RML is part of the Chennai-based Rane group of companies, which has a consolidated turnover of around Rs 5,000 crore and manufactures a diverse range of automotive components, such as steering components, engine valves and brake components. Backed by vintage of more than 80 years, the group has forged strong ties with leading OEMs in India and abroad.
+RHL has infused equity of Rs 65 crore in fiscal 2018, Rs 15 crore in fiscal 2019, Rs 55 crore in fiscals 2021 and another Rs 30 crore in fiscal 2022, to support operations at RML, including part funding of capex. Supply of components, along with those of other group companies, to common customers, also helps RML rationalise freight cost.
+Weaknesses:
+Sizeable investments in the domestic die casting business in the past; modest operating profitability
+:
+RML had made sizeable investments to expand its domestic die casting division during fiscals 2016 and 2017. However, slower-than-expected ramp up of facilities, due to volatility in end-user demand, led to net losses. The company has undertaken measures to tie-up businesses to enhance utilisation and there has been substantial improvement in the die casting division over the past two fiscals.
+Besides, the
+acquisition of continually loss-making RLMC, in fiscal 2016, exerted pressure on returns. The subsidiary was envisaged to have a turnaround time of 4-5 years. Between fiscals 2017 and 2022, RLMC registered net losses of over Rs 175 crore. While initial losses were due to restructuring initiatives taken by the management of RML, weak offtake from a leading customer, led to low revenue at RLMC, resulting in continued losses. In fiscal 2023 also, the subsidiary recorded operating losses of over R
+s 40 crore and RML ultimately divested its stake in RLMC in September 2023.
+Due to modest profitability of the light metal castings division, consolidated operating margin has been constrained in the past and declined to 3-5% in fiscals 2020 and 2021, compared to 7-9% between fiscals 2015 and 2019. The margin recovered to 4.5% in fiscal 2022 and further to 8.4% in fiscal 2023, driven by healthy improvement in profitability at standalone level. However, during fiscal 2024, it dropped to 7.4% due to muted sales from the CV segment and sluggish exports, thus lowering absorption of fix
+ed cost, which was partially offset by the divestment in RLMC. Albeit, with synergy benefits from the proposed merger, operating margin should improve to 8-10% over the medium term.
+Return on capital employed (RoCE) of RML declined to 8-10% between fiscals 2015 and 2017, from over 17% prior to fiscal 2013. RoCE gradually recovered to 13% in fiscal 2018, but moderated in fiscals 2020 and 2021, owing to the expansion in the domestic die casting division. It improved to over 10% in fiscal 2023, aided by healthy standalone performance and should sustain at these levels over the medium term.
+Exposure to demand cyclicality and pricing pressures from OEMs in automobile industry
+:
+High dependence on OEMs renders performance of RML partly vulnerable to the inherent cyclicality in the automobile industry and any prolonged slowdown particularly in the CV segment. However, revenue from aftermarket and exports provides respite, besides presence across sub-segments, which is expected to lend certain level of stability to business. Raw material cost account for a substantial portion of revenue, while about two-thirds of revenue is derived from auto OEMs. Post merger, revenue diversity is ex
+pected to improve, along with presence in aftermarket segment as well, also adding to segmental diversity.
+Liquidity
+: Adequate
+Liquidity is adequate, marked by expected cash accrual of Rs 120-150 crore per annum sufficient to meet debt obligation of Rs 80-90 crore per annum over the medium term. There might be part dependence on debt to fund proposed capex of Rs 100-120 crore per annum. That said, considering the strong association with lenders, availing funds should not pose a challenge. Further, moderate utilisation of bank limit of Rs 670 crore provides cushion to meet enhanced working capital needs. Crisil Ratings also derives
+comfort from the past instance of equity infusion from the group, especially holding company, to support loss-making operations of RLMC.
+Upon merger, liquidity should improve with estimated cash accrual of over Rs 200 crore per annum.
+Rating
+s
+ensitivity factors
+U
+pward factors
+Higher-than-expected revenue growth, supported by better revenue diversity, and sustenance of consolidated operating margin at 9-10%, leading to better cash generation
+Continued improvement in financial risk profile and faster-than-expected correction in capital structure, including due to equity infusion; for instance, gearing correcting to less than 1.3-1.5 time.
+Down
+ward factors
+Lower-than-expected cash generation due to delay in offtake from new orders or steep decline in operating margin to less than 5-6% on sustained basis, also impacting cash generation
+Higher than expected debt funded capex leading to further deterioration in capital structure; with gearing sustaining over 2.3-2.5 times.
+About the Company
+RML is the flagship company of the Rane group, with the group holding company, RHL having 71.77% stake (none of the shares are pledged). Other group companies include Rane Engine Valve Ltd, Rane Brake Lining Ltd, ZF Rane Automotive India Pvt Ltd (joint venture) and Rane Steering Systems Pvt Ltd (wholly owned subsidiary of RHL). RML started manufacturing operations in 1960 and today is a leading tier 1 automotive component supplier. It is engaged in the manufacturing of manual steering gea
+rs, hydrostatic steering systems, and steering and suspension linkages which together account for about 80% of overall revenues. The balance comes from its high-pressure aluminum die casting division. RML has manufacturing units at Kanchipuram, Mysore, Puducherry, Pantnagar and Hyderabad (2 units). In February 2016, RML, through its wholly owned subsidiary RMIH, acquired 100% stake in US based Light Metal Casting Inc, subsequently renamed as RLMC. This is RML’s first overseas acquisition and marked its fora
+y into the manufacturing in overseas markets. This has been divested in fiscal 2024. RML has incorporated a new subsidiary, RACM in September 2023.
+About the Group
+RML is the flagship company of the Rane group, with the group holding company, RHL having
+71.77%
+stake (none of the shares are pledged). Other group companies include REVL, RBLL, ZF Rane Automotive India Pvt Ltd (joint venture) and Rane Steering Systems Pvt Ltd (wholly owned subsidiary of RHL).
+RML started manufacturing operations in 1960 an
+d today is a leading tier 1 automotive component supplier. It is engaged in the manufacturing of manual steering gears, hydrostatic steering systems, and steering and suspension linkages which together account for about 80% of overall revenues. The balance comes from its high-pressure aluminum die casting division.
+RML has manufacturing units at Kanchipuram (Tamil Nadu), Mysuru, Puducherry, Pant Nagar (Uttarakhand) and 2 units in Hyderabad. In February 2016, RML, through its wholly owned subsidiary RMIH,
+acquired 100% stake in US-based Light Metal Casting Inc, subsequently renamed as RLMC. This is the first overseas acquisition, which marked its foray into overseas markets. This has been divested in fiscal 2024. RML has incorporated a new subsidiary, Rane Auto Components Mexico (RACM) in September 2023.
+REVL, incorporated in 1954, is the second oldest entity in the Rane group, with group holding company, Rane Holdings Ltd (RHL) holding 58.29% stake (none of the shares are pledged). Other group companies in
+clude RML, RBLL, ZF Rane Automotive India Pvt Ltd (joint venture) and Rane Steering Systems Pvt Ltd (wholly owned subsidiary of RHL).
+REVL manufactures engine valves, predominantly used in the automotive industry. The company has diverse presence in domestic and export markets and has established tie-ups with leading OEMs. REVL has five manufacturing units in South India, at Ponneri and Tiruchirapalli (Tamil Nadu), Tumkur (Karnataka), and Aziz Nagar and Medchal (Telangana)
+RBLL manufactures friction mater
+ial products such as brake linings, disc pads, clutch facings, clutch buttons, brake shoes and brake blocks. RHL holds around 50.03% stake in RBLL.
+Key Financial Indicators
+- RML (consolidated)
+Particulars
+Unit
+2024
+2023
+Revenue
+Rs crore
+2239
+2354
+Profit after tax (PAT)
+Rs crore
+3
+30
+PAT margin
+%
+0.1
+1.3
+Adjusted debt / Adjusted networth
+Times
+2.80
+2.81
+Interest coverage
+Times
+2.96
+5.96
+RML reported operating income of Rs 1573 crore (Rs. 1721 crore in the first nine months of fiscal 2024 on consolidated basis) and operating profitability of 7.2% in the first nine months of fiscal 2025 (7.0% in the first nine months of fiscal 2024).
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name Of Instrument
+Date Of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs. Crore)
+Complexity Levels
+Rating Outstanding with Outlook
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+25.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+53.20
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+65.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+80.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+25.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+25.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+100.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+35.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+50.00
+NA
+Crisil A1
+NA
+Short Term Bank Facility
+NA
+NA
+NA
+46.80
+NA
+Crisil A1
+NA
+Term Loan
+NA
+NA
+30-Jun-27
+61.88
+NA
+Crisil A/Watch Positive
+NA
+Term Loan
+NA
+NA
+29-Feb-28
+115.87
+NA
+Crisil A/Watch Positive
+Annexure – List of entities consolidated
+Names of Entities Consolidated
+Extent of
+Consolidation
+Rationale for Consolidation
+Rane (Madras) International Holdings B.V
+Full
+Subsidiary business linkages
+Rane Automotive Components, Mexico
+Full
+Step-down subsidiary; business linkages
+Rane Engine Valve Limited
+Full
+The entity will be merged with RML from fiscal 2025
+Rane Brake Lining Limited
+Full
+The entity will be merged with RML from fiscal 2025
+Annexure - Rating History for last 3 Years
+Current
+2025 (History)
+2024
+2023
+2022
+Start of 2022
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+ST/LT
+682.75
+Crisil A/Watch Positive / Crisil A1
+--
+04-12-24
+Crisil A/Watch Positive / Crisil A1
+24-05-23
+Crisil A1 / Crisil A/Stable
+31-05-22
+Crisil A-/Stable / Crisil A2+
+Crisil A-/Negative / Crisil A2+
+--
+--
+04-11-24
+Crisil A/Watch Positive / Crisil A1
+--
+27-05-22
+Crisil A-/Stable / Crisil A2+
+Crisil A2+
+--
+--
+08-08-24
+Crisil A/Watch Positive / Crisil A1
+--
+--
+--
+--
+--
+10-05-24
+Crisil A/Watch Positive / Crisil A1
+--
+--
+--
+--
+--
+20-02-24
+Crisil A/Watch Positive / Crisil A1
+--
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Short Term Bank Facility
+25
+DBS Bank India Limited
+Crisil A1
+Short Term Bank Facility
+53.2
+Bank of Baroda
+Crisil A1
+Short Term Bank Facility
+65
+HDFC Bank Limited
+Crisil A1
+Short Term Bank Facility
+80
+RBL Bank Limited
+Crisil A1
+Short Term Bank Facility
+25
+Kotak Mahindra Bank Limited
+Crisil A1
+Short Term Bank Facility
+25
+ICICI Bank Limited
+Crisil A1
+Short Term Bank Facility
+100
+State Bank of India
+Crisil A1
+Short Term Bank Facility
+35
+Standard Chartered Bank
+Crisil A1
+Short Term Bank Facility
+50
+Axis Bank Limited
+Crisil A1
+Short Term Bank Facility
+46.8
+Bank of Baroda
+Crisil A1
+Term Loan
+61.88
+Exim Bank
+Crisil A/Watch Positive
+Term Loan
+115.87
+HDFC Bank Limited
+Crisil A/Watch Positive
+Criteria Details
+Links to related criteria
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios)
+Basics of Ratings (including default recognition, assessing information adequacy)
+Criteria for consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Sanjay Lawrence
+Media Relations
+Crisil Limited
+M: +91 89833 21061
+B: +91 22 6137 3000
+sanjay.lawrence@crisil.com
+Anuj Sethi
+Senior Director
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+Crisil Ratings Limited
+B:
++91 22 6137 3000
+poonam.upadhyay@crisil.com
+DHANASEELAN CHANDRAN
+Manager
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+DHANASEELAN.CHANDRAN@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

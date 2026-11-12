@@ -1,0 +1,286 @@
+June 30, 2025
+Suprajit Engineering Limited: Ratings reaffirmed
+Summary of rating action
+Previous rated amount Current rated amount
+Instrument* Rating action
+(Rs. crore) (Rs. crore)
+Long-term Fund-based – Cash
+267.65 292.70 [ICRA]AA (Stable); Reaffirmed
+Credit
+Long-term Fund-based – Term
+115.00 52.50 [ICRA]AA (Stable); Reaffirmed
+Loan
+Short-term – Non-fund Based
+3.60 3.60 [ICRA]A1+; Reaffirmed
+Working Capital Facilities
+Total 386.25 348.80
+*Instrument details are provided in Annexure I
+Rationale
+The reaffirmation of ratings on the bank lines of Suprajit Engineering Limited (SEL) factors in ICRA’s expectation of a sustained
+financial performance over the near-to-medium term, supported by its strong business profile with presence across
+automotive and non-automotive segments, product segments and geographies. The company has well-established
+relationships with leading domestic two-wheeler (2W) and three-wheeler (3W) original equipment manufacturers (OEMs) and
+enjoys healthy market share with them. Further, it has a strong overseas presence, with 52% of its consolidated sales in FY2025
+taking place in overseas markets. Besides, the company’s presence is also diversified across 2W (accounting for 28% of
+revenues in FY2025), 3W/passenger vehicles (PVs) and commercial vehicles (CVs) (39% of revenues), non-automotive (15% of
+revenues) and aftermarket (17% of revenues), mitigating risks arising from downturns in any specific segment to a large extent.
+SEL also has presence in multiple products such as mechanical control cables, halogen lamps, speedometers, digital clusters,
+throttle position controls and actuators, which mitigate risks arising from product specific technology changes to an extent.
+The company’s healthy scale of operations (Rs. 3,277 crore of revenues) along with an operating margin of 10.2% in FY2025
+have supported healthy accruals. Along with limited debt-funded capex, the capital structure and coverage metrics remained
+comfortable with a net gearing of 0.3 times and net debt/OPBDITA of 1.4 times as per FY2025 financials. The company also
+enjoys a comfortable liquidity position with unencumbered cash and liquid investments of Rs. 393 crore as on March 31, 2025,
+despite inorganic investments and share buyback done during the year. With improvement in revenues and accruals, and in
+the absence of large debt-funded capex, going forward, ICRA expects SEL’s debt metrics, liquidity and financial profile to remain
+strong over the medium term. However, there could be some moderation in earnings for SEL over the near term, given US-
+tariff related uncertainties and loss-making operations in the recently acquired business of Stahlschmidt Cable Systems (SCS),
+which is expected to turn around only over the next few quarters. While the company has taken necessary steps to minimise
+the impact on its earnings such as negotiations with customers, modification of supply chain as per customers’ requirements
+(given its near-shore, onshore and offshore capabilities), and restructuring of operations in SCS, the company’s ability to
+navigate these near-term uncertainties would remain critical for maintaining a steady credit profile, and would be closely
+monitored.
+The Stable outlook on the long-term rating reflects ICRA’s expectation that the company will be able to sustain its credit profile
+and improve its debt metrics, supported by healthy accruals and moderate capex outgo, despite uncertainties in the global
+markets.
+www.icra.in
+Sensitivity Label : Public Page
+| 1
+Key rating drivers and their description
+Credit strengths
+Established customer profile; dominant market position in its products – The company enjoys established relationships with
+all major 2W and passenger vehicle (PV) OEMs for cables in India. It enjoys a healthy share of business of over 80% with major
+Indian 2W OEMs and holds a significant market share in other automotive OEM segments as well. Following the acquisition of
+the light duty cable (LDC) division in April 2022, SEL also began supplying to key US auto OEMs and enjoys healthy share of
+business with them. SEL’s established relationships with its customers have resulted in sustained repeat orders, low customer
+churn rates and healthy new business opportunities over the years.
+Healthy domestic-export mix; presence across multiple products and segments – The company derives a significant portion
+of its revenues from overseas markets (52% of revenues in FY2025), which provides diversification and enables it to capture
+incremental business opportunities from overseas markets. Apart from this, the company’s presence across segments is also
+diversified across 2W (28% of revenues in FY2025), 3W/PV and CV (39% of revenues), non-automotive (15% of revenues) and
+aftermarket (17% of revenues), mitigating risks arising from downturns in specific segments to a large extent. SEL also has
+presence in multiple products such as mechanical control cables, halogen lamps, speedometers, digital clusters, throttle
+position controls and actuators. Its presence in multiple products mitigates risks arising from product-specific technology
+changes to an extent. The company is also unlikely to be materially impacted by the ongoing electrification trends.
+Strong financial profile – The company’s healthy scale of operations (Rs. 3,277 crore revenues in FY2025) along with double-
+digit operating margins (10.2% in FY2025) have resulted in healthy accruals. Besides, limited debt-funded capex in the past
+have resulted in a comfortable capital structure and coverage metrics. The company’s net gearing stood at 0.3 times while its
+net debt/OPBDITA stood at 1.4 times as on March 31, 2025. The company also enjoys a comfortable liquidity position with
+unencumbered cash and liquid investments of Rs. 393 crore as on March 31, 2025, despite inorganic investments and share
+buyback done during the previous year. With improvement in revenues and accruals, and in the absence of large debt-funded
+capex, going forward, ICRA expects SEL’s debt metrics, liquidity and financial profile to improve over the medium term.
+Credit challenges
+Revenues and margins exposed to demand dynamics in overseas markets and cost inflation – The company derives 52% of
+its consolidated revenues from overseas markets. Given heightened global uncertainties, the company’s ability to mitigate
+these remains critical. The company is leveraging on its well-established customer relationships and manufacturing capabilities
+(with near-shore, onshore and offshore capabilities) to minimise the impact on its earnings. Notwithstanding these
+uncertainties, the company’s healthy order book, supported by rising supplies to new platforms because of vendor
+diversification initiatives by global OEMs, scale-up of volumes from programmes where supplies have commenced in the last
+few years and higher value addition, mitigate the revenue risk to a large extent, and are likely to support revenues.
+Subdued performance of overseas subsidiaries – While SEL (standalone) reports healthy operating profit margins in high
+teens, the consolidated margins are constrained by the overseas subsidiaries. The subdued performance has been on account
+of multiple factors including operational inefficiencies, supply chain issues, and various one-off expenses related to
+restructuring of various plants and operations. The company has taken strategic initiatives on pass-through and low-cost
+manufacturing options including shifting a part of the production to India. Improvement was visible in the recent quarters,
+with the overseas subsidiaries, excluding SCS, reporting a high single digit operating margin in FY2025. The recently acquired
+business of SCS reported an operational loss of Rs. 49 crore in FY2025 and is expected to turn around only over the next few
+quarters. The company has taken various steps to turn around SCS operations including consolidation of manufacturing
+facilities, renegotiation of customer contracts, closure of higher-cost infrastructure etc., which are expected to help improve
+the operational efficiencies at SCS, and the overall consolidated earnings.
+www.icra.in
+Sensitivity Label : Public Page
+| 2
+Exposure to inherent cyclicality in the Indian automotive industry – SEL derived 67% of its revenues in FY2025 from sales to
+automotive OEMs and is, thus, exposed to the cyclicality inherent in the industry. However, the risk is mitigated to a certain
+extent by the company’s continued diversification efforts by entering into new segments in the non-automotive cables division
+in the US market and periodic addition/increase in wallet share with non-automotive customers.
+Environmental and social risks
+Environmental considerations – As an auto component supplier, SEL remains indirectly exposed to climate transition risks as
+the manufacturing products of its automotive OEM customers are used across different fuel powertrains. Accordingly, its
+prospects are linked to the ability of its customers to meet tightening emission control requirements. Further, it remains
+exposed to stringent environmental regulations regarding waste and pollution norms, which could entail capital investments.
+Social considerations – Social considerations for SEL relate primarily to maintaining healthy industrial relations and product
+safety. Attracting and nurturing skilled manpower are critical, as it seeks to keep pace with innovation and technological
+changes. On the product front, vehicle recalls by OEMs due to defective auto parts could be a risk for the company. SEL is also
+exposed to changing consumer preferences, including but not restricted to increasing awareness of the potential
+environmental damage from emissions, shift towards EVs, and usage of sustainable materials. The company is also vulnerable
+to data security and data privacy risks. However, its ability to mitigate risks arising from the human capital issues in the past
+and history of no product recalls, provide comfort.
+Liquidity position: Strong
+SEL’s liquidity is strong with healthy cash flow from operations of Rs. 184.7 crore (as per published results), and sizeable cash
+balance and liquid investments of Rs. 393.0 crore as on March 31, 2025. Additionally, the company had undrawn working
+capital facilities of Rs. 23.9 crore as on March 31, 2025, at a standalone level (against the drawing power). Against these sources
+of cash, the company has repayment obligations of Rs. 66 crore in FY2026 and FY2027 each and Rs. 79.9 crore in FY2028 on
+existing and sanctioned term loans. Its capex plans remain moderate at around Rs. 160 crore per annum over the medium
+term, to be funded by internal accruals. Overall, ICRA expects SEL to meet its near-to-medium-term commitments through
+internal accruals and yet be left with a sufficient cash surplus.
+Rating sensitivities
+Positive factors – ICRA could upgrade SEL’s long-term rating if the company demonstrates a significant growth in its scale of
+operations and sustained improvement in profit margins, along with product diversification, leading to an improvement in its
+credit profile.
+Negative factors – Pressure on the ratings could emerge if there is a substantial weakening in SEL’s accruals, or higher capex
+or working capital stretch, causing a significant increase in debt level or a deterioration in the liquidity position on a sustained
+basis. Specific credit metric that could lead to ratings downgrade include total debt/OPBDITA of more than 1.5 times on a
+sustained basis.
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Auto Components
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of SEL. Details
+Consolidation/Standalone
+are enlisted in Annexure-II.
+www.icra.in
+Sensitivity Label : Public Page
+| 3
+About the company
+SEL primarily manufactures mechanical control cables and halogen lamps for automotive and non-automotive applications
+and speedometers, digital clusters, throttle position controls and actuators for 2Ws and 3Ws. About 52% of SEL’s consolidated
+revenues came from the overseas markets in FY2025. SEL has 25 manufacturing facilities across the globe, producing 300
+million cables and 80 million halogen lamps, annually. The promoters hold a 44.6% stake (as on March 31, 2025) in SEL, while
+the remaining is held by public.
+Key financial indicators (audited)
+Consolidated FY2024 FY2025
+Operating income 2,909.4 3,277.0
+PAT 167.3 99.3
+OPBDIT/OI 11.6% 10.2%
+PAT/OI 5.7% 3.0%
+Total outside liabilities/Tangible net worth (times) 0.9 1.1
+Total debt/OPBDIT (times) 2.1 2.4
+Interest coverage (times) 6.6 5.5
+Source: Company, ICRA Research; Amount in Rs. Crore; PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation;
+Financial ratios are ICRA adjusted figures and may not be directly comparable with results reported by the company in some instances
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current ratings (FY2026) Chronology of rating history for the past 3 years
+FY2026 FY2025 FY2024 FY2023
+Amount Rated June 30,
+Instrument Type Date Rating Date Rating Date Rating
+(Rs Crore) 2025
+18- 07- 20-
+Long term-cash Long [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+292.70 JUN- MAR- OCT-
+credit-fund based Term (Stable) (Stable) (Stable) (Stable)
+2024 2024 2022
+15-
+[ICRA]AA
+- - - - DEC-
+(Stable)
+2022
+18- 07- 20-
+Long term-term Long [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+52.50 JUN- MAR- OCT-
+loan-fund based Term (Stable) (Stable) (Stable) (Stable)
+2024 2024 2022
+15-
+[ICRA]AA
+- - - - DEC-
+(Stable)
+2022
+Short term- 18- 07- 20-
+Short
+others-non fund 3.60 [ICRA]A1+ JUN- [ICRA]A1+ MAR- [ICRA]A1+ OCT- [ICRA]A1+
+Term
+based 2024 2024 2022
+15-
+- - - - DEC- [ICRA]A1+
+2022
+www.icra.in
+Sensitivity Label : Public Page
+| 4
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Long-term Fund Based – Cash Credit Simple
+Long-term Fund Based – Term Loan Simple
+Short-term Non-fund Based – Working capital Very simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+www.icra.in
+Sensitivity Label : Public Page
+| 5
+Annexure I: Instrument details
+Date of Amount Rated
+ISIN Instrument Name Coupon Rate Maturity Current Rating and Outlook
+Issuance (Rs. crore)
+Long-term Fund-based –
+NA FY2021 8.1% FY2026 52.50 [ICRA]AA (Stable)
+Term Loan
+Long-term Fund Based –
+NA NA NA NA 292.70 [ICRA]AA (Stable)
+Cash Credit
+Short-term – Non-fund
+NA Based Working Capital NA NA NA 3.60 [ICRA]A1+
+Facilities
+Source: Company
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Company Name Ownership Consolidation Approach
+Suprajit Automotive Private Limited 100.00% Full Consolidation
+Suprajit Europe Limited 100.00% Full Consolidation
+Suprajit USA Inc. 100.00% Full Consolidation
+Trifa Lamps, Germany GmbH 100.00% Full Consolidation
+Luxlite Lamps SARL 100.00% Full Consolidation
+Suprajit Brownsville, LLC (USA)* 100.00% Full Consolidation
+Suprajit Mexico S de R.L. de C.V. (Mexico)* 100.00% Full Consolidation
+Suprajit Hungary Kft. (Hungary)* 100.00% Full Consolidation
+Shanghai Lone Star Cable Co., Ltd. (China)* 100.00% Full Consolidation
+Wescon Controls LLC* 100.00% Full Consolidation
+Suprajit Germany GmbH 100.00% Full Consolidation
+Suprajit Canada Limited 100.00% Full Consolidation
+Suprajit Morocco SARL 100.00% Full Consolidation
+Suprajit (Jiaxing) Automotive Systems Company Limited 100.00% Full Consolidation
+Suprajit Chuhatsu Controls System Private Limited 100.00% Full Consolidation
+Source: Annual report; Note: Suprajit Brownsville, LLC (USA), Suprajit Mexico S de R.L. de C.V. (Mexico), Suprajit Hungary Kft. (Hungary), Shanghai Lone Star
+Cable Co., Ltd. (China) and Wescon Controls are subsidiaries of Suprajit USA Inc.
+www.icra.in
+Sensitivity Label : Public Page
+| 6
+ANALYST CONTACTS
+Jitin Makkar Srikumar K
++91 124 4545 368 +91 44 4596 4318
+jitinm@icraindia.com ksrikumar@icraindia.com
+Sruthi Thomas Sriraman Mohan
++91 80 4332 6430 +91 80 4332 6428
+sruthi.thomas2@icraindia.com sriraman.mohan@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra.in
+Sensitivity Label : Public Page
+| 7
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

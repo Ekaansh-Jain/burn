@@ -1,0 +1,273 @@
+October 27, 2026
+NDR Auto Components Limited: Ratings reaffirmed
+Summary of rating action
+Current rated
+Previous rated amount Financial Sector
+Instrument* amount Rating action
+(Rs. crore) Regulator#
+(Rs. crore)
+Long-term – fund-based –
+20.00 20.00 [ICRA]A+ (Stable); reaffirmed RBI
+dropline overdraft
+Long-term/ Short-term –
+[ICRA]A+ (Stable)/ [ICRA]A1+:
+fund-based/ non-fund 15.00 30.00 RBI
+reaffirmed
+based – working capital
+Long-term/ Short-term – [ICRA]A+ (Stable)/ [ICRA]A1+:
+65.00 50.00 RBI
+Unallocated reaffirmed
+Total 100.00 100.00
+*Instrument details are provided in Annexure I
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and instruments
+which fall under the regulatory purview of Financial Sector Regulators other than SEBI.
+Rationale
+The ratings factor in the established presence of NDR Auto Components Limited (NDR Auto) in the automotive seating frame
+and trims manufacturing industry, as well as the extensive experience of its promoters in the auto component industry. It
+primarily caters to tier-I auto component suppliers such as Bharat Seats Limited (BSL; [ICRA]A+ (Stable)/A1), Toyota Boshoku
+Automotive India Pvt. Ltd. (TBI) and Hyundai Transys India Pvt. Ltd., which in turn supply complete seating system to leading
+original equipment manufacturers (OEMs) such as Maruti Suzuki India Limited (MSIL), Toyota Kirloskar Motor Pvt. Ltd.
+(Toyota) and Kia Corporation (Kia), respectively. NDR Auto enjoys a healthy share of business (SoB) of around 34% for the
+products its supplies to MSIL through BSL. The company’s revenues have grown at a strong compounded annual growth rate
+(CAGR) of 37% during FY2022-FY2026, primarily on the back of healthy demand from MSIL and addition of other customers.
+In FY2026, NDR Auto’s revenue grew by 15.4% to Rs. 822.5 crore, aided by improved demand with the Goods and Services
+Tax (GST) reduction on passenger vehicles (PVs), ramp-up of new model wins and an increment in SoB with MSIL. It started
+supplying seat trims to Kia models in July 2026 from its new plant in Anantapur, Andhra Pradesh. An increasing SoB with
+OEMs, ramp-up in sales volumes for Kia models and the commencement of supply of new products such as seat insert fabric
+and seat latch from January 2027 are likely to support 10-15% revenue growth in FY2027. It has entered technical
+collaborations with foreign partners for seat latch systems, and electronic seat belt reminder systems, whose production is
+likely to commence from Q4 FY2027. The company has a healthy order book of around Rs. 650 crore, across frame and trim
+supplies and new product lines such as seat belt reminder, seat insert fabrics and seat latches to be executed by FY2030,
+which provides healthy medium-term revenue visibility. The company’s operating profitability margin (OPM) was stable at
+11% in FY2026; going forward, while margins in the core frames and trims business are expected to improve with operating
+leverage, overall OPM is likely to remain range-bound due to product development costs and the gradual ramp-up of new
+products.
+The ratings continue to favourably factor in the company’s strong financial risk profile, characterised by healthy cash accruals,
+low leverage and strong debt protection metrics. Its total debt/OPBITDA remained comfortable at 0.7 times as on March 31,
+2026. NDR Auto invested Rs. 10 crore (as on March 2026) in a 50:50 joint venture (JV) with Hayashi Telempu, Japan, for
+products such as ambient lighting, sunshades and other interior automotive components and is expected to further invest
+Rs. 25-30 crore in this JV over FY2027 and FY2028 towards product development. It also plans to incur consolidated capex of
+www.icra.in 1
+Sensitivity Label : Public Page |
+Rs. 50-60 crore in FY2027, largely towards new product lines and regular maintenance, which would be funded through
+internal accruals. Despite the planned investments and capex, its debt metrics are likely to remain comfortable with expected
+total debt/ OPBITDA of 0.5-0.6 times in FY2027.
+The ratings, however, remain constrained by the company’s high dependence on MSIL, given that around 70% of its revenues
+are linked to the OEM’s performance. This is mitigated to an extent by BSL’s healthy SoB with MSIL, along with MSIL’s
+leadership position in the PV segment. The company also remains exposed to the inherent cyclicality associated with the
+automotive industry, with operations limited to the domestic market.
+The Stable outlook reflects ICRA’s opinion that the company will likely record a healthy growth in revenues and earnings on
+the back of new order wins and improving SoB with its key end-customer, MSIL, while maintaining healthy debt metrics.
+Key rating drivers and their description
+Credit strengths
+Established relationships with customers and healthy SoB with MSIL provide revenue visibility – NDR Auto has an
+established presence in the automotive frames and trims segment and enjoys long-standing relationships with leading
+domestic OEMs and tier-I suppliers. The company supplies to MSIL and Toyota through BSL and TBI, respectively. It currently
+caters to around 34% of MSIL’s frame and trim requirements across multiple models and has secured new orders for five new
+models slated for launch over FY2027-FY2029, through BSL. These new model awards are expected to improve the company’s
+SoB with MSIL over the medium term. For Toyota, NDR Auto supplies frames and trims for the Urban Cruiser and Hyryder
+models and enjoys an estimated SoB of around 20%. The company also supplies trims for three KIA models and frames/trims
+to Suzuki Motorcycle India Pvt. Ltd. (SMIPL) through BSL, in addition to supplying other metal components for the two-wheeler
+(2W) segment. Increasing share of business with its established customer base and growth in content per vehicle are expected
+to support the revenue growth.
+Strong financial risk profile – The company’s capital structure remains comfortable, aided by low reliance on debt, as reflected
+in gearing of 0.2 times and a total outside liabilities-to-net worth ratio of 0.6 times as on March 31, 2026. As of March 31,
+2026, the company’s debt comprised only lease liabilities of Rs. 62 crore, which increased from Rs. 32 crore as on March 31,
+2025 because of the leasehold land acquired for the company's greenfield projects under newly established subsidiaries. Its
+interest coverage and TD/OPBITDA ratios remained robust at 27.7 times and 0.7 times, respectively, in FY2026. The company’s
+debt protection metrics are likely to remain healthy, going forward, supported by healthy profitability and low debt levels,
+with expected TD/OPBITDA of 0.5-0.6 times in FY2027.
+Credit challenges
+End-customer concentration risk with high dependence on MSIL – The company’s revenues are significantly dependent on
+MSIL, as it derives around 70% of its top line from sales to the OEM (largely through BSL). Furthermore, its top two end-
+customers, MSIL and Toyota, together accounted for 90-95% of its revenues in FY2026. This exposes the company to customer
+and segment concentration risks. However, the risks are partially mitigated by MSIL’s market leadership in the PV industry and
+the company’s healthy SoB with the OEM. Further, the company has added other OEMs, such as Kia, in FY2025. Going forward,
+the company’s ability to onboard new customers remain crucial for deriving diversification benefits.
+Exposed to inherent cyclicality in auto industry – NDR Auto caters to the automotive industry, which is highly sensitive to
+economic cycles. Automotive OEMs were adversely affected over FY2020-FY2022 because of weak demand stemming from
+Covid-19 challenges and semiconductor shortages, which impacted the performance of auto ancillaries. Hence, the
+performance of the company remains vulnerable to the performance of the PV industry as well as to economic downturns.
+www.icra.in 2
+Sensitivity Label : Public Page |
+Liquidity position: Strong
+The company’s liquidity position is strong, characterised by expected retained cash flows of Rs 70-80 crore in FY2027, and
+buffer of around Rs. 20 crore in working capital lines as of March 2026. Further, the company had cash and bank balances of
+Rs. 35-40 crore as of March 2026. The company does not have any repayment obligations. It has capex plans of Rs. 50-60 crore
+in FY2027 and is expected to invest Rs. 10-20 crore in the JV, to be funded through internal accruals. Moreover, the company
+continues to enjoy healthy financial flexibility as part of the NDR Auto Group.
+ESG related comments
+Environmental considerations: Though NDR Auto is not directly exposed to climate-transition risks from the likelihood of
+tightening emission control requirements, its automotive manufacturing customers remain highly exposed to the same.
+Accordingly, the company’s prospects are linked to the ability of its end-customers (MSIL, Toyota, SMIPL, KIA) to meet
+tightening emission requirements. Its exposure to litigation/ penalties from issues related to waste and water management
+remains low.
+Social considerations: NDR Auto, like most automotive component suppliers, has a high dependence on human capital.
+Retaining human capital, maintaining healthy relationships with its employees and supplier ecosystem remains essential for
+disruption free operations. Another social risk that the company faces pertains to product safety and quality, wherein instances
+of product recalls and high warranty costs may lead to a financial implication and could affect the reputation and create a long-
+lasting adverse impact. In this regard, its strong track record of catering to leading automotive OEMs underscores its ability to
+mitigate these risks to an extent.
+Rating sensitivities
+Positive factors – The rating could be upgraded if the company demonstrates a sustained growth in its scale of operations,
+driven by an uptick in its SoB with MSIL or diversification of its clientele, while maintaining healthy profitability and debt
+metrics.
+Negative factors – Weak demand in the PV industry or delays in commissioning and ramp-up of new product programmes,
+resulting in reduced scale of operations and weak cash accruals that impact the company’s return indicators or debt metrics,
+on a sustained basis, could result in a negative rating action. Large unanticipated debt-funded capex or investments exerting
+pressure on liquidity or debt metrics, may also affect the ratings. Specific credit metrics that could lead to ratings downgrade
+include Total Debt to OPBDITA above 1.5 times on a sustained basis.
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Auto Components
+Parent/Group support
+Not applicable
+The rating is based on the consolidated financial profile of the company. As on March 31,
+Consolidation/Standalone 2026, the company had two subsidiaries, three JVs and one associate company, whose
+details are presented in Annexure-II.
+About the company
+NDR Auto Components Limited is a part of the NDR Auto Group, which traces its origins to the 1930s when its founder, Late
+Shri N.D. Relan, began as a stockbroker in the financial services sector. In the 1980s, the Group diversified into auto component
+www.icra.in 3
+Sensitivity Label : Public Page |
+manufacturing through BSL and Sharda Motor Industries Limited (SMIL). NDR Auto was incorporated in March 2019 as the
+flagship company of the Group to demerge SMIL’s automobile seating business.
+NDR Auto mainly manufactures frames and trims for the seating systems of PV and 2W OEMs through tier I suppliers. It caters
+to various tier I suppliers, including BSL, TBI, Hyundai Transys, Bellsonica Auto Components Pvt. Ltd., etc. The company has six
+plants, with one each at Gurgaon, Pathredi and Manesar (Haryana), Bangalore (Karnataka), Surendra Nagar (Gujarat) and
+Anantapur (Andhra Pradesh). The company’s shares are listed on the s.
+Key financial indicators (audited)
+NDR Auto (Consolidated) FY2025 FY2026
+Operating income 712.8 822.5
+PAT 43.6 50.9
+OPBDIT/OI 10.3% 11.0%
+PAT/OI 6.1% 6.2%
+Total outside liabilities/Tangible net worth (times) 0.6 0.6
+Total debt/OPBDIT (times) 0.4 0.7
+Interest coverage (times) 22.7 27.7
+Source: Company, ICRA Research; All ratios as per ICRA’s calculations; Amount in Rs. crore; PAT: Profit after tax; OPBDIT: Operating profit before depreciation,
+interest, taxes and amortisation; PAT before inclusion of share of profit/(loss) of associate/joint ventures
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+www.icra.in 4
+Sensitivity Label : Public Page |
+Rating history for past three years
+Current (FY2027) Chronology of rating history for the past 3 years
+Instrument Amount FY2026 FY2025 FY2024
+Type rated Oct 27, 2026
+(Rs. crore) Date Rating Date Rating Date Rating
+Long-term-fund
+[ICRA]A+ July 07, [ICRA]A+
+based- Dropline Long term 20.00 - - - -
+(Stable) 2025 (Stable)
+overdraft
+Long term/short-
+term- Fund [ICRA]A+ [ICRA]A+
+Long term/ July 07,
+based/ non fund 30.00 (Stable)/ (Stable)/ - - - -
+short-term 2025
+based – working [ICRA]A1+ [ICRA]A1+
+capital
+Long Term/Short [ICRA]A+ [ICRA]A+
+Long term/ July 07,
+Term– 50.00 (Stable)/ (Stable)/ - - - -
+short-term 2025
+Unallocated [ICRA]A1+ [ICRA]A1+
+Complexity level of the rated instruments
+Instrument Complexity indicator
+Long-term-fund based- Dropline overdraft Simple
+Long term/short-term- Fund based/non fund based – working
+Simple
+capital
+Long Term/Short Term–Unallocated NA
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+www.icra.in 5
+Sensitivity Label : Public Page |
+Annexure I: Instrument details
+Amount Financial
+Date of Coupon Current Rating
+ISIN Instrument Name Maturity Rated sector
+Issuance Rate and Outlook
+(Rs. crore) regulator#
+Long-term-fund based-
+NA NA NA NA 20.00 [ICRA]A+(Stable) RBI
+Dropline overdraft
+Long term/short-term-
+[ICRA]A+(Stable)
+NA Fund based/ non fund NA NA NA 30.00 RBI
+/[ICRA]A1+
+based – working capital
+Long Term/Short Term– [ICRA]A+(Stable)
+NA NA NA NA 50.00 RBI
+Unallocated /[ICRA]A1+
+Source: Company
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and instruments
+which fall under the regulatory purview of Financial Sector Regulators other than SEBI.
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+NDR Auto
+Company Name Consolidation Approach
+Ownership
+100.00% (rated
+NDR Auto Components Limited Full Consolidation
+entity)
+NDR Auto Components Safety Systems Private Limited 100.00% Full Consolidation
+NDR Auto Components South Private Limited 100.00% Full Consolidation
+Toyota Boshoku Relan India Private Limited 50.00% Equity method
+Toyo Sharda India Private Limited 50.00% Equity method
+NDR Hayashi Automotive India Private Limited 50.00% Equity method
+Bharat Seats Limited 28.66% Equity method
+Source: Annual report 2026
+www.icra.in 1
+Sensitivity Label : Public Page |
+ANALYST CONTACTS
+Jitin Makkar Srikumar K
++91 124 4545 368 +91 44 4596 4318
+jitinm@icraindia.com ksrikumar@icraindia.com
+Nithya Debbadi Astha Bansal
++91 040 6939 6416 +91 80 4332 6422
+Nithya.Debbadi@icraindia.com
+astha.bansal@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra.in 2
+Sensitivity Label : Public Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2026 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

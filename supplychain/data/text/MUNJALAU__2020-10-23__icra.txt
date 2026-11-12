@@ -1,0 +1,273 @@
+October 23, 2020
+Munjal Auto Industries Limited: Rating reaffirmed; rated amount enhanced
+Summary of rating action
+Previous Rated Amount Current Rated Amount
+Instrument* Rating Action
+(Rs. crore) (Rs. crore)
+[ICRA]AA- (Stable) reaffirmed; assigned
+LT Fund based/ CC 15.00 35.00
+to enhanced amount
+[ICRA]AA- (Stable) reaffirmed; assigned
+LT Fund based TL 79.59 80.18
+to enhanced amount
+[ICRA]A1+ reaffirmed; assigned to
+ST Fund based 15.00 18.00
+enhanced amount
+ST Non-fund based 16.64 15.93 [ICRA]A1+ reaffirmed
+[ICRA]AA- (Stable)/ [ICRA]A1+
+LT/ ST Unallocated 3.77 30.89 reaffirmed; assigned to enhanced
+amount
+Total bank limits 130.00 180.00
+Commercial paper 15.00 15.00 [ICRA]A1+ reaffirmed
+*Instrument details are provided in Annexure-1
+Rationale
+The rating reaffirmation takes into consideration Munjal Auto Industries Limited’s (MAIL’s) stable business profile as
+characterised by its sole supplier status for key exhaust system components, such as mufflers, to Hero Moto Corp
+Limited (HMCL; rated [ICRA]AAA(Stable)/[ICRA]A1+). MAIL’s extensive experience in manufacturing mufflers has helped
+it stay cost competitive and along with its ability to regularly invest in setting up units in proximity to HMCL’s plants, this
+has helped the company in maintaining a healthy relationship with HMCL. Further, MAIL’s technical collaboration with
+Lafranconi Italy S.p.A. for exhaust systems of two-wheelers helps the company to gain access to the latest technology in
+order to meet the changing industry requirements. Despite recent debt-funded capital investments by the company
+related to BS-VI transmission and customer diversification, the rating also takes comfort from the management’s track
+record of committing to a conservative capital structure.
+The rating, however, continues to be constrained by MAIL’s exposure to a single client and significant segment
+concentration risk on account of high revenue dependence on HMCL as well as the Indian two-wheeler industry.
+Although the company has been working on diversifying its business profile, the same is unlikely to result in meaningful
+diversification over the medium term. ICRA notes that the company’s recent efforts at diversification through supplying
+sheet metal components to a passenger vehicle (PV) original equipment manufacturer (OEM) did not materialise as per
+plans as the company decided to exit the business after incurring losses. On the other hand, MAIL’s acquisition of
+Indutch Composites Technology Private Limited (Indutch), a windmill blade manufacturer for various renewable energy
+companies, was an attempt to inorganically diversify into the non-automotive sector. While the revenue from this
+business continues to scale-up, it is yet to contribute significantly to MAIL’s consolidated earnings. Thus, going forward,
+the rating will remain dependent on MAIL’s ability to profitably scale up its supplies to customers other than HMCL and
+reduce its dependence on a single customer. Further, MAIL’s ability to diversify its product profile to reduce dependence
+on mufflers will gain greater prominence over the medium-term as two-wheeler electric vehicles (EVs) are expected to
+become more popular which would pose a threat to the company’s muffler business.
+1
+ICRA also notes the deterioration in the financial risk profile of MAIL as a result of debt-funded capex related to BS-VI
+transition, entry into new business and Indutch’s new moulding plants as well as a sharp contraction in operating profit
+in FY2020 on account of negative operating leverage in the automotive industry and losses incurred in the new sheet
+metal business. While two-wheeler volumes are expected to be subdued in FY2021 by pandemic related disruptions in
+the first quarter, ICRA expects the volumes to remain healthy for the remaining fiscal. This recovery in volumes along
+with exit from a loss-making business in the current fiscal is likely to result in healthy cash accruals and gradual
+improvement in the overall credit metrics over the medium term, albeit with a delay in FY2021.
+The Stable outlook on the long-term rating reflects ICRA’s view that MAIL will continue to benefit from its long track
+record of operations, established relationship with HMCL and commitment to conservative financial policies. The
+company’s cash accruals will be supported by recovery in two-wheeler volumes and are likely to be sufficient to meet
+repayment obligations.
+Key rating drivers and their description
+Credit strengths
+Strong business position - MAIL is the sole supplier of mufflers to HMCL, which is the leader in the Indian two-wheeler
+industry. In addition, the company also supplies spoke rims and steel wheel rims to the two-wheeler OEM as well as fuel
+tanks to a PV OEM. It has been able to maintain its strong share of business with HMCL aided by its cost competitive
+manufacturing practices and ability to incur regular investments in setting up units in proximity to HMCL's plants. The
+company’s expertise in manufacturing mufflers along with its established relationship with HMCL is likely to help it to
+maintain a majority share of business with the OEM, going forward.
+Technical collaboration supports product development capabilities - MAIL enjoys technical collaborations with
+Lafranconi Italy S.p.A. for exhaust systems of two-wheelers as well as with Samsung Industries Ltd., South Korea, for fuel
+tanks of PVs. Such technical collaborations have helped MAIL to not only maintain a healthy share of business with its
+customers, but also to gain access to the latest technology in order to meet the evolving regulatory requirements.
+Criticality of product – Mufflers, which drove ~81% of MAIL’s consolidated revenues in FY2020, is a critical product for
+two-wheeler exhaust systems and has gained even greater importance following the BS-VI transition due to the
+increased complexity of the new technology. This has resulted in MAIL retaining its position as a preferred supplier to
+HMCL over the years, which is likely to continue further.
+Credit challenges
+High customer concentration risk - HMCL accounted for ~83% of the total consolidated revenues of the company in
+FY2020. The contribution by new products segments and other OEMs remain negligible. However, the sole supplier
+status, its established track record and HMCL’s market leadership position mitigates the client concentration risk to some
+extent. Taking cognizance of the high reliance on HMCL, the company has been working on a diversification strategy. As
+part of its initiatives, it acquired majority stake (68%) in Indutch, a company that develops and manufactures various
+composite products that find applications in sectors such as wind energy, railways, marine, industrial and aerospace.
+With a healthy order book position, Indutch is expected to grow at a fast pace over the medium term, allowing MAIL to
+diversify its earnings profile. MAIL had also begun supplying sheet metal components to a PV OEM; however, the same
+2
+did not materialise as per plans as the company decided to exit the business in the current fiscal after incurring losses.
+Going forward, the company’s ability to profitably diversify its business profile will remain a key monitorable.
+Financial risk profile characterised by low operating margin - With MAIL deriving ~81% of its consolidated revenues
+from the sale of mufflers, the operating margins remain low owing to the assembly type nature of operations. While the
+company had previously generated healthy core return on capital employed (core RoCE) in the range of 18-25% with
+optimal asset utilisation, the same declined to 4.8% in FY2020 because of volume moderation in the two-wheeler and PV
+segments. Further, with BS-VI compliant mufflers having a greater percentage of bought-out parts relative to previously
+manufactured mufflers, the company’s operating margin (in percentage terms) is likely to remain lower over previous
+years. However, the operating profit (in absolute terms) is unlikely to be impacted by this transition.
+Pandemic related downturn in demand in the near term likely to delay improvement in credit metrics - The national
+lockdown in April–May 2020 and local lockdowns thereafter have resulted in significant deterioration in the economic
+environment and consumer sentiments. While sequential recovery in two-wheeler wholesale volumes has been
+witnessed since the washout in Q1 FY2021 with monthly YoY sales growth turning positive since August 2020, the
+volumes for FY2021 are expected to remain subdued with ICRA expecting the wholesale dispatches to contract by 16-
+18% in FY2021 over the previous fiscal. This is likely to delay the expected improvement in the MAIL’s capitalisation and
+coverage indicators, which witnessed some deterioration due to debt-funded capex during FY2019-FY2020.
+Liquidity position: Adequate
+Despite expectation of lower cash flow generation from operations during the current fiscal due to disruptions caused by
+the pandemic, MAIL’s liquidity profile remains adequate supported by sufficient buffer in its undrawn working capital
+limits, gradually improving cash flows with recovery in two-wheeler sales and limited debt repayment requirements.
+Over the past 12-months, the company’s working capital facilities were utilised to the extent of 9% of sanctioned limits.
+Furthermore, the company also had Rs. 36.3 crore in cash and liquid investments at the end of March 2020. While the
+same were liquidated during H1 FY2021 to meet working capital requirements, comfort is drawn from the company’s
+low leverage. ICRA expects the company to adequately service its annual debt repayment, which vary between Rs. 14-22
+crore on a consolidated basis, over the next five years.
+Rating sensitivities
+Positive triggers – A sustained improvement in the operational profile of the company through material diversification of
+its customers and product segments, while maintaining a healthy financial risk profile, could trigger a rating upgrade.
+Negative triggers – A rating downgrade could be triggered if there is a significant deterioration in the operational profile
+of the company because of reduced share of business. Moreover, a prolonged weakness in the two-wheeler industry
+could further delay improvement in the financial profile of MAIL, and a rating downgrade could also be triggered by
+Debt/OPBDITA on a net level exceeding 2.0 times on a sustained basis.
+3
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable Rating Methodologies
+Rating Methodology for Auto Component Manufacturers
+Parent/Group Support Not applicable
+For arriving at the ratings, ICRA has consolidated the financials of Indutch
+Consolidation/Standalone Composites Technology Private Limited, given the ownership and close
+managerial linkages between them.
+About the company
+Munjal Auto Industries Limited is a leading auto component manufacturing company in India with presence in
+components such as exhaust systems, spoke rims, steel wheel rims, fuel tanks, body-in-white (BIW) parts and other
+automotive assemblies. The company generated ~83% of its consolidated sales from two-wheeler OEMs, followed by the
+PV segment (4.5%) in FY2020. The company’s major customer is HMCL, which drove 82.2% of the company’s
+consolidated revenues in FY2020.
+In terms of technical capabilities, MAIL enjoys technical collaborations with Lafranconi, Italy, for manufacturing exhaust
+systems of two-wheelers, as well as with Samsung Industries Ltd., South Korea, for manufacturing fuel tanks for PVs. As
+per the company, it is among the largest manufacturers of two-wheeler exhaust systems in the world, with a
+manufacturing capacity of close to 94.5 lakh systems annually.
+The company has four manufacturing units, one each at Baroda (Gujarat), Bawal (Haryana), Dharuhera (Haryana) and
+Haridwar (Uttarakhand). Over the last few years, MAIL has added significant capacities to meet HMCL’s increasing
+demand, with the latest unit being the one at Dharuhera. Additionally, MAIL has invested in additional lines at some of
+its other facilities. Currently, MAIL is the sole supplier of mufflers for HMCL’s two-wheelers.
+The company also has a 68% stake in Indutch Composites Technology Private Limited, a company engaged in developing
+and manufacturing various composite products that find applications in sectors such as wind energy, railways, marine,
+industrial and aerospace. This stake was acquired during Q1 FY2019 as part of MAIL’s broader diversification strategy to
+reduce its customer concentration risk. The company currently has three operational units, two in Vadodara city (Halol
+and Waghodia), Gujarat, and one at Chennai. It primarily derives its revenues from manufacturing windmill blades and
+ancillary products. Its operating income in FY2020 was Rs. 97.1 crore, which is expected to scale-up further.
+MAIL is a Hero Group company with the Satyanand Munjal family holding almost 75% stake in the company and the
+remaining being held by public shareholders. The chairman of the company is Mr. Sudhir Munjal and he is supported by
+his son, Mr. Anuj Munjal. Mr. Anuj Munjal is responsible for managing the daily operations of the company.
+4
+Key financial indicators (audited)
+FY2019 FY2020*
+Operating Income (Rs. crore) 1,216.9 1,240.3
+PAT (Rs. crore) 37.3 3.7
+OPBDIT/OI (%) 6.0% 4.0%
+PAT/OI (%) 3.1% 0.3%
+Total Outside Liabilities/Tangible Net Worth (times) 0.8 1.6
+Total Debt/OPBDIT (times) 0.6 3.3
+Interest Coverage (times) 17.2 4.1
+*In line with Ind AS-116 accounting, debt for FY2020 includes operating lease liabilities as well
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current Rating (FY2021) Rating History for the Past 3 Years
+Rating FY2020 FY2019 FY2018
+Instrument Amount Amount
+Type
+Rated Outstanding* 23-Oct- 27-Sep- 17-May- 3-Aug- 20-Jun- 10-Jul-
+2020 2019 2019 2018 2018 2017
+Fund based/ Long [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+1 35.00 -
+CC Term (Stable) (Stable) (Stable) (Stable) (Stable) (Stable)
+Fund based Long [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+2 80.18 80.20
+TL Term (Stable) (Stable) (Stable) (Stable) (Stable) (Stable)
+Short
+3 Fund based 18.00 - [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Term
+Non-fund Short
+4 15.93 - [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+based Term
+Long
+[ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Term/
+5 Unallocated 30.89 - (Stable)/ (Stable)/ (Stable)/ (Stable)/ (Stable)/ (Stable)/
+Short
+[ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Term
+Commercial Short
+6 15.00 - [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+paper Term
+Amount in Rs. crore; *Outstanding as on 31-Mar-2020; standalone amount
+Complexity level of the rated instrument
+ICRA has classified various instruments based on their complexity as "Simple", "Complex" and "Highly Complex". The
+classification of instruments according to their complexity levels is available on the website www.icra.in
+5
+Annexure-1: Instrument details
+Date of Issuance / Coupon Maturity Amount Rated Current Rating and
+ISIN Instrument Name Sanction Rate Date (Rs. crore) Outlook
+NA Cash Credit NA NA NA 35.00 [ICRA]AA- (Stable)
+NA Term loan – 1 Apr-2014 NA Dec-2021 2.92 [ICRA]AA- (Stable)
+NA Term loan – 2 Jan-2019 NA Jun-2025 20.83 [ICRA]AA- (Stable)
+NA Term loan – 3 Nov-2013 NA Dec-2020 3.44 [ICRA]AA- (Stable)
+NA Term loan – 4 Jun-2014 NA Sep-2020 0.97 [ICRA]AA- (Stable)
+NA Term loan – 5 Jan-2019 NA Jun-2025 29.54 [ICRA]AA- (Stable)
+NA Term loan – 6 Sep-2017 NA Dec-2023 5.62 [ICRA]AA- (Stable)
+NA Term loan – 7 Sep-2019 NA Dec-2025 16.86 [ICRA]AA- (Stable)
+NA Fund based NA NA NA 18.00 [ICRA]A1+
+NA Non-fund based NA NA NA 15.93 [ICRA]A1+
+[ICRA]AA- (Stable)/
+NA Unallocated NA NA NA 30.89
+[ICRA]A1+
+NA Commercial Paper Yet to be placed 15.00 [ICRA]A1+
+Source: MAIL
+Annexure-2: List of entities considered for consolidated analysis
+Company Name Ownership Consolidation Approach
+Indutch Composites Technology Private Limited 68.00% Full Consolidation
+6
+Analyst Contacts
+Subrata Ray Shamsher Dewan
++91 22 6114 3408 +91 124 4545 328
+subrata@icraindia.com shamsherd@icraindia.com
+Rohan Kanwar Gupta Pradyumna Choudhary
++91 124 4545 808 +91 124 4545 342
+rohan.kanwar@icraindia.com pradyumna.choudhary@icraindia.com
+Relationship Contact
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries:
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited
+Company, with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit
+Rating Agency Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+7
+ICRA Limited
+Corporate Office
+Building No. 8, 2nd Floor, Tower A; DLF Cyber City, Phase II; Gurgaon 122 002
+Tel: +91 124 4545300
+Email: info@icraindia.com
+Website: www.icra.in
+Registered Office
+1105, Kailash Building, 11th Floor; 26 Kasturba Gandhi Marg; New Delhi 110001
+Tel: +91 11 23357940-50
+Branches
+Mumbai + (91 22) 24331046/53/62/74/86/87
+Chennai + (91 44) 2434 0043/9659/8080, 2433 0724/ 3293/3294,
+Kolkata + (91 33) 2287 8839 /2287 6617/ 2283 1411/ 2280 0008,
+Bangalore + (91 80) 2559 7401/4049
+Ahmedabad + (91 79) 2658 4924/5049/2008
+Hyderabad + (91 40) 2373 5061/7251
+Pune + (91 20) 2556 0194/ 6606 9999
+© Copyright, 2020 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of
+surveillance, which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer
+concerned to timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA
+office for the latest information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to
+be accurate and reliable, including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it.
+While reasonable care has been taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any
+kind, and ICRA in particular, makes no representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such
+information. Also, ICRA or any of its group companies may have provided services other than rating to the issuer rated. All information contained
+herein must be construed solely as statements of opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication
+or its contents
+8

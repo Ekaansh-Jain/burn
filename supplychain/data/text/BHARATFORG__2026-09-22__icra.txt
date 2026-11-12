@@ -1,0 +1,438 @@
+September 22, 2026
+Bharat Forge Limited: Ratings reaffirmed and assigned for enhanced amount
+Summary of rating action
+Previous rated Current rated
+Instrument^ amount amount Rating action Financial sector
+(Rs. crore) (Rs. crore) regulator#
+Long-term – Fund-based/ Working capital
+4,008.0 4,008.00 [ICRA]AA+ (Stable); reaffirmed RBI
+facilities
+Long-term/Short-term – Fund-based / [ICRA]AA+ (Stable)/ [ICRA]A1+;
+535.0 475.00 RBI
+Term loans reaffirmed
+Long-term/Short-term – Fund-based / [ICRA]AA+ (Stable)/ [ICRA]A1+;
+- 800.00 RBI
+Term loan assigned
+Non-fund based facilities 725.0 725.0 [ICRA]A1+; reaffirmed RBI
+[ICRA]AA+ (Stable)/ [ICRA]A1+;
+Long-term/Short-term – Unallocated
+59.0 119.0 reaffirmed and assigned for RBI
+limits
+enhanced amount
+Issuer rating NA NA [ICRA]AA+ (Stable); reaffirmed -*
+Long-term – Non-convertible debentures 125.0 125.0 [ICRA]AA+ (Stable); reaffirmed SEBI
+Total 5,452.0 6,252.0
+^Instrument details are provided in Annexure-I
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities
+and instruments which fall under the regulatory purview of Financial Sector Regulators other than SEBI
+*Since no instrument is being rated, FSR is not applicable. The rating scale and definitions stipulated in SEBI Master Circular for CRAs are being followed.
+Rationale
+The reaffirmation of the ratings continues to consider Bharat Forge Limited’s (BFL) leading position in the global automotive
+forgings industry, especially in the commercial vehicle (CV) chassis and engine components space. The company’s large-scale
+operations, its diversified business portfolio with a strong customer base in the automotive and industrial segments across
+geographies, established relationships with leading global original equipment manufacturers (OEMs) and technical expertise
+provide further comfort. ICRA also notes that as part of its strategy to attain segmental diversification, BFL has been
+incrementally investing in the industrial components business. Further, favourable demand prospects and continued
+incremental orders, especially in the defence and aerospace sectors, are expected to support revenue growth and
+diversification prospects. The ratings also favourably factor in BFL’s strong liquidity position, with unencumbered cash and
+liquid investments of over Rs. 3,138 crore on a consolidated level as of March 2026.
+The strength of the ratings is partially offset by the elevated working capital intensity demonstrated by BFL over the years due
+to the high quantum of exports, causing an elongated receivables position. ICRA also notes the underperformance of overseas
+subsidiaries, especially in the aluminium forging business in the recent past, which has had a bearing on the company’s
+consolidated operating profit margin (OPM) to an extent, moderating from 17.9% in FY2025 to 17.3% in FY2026, and further
+to 15.3% in Q1 FY2027. While improvement in OPM of the overseas subsidiaries remains monitorable as these markets face
+macroeconomic issues, the increasing revenue share from relatively high-margin business verticals such as defence and
+aerospace is expected to support the margin profile at a consolidated level, over the near term.
+The company continues to diversify its business portfolio by increasing the share of the industrial and passenger car segments
+in its overall revenue mix. It also maintains a diversified product profile and dual-shore capabilities. Its strong engineering,
+design and fully integrated manufacturing capabilities help it retain a steady share of business with leading OEMs. These factors
+also support its participation in new platform development programmes. An estimated 10-12% of its consolidated revenue
+www.icra .in 1
+Sensitivity Label : Public Page |
+remains at risk due to electrification in the automobile industry over the medium term. The risk is partly mitigated by the
+company’s ongoing focus on diversifying its product base across applications and end-user industries.
+BFL’s consolidated revenues grew by 11% in FY2026 – while muted exports (mainly on account of impact from US trade tariffs
+on US-bound exports) resulted in a moderate 5% revenue decline in the standalone revenues for the fiscal, healthy revenue
+growth seen in subsidiaries like Kalyani Strategic Systems Limited and J S Auto Cast Foundry India Private Limited supported
+the consolidated revenue base, which reported an 11% growth in FY2026. Consolidation of K Drive Mobility Solutions Limited
+FY2026 onwards also supported the revenue growth over the previous fiscal. With recovery seen in export volumes by the end
+of FY2026, BFL’s consolidated revenues reported a healthy 19% YoY revenue growth in Q1 FY2027. While return on capital
+employed (RoCE) has remained range-bound (13-15%) between FY2024-FY2026, the sizeable capital expenditure (capex) lined
+up over the next 1-2 years is likely to have some bearing on RoCE in the near term.
+ICRA notes that BFL plans to incur sizeable capex of Rs. 2,500-3,000 crore over FY2027-FY2028 on a consolidated level, mainly
+towards undertaking capacity additions across traditional businesses (automotive forgings) as well as emerging businesses
+(such as defence, aerospace, semiconductor supply chain, data centres, etc.). In this context, the company has received an
+approval from its shareholders to raise funds up to Rs. 2,500 crore, with the said fundraising expected to meet a majority of
+the funding requirement towards the planned capex in the next 1-2 years.
+The Stable outlook on the long-term rating of BFL reflects ICRA’s expectations that the company will sustain its operating
+metrics even as its overseas operations may continue to see muted demand over the near term, in line with the market
+conditions. Further, the outlook underlines ICRA’s expectation that the entity's incremental capex and/or inorganic
+acquisition(s), if any, to further expand the capacity, will be funded in a manner that it is able to durably maintain its debt
+protection metrics commensurate with the existing rating.
+Key rating drivers and their description
+Credit strengths
+Leadership position in CV engine and chassis components segment – BFL is one of the leading players in the domestic chassis
+and engine component segments for CVs and is the main supplier to several leading domestic CV OEMs. Along with its
+subsidiaries, the company supplies forged components to several major global CV OEMs. Over the years, it has added new
+customers and geographies to diversify its business profile and clientele. Given the criticality of components supplied by BFL
+to CV OEMs and the limited competitive intensity in the heavy forgings business, the company is expected to maintain a robust
+operational performance in this segment, going forward.
+Diversified product profile, dual shore strength, strong engineering, design and fully integrated manufacturing capabilities
+aid healthy wallet share with leading OEMs – BFL’s robust market position reflects its large scale of operations, equipped with
+facilities to supply an extensive range of auto components. Its research and development (R&D) infrastructure positions it as
+a complete solution provider from conceptualisation and design to manufacturing and validation. The company benefits from
+its diversified product profile and dual-shore capabilities developed over the years. Its strong engineering, design and fully
+integrated manufacturing capabilities help it maintain a steady share of business with leading OEMs and support its
+participation in new platform development programmes.
+Diversified investments in industrial components business and favourable demand prospects for defence and aerospace
+sectors support long-term growth – BFL has been increasingly focussing on developing its industrial business vertical to
+support its growth prospects and mitigate the threat of cyclicality inherent in the automobile industry. The company has been
+investing across diversified segments (such as defence, aerospace, locomotive, high horsepower (HHP) engines, etc.) within its
+industrial components business to accommodate the said segmental diversification. BFL has been supplying its products across
+industrial segments for applications in oil and gas, defence, aerospace, sugar, wind energy and heavy engineering sectors,
+which accounted for around 54% of its standalone revenues in FY2026 (around 50% in FY2026). J S Auto Cast Foundry India
+Private Limited (J S Auto; rated [ICRA]AA-(Stable)/[ICRA]A1+), a casting entity which was acquired by BFL in June 2022, reported
+a steady revenue growth momentum and margin expansion, aided by new client acquisitions by virtue of operational synergies
+www.icra .in 2
+Sensitivity Label : Public Page |
+from the acquisition by BFL. The company acquired K Drive Mobility Solutions Private Limited (erstwhile AAM India
+Manufacturing Corporation Private Limited) in July 2025, in order to venture into axle product manufacturing. These recent
+acquisitions have contributed to BFL’s consolidated revenue growth momentum over the past two to three years. The company
+materially started rolling out deliveries of defence orders from FY2024, with a robust pace of revenue growth momentum seen
+over the past couple of years. A comfortable order book position with executable order book of around Rs. 11,000 crore as of
+August 2026 in this segment is expected to provide sufficient revenue visibility over the near-to-medium term.
+Strong liquidity profile, aided by sizeable cash and liquid investments – BFL’s liquidity position remains strong, supported by
+sizeable cash and liquid investments of around Rs. 1,310 crore as on March 31, 2026 (at a standalone level), along with healthy
+cash accruals and unutilised credit lines. At the consolidated level, the liquidity position continues to be robust, with cash and
+liquid investments of approximately Rs. 3,138 crore as on March 31, 2026, which are expected to support the company to
+comfortably service its debt and capex requirements.
+Credit challenges
+Challenging operating environment across geographies, particularly for BFL’s overseas entities – While presence across
+different geographies provides BFL with geographic diversification benefits, it also exposes the company to different challenges
+specific to the geographies where it operates. Its European manufacturing operations have shown muted profitability in the
+recent past, with OPM of 2.5% and 3.9% for FY2025 and FY2026, respectively (2.8% in Q1 FY2027). The US manufacturing
+operations continued to see muted profitability, with OPM being -4.8% and 3.5% for FY2025 and FY2026, respectively (-0.8%
+in Q1 FY2027). Price hikes undertaken by the company with its key customers, coupled with cost optimisation measures in
+overseas subsidiaries are expected to result in a gradual recovery in the operating performance of these entities, although the
+pace of improvement in operational performance of these overseas entities remains a key monitorable. BFL’s measures to
+pare down outstanding debt at these entities through the qualified institutional placement (QIP) proceeds in FY2025 lent some
+support to their capital structures in the recent past.
+Despite diversification plans, exposure to cyclical CV segment both in India and international markets remains sizeable –
+BFL’s revenue can be broadly divided into revenues from the CV segment (30% of standalone revenues in FY2026), passenger
+vehicle (PV) segment (19%) and industrial segment (51%). Given the cyclicality of the medium and heavy commercial vehicles
+(M&HCV) segment, from which it derives a major share of its revenues, the company is working on diversifying its product
+base by increasing its exposure to PV, locomotive, defence and aerospace components, where the demand is relatively stable.
+BFL’s operational exposure to the CV segment was underlined with a 34% YoY drop in the international CV business in FY2026,
+resulting in a moderate 5% YoY revenue decline for the standalone operations for the fiscal. Furthermore, the auto component
+industry remains vulnerable to pricing pressures from large OEMs. While 10-12% of the company’s consolidated revenue is at
+risk due to electrification in the automobile industry, the focus on diversifying its product base across applications and end-
+user industries mitigates the risk to an extent.
+High working capital intensity and moderately leveraged capital structure; although some improvement seen in working
+capital profile as defence business picked up – Owing to its high exports, BFL’s receivable cycle is elongated, resulting in
+elevated working capital intensity. To improve its cash flows, the company discounts invoices of its overseas customers, as the
+discount rate is substantially lower than the domestic funding rate. Accordingly, most of BFL’s debt is low-cost foreign currency
+debt, which is a self-liquidating liability. Moreover, the scaling up of its defence business, which enjoys a sizeable share of
+customer advances, has led to some improvement in working capital intensity, which reduced to 26-27% in FY2025-FY2026
+from 32% in FY2023. This enhancement is expected to sustain at this level going forward. BFL’s capital structure is still
+moderately leveraged, although the coverage indicators continue to be fairly comfortable on account of the low-cost debt
+availed by the company. TD/OPBITDA and interest coverage stood at 2.5 times and 9.0 times, respectively, as on March 31,
+2026) (2.5 times and 6.5 times, respectively as on March 31, 2025), with these parameters likely to remain bracketed over the
+near term.
+www.icra .in 3
+Sensitivity Label : Public Page |
+Environmental and Social Risks
+Environmental considerations – BFL is not directly exposed to climate transition risks stemming from tightening emission
+control requirements, although the bulk of its product portfolio is used across various fuel powertrains. However, its
+automotive manufacturer customers are still highly exposed to the same. Accordingly, BFL’s prospects remain linked to the
+ability of its customers and suppliers to meet the tightening emission requirements. The company may need to continue to
+invest materially to develop products to cater to electric vehicles (EVs)1, even as the transition towards the same in its end-
+user segments is likely to be gradual.
+Social considerations – BFL, like most automotive component suppliers, has a healthy dependence on human capital. Retaining
+human capital, maintaining strong employee relations as well as supplier ecosystem remain essential for disruption-free
+operations for the entity. The entity has been undertaking initiatives to enhance employee safety, besides imparting training,
+technical knowledge upgradation, as well as quality initiatives towards improvement of their capacity and capabilities. Another
+risk that BFL faces pertains to product safety and quality, wherein instances of product recall and high warranty costs may
+cause financial implications and harm the entity’s reputation, creating a more long-lasting adverse impact. In this regard, its
+experience in catering to leading automotive manufacturers globally underpins its ability to mitigate these risks to an extent.
+Liquidity position: Strong
+BFL’s liquidity profile remains Strong, supported by large, unencumbered cash and liquid investments of approximately Rs.
+3,138 crore (consolidated) as on March 31, 2026, and sizeable buffer in the form of undrawn bank lines, as reflected by an
+average working capital utilisation of 58% for the 12-month period ending in June 2026 (the buffer stood at Rs. 1,557 crore as
+on March 31, 2026), for the standalone operations. The liquidity profile is further enhanced by healthy cash accrual generation
+of Rs. 1,400-1,600 crore per annum, at a consolidated level. Against these, the company plans for capex of Rs. 2,500-3,000
+crore over FY2027-FY2028 and has debt repayment obligations of around Rs. 366 crore in FY2027, and Rs. 300-400 crore per
+annum over the near-to-medium term.
+Rating sensitivities
+Positive factors – ICRA could upgrade BFL’s rating if it demonstrates a significant improvement in its scale of operations and
+return indicators. Specific credit metrics at the consolidated level that could lead to an upgrade of the company’s rating include
+significant reduction in leverage as well as dependence on the cyclical CV segment at the consolidated level.
+Negative factors – Pressure on BFL’s rating could arise in case of sustained slowdown in key end-user industries, thereby
+negatively affecting profitability and coverage indicators. Also, large debt-funded acquisitions or capacity expansion which
+could adversely impact the capital structure could trigger a negative rating action. Specific credit metrics that could cause a
+rating downgrade include total debt/OPBITDA above 2.5 times on a sustained basis.
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Rating Methodology for Auto Components
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of Bharat Forge
+Consolidation/Standalone
+Limited. Subsidiary details are enlisted in Annexure-II.
+1 Kalyani Powertrain Limited, a subsidiary of BFL, is the Group’s dedicated e-mobility subsidiary and houses most of the EV-related operations
+of the Group
+www.icra .in 4
+Sensitivity Label : Public Page |
+About the company
+Incorporated in 1961, Bharat Forge Limited is the flagship company of the Pune-based Kalyani Group, which has interests in
+forging, auto components, speciality steels, infrastructure, renewable energy and speciality chemicals businesses. It is one of
+the largest forging companies in India and among the largest in the world, in terms of installed capacity and revenues. BFL has
+a diversified global customer base, including the top five CV and PV manufacturers in the world, and caters to key global
+automotive OEMs and Tier I suppliers.
+The company’s business broadly comprises two segments, auto components (50-55% of standalone revenues) and non-
+automotive components (45-50%). BFL’s auto components segment primarily manufactures forging-based engine and chassis
+components with a focus on crankshafts and front-axle beams. It is one the leading suppliers of crankshafts and front-axle
+beams to CV OEMs in India, Europe and North America, and enjoys a sizeable share of the business with leading OEMs. In
+terms of its geographical mix, BFL caters to North American, European as well as Indian markets. Over the years, it has followed
+a two-pronged diversification strategy. In the first phase, the company diversified its presence across markets through a series
+of overseas acquisitions and transformed its business model from being a forging-based auto component company with a
+domestic market presence to an entity with a global scale and customer base. As part of the next phase, it has been diversifying
+into non-automotive sectors, such as defence and aerospace.
+Key financial indicators
+FY2025 FY2026 Q1 FY2027
+BFL (consolidated)
+Audited Audited Unaudited
+Operating income (OI; Rs. crore) 15,131.7 16,817.9 4,639.9
+PAT (Rs. crore) 917.0 1,098.9 -89.9
+OPBDITA/OI (%) 17.9% 17.3% 15.3%
+PAT/OI (%) 6.1% 6.5% -1.9%
+Total outside liabilities/Tangible net worth (times) 1.2 1.3 NA
+Total debt/OPBDITA (times) 2.5 2.5 NA
+Interest coverage (times) 6.5 9.0 7.9
+PAT: Profit after tax; OPBDITA: Operating profit before depreciation, interest, taxes and amortisation
+Source: BFL, ICRA Research
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+www.icra .in 5
+Sensitivity Label : Public Page |
+Rating history for past three years
+Current rating (FY2027) Chronology of rating history for the past 3 years
+FY2026 FY2025 FY2024
+Amount
+September
+Instrument Type rated Date Rating Date Rating Date Rating
+22, 2026
+(Rs. crore)
+13-Mar-
+2024
+Working
+[ICRA]AA+ 10-Mar- [ICRA]AA+ 12-Mar- [ICRA]AA+ 18-Dec- [ICRA]AA+
+capital Long-term 4,008.00
+(Stable) 2026 (Stable) 2025 (Stable) 2023 (Stable)
+facilities
+10-Apr-
+2023
+13-Mar-
+2024
+[ICRA]AA+ [ICRA]AA+ [ICRA]AA+ [ICRA]AA+
+Long-term/ 10-Mar - 12-Mar- 18-Dec-
+Term loan 475.00 (Stable)/ (Stable)/ (Stable)/ (Stable)/
+Short-term 2026 2025 2023
+[ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+10-Apr-
+2023
+[ICRA]AA+
+Long-term/
+Term Loan 800.00 (Stable)/ - - - - - -
+Short-term
+[ICRA]A1+
+13-Mar-
+2024
+Non-fund
+10-Mar - 12-Mar- 18-Dec-
+based Short-term 725.0 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+2026 2025 2023
+facilities
+10-Apr-
+2023
+13-Mar-
+2024
+[ICRA]AA+ [ICRA]AA+ [ICRA]AA+ [ICRA]AA+
+Unallocated Long-term/ 10-Mar - 12-Mar- 18-Dec-
+119.0 (Stable)/ (Stable)/ (Stable)/ (Stable)/
+limits Short-term 2026 2025 2023
+[ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+10-Apr-
+2023
+13-Mar-
+2024
+[ICRA]AA+ 10-Mar - [ICRA]AA+ 12-Mar- [ICRA]AA+ 18-Dec- [ICRA]AA+
+Issuer rating Long-term NA
+(Stable) 2026 (Stable) 2025 (Stable) 2023 (Stable)
+10-Apr-
+2023
+13-Mar-
+2024
+Non-
+[ICRA]AA+ 10-Mar - [ICRA]AA+ 12-Mar- [ICRA]AA+ 18-Dec- [ICRA]AA+
+convertible Long-term 125.0
+(Stable) 2026 (Stable) 2025 (Stable) 2023 (Stable)
+debentures
+10-Apr-
+2023
+13-Mar-
+2024
+Non- [ICRA]AA+
+10-Mar - 12-Mar- [ICRA]AA+ 18-Dec- [ICRA]AA+
+convertible Long-term - - (Stable);
+2026 2025 (Stable) 2023 (Stable)
+debentures withdrawn
+10-Apr-
+2023
+www.icra .in 6
+Sensitivity Label : Public Page |
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Long term – Fund-based – Working capital facilities Simple
+Long term / Short term – Fund-based / Term loan Simple
+Non-fund based facilities Simple
+Long term – Non-convertible debentures Simple
+Issuer Rating Not Applicable
+Long term / Short term – Unallocated limits Not Applicable
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional, or legal aspects. Details on the complexity levels of the instruments, are
+available on ICRA’s website: Click Here
+www.icra .in 7
+Sensitivity Label : Public Page |
+Annexure-I: Instrument details
+Date of Amount
+Coupon Maturity Current rating and Financial sector
+ISIN Instrument name issuance / rated
+rate date outlook regulator#
+Sanction (Rs. crore)
+NA Fund-based facilities NA NA NA 4,008.00 [ICRA]AA+ (Stable) RBI
+Non-fund based
+NA NA NA NA 725.00 [ICRA]A1+ RBI
+facilities
+Non-convertible Mar-
+INE465A08038 Mar-2024 7.80% 125.00 [ICRA]AA+ (Stable) SEBI
+debenture 2027
+[ICRA]AA+ (Stable)/
+NA Unallocated limits NA NA NA 119.00 RBI
+[ICRA]A1+
+Mar- [ICRA]AA+ (Stable)/
+NA Term loan 1 Apr-2022 NA 100.00 RBI
+2028 [ICRA]A1+
+Mar- [ICRA]AA+ (Stable)/
+NA Term loan 2 Mar-2024 NA 375.00 RBI
+2029 [ICRA]A1+
+Mar- [ICRA]AA+ (Stable)/
+NA Term loan 3 Mar-2026 NA 800.00 RBI
+2033 [ICRA]A1+
+NA Issuer Rating NA NA NA NA [ICRA]AA+ (Stable) -*
+Source: Company
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities
+and instruments which fall under the regulatory purview of Financial Sector Regulators other than SEBI
+*Since no instrument is being rated, FSR is not applicable. The rating scale and definitions stipulated in SEBI Master Circular for CRAs are being followed.
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure-II: List of entities considered for consolidated analysis
+Company name BFL ownership Consolidation approach
+Direct Subsidiaries/Joint Ventures/Associates
+Bharat Forge Global Holding GmbH 100.00% Full consolidation
+Bharat Forge International Limited 100.00% Full consolidation
+Bharat Forge America Inc. 100.00% Full consolidation
+BF Infrastructure Limited 100.00% Full consolidation
+Kalyani Strategic Systems Limited 100.00% Full consolidation
+Kalyani Powertrain Limited 100.00% Full consolidation
+BF Industrial Solutions Limited 100.00% Full consolidation
+BF Elbit Advanced Systems Private Limited 51.00% Full consolidation
+Eternus Performance Materials Private Limited 51.00% Full consolidation
+Kalyani Centre for Precision Technology Limited 100.00% Full consolidation
+Kalyani Lightweighting Technology Solutions Limited 100.00% Full consolidation
+K Drive Mobility Solutions Private Limited 100.00% Full consolidation
+Step Down Subsidiaries/Joint Ventures/Associates
+Tork Motors Private Limited1 64.29% Full consolidation
+Lycan Electric Private Limited 64.29% Full consolidation
+Electroforge Limited2 100.00% Full consolidation
+Bharat Forge Holding GmbH 100.00% Full consolidation
+Bharat Forge Aluminiumtechnik GmbH 100.00% Full consolidation
+Bharat Forge Kilsta AB 100.00% Full consolidation
+Bharat Forge CDP GmbH 100.00% Full consolidation
+Bharat Forge Daun GmbH 100.00% Full consolidation
+Mecanique Generale Langroise 100.00% Full consolidation
+Bharat Forge PMT Technologie LLC 100.00% Full consolidation
+www.icra .in 8
+Sensitivity Label : Public Page |
+Company name BFL ownership Consolidation approach
+Bharat Forge Tennessee Inc. 100.00% Full consolidation
+Bharat Forge Aluminium USA, Inc. 100.00% Full consolidation
+Kalyani Mobility, Inc. 100.00% Full consolidation
+BF Industrial Technology & Solutions Limited 100.00% Full consolidation
+Sanghvi Europe B.V. 100.00% Full consolidation
+J S Auto Cast Foundry India Private Limited3 100.00% Full consolidation
+BFIL-CEC JV 74.00% Full consolidation
+Kalyani Rafael Advanced Systems Private Limited 50.00% Full consolidation
+Sagar Manas Technologies Limited 51.00% Full consolidation
+Zorya Mashproekt India Private Limited4 64.94% Full consolidation
+FerroviaTransrail Solutions Private Limited 100.00% Full consolidation
+Agneyastra Energetics Limited 100.00% Full consolidation
+Aegis Advanced Systems SL 100.00% Full consolidation
+BF Premier Energy Systems Private Limited NA Equity method
+Aeron Systems Private Limited 37.14% Equity method
+Avaada MHVidharbha Private Limited 26.00% Equity method
+Edgelab S.p.A.
+BF NTPC Energy Systems Limited5 51.00% Equity method
+Talbahn GmbH 35.00% Equity method
+Refu Drive GmbH 50.00% Equity method
+Refu Drive India Private Limited 50.00% Equity method
+Source: BFL published results for Q1 FY 2027; 1Converted to subsidiary with effect from November 22, 2021; 2incorporated with effect from July 25, 2022;
+3with effect from July 1, 2022; 4with effect from January 24, 2024; 5 Not consolidated as the shareholders of the Joint Venture Company decided to
+voluntarily liquidate the joint venture at their EGM held on October 9, 2018
+www.icra .in 9
+Sensitivity Label : Public Page |
+ANALYST CONTACTS
+Jitin Makkar Kinjal Shah
++91 124 4545368 +91 22 6114 3442
+jitinm@icraindia.com kinjal.shah@icraindia.com
+Mythri Macherla Yashowardhan Swami
++91 22 6114 3435 +91 20 6606 9923
+mythri.macherla@icraindia.com yashowardhan.swami@icraindia.com
+RELATIONSHIP CONTACT
+L Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 10
+Sensitivity Label : Public Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2026 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public
