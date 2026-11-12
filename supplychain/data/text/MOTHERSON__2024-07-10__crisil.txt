@@ -1,0 +1,1384 @@
+Rating Rationale
+Rating Rationale
+July 10, 2024 | Mumbai
+Samvardhana Motherson International Limited
+Long-term rating upgraded to 'CRISIL AAA/Stable'; Short-term rating reaffirmed
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.200 Crore
+Long Term Rating
+CRISIL AAA/Stable (Upgraded from 'CRISIL AA+/Positive')
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Rs.1500 Crore Non Convertible Debentures
+CRISIL AAA/Stable (Upgraded from 'CRISIL AA+/Positive')
+Corporate Credit Rating
+CRISIL AAA/Stable (Upgraded from 'CRISIL AA+/Positive')
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has upgraded its rating on the long-term bank facilities, non-convertible debentures and corporate credit rating of Samvardhana Motherson International Ltd (SAMIL) to
+‘CRISIL AAA/Stable’
+from ‘CRISIL AA+/Positive’ and has reaffirmed its ‘CRISIL A1+’ rating on the short-term bank facilities of the company.
+The upgrade
+reflects SAMIL's consistently improving scale of operations, established market position in the automotive (auto) components industry, its diversified revenu
+e profile across customers, geographies and product segments, healthy relationships with global original equipment manufacturers (OEMs) and strong execution track record of successful turnaround of overseas acquired entities while maintaining healthy operating efficiency. The ratings also reflect the company’s healthy financial profile -- depicted by net debt (On balance sheet debt minus CRISIL adjusted cash and cash equivalents) to earnings before interest, taxes, depreciation and amortisation (Ebitda) exp
+ected to remain below 1.1 times, lower than the expected 1.1-1.5 times, over the medium term. It is also aided by well-spaced out repayment obligations and superior liquidity profile.
+Revenue (net of throughput revenue) is expected to grow by 15-20% year-on-year (y-o-y) this fiscal and cross the Rs 1 lakh crore mark, after a 25% y-o-y growth last fiscal. This will be driven by healthy sales growth in the auto components division on the back of a strong orderbook, expansion of the non-auto segments and full
+year impact of acquisitions closed in last and current fiscal years. Additionally, as the company continues to grow in scale, it will maintain its focus on diversification of revenue to achieve its
+3CX10 strategy i.e. no customer, component or country to contribute more than 10% of overall revenue. Except for Mercdes Benz (which contributes 11%), no customer currently contributes more than 10% of its revenue, while no component contributes more than 28% of its overall revenue and no country contributes mor
+e than 21% of its overall revenue, thereby reducing concentration risk for the company.
+Operating profitability is expected to remain range bound but healthy at 9-10% this fiscal and over the medium term, after a 150 basis points (bps) increase in margins to 9.2% in fiscal 2024. The continued improvement in margin is on account of ramp up of the newer capacities, better operating leverage and successful integration of acquisitions resulting in increased synergies. Resultantly, return on capital employed (R
+oCE) has improved from Covid-19 pandemic-impacted fiscals 2021 to 2022, to 10.3% in fiscal 2023 and 16.8% in fiscal 2024, which will further improve over the medium term.
+Going ahead, SAMIL is expected to continue its OEM-guided acquisition strategy and will undertake merger and acquisition (M&A) activities. However, based on established track record of acquisitions of SAMIL, the acquisitions are expected to be driven by customer requirement with prudent funding philosophy. Additionally, with focus on or
+ganic expansion, SAMIL is expected to undertake annual capital expenditure (capex) of Rs ~5,000 crore over the medium term.
+Despite these plans, improvement in profitability leading to higher cash accrual should reduce dependence on debt for acquisitions and capex. Hence, CRISIL adjusted net debt/Ebtida -- which improved to 1.13 times in fiscal 2024 from 1.23 times in fiscal 2023 -- will remain below 1.1 times going ahead.
+Additionally, other debt protection metrics are also
+expected to improve over the
+medium term. Interest coverage ratio of 5.0 times and net cash accrual to adjusted debt (NCA/AD) ratio of 0.35 time in fiscal 2024 is expected to improve to 6.0-7.5 times and 0.40-0.55 time, respectively, in the ongoing and next fiscals. Total outside liabilities to tangible networth (TOL/TNW) ratio too will see an improvement from 2.47 times in fiscal 2024 to below 2.2 times (though elevated as TOL includes the working capital needs for the throughput revenue and networth adjustments due to amortisation o
+f goodwill as mentioned in the analytical approach) over the medium term.
+However, any significant debt-funded acquisition will remain a key monitorable. Liquidity has been superior, with CRISIL adjusted cash and cash equivalent of Rs 7,085 crore as on March 31, 2024. Strong cash accrual of over Rs 7,000-9,000 crore per annum should be sufficient to meet the yearly repayment obligation of Rs 3,000-6,000 crore.
+These strengths are partially offset by aggressive acquisition-led growth philosophy and exposur
+e to cyclicality in demand in the global auto industry.
+Analytical Approach
+CRISIL Ratings has combined the business and financial risk profiles of SAMIL and its subsidiaries, including Samvardhana Motherson Automotive Systems Group B V (SMRP BV), collectively referred to as the Motherson group due to the operational and financial linkages among the entities.
+CRISIL Ratings in its analytical approach has amortised the goodwill generated on acquisition of PKC over a period of five years (from April
+2017 to March 2022). From fiscal 2023, entire goodwill has been knocked off from the networth.
+CRISIL Ratings has also in its analytical approach amortised the goodwill generated on acquisition of SAS Autosystemtechnik GmbH over a period of five years (from April 2024 to March 2029). From fiscal 2030, entire goodwill has been knocked off from the networth.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Established market position in the automotive components industry
+:
+SAMIL has an established market position and is amongst the world's largest manufacturers of exterior rear-view mirrors with dominant market share and is a leading global player in polymer-based interior and exterior modules. Its market position is further supported by increasing market share in the premium segment in the polymers division in bumpers, instrument panels and door panels. The group is also the largest manufacturer of wiring harnesses for passenger vehicles in India. PKC (acquired in April 2017
+) has a dominant market share in North American and European heavy truck market. Recently completed acquisitions -- such as Yachiyo Industry and Dr Schneider -- have also globally strengthened its position in modules and polymer segments and with SAS Autosystemtechnik marked its entry as Tier 0.5 supplier in integrated assemblies.
+SAMIL’s business risk profile is further supported by the synergies within various business segments, its strong in-house research and development capabilities and long-term technical collaborations with Sumitomo Wiring Systems Ltd (SWS) and other joint venture (JV) partners.
+Diversified revenue profile across customers, geographies and product segments
+:
+SAMIL has, over the years, significantly diversified its revenue profile through acquisitions. Ramp up of performance of acquired entities has helped the group in establishing a global presence across key product segments.
+Further, SAMIL’s customer and geographic diversity has been improving with its focus on increasing content per car. The healthy customer diversity helped SAMIL withstand slowdown in demand multiple times in the past. SAMIL's geographic diversity has also been improving, with exposure to its largest market, Europe, reducing to around 37% in fiscal 2024 from 44% in fiscal 2018 and exposure to Asia Pacific, North America and South America simultaneously increasing. Product diversity has also continued to impro
+ve with no component contributing more than 28% of its overall revenue.
+Global light vehicle sales growth is expected to remain flat this fiscal in Europe while the Indian auto component industry is expected to grow 8-10% in fiscal 2025, driven by healthy demand from OEMs. This is also expected to lead to similar revenue growth at SAMIL, which derived around 37% of its revenue from Europe, 21% from India, 18% from USA while remaining from the rest of the world in fiscal 2024. Furthermore, SAMIL plans to increase share of non-auto business over the next five years in identified
+segments such as aerospace, logistics, health and medical and technological and industrial solutions through organic and inorganic routes.
+CRISIL Ratings believes that SAMIL will continue to benefit from its diversified customer profile and strong order book, which will enable it to register better-than-industry growth over the medium term.
+Healthy relationships with global OEMs
+:
+Over the years, SAMIL has forged healthy relationship with major global OEMs owing to its focus on quality and delivery. The group benefits from a sustained inflow of new orders from OEMs, primarily in its major divisions, modules and polymers, wiring harness, vision systems and integrated assemblies evidenced by its automotive booked business of USD 83.9 billion on March 31,2024.
+SAMIL has a well-diversified global client base in the passenger and commercial vehicles industry. Its customers include leading global OEMs such as VWG and its group companies, Mercedes-Benz Group AG (rated A/Stable/A-1’ by S&P Global Ratings), Hyundai Motor Co (rated 'BBB+/Positive' by S&P Global Ratings), Maruti Suzuki India Ltd ('CRISIL AAA/Stable/CRISIL A1+'), Bayerische Motoren Werke Aktiengesellschaft
+(BMW ' rated 'A/Stable/A-1' by S&P Global Ratings), Nissan Motor Co. Ltd (rated 'BB+/Stable' by S&P
+Global Ratings), Renault S A (rated 'BB+/Stable/B' by S&P Global Ratings), Stellantis N.V. (rated 'BBb+/Stable' by S&P Global Ratings), Paccar Inc (rated 'A+/Stable/A1' by S&P Global Ratings), Ford Motor Company (rated 'BBB-/Stable' by S&P Global Ratings), General Motors Company (rated 'BBB/Stable' by S&P Global Ratings) and Scania AB (rated BBB/Stable/A-2' by S&P Global Ratings), among others.
+Strong execution track record of successful turnaround of, and ramp up of utilisation levels at overseas acquired entities
+:
+SAMIL has a track record of acquiring distressed companies and turning around their operations in a short span of time. The 43 acquisitions from fiscal 2002 till date have improved its geographical and product profiles, apart from being its growth driver. SAMIL has also successfully integrated and stabilised the operations of the acquired entities.
+Over the medium term, operating profitability is expected to remain range bound but healthy at 9-10%, after a 150-bps increase in margin to 9.2% last fiscal. The continued improvement in margin is on account of ramp up of the newer capacities, better operating leverage and successful integration of acquisition, resulting in increased synergies. Resultantly, return on capital employed (RoCE) has improved from Covid-19 pandemic-impacted fiscals 2021 to 2022, to 10.3% in fiscal 2023 and 16.8% in fiscal 2024, w
+hich will further improve over the medium term.
+Healthy financial risk profile by well-spaced out repayment obligations and strong liquidity
+:
+While the group has funded its acquisitions through a combination of debt, equity and cash accrual, it has also prudently ensured its debt obligations are well spaced out, besides also consistently working on lowering the cost of debt.
+For instance, the group has replaced high cost debt with longer tenure Euro and USD denominated debt at competitive rates over the past five years.
+The company’s long-term repayment obligation stands at around Rs 3,000-6,000 crore per year over the medium term, which is expected to either be refinanced or met out of cash accrual projected at more than Rs 7,000-9,000 crore per year over the medium term.
+With the company’s focus on capital expansion, SAMIL is expected to undertake annual capex of Rs ~5,000 crore and is expected to continue to undertake M&A-related activities over the medium term. Despite these plans, improvement in profitability leading to higher cash accrual should reduce dependence on debt for acquisitions and capex. Therefore, debt protection metrics
+are expected to improve over the medium term. Interest coverage ratio and NCA/AD ratio -- which were 5.0 times and 0.35 time respectively i
+n fiscal 2024 -- is expected to improve to 6.0-7.5 times and 0.4-0.55 time, respectively, over the ongoing and next fiscals. Leverage ratio too will see an improvement with net debt/Ebitda and TOL/TNW improving from 1.13 times and 2.47 times respectively in fiscal 2024 to remain below 1.1 times and 2.2 times (though elevated as TOL includes the working capital needs for the throughput revenue and networth adjustments due to amortisation of goodwill as mentioned in the analytical approach) respectively over
+the medium term. Additionally, interest coverage ratio -- which had moderated from 7.78 times in fiscal 2023 to 5.03 times in fiscal 2024 due to higher gross debt and peak interest rates due to interest rate hikes -- will see gradual improvement to 6.3-6.5 times in fiscal 2025 and 7.3-7.5 times in fiscal 2026.
+However, any significant, debt-funded acquisition will continue to be a key monitorable.
+Weaknesses
+:
+Exposure to cyclicality in demand in global automobile industry
+:
+While SAMIL's revenue profile benefits from good geographic, customer and product diversity, it remains closely aligned to the performance of key geographies and customers.
+Due to dependence on large global OEMs, SAMIL's business prospects are exposed to cyclical demand patterns inherent to the global automobile industry and ability of the OEMs to sustain their operating performance. Additionally, delay in ramp up of new capacities due to the impact of Covid-19 pandemic weakened the overall operating profit
+ability in fiscal 2019 and during the first nine months of fiscal 2020.
+Aggressive acquisition-led growth strategy
+:
+SAMIL has demonstrated high growth through number of acquisitions since 2002. This has resulted in higher diversification in revenue profile and improved scale of operations. However, with continuation of its aggressive growth policy, SAMIL is exposed to the risk of impact on debt protection metrics due to higher-than-expected debt-funded acquisitions and risk associated with acquiring distressed businesses and integrating acquisitions with SAMIL which are in different line of business.
+However, the risk is partially mitigated by strong track record to turnaround distressed businesses that have been acquired by SAMIL and the company’s philosophy to acquire companies driven by customers’ requirement and a prudent funding philosophy. The management believes in not breaching the 2.5 net debt to EBTIDA mark, and if it is breaches the same, it shall be reinstated to previous levels within a period of 12 months.
+Liquidity
+:
+S
+uperior
+CRISIL adjusted cash and cash equivalents stood at around 7,085 crore on March 31, 2024 at consolidated
+level
+(mainly in overseas subsidiaries). Fund-based working capital limit of Rs 1,647 crore with more than 85% unutilised on an average for the 12 months ended May 31, 2024.
+The company’s long-term repayment obligation stand at around Rs 3,000-6,000 crore per year over the medium term. The company has a track record of refinancing of higher cost debt at lower rates in the past. Over medium term, cash accrual is expected to remain above Rs 7,000-9,000 crore, which is expected to be sufficient for repayments. Ma
+terial acquisitions and funding philosophy will continue to remain monitorable.
+Outlook
+:
+Stable
+CRISIL Ratings believes that SAMIL's credit risk profile is driven by strong business risk profile with increase in scale and continued diversification of the revenue profile. Financial risk profile will remain strong, driven by substantial networth and strong liquidity.
+Rating Sensitivity factors
+Downward
+factors
+Higher-than-expected debt-funded acquisitions/capex leading to significant deterioration in key credit metrics; for instance, Net debt/Ebitda increases beyond 1.5 times on a sustained basis
+Significant and sustained decline in revenue and/or profitability; for instance, operating margin weakening below 6% for a prolonged time
+Sharp deterioration in liquidity
+ESG Profile of SAMIL
+CRISIL Ratings believes that Samvardhana Motherson International Limited’s (SAMIL) environment, social, and governance (ESG) profile of SAMIL supports its already strong credit risk profile.
+The auto component sector has a moderate impact on the environment owing to moderate emissions, water consumption and waste
+generation. The sector’s social impact is also moderate considering the impact of operational activities on the company’s own employees.
+The company is focusing on mitigating
+environmental and social risks.
+Key ESG highlights
+SAMIL has set the target of being carbon net zero across all current global operations by 2040.
+Share of energy from renewal sources was
+about
+10.5% in fiscal 2023.
+The company aims to implement water preservation measures at all its facilities across current global operations by 2030.
+SAMIL conducts monthly and quarterly audits to maintain a high standard of safety
+The governance structure is characterised by
+50% of its board comprising independent directors.
+Position of
+the chairman and CEO
+are split. It has an investor grievance cell.
+There is growing importance of ESG among investors and lenders. The commitment of
+SAMIL
+to ESG principles will play
+a key role in enhancing stakeholder confidence, given the high share of market borrowing in its overall debt and access to both domestic and foreign capital markets.
+About the Company
+SAMIL (formerly Motherson Sumi Systems Ltd [erstwhile MSSL]), the flagship company of the group, was incorporated as a JV between erstwhile Samvardhana Motherson International Ltd (erstwhile SAMIL) and SWS in 1986.
+On July 02, 2020, board of directors of erstwhile MSSL and erstwhile SAMIL have approved reorganisation of business which entails demerger of the domestic wiring harness business from erstwhile MSSL into a new company, with similar shareholding structure as that of MSSL and subsequent merger of
+erstwhile SAMIL into erstwhile MSSL with the merged entity renamed as SAMIL. SAMIL now holds 100% stake in Samvardhana Motherson Automotive Systems Group BV. Besides, SAMIL also holds 33.4% stake in the demerged DWH business housed under newly created entity Motherson Sumi Wiring Harness
+Ltd subsequent to completion of the transaction.
+Key Financial Indicators
+(CRISIL Ratings-adjusted financials)
+Particulars
+Unit
+2024
+2023
+Revenue
+Rs.Crore
+98451
+78476
+Profit After Tax (PAT)
+Rs.Crore
+2902
+1586
+PAT Margin
+%
+2.9
+2.0
+Adjusted debt/adjusted networth
+Times
+0.79
+0.63
+Interest coverage
+Times
+5.3
+7.9
+Any other information
+:
+Not Applicable
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of instrument
+Date of allotment
+Coupon rate (%)
+Maturity date
+Issue size (Rs.Crore)
+Complexity
+Rating assigned with outlook
+NA
+Fund-based facilities
+%
+NA
+NA
+NA
+100
+NA
+CRISIL AAA/Stable
+NA
+Non-fund-based limit
+%%
+NA
+NA
+NA
+100
+NA
+CRISIL A1+
+INE775A08097
+Non-convertible debentures
+04-Oct-2023
+8.10%
+04-Oct-2028
+1500
+Simple
+CRISIL AAA/Stable
+%
+Interchangeable with CC/WCL/CP
+%%
+Interchangeable with CC/BG and CEL Limits
+Annexure - List of Entities Consolidated
+Names of entities consolidated
+Extent of consolidation
+Rationale for consolidation
+MSSL Mauritius Holdings Limited
+Subsidiary
+Full consolidation
+Motherson Electrical Wires Lanka Private Limited
+Subsidiary
+Full consolidation
+MSSL Mideast (FZE)
+Subsidiary
+Full consolidation
+MSSL (S) Pte Limited
+Subsidiary
+Full consolidation
+Motherson Innovations Tech Limited (formerly MSSL Automobile Component Limited)
+Subsidiary
+Full consolidation
+Samvardhana Mothe
+rson Polymers Limited (Merged with Samvardhana Motherson International Limited w.e.f. November 21, 2023)
+Subsidiary
+Full consolidation
+MSSL (GB) Limited
+Subsidiary
+Full consolidation
+Motherson Wiring System (FZE)
+Subsidiary
+Full consolidation
+MSSL Tooling (FZE)
+Subsidiary
+Full consolidation
+MSSL GmbH
+Subsidiary
+Full consolidation
+MSSL Advanced Polymers s.r.o.
+Subsidiary
+Full consolidation
+Motherson Air Travel Agency GmbH (formerly known as Motherson Techno Precision GmbH)
+Subsidiary
+Full consolidatio
+n
+MSSL Germany Real Estate B.V. & Co. KG
+Subsidiary
+Full consolidation
+MSSL s.r.l. Unipersonale
+Subsidiary
+Full consolidation
+Motherson Techno Precision México, S.A. de C.V
+Subsidiary
+Full consolidation
+Motherson Air Travel Pvt Ltd
+Subsidiary
+Full consolidation
+MSSL Australia Pty Limited
+Subsidiary
+Full consolidation
+Motherson Elastomers Pty Limited
+Subsidiary
+Full consolidation
+Motherson Investments Pty Limited
+Subsidiary
+Full consolidation
+MSSL Ireland Private Limited
+Subsidiary
+Full consolidation
+MSSL Global RSA Module Engineering Limited
+Subsidiary
+Full consolidation
+MSSL Japan Limited
+Subsidiary
+Full consolidation
+Vacuform 2000 (Proprietary) Limited
+Subsidiary
+Full consolidation
+MSSL México, S.A. De C.V.
+Subsidiary
+Full consolidation
+MSSL WH System (Thailand) Co., Ltd
+Subsidiary
+Full consolidation
+MSSL Korea WH Limited
+Subsidiary
+Full consolidation
+MSSL Consolidated Inc.
+Subsidiary
+Full consolidation
+MSSL Wiring System Inc
+Subsidiary
+Full consolidation
+Alphabet de Mexico, S.A. de C.V.
+Su
+bsidiary
+Full consolidation
+Alphabet de Mexico de Monclova, S.A. de C.V.
+Subsidiary
+Full consolidation
+Alphabet de Saltillo, S.A. de C.V.
+Subsidiary
+Full consolidation
+MSSL Wirings Juarez, S.A. de C.V.
+Subsidiary
+Full consolidation
+Samvardhana Motherson Global Holdings Ltd.
+Subsidiary
+Full consolidation
+Samvardhana Motherson Automotive Systems Group B.V. (SMRPBV)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Reflectec Group Holdings Limited (SMR)
+Subsidiary
+Full consolidation
+SMR Automotive Tec
+hnology Holding Cyprus Limited
+Subsidiary
+Full consolidation
+SMR Automotive Mirror Parts and Holdings UK Ltd
+Subsidiary
+Full consolidation
+SMR Automotive Holding Hong Kong Limited
+Subsidiary
+Full consolidation
+SMR Automotive Systems India Limited
+Subsidiary
+Full consolidation
+SMR Automotive Systems France S.A.
+Subsidiary
+Full consolidation
+SMR Automotive Mirror Technology Holding Hungary KFT
+Subsidiary
+Full consolidation
+SMR Patents S.à.r.l.
+Subsidiary
+Full consolidation
+SMR Automotive Technology Val
+encia S.A.U.
+Subsidiary
+Full consolidation
+SMR Automotive Mirrors UK Limited
+Subsidiary
+Full consolidation
+SMR Automotive Mirror International USA Inc.
+Subsidiary
+Full consolidation
+SMR Automotive Systems USA Inc.
+Subsidiary
+Full consolidation
+SMR Automotive Beijing Company Limited
+Subsidiary
+Full consolidation
+SMR Automotive Yancheng Co. Limited
+Subsidiary
+Full consolidation
+SMR Automotive Mirror Systems Holding Deutschland GmbH
+Subsidiary
+Full consolidation
+SMR Holding Australia Pty Limited
+Subsidi
+ary
+Full consolidation
+SMR Automotive Australia Pty Limited
+Subsidiary
+Full consolidation
+SMR Automotive Mirror Technology Hungary BT
+Subsidiary
+Full consolidation
+Motherson Business Service Hungary Kft.
+Subsidiary
+Full consolidation
+SMR Automotive Modules Korea Ltd.
+Subsidiary
+Full consolidation
+SMR Automotive Beteiligungen Deutschland GmbH
+Subsidiary
+Full consolidation
+SMR Hyosang Automotive Ltd.
+Subsidiary
+Full consolidation
+SMR Automotive Mirrors Stuttgart GmbH
+Subsidiary
+Full consolidation
+SMR
+Automotive Systems Spain S.A.U.
+Subsidiary
+Full consolidation
+SMR Automotive Vision Systems Mexico S.A. de C.V.
+Subsidiary
+Full consolidation
+Samvardhana Motherson Corp Management Shanghai Co Ltd.
+Subsidiary
+Full consolidation
+SMR Grundbesitz GmbH & Co. KG
+Subsidiary
+Full consolidation
+SMR Automotive Brasil Ltda.
+Subsidiary
+Full consolidation
+SMR Automotive System (Thailand) Limited
+Subsidiary
+Full consolidation
+SMR Automotives Systems Macedonia Dooel Skopje
+Subsidiary
+Full consolidation
+SMR Automoti
+ve Operations Japan K.K.
+Subsidiary
+Full consolidation
+SMR Automotive (Langfang) Co. Ltd
+Subsidiary
+Full consolidation
+SMR Automotive Vision System Operations USA INC
+Subsidiary
+Full consolidation
+SMR Mirror UK Limited
+Subsidiary
+Full consolidation
+Motherson Innovations Company Limited
+Subsidiary
+Full consolidation
+Motherson Innovations Deutschland GmbH
+Subsidiary
+Full consolidation
+Samvardhana Motherson Global (FZE)
+Subsidiary
+Full consolidation
+SMR Automotive Industries RUS Limited Liability Compan
+y
+Subsidiary
+Full consolidation
+Re-time Pty Limited
+Subsidiary
+Full consolidation
+SMR Plast Met Molds and Tools Turkey Kalıp İmalat Anonim Sirketi
+Subsidiary
+Full consolidation
+SMR Plast Met Automotive Tec Turkey Plastik İmalat Anonim Şirketi
+Subsidiary
+Full consolidation
+Samvardhana Motherson Peguform GmbH (SMP)
+Subsidiary
+Full conso
+lidation
+SMP Automotive Interiors (Beijing) Co. Ltd.
+Subsidiary
+Full consolidation
+SMP Deutschland GmbH
+Subsidiary
+Full consolidation
+SMP Logistik Service GmbH
+Subsidia
+ry
+Full consolidation
+SMP Automotive Solutions Slovakia s.r.o.
+Subsidiary
+Full consolidation
+Changchun Peguform Automotive Plastics Technology Co., Ltd.
+Subsidiary
+Full consolidation
+Foshan Peguform Automotive Plastics Technology Co. Ltd.
+Subsidiary
+Full consolidation
+Tianjin SMP Automotive Component Company Limited
+Subsidiary
+Full consolidation
+Shenyang SMP Automotive Trim Co., Ltd
+Subsidiary
+Full consolidation
+SMP Automotive Technology Iberica S.L.
+Subsidiary
+Full consolidation
+Samvardhana Motherso
+n Peguform Barcelona S.L.U
+Subsidiary
+Full consolidation
+SMP Automotive Technologies Teruel Sociedad Limitada
+Subsidiary
+Full consolidation
+Samvardhana Motherson Peguform Automotive Technology Portugal S.A.
+Subsidiary
+Full consolidation
+SMP Automotive Systems Mexico S.A. de C.V.
+Subsidiary
+Full consolidation
+SMP Automotive Produtos Automotivos do Brasil Ltda.
+Subsidiary
+Full consolidation
+SMP Automotive Exterior GmbH
+Subsidiary
+Full consolidation
+Samvardhana Motherson Innovative Autosystems B.V. & Co.
+KG
+Subsidiary
+Full consolidation
+Samvardhana Motherson Innovative Autosystems Holding Company BV
+Subsidiary
+Full consolidation
+SM Real Estate GmbH
+Subsidiary
+Full consolidation
+Samvardhana Motherson Innovative Autosystems de México, S.A. de C.V.
+Subsidiary
+Full consolidation
+SMP Automotive Systems Alabama Inc.
+Subsidiary
+Full consolidation
+Celulosa Fabril (Cefa) S.A.
+Subsidiary
+Full consolidation
+Modulos Ribera Alta S.L.Unipersonal
+Subsidiary
+Full consolidation
+Motherson Innovations Lights GmbH &
+Co KG
+Subsidiary
+Full consolidation
+Motherson Innovations Lights Verwaltungs GmbH
+Subsidiary
+Full consolidation
+Zhaoqing SMP Automotive Co., Ltd.
+Subsidiary
+Full consolidation
+SMP D Real Estates B.V. & Co. KG
+Subsidiary
+Full consolidation
+SMP Automotive Ex Real Estate B.V. & Co. KG
+Subsidiary
+Full consolidation
+SMP Automotive Interio
+r Modules d.o.o. Ćuprija
+Subsidiary
+Full consolidation
+MSSL Estonia WH OÜ
+Subsidiary
+Full consolidation
+PKC Group Oy
+Subsidiary
+Full consolidation
+PKC Wiring Systems Oy
+Subsidiary
+Full consolidation
+PKC Group Poland Sp. z o.o.
+Subsidiary
+Full consolida
+tion
+PKC Wiring Systems Llc
+Subsidiary
+Full consolidation
+PKC Group APAC Limited
+Subsidiary
+Full consolidation
+PKC Group Canada Inc.
+Subsidiary
+Full consolidation
+PKC Group USA Inc.
+Subsidiary
+Full consolidation
+PKC Group Mexico S.A. de C.V.
+Subsidiary
+Full consolidation
+Project del Holding S.a.r.l.
+Subsidiary
+Full consolidation
+PK Cables do Brasil Ltda
+Subsidiary
+Full consolidation
+PKC Eesti AS
+Subsidiary
+Full cons
+olidation
+TKV-sarjat Oy
+Subsidiary
+Full consolidation
+Motherson Rolling Stocks S. de R.L. de C.V.
+Subsidiary
+Full consolidation
+PKC SEGU Systemelektrik GmbH
+Subsidiary
+Full consolidation
+Groclin Luxembourg S.à r.l.
+Subsidiary
+Full consolidation
+PKC Vehicle Technology (Suzhou) Co., Ltd.
+Subsidiary
+Full consolidation
+AEES Inc.
+Subsidiary
+Full consolidation
+PKC Group Lithuania UAB
+Subsidiary
+Full consolidation
+PKC Group Poland Holding Sp. z o.o.
+Subsidiary
+Full consolidation
+OOO AEK
+Subsidiary
+Full co
+nsolidation
+Kabel-Technik-Polska Sp. z o.o.
+Subsidiary
+Full consolidation
+T.I.C.S. Corporation
+Subsidiary
+Full consolidation
+AEES Power Systems Limited partnership
+Subsidiary
+Full consolidation
+Fortitude Industries Inc.
+Subsidiary
+Full consolidation
+AEES Manufactuera, S. De R.L de C.V.
+Subsidiary
+Full consolidation
+Cableodos del Norte II, S. de R.L de C.V.
+Subsidiary
+Full consolidation
+Manufacturas de Componentes Electricos de Mexico S. de R.L de C.V.
+Subsidiary
+Full consolidation
+Arneses y Accesori
+os de México, S. de R.L de C.V.
+Subsidiary
+Full consolidation
+Asesoria Mexicana Empresarial, S. de R.L de C.V.
+Subsidiary
+Full consolidation
+Arneses de Ciudad Juarez, S. de R.L de C.V.
+Subsidiary
+Full consolidation
+PKC Group de Piedras Negras, S. de R.L. de C.V.
+Subsidiary
+Full consolidation
+PKC Group AEES Commercial S. de R.L de C.V
+Subsidiary
+Full consolidation
+Jiangsu Huakai-PKC Wire Harness Co., Ltd.
+Subsidiary
+Full consolidation
+PKC Vechicle Technology (Hefei) Co, Ltd.
+Subsidiary
+Full consolidati
+on
+PKC Vehicle Technology (Fuyang) Co., Ltd.
+Subsidiary
+Full consolidation
+Shangdong Huakai-PKC Wire Harness Co., Ltd.
+Subsidiary
+Full consolidation
+Jilin Huakai - PKC Wire Harness Co. Ltd.
+Subsidiary
+Full consolidation
+Motherson PKC Harness Systems FZ-LLC
+Subsidiary
+Full consolidation
+Wisetime Oy
+Subsidiary
+Full consolidation
+Global Environment Management (FZC)
+Subsidiary
+Full consolidation
+SMRC Automotive Holdings Netherlands B.V.
+Subsidiary
+Full consolidation
+SMRC Automotives Techno Minority Hol
+dings B.V.
+Subsidiary
+Full consolidation
+SMRC Automotive Modules France SAS
+Subsidiary
+Full consolidation
+Samvardhana Motherson Reydel Automotive Parts Holding Spain, S.L.U.
+Subsidiary
+Full consolidation
+SMRC Automotive Interiors Spain S.L.U.
+Subsidiary
+Full consolidation
+SMRC Automotive Interior Modules Croatia d.o.o
+Subsidiary
+Full consolidation
+Samvardhana Motherson Reydel Autotecc Morocco SAS
+Subsidiary
+Full consolidation
+SMRC Automotive Technology RU LLC
+Subsidiary
+Full consolidation
+SMRC Smart
+Interior Systems Germany GmbH
+Subsidiary
+Full consolidation
+SMRC Automotive Solutions Slovakia s.r.o.
+Subsidiary
+Full consolidation
+SMRC Automotive Holding South America B.V.
+Subsidiary
+Full consolidation
+SMRC Automotive Modules South America Minority Holdings B.V.
+Subsidiary
+Full consolidation
+SMRC Automotive Tech Argentina S.A.
+Subsidiary
+Full consolidation
+SMRC Fabricacao e Comercio de Produtos Automotivos do Brasil Ltda
+Subsidiary
+Full consolidation
+SMRC Automotive Products India Limited
+Subsidia
+ry
+Full consolidation
+SMRC Automotive Smart Interior Tech (Thailand) Ltd.
+Subsidiary
+Full consolidation
+SMRC Automotive Interiors Japan Ltd.
+Subsidiary
+Full consolidation
+Shanghai SMRC Automotive Interiors Tech Consulting Co. Ltd.
+Subsidiary
+Full consolidation
+PT SMRC Automotive Technology Indonesia
+Subsidiary
+Full consolidation
+Yujin SMRC Automotive Techno Corp.
+Subsidiary
+Full consolidation
+SMRC Automotives Technology Phil Inc.
+Subsidiary
+Full consolidation
+Motherson Consultancies Service Limited (
+Merged with Samvardhana Motherson International Limited w.e.f. November 21, 2023)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Finance Service Cyprus Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Holding (M) Private Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Auto Component Private Limited
+Subsidiary
+Full consolidation
+MS Global India Automotive Private Limited (Merged with Samvardhana Motherson International Limited w.e.f. November 21, 2023)
+Subsidiary
+Full consolid
+ation
+Samvardhana Motherson Maadhyam International Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Global Carriers Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Innovative Solutions Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Refrigeration Product Limited
+Subsidiary
+Full consolidation
+Motherson Machinery and Automations Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Auto System Private Limited
+Subsidiary
+Full consolidation
+Motherson Sintermetal T
+echnology B.V.
+Subsidiary
+Full consolidation
+Motherson Invenzen XLab Private Limited (Merged with Samvardhana Motherson International Limited w.e.f. November 21, 2023)
+Subsidiary
+Full consolidation
+Motherson Technology Services Limited (formerly known as MothersonSumi Infotech & Designs Limited)
+Subsidiary
+Full consolidation
+Motherson Technology Services USA Limited
+(formerly known as MSID U.S. Inc.)
+Subsidiary
+Full consolidation
+Motherson Technology Services Gmbh (Formerly known as MothersonSumi Infot
+ech And Designs Gmbh)
+Subsidiary
+Full consolidation
+Motherson Technology Services SG PTE. Limited (formerly known as MothersonSumi INfotech and Designs SG Pte. Ltd.)
+Subsidiary
+Full consolidation
+Motherson Technology Services Kabushiki Gaisha(formerly known as MothersonSumi INfotech & Designs K.K.)
+Subsidiary
+Full consolidation
+Motherson Technology Service Mid East FZ-LLC (Formerly known as Motherson Infotek Designs Mid East FZ-LLC)
+Subsidiary
+Full consolidation
+Motherson Technology Services United King
+dom Limited ( Formerly known as MothersonSumi Infotech & Solutions UK Limited)
+Subsidiary
+Full consolidation
+Motherson Auto Engineering Service Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Health Solutions Limited
+Subsidiary
+Full consolidation
+SMI Consulting Technologies Inc.
+Subsidiary
+Full consolidation
+Motherson Technology Services Spain S.L.U. (Formerly known as Motherson Information Technologies Spain S.L.U.)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Virtual Analysis Limit
+ed
+Subsidiary
+Full consolidation
+SAKS Ancillaries Limited
+Subsidiary
+Full consolidation
+Samvardhana Motherson Hamakyorex Engineered Logistics Limited
+Subsidiary
+Full consolidation
+Motherson Techno Tools Limited
+Subsidiary
+Full consolidation
+Motherson Techno Tools Mideast FZE
+Subsidiary
+Full consolidation
+Motherson Molds and Diecasting Limited
+Subsidiary
+Full consolidation
+Motherson Air Travel Agencies Limited
+Subsidiary
+Full consolidation
+CTM India Limited
+Subsidiary
+Full consolidation
+Fritzmeier Mo
+therson Cabin Engineering Private Limited (became subsidiary w.e.f. March 20, 2023)
+Subsidiary
+Full consolidation
+CIM Tools Private Limited
+Subsidiary
+Full consolidation
+Aero Treatment Private Limited
+Subsidiary
+Full consolidation
+Motherson Automotive Giken Industries Corp Ltd.
+Subsidiary
+Full consolidation
+Motherson Electronic Components Pvt. Ltd
+Subsidiary
+Full consolidation
+Motherson Innovations LLC
+(liquidated w.e.f June 09, 2022)
+Subsidiary
+Full consolidation
+Motherson Ossia Innovations llc. (l
+iquidated w.e.f June 09, 2022)
+Subsidiary
+Full consolidation
+Shenyang SMP Automotive Plastic Component Co. Ltd. (liquidated w.e.f March 20, 2023)
+Subsidiary
+Full consolidation
+Motherson Rolling Stock Systems GB Limited (liquidated w.e.f. 26.01.2023)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Invest Deutschland GmbH (merged with MSSL GmbH w.e.f. September 06, 2022)
+Subsidiary
+Full consolidation
+Motherson Air Travel Agency GmbH (merged with Motherson Techno Precision GmbH w.e.f. September 09, 20
+22)
+Subsidiary
+Full consolidation
+SMRC Automotive Holdings B.V. (merged with SMRC Automotive Holdings Netherlands B.V. w.e.f. April 01, 2022)
+Subsidiary
+Full consolidation
+MSSL Manufacturing Hungary Kft (Merged with SMR Automotive Mirror Technology Hungary BT w.e.f. October 01, 2022)
+Subsidiary
+Full consolidation
+Youngshin Motherson Auto Tech Limited( became subsidiary w.e.f. April 17,2023)
+Subsidiary
+Full consolidation
+Saddles International Automotive and Aviation Interiors Private Limited(acquired on
+July 13, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Systems and Technologies Slovakia s.r.o.( Earlier known as SAS Automotive s.r.o., Slovakia)(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Service Czechia s.r.o. (formerly SAS Autosystemtechnik s.r.o.)
+(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Parts and Modules Foshan Co., Ltd., China (Incorporated on February 29, 2024)
+Subsidiary
+Full consolidation
+Sas Auto
+motive USA Inc.(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Services Spain, S.A (formerly SAS Autosystemtechnik S.A.).(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Sas Automotive Systems S.A. De C.V.(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson Sequencing and Assembly Services GmbH (formerly SAS Autosystemtechnik GmbH) (acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Sas Automotive Systems (Shanghai) Co. Ltd.(acquired on Ju
+ly 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Modules De Portugal Unipessoal, Lda.(formerly SAS Autosystemtechnik de Portugal Unipessoal LDA.)(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Service and Module Systems Rennes S.A.S.U (Formerly known as Cockpit Automotive Systems S.A.S.U. )(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Sas Automotriz Argentina S.A.(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+SAS Otosistem Tekn
+ik Sanayi ve Ticaret Limited Şirketi(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson SAS Automotive Service France S.A.S.U. (formerly known as SAS Automotive France S.A.S.U.)(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Sas
+Automotive Do Brazil Ltda.(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+Motherson Sequencing and Assembly Services Global Group GmbH (formerly SAS Autosystemtechnik Verwaltungs GmbH)(acquired on July 31, 2023)
+Subsidiary
+Full consolidation
+R
+ollon Hydraulics Private Limited (acquired on
+July 31, 2023)
+Subsidiary
+Full consolidation
+Misato Industries Co., Ltd.(acquired on August 1, 2023)
+Subsidiary
+Full consolidation
+Centro especial de empleo de Motherson DRSC Picassent, S.L.U. (formerly Centro Especial de Empleo Dr. Schneider Sociedad Limitada, Spain)
+(acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Motherson DRSC Modules S.A.U.(acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Dr. Schneider Automotive Parts Liaoyang C
+o. Ltd., China(acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Dr. Schneider Automotive Polska Sp. zo.o., Poland (acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Dr. Schneider Automotive Systems Inc., USA (acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Dr. Schneider Automotive Trading (Shanghai) Co. Ltd., China (acquired on October 2, 2023)
+Subsidiary
+Full consolidation
+Motherson Deltacarb Advanced Metal Solutions SA (formerly Deltacarb SA)Acquired on December 15, 2023)
+Subsidiary
+Full consolidation
+Motherson Electroplating US LLC(incorporated on September 11, 2023)
+Subsidiary
+Full consolidation
+Motherson Group Investments USA Inc., USA(Incorporated on October 5, 2023)
+Subsidiary
+Full consolidation
+PKC Real Estate Germany B.V. & Co. KG(Incorporated on
+November 23, 2023)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Adsys Tech Limited (Acquired on December 20, 2023)
+Subsidiary
+Full consolidation
+Samvardhana Motherson Electric Vehicles L.L.C, Abu Dhabi (Incorpor
+ated on October 12, 2023)
+Subsidiary
+Full consolidation
+SM Real Estates Germany B.V. & Co. KG(Incorporated on
+November 23, 2023)
+Subsidiary
+Full consolidation
+SMR Real Estate Deutschland B.V. & Co. KG(Incorporated on
+November 23, 2023)
+Subsidiary
+Full consolidation
+CEFA Poland s.p.Z.o.o. (Incorporated on
+March 22, 2024)
+Subsidiary
+Full consolidation
+Samvardhana Motherson International Leasing IFSC Limited(Incorporated on
+March 29, 2024)
+Subsidiary
+Full consolidation
+Yachiyo India Manufacturing Priv
+ate Limited (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Industry Co., Ltd. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Manufacturing of America, LLC (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+AY Manufacturing Ltd. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+SiamYachiyo Co., Ltd. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Wuhan Manufacturing Co., Ltd. (Acquired on March 26, 2024)
+Subsidiary
+Full consolid
+ation
+Yachiyo of OntarioManufacturing, Inc. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Germany GmbH (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo MexicoManufacturing S.A. de C.V. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+PT. Yachiyo Trimitra Indonesia (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo of America, Inc. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Zhongshan Manufacturing Co., Ltd. (Acquir
+ed on March 26, 2024)
+Subsidiary
+Full consolidation
+Yachiyo Do Brasil Industria E Comercio De Pecas Ltda. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+US Yachiyo, Inc. (Acquired on March 26, 2024)
+Subsidiary
+Full consolidation
+Prysm Displays (India) Private Limited(Acquired on March 28, 2024)
+Subsidiary
+Full consolidation
+Motherson Sumi Wiring India Limited
+Joint Venture
+Proportionate consolidation
+Kyungshin
+Industrial Motherson Private Limited
+Joint Venture
+Proportionate consolidat
+ion
+Calsonic Kansei Motherson Auto Products Private Limited
+Joint Venture
+Proportionate consolidation
+Ningbo SMR Huaxiang Automotive Mirrors Co. Limited (indirectly through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Chongqing SMR Huaxiang Automotive Products Limited (indirectly through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Tianjin SMR Huaxiang Automotive Part Co. Limited (indirectly through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Nanchang JMCG SMR Huaxiang Mirr
+or Co. Ltd (indirectly through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Eissmann SMP Automotive Interieur Slovensko s.r.o
+(indirectly through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Anest Iwata Motherson Coating Equipment Private Limited (merged with Anest Iwata Motherson Private Limited w.e.f. November 6, 2023)
+Joint Venture
+Proportionate consolidation
+Anest Iwata Motherson Private Limited
+Joint Venture
+Proportionate consolidation
+Valeo Motherson Thermal Commercial Vehicles
+India Limited
+Joint Venture
+Proportionate consolidation
+Matsui Technologies India Limited
+Joint Venture
+Proportionate consolidation
+Frigel Intelligent Cooling Systems India Private Limited
+Joint Venture
+Proportionate consolidation
+Fritzmeier Motherson Cabin Engineering Private Limited (became subsidiary w.e.f. March 20, 2023)
+Joint Venture
+Proportionate consolidation
+Nissin Advanced Coating Indo Co. Private Limited
+Joint Venture
+Proportionate consolidation
+Motherson Bergstrom HVAC Solutions Private Lim
+ited
+Joint Venture
+Proportionate consolidation
+Marelli Motherson Automotive Lighting India Private Ltd.
+Joint Venture
+Proportionate consolidation
+Motherson Auto Solutions Limited
+Joint Venture
+Proportionate consolidation
+Marelli Motherson Auto Suspension Parts Pvt Ltd
+Joint Venture
+Proportionate consolidation
+Youngshin Motherson Auto Tech Limited (became subsidiary w.e.f. April 17, 2023)
+Joint Venture
+Proportionate consolidation
+Lauak CIM Aerospace Private Limited (indirectly through Subsidiary)
+Joint
+Venture
+Proportionate consolidation
+Wuxi SMR Automotive Parts Co., Ltd. (acquired on August 1, 2023 through Subsidiary)
+Joint Venture
+Proportionate consolidation
+Hubei Zhengao PKC Automotive Wiring Company Ltd. (indirectly through subsidiary)
+Associate
+Proportionate consolidation
+AES (India) Engineering Limited
+Associate
+Proportionate consolidation
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+100.0
+CRISIL AAA/Stable
+--
+15-12-23
+CRISIL AA+/Positive
+23-12-22
+CRISIL AA+/Stable
+16-04-21
+CRISIL AA+/Stable / CRISIL A1+
+CRISIL AA+/Negative / CRISIL A1+
+--
+--
+25-09-23
+CRISIL AA+/Positive
+02-02-22
+CRISIL AA+/Stable / CRISIL A1+
+26-02-21
+CRISIL AA+/Stable / CRISIL A1+
+--
+--
+--
+24-02-23
+CRISIL AA+/Stable
+--
+--
+--
+Non-Fund Based Facilities
+ST
+100.0
+CRISIL A1+
+--
+15-12-23
+CRISIL A1+
+23-12-22
+CRISIL A1+
+16-04-21
+CRISIL A1+
+CRISIL A1+
+--
+--
+25-09-23
+CRISIL A1+
+02-02-22
+CRISIL A1+
+26-02-21
+CRISIL A1+
+--
+--
+--
+24-02-23
+CRISIL A1+
+--
+--
+--
+Corporate Credit Rating
+LT
+0.0
+CRISIL AAA/Stable
+--
+15-12-23
+CRISIL AA+/Positive
+23-12-22
+CRISIL AA+/Stable
+--
+--
+--
+--
+25-09-23
+CRISIL AA+/Positive
+--
+--
+--
+--
+--
+24-02-23
+CRISIL AA+/Stable
+--
+--
+--
+Commercial Paper
+ST
+--
+--
+--
+23-12-22
+Withdrawn
+16-04-21
+CRISIL A1+
+CRISIL A1+
+--
+--
+--
+02-02-22
+CRISIL A1+
+26-02-21
+CRISIL A1+
+--
+Non Convertible Debentures
+LT
+1500.0
+CRISIL AAA/Stable
+--
+15-12-23
+CRISIL AA+/Positive
+23-12-22
+Withdrawn
+--
+--
+--
+--
+25-09-23
+CRISIL AA+/Positive
+02-02-22
+CRISIL AA+/Stable
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Fund-Based Facilities
+&
+100
+State Bank of India
+CRISIL AAA/Stable
+Non-Fund Based Limit
+^
+100
+State Bank of India
+CRISIL A1+
+& - Interchangeable with CC/WCL/CP
+^ - Interchangeable with CC/BG and CEL Limits
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating criteria for manufaturing  and service sector companies
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for Consolidation
+CRISILs Criteria for rating short term debt
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Aveek Datta
+Media Relations
+CRISIL Limited
+M: +91 99204 93912
+B: +91 22 3342 3000
+AVEEK.DATTA@crisil.com
+Prakruti Jani
+Media Relations
+CRISIL Limited
+M: +91 98678 68976
+B: +91 22 3342 3000
+PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad
+Media Relations
+CRISIL Limited
+B: +91 22 3342 3000
+Rutuja.Gaikwad@ext-crisil.com
+Mohit Makhija
+Senior Director
+CRISIL Ratings Limited
+B:
++91 124 672 2000
+mohit.makhija@crisil.com
+Gautam Shahi
+Director
+CRISIL Ratings Limited
+B:
++91 124 672 2000
+gautam.shahi@crisil.com
+Gauri Gupta
+Manager
+CRISIL Ratings Limited
+B:
++91 22 3342 3000
+Gauri.Gupta@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by CRISIL Ratings Limited ('CRISIL Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings provision or intention to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+CRISIL Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, CRISIL Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall CRISIL Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of CRISIL Ratings and CRISIL Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of CRISIL Ratings.
+CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by CRISIL Ratings. CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html.  Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and https://www.ratingsanalytica.com (free of charge). CRISIL Ratings shall not have the obligation to update the information in the CRISIL Ratings report following its publication although CRISIL Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by CRISIL Ratings are available on the CRISIL Ratings website, www.crisilratings.com. For the latest rating information on any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

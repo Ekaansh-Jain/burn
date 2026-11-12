@@ -1,202 +1,276 @@
-Jay Bharat Maruti Limited: Ratings assigned to enhanced amount - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
+June 09, 2020
+Jay Bharat Maruti Limited: Ratings assigned to enhanced amount
+Summary of rating action
+Previous Rated Current Rated
+Instrument* Rating Action
+Amount (Rs. crore) Amount (Rs. crore)
+[ICRA]A+(Stable)/[ICRA]A1; assigned to
+Cash Credit/WCDL 354.50 420.00
+enhanced limit
+Buyer’s Credit Facility/Letter of
+90.00 10.00 [ICRA]A+(Stable)/[ICRA]A1; outstanding
+Credit/Bank Guarantee
+[ICRA]A+(Stable); assigned to enhanced
+Term Loan 325.62 408.12
+limit
+[ICRA]A+(Stable)/[ICRA]A1; assigned to
+Unallocated 1.88 33.88
+enhanced limit
+Total Bank Line Facilities 772.0 872.0
+Commercial Paper Programme 75.00 75.00 [ICRA]A1; outstanding
+Non-convertible Debenture
+150.00 150.00 [ICRA]A+(Stable); outstanding
+Programme
+*Instrument details are provided in Annexure-1
+Rationale
+The rating action for Jay Bharat Maruti Limited (JBML) continues to factor in the company’s well-entrenched position as
+one of the key suppliers of sheet metal components to Maruti Suzuki India Limited (MSIL). JBML enjoys strong presence
+with MSIL, the largest passenger vehicle (PV) manufacturer in India, and is a key supplier of sheet metal-based body-in-
+white (BIW) components, rear axle assemblies and fuel necks to the Original Equipment Manufacturer (OEM) for almost
+its entire model range.
+Despite high competition among sheet metal component manufacturers, JBML benefits from its cost competitive
+manufacturing capabilities, its steady investments in setting up capacities as well as its extensive track record and
+favourable ownership structure, with MSIL holding a 29.3% stake as a joint venture (JV) partner in the company. This
+enables operational support towards facilitating technical tie-ups with Japanese suppliers for design and development of
+select model-specific components. The ratings also note that JBML faces high client concentration risk with MSIL
+accounting for ~90% of its revenues in 9M FY2020. Although the JV agreement does not constrain JBML from supplying
+to other OEMs, its capacity constraints offered limited scope for customer base expansion over the years. Although JBML
+has significant dependence on MSIL for revenues, ICRA takes comfort from the established relationship between JBML
+and MSIL, as well as from the OEM’s leadership position in the domestic PV industry with 51% market share in FY2020.
+This mitigates the business risk to some extent.
+Despite JBML’s strong business position with MSIL, ICRA believes the company’s earnings would moderate further in the
+current fiscal after a relatively subdued performance in FY2020. The domestic automotive industry, which was already
+undergoing a period of sharp slowdown over the past few quarters, has been further impacted by the novel coronavirus
+(Covid-19) pandemic in the country over recent months. To contain the disease, the Government of India imposed a 21-
+day lockdown from March 24, 2020, which was subsequently extended till May 17, 2020. The unprecedented, large-scale
+lockdown has disrupted production for automobile OEMs and their supply chain from March 2020 onwards. In addition
+to the production disruptions, the demand shock on account of the pandemic could be significant, going forward, in an
+already weak demand environment. Accordingly, ICRA expects the financial performance of auto-ancillaries like JBML to
+6
+further contract in the current fiscal; although the extent of the same would depend on the pace at which business
+activity resumes and on consumer spending in the wake of the pandemic.
+Given JBML’s strategic importance to MSIL, it has also set up a greenfield facility in Gujarat to cater to the OEM’s new
+manufacturing facility in the state, the third phase of which is slated to be commercialised in the current fiscal.
+Accordingly, the company has incurred sizeable debt-funded capital expenditure (capex) over the past few years to set
+up the additional capacity for the OEM. With this additional capacity having come on stream even as industry volumes
+started to contract, and with the sizeable debt undertaken for the capex, the company’s credit metrics and return
+indicators have weakened in recent years. Going forward as well, with the ongoing pandemic and associated production
+shutdowns across the industry, along with expectations of a gradual demand recovery, JBML’s return indicators and
+credit metrics are expected to further weaken over the near-term.
+ICRA also notes that the company continues to face sizeable debt repayment obligations over the medium term, by
+virtue of the debt-funded capex undertaken recently. With lockdown-induced production shutdowns and demand
+moderation because of the pandemic, JBML’s cash flows and earnings have weakened significantly. Given the current
+environment, the liquidity cushion available from cash balances and available lines of credit, remains critical. ICRA notes
+that JBML’s liquidity cushion remains relatively moderate due to typical high utilisation of limits vis-à-vis drawing power.
+Accordingly, the company has been in discussions for arranging alternative lines of credit. In this respect, its healthy
+financial flexibility as one of the flagship companies of the $2.2-billion JBM Group offers some comfort. Nevertheless,
+ICRA would continue to monitor the company’s liquidity position and its plans to meet upcoming large debt obligations,
+and the same would remain a key monitorable. Further weakening of its liquidity profile or inability to arrange
+alternative sources of funds to meet debt service obligations has the potential to lead to an adverse rating action.
+Accordingly, developments on this front would continue to be monitored.
+The Stable outlook on the long-term rating reflects ICRA’s opinion that JBML will continue to benefit from its strong
+business position, with MSIL as a key supplier of BIW parts over the long-term. Although the current domestic market
+slowdown and debt-funded capex undertaken in recent years will exert pressure on JBML’s return indicators and credit
+metrics over the medium term, they are expected to subsequently improve with market revival and scheduled
+repayment of term debt.
+Key rating drivers and their description
+Credit strengths
+Strong market position in sheet metal-based components; established relationship with MSIL – JBML enjoys a healthy
+share of business across all major models of MSIL, the largest PV manufacturer in the country with a domestic market
+share of 51% in FY2020. The company is a major supplier of BIW parts (such as welded sheet metal assemblies) for some
+of MSIL’s key models that are produced at its facilities in Haryana and Gujarat.
+JV partnership of MSIL mitigates business risks and augurs well for business expansion – As JBML is a strategic supplier
+of key sheet metal components to the OEM, MSIL has participated as a JV partner in the company, holding a 29.3%
+equity stake in it. In addition to aiding favourable technical collaborations, the ownership arrangement mitigates
+business risks for JBML and augurs well for gaining new business, going forward as well.
+Diversified product portfolio likely to improve content per vehicle supplied to OEMs – JBML’s product offerings remain
+well diversified, given its presence across multiple products including BIW components, rear axle assemblies, mufflers
+and fuel neck assemblies. This enables it to capture a large share of the kit value supplied to OEMs.
+7
+Credit challenges
+Significant client concentration risk with ~90% of revenues from MSIL – JBML remains primarily dependent on MSIL for
+a major share of its revenues, with the OEM driving ~90% of its revenues in 9M FY2020. However, the strong relationship
+enjoyed with the OEM and its unmatched leadership in the domestic market mitigate the business risks to a large extent.
+Exposed to inherent cyclicality of automotive industry; current pandemic to further mute revenue growth prospects
+over the near-term – As JBML derives its entire revenues from the domestic PV market, its earnings remain susceptible
+to the inherent cyclicality of the same. The industry has been undergoing a period of sharp demand slowdown over the
+past few quarters, which would be further exacerbated over the near-term by the ongoing pandemic. Accordingly,
+JBML’s earnings over the near-term are likely to weaken.
+Ramp up in new plant likely to be slow under current circumstances, constraining operating efficiency and return
+indicators – With the third phase of the Gujarat plant being commercialised in the current fiscal even when the
+utilisation at existing capacities remains sub-optimal, pressure on operating efficiency and return indicators is likely over
+the medium term (till operations ramp up to optimal levels).
+Balance sheet characterised by high dependence on short-term borrowings; recent capex requirements have kept
+dependence on external borrowings high – With JBML having been in a debt-funded capacity expansion phase over the
+past few years, its overall debt levels have increased to approximately Rs. 495 crore in FY2020 as against Rs. 207 crore in
+FY2016, resulting in steady increase in leverage as well as weakening of credit metrics. Additionally, the balance sheet is
+characterised by asset-liability mismatch, on account of dependence on short-term borrowings for meeting some long-
+term requirements. Overall, debt repayment obligations remain high over upcoming quarters, which coupled with
+pressure on earnings, could expose the company to some refinancing risks over the medium term.
+Liquidity position: Adequate
+Despite the moderation in cash flow generation due to the Covid-19 pandemic and general slowdown in the automotive
+industry, JBML’s liquidity position remains supported to some extent by unutilised working capital limits of about Rs. 20
+crore (combination of secured and unsecured limits). Over the near-term, these remain sufficient in meeting the
+company’s immediate debt servicing obligations. However, the liquidity position is likely to be impacted in case of an
+extended lockdown and production shutdown. Accordingly, the company is pursuing additional lines of credit from
+banks. In this respect, JBML’s financial flexibility and its access to financial markets as the flagship entity of the JBM
+Group, coupled with its established business position with MSIL, is expected to offer support even in these exceptional
+circumstances.
+Rating sensitivities
+Positive triggers – Healthy growth in revenues while maintaining profitability indicators such as RoCE above 15% will be
+considered favourably for rating upgrade. Significant improvement in financial risk profile characterised by strengthening
+of credit metrics, such as Total Debt/OPBITDA below 1.5 times on a sustained basis, would also remain a key monitorable
+for a rating upgrade.
+Negative triggers – Significant deterioration in earnings on account of the Covid-19 outbreak or further sustained
+deterioration in the financial risk profile or further deterioration of its liquidity profile could lead to a downward rating
+revision.
+8
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable Rating Methodologies
+Rating Methodology for Auto Component Suppliers
+Parent/Group Support Not applicable
+Consolidation/Standalone The ratings are based on the standalone financial statements of the issuer.
+About the company
+Jay Bharat Maruti Limited, a public limited company, was incorporated in 1987 as a JV between the Arya family and MSIL.
+JBML manufactures sheet metal-based BIW components, rear axle assemblies, fuel neck components and assemblies,
+besides designing and developing dies and moulds, automotive machines and equipment. The company has four
+manufacturing facilities, two in Gurgaon (Haryana), and one each in Manesar (Haryana) and Gujarat. The facilities include
+imported and indigenous press lines, robotic welding lines as well as plating and painting facilities. From starting off with
+making sheet metal components and assemblies for PVs, JBML has added capabilities to produce exhaust systems, rear
+axles, torsion beams and fuel filler necks over the years. JBML is listed on the BSE and the NSE with its Indian promoter
+family and companies controlling 29.3% equity.
+Key financial indicators (audited)
+FY2018 FY2019
+Operating Income (Rs. crore) 1,730.4 1,994.0
+PAT (Rs. crore) 58.9 52.2
+OPBDIT/OI (%) 9.1% 8.8%
+RoCE (%) 17.4% 14.7%
+Total Outside Liabilities/Tangible Net Worth (times) 2.0 2.1
+Total Debt/OPBDIT (times) 2.3 2.9
+Interest Coverage (times) 7.8 5.1
+DSCR 3.3 2.3
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+9
+Rating history for last three years
+Current Rating (FY2021) Rating History for the Past 3 Years
+Amount Current FY2020
+Instrument Amount Earlier Rating FY2019 FY2018
+Type Outstandin Rating
+Rated
+g* 9-Jun-2020 14-May-2020 5-Nov-2019 25-Jul-2019 16-May-2019 29-Mar-2019 1-Feb-2018
+[ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Cash Long Term/
+1 420.00 NA (Stable) (Stable) (Stable) (Negative) (Stable) (Stable) (Stable)
+Credit/WCDL Short Term
+/[ICRA]A1 /[ICRA]A1 /[ICRA]A1 /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+
+Buyer’s Credit
+[ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Facility/Letter of Long Term/
+2 10.00 NA (Stable) (Stable) (Stable) (Negative) (Stable) (Stable) (Stable)
+Credit/Bank Short Term
+/[ICRA]A1 /[ICRA]A1 /[ICRA]A1 /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+
+Guarantee
+[ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+3 Term Loans Long Term 408.12 323.0^
+(Stable) (Stable) (Stable) (Negative) (Stable) (Stable) (Stable)
+Commercial
+4 Paper Short Term 75.00 NA [ICRA]A1 [ICRA]A1 [ICRA]A1 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Programme
+NCD [ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+5 Long Term 150.00 NA
+Programme* (Stable) (Stable) (Stable) (Negative) (Stable) (Stable) (Stable)
+[ICRA]A+ [ICRA]A+ [ICRA]A+ [ICRA]AA- [ICRA]AA- [ICRA]AA- [ICRA]AA-
+Long Term/
+6 Unallocated 33.88 NA (Stable) (Stable) (Stable) (Negative) (Stable) (Stable) (Stable)
+Short Term
+/[ICRA]A1 /[ICRA]A1 /[ICRA]A1 /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+ /[ICRA]A1+
+Amount in Rs. crore *As on March 31, 2019
+Complexity level of the rated instrument
+ICRA has classified various instruments based on their complexity as "Simple", "Complex" and "Highly Complex". The classification of instruments according
+to their complexity levels is available on the website www.icra.in
+6
+Annexure-1: Instrument details
+Date of Amount
+Issuance / Coupon Maturity Rated Current Rating and
+ISIN No Instrument Name Sanction Rate Date (Rs. crore) Outlook
+[ICRA]A+
+NA Cash Credit/WCDL NA NA NA 420.00
+(Stable)/[ICRA]A1
+Buyer’s Credit
+[ICRA]A+
+NA Facility/Letter of NA NA NA 10.00
+(Stable)/[ICRA]A1
+Credit/Bank Guarantee
+NA Term Loan 1 FY2019 NA FY2025 106.46 [ICRA]A+ (Stable)
+NA Term Loan 2 FY2018 NA FY2024 37.83 [ICRA]A+ (Stable)
+NA Term Loan 3 FY2015 NA FY2025 238.83 [ICRA]A+ (Stable)
+NA Term Loan 4 FY2020 NA FY2027 25.00 [ICRA]A+ (Stable)
+Commercial Paper
+NA NA NA NA 75.00 [ICRA]A1
+Programme*
+NA NCD Programme* NA NA NA 150.00 [ICRA]A+ (Stable)
+[ICRA]A+
+NA Unallocated NA NA NA 33.88
+(Stable)/[ICRA]A1
+Source: Jay Bharat Maruti Limited *Not placed by the company
+Annexure-2: List of entities considered for consolidated analysis: Not applicable
+7
+ANALYST CONTACTS
+Subrata Ray Shamsher Dewan
++91 22 6114 3408 +91 1244545328
+subrata@icraindia.com shamsherd@icraindia.com
+Sruthi Thomas
++91 1244545822
+Sruthi.thomas@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumkar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries:
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited
+Company, with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit
+Rating Agency Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+8
 ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
-Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+Corporate Office
+Building No. 8, 2nd Floor, Tower A; DLF Cyber City, Phase II; Gurgaon 122 002
+Tel: +91 124 4545300
+Email: info@icraindia.com
+Website: www.icra.in
+Registered Office
+1105, Kailash Building, 11th Floor; 26 Kasturba Gandhi Marg; New Delhi 110001
+Tel: +91 11 23357940-50
+Branches
+Mumbai + (91 22) 24331046/53/62/74/86/87
+Chennai + (91 44) 2434 0043/9659/8080, 2433 0724/ 3293/3294,
+Kolkata + (91 33) 2287 8839 /2287 6617/ 2283 1411/ 2280 0008,
+Bangalore + (91 80) 2559 7401/4049
+Ahmedabad + (91 79) 2658 4924/5049/2008
+Hyderabad + (91 40) 2373 5061/7251
+Pune + (91 20) 2556 0194/ 6606 9999
+© Copyright, 2020 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of
+surveillance, which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer
+concerned to timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA
+office for the latest information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to
+be accurate and reliable, including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it.
+While reasonable care has been taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any
+kind, and ICRA in particular, makes no representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such
+information. Also, ICRA or any of its group companies may have provided services other than rating to the issuer rated. All information contained
+herein must be construed solely as statements of opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication
+or its contents
+9

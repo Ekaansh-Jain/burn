@@ -1,0 +1,515 @@
+Rating Rationale
+Rating Rationale
+December 30, 2024 | Mumbai
+Amara Raja Energy & Mobility Limited
+Ratings reaffirmed at 'CRISIL AA+/Stable/CRISIL A1+'
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.400 Crore
+Long Term Rating
+CRISIL AA+/Stable (Reaffirmed)
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has reaffirmed its 'CRISIL AA+/Stable/CRISIL A1+' ratings on the bank
+loan
+facilities of Amara Raja Energy & Mobility Ltd (ARE&ML; formerly known as Amara Raja Batteries Ltd)
+The ratings continue to reflect the strong business risk profile of ARE&ML, supported by its established market position as the
+second largest lead acid battery manufacturer with its Amaron brand, diverse product profile across automotive and industrial battery segments, and
+robust distribution network in India and abroad. The ratings also factor in ARE&ML’s strong financial risk profile with negligible debt
+on its balance sheet. These strengths are partially offset by exposure to intense competition in the domestic battery segment and to logistical challenges arising from geographically concentrated operations. The company also faces project-related risk associated with its proposed entry into lithium ion (
+Li-ion)
+cells and battery packs through its subsidiary, Amara Raja Advanced Cell Technology Pvt Ltd (ARACT).
+In fiscal 2024,
+ARE&ML registered revenue growth of 13%
+driven by healthy
+volume growth of 14% i
+n
+in automotive battery divisions and modest growth of 4% in the industrial battery division, which together account for more than 80% of ARE&ML’s overall revenue. Growth in the automotive battery demand was driven by new vehicles sales as well as aftermarkets sales. The sluggish growth in industrial batteries was due to gradual transition of telecom batteries towards Li-ion batteries due to their higher energy intensity and longer life cycle, resulting in lower demand for industrial lead acid batteries. Re
+venue grew ~13% on-year during the first
+half of fiscal 2025 and
+is
+expected to have steady growth over the medium term, supported by steady growth in the automotive segments
+and
+new energy business with increasing demand for electric vehicle (EV) chargers and battery packs.
+Operating profitability sustained at 14.5% in fiscal 2024 (14.4% in fiscal 2023). During the first six months of fiscal 2025, ARE&ML recorded operating profitability of 13.4% as against 13.1% during the corresponding period of the prev
+ious fiscal. Over the medium term, the operating profitability will be supported by stabilisation in key raw material costs, sourcing of cheap power from captive solar plant,
+increase in export volume in new geographies, commencement of manufacturing of tubular batteries post reinstatement,
+and synergy benefits from the acquisition of the plastic components business from group company Mangal Industries Ltd (
+MIL; ‘CRISIL A/Positive/CRISIL A1’) leading to reduced operational costs and better procurement polic
+ies for ARE&ML. However, the profitability is expected to be
+constrained by relatively low margins at ARACT (battery packs segment) and will improve gradually over medium term.
+ARE&ML’s strong financial risk profile continues to be supported by sizeable networth and low debt on its balance sheet. This, along with healthy annual cash generation, has kept debt metrics robust, as indicated by gearing of 0.01 time as on March 31, 2024. The company is likely to undertake sizeable
+capital expenditure (capex) of
+Rs 1,100-1,200 crore annually for the next 2-3 years for debottlenecking battery capacity, routine modernisation and Phase 1 of the Li-ion giga factory under ARACT. Prudent funding of capex and working capital requirement from expected annual accrual of Rs 1,100-1,200 crore, and limited reliance on debt will ensure debt metrics remain robust over the medium term.
+CRISIL Ratings also notes the National Company Law Tribunal (NCLT) order dated January 10,
+2024, pertaining to approval of acquisition of the
+pl
+astic components division from group company,
+MIL.
+Analytical Approach
+For arriving at the ratings, CRISIL Ratings has combined the business and financial risk profiles of ARE&ML and its wholly owned subsidiaries, Amara Raja Power Systems Ltd (ARPSL), Amara Raja Batteries Middle East (FZE) UAE, Amara Raja Circular Solutions Pvt Ltd (ARCSPL) and ARACT, on account of their financial and operational linkages.
+CRISIL Ratings has amortised the goodwill of Rs.428 crore on the acquisition of the plastic components business from MIL over a period of five years from fiscal 2023 till
+fiscal 2027. CRISIL Ratings has also amortised goodwill of Rs 7.8 crore on the acquisition of ARPSL over a period of five years from fiscal 2024 till fiscal 2028.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Healthy market presence in the domestic storage batteries segment:
+The b
+usiness risk profile of ARE&ML is supported by its healthy presence in the domestic storage battery market. The company is the largest player in this segment after Exide Industries Ltd (Exide), and has a large distribution network comprising 100,000+ points of sales, 1,000+ Power zone retail stores, 2,000+ extensive service hubs and 23 branches across India. This, along with the strong equity of its Amaron brand, has strengthened its ma
+rket position over the years. Steady capacity addition has supported revenue growth (compound annual growth of 13% over the 10 years through fiscal 2024) and market share in both, the industrial and automotive segments.
+Diverse revenue streams, supported by established relationship with clients:
+ARE&ML’s increasing market presence in the domestic battery segment is a result of its diversified presence across the automotive and industrial segments. The company has a diversified presence in four-wheelers and two-wheelers in the automotive segment, apart from home uninterruptible power supply (UPS) and other battery segments as well as in exports, with limited dependence on any single customer for revenue. The diversified pre
+sence renders its business risk profile less vulnerable to downturns in the domestic automotive and industrial sectors, and sub-segments within this sectors.
+Strong financial risk profile:
+The financial risk profile is supported by modest debt, sizeable networth of Rs 6,551 crore as on March 31,
+2024, and healthy cash generating ability, translating into healthy return on capital employed (RoCE; 18.5% in fiscal 2024) and robust debt protection metrics. Despite high capex intensity in the past, ARE&ML has not relied much on debt, leading to limited debt and comfortable gearing of 0.01 time as on March 31, 2024.
+The expansion at ARACT is estimated at Rs 9,500 crore, to be undertaken in phases over 10 years. ARE&ML proposes to invest Rs 100-150 crore in Phase I/II of the lead recycling facility at ARCSPL, and ~Rs 2,000 crore through ARACT over the next 2.0-2.5 years, while its routine annual capex is expected at Rs 300-350 crore. With the company likely to fund both, the Li-ion giga factory (at ARACT) and lead recycling capex, predominantly through accrual, the financial risk profile is expected to remain strong ove
+r the medium term.
+However, marginal addition of debt is expected from fiscal 2026 pertaining to Phase I/II of the lead recycling capex
+. However, debt metrics will remain robust due to ARE&ML’s strong cash generating ability.
+Weaknesses:
+Logistical disadvantages arising from geographical concentration in operations:
+ARE&ML operates from two locations in Andhra Pradesh (Tirupati and Chittoor), while demand is spread across the country, thereby restricting distribution logistics. The concentration of operations in a single state exposes the company to risks relating to natural calamities in the region. However, ARE&ML’s closely linked facilities offer benefits in the form of economies of scale. The plants are completely integrated with all cr
+itical components, including plastic battery cases which are sourced in-house.
+The Andhra Pradesh Pollution Control Board (APPCB) issued closure orders in April 2021 for ARE&ML’s lead acid battery plants at Tirupati and Chittoor, citing allegations relating to non-compliance with environmental regulations. However, the High Court of Andhra Pradesh has continued to grant interim suspensions of the APPCB closure orders. While there have been no significant production disruptions in the past three fiscals, any adverse ruling could impact ARE&ML’s production and will be monitorable. The l
+ocation of both plants in the same state thus exposes ARE&ML to possible legal risks.
+Exposure to intense competition:
+The telecom segment has been going through a transition phase where telecom providers have been migrating to Li-ion batteries for newly installed towers due to higher energy density and longer life cycle. This has reduced the demand for lead acid batteries for telecom applications, and telecom operators continue to exert pressure on vendors to reduce prices. Competition is also intensifying in the automotive aftermarket battery segment with small and mid-sized organised play
+ers (hitherto operating only in the industrial segment and now increasing focus on the automotive segment) offering products at competitive prices. During periods of subdued end-market demand, the increase in lead prices cannot be fully transferred to end customers, especially in the aftermarket segment. Still, ARE&ML has performed better than its peers, largely because of its diversified revenue streams and product quality.
+Project risk related to entry into Li-ion cell and battery pack business:
+The new capacity
+coming up in ARACT is not likely to face material demand risk, with steady offtake expected from larger original equipment manufacturers (OEMs) as part of their green energy strategy despite operational challenges such as inadequate charging infrastructure, reliance on imported components and parts, and high prices of EVs.
+During August 2024,
+ARE&ML
+signed a Memorandum of Understanding (MoU) with Piaggio Vehicles Pvt Ltd (PVPL; ‘CRISIL A/Positive/CRISIL A1’) and Ather Energy Pvt Ltd for development and sup
+ply of lithium ferro phosphate (LFP) and
+nickel manganese cobalt (
+NMC) cells and battery packs for their upcoming vehicle offerings.
+ARE&ML is also in discussion with a few other EV technology players and will collaborate with them over the medium term in line with their EV strategy.
+Although investments in ARACT will be sizeable over Rs 9,500 crore towards setting up a Li-ion battery plant and battery storage facility, the same will be well phased out over 10 years.
+Also, the initial investment may not entail much of debt, backed by ARE&ML’s healthy accrual. ARACT has also commenced sale of EV chargers, energy storage system (ESS) solutions and EV battery packs, which will help absorb initial gestational losses from the Li-ion battery plant. Besides, ARE&ML has implemented various larg
+e capex programmes in the past.
+There has also been an increase in demand for EVs, especially in the two-wheeler and passenger car segments, which will gradually impact demand for internal combustion engine (ICE)-based vehicles, and hence, demand for traditional automotive batteries. ARE&ML has invested in Log 9 Materials, a start-up, and InoBat AS, a European group, both of which are focused on battery technology for EVs. ARE&ML plans to employ high density cells which pack more energy per unit and are suitable for tropical climatic cond
+itions.
+ARACT recently signed a technical licensing agreement with Gotion Ino-Bat (GIB) EnergyX Slovakia s.r.o., a joint venture between Ino-bat AS and Gotion High-Tech Co Ltd, which is a leading Li-ion battery maker based in China. As part of the agreement, GIB EnergyX will license Gotion’s world class LFP technology, which will aid ARACT in manufacturing world class LFP cells in the upcoming Li-ion giga factories. Furthermore, ARACT has an agreement with Jiangsu Highstar Battery Manufacturing Co, a global leader
+in NMC technology, which will aid ARE&ML in implementation of the latest NMC technology in the cell manufacturing process.
+The technical tie-ups will aid ARE&ML in getting access to cell technology IP, support in establishing gigafactory facilities conforming to the latest generation process technologies, integration with global supply chain network for critical battery materials, and customer technical support for solution deployment.
+ARE&ML’s ability to bring in successful products and technology, and garner customers for these batteries, where technology is still evolving, will remain monitorable.
+Liquidity
+:
+Strong
+ARE&ML will maintain strong liquidity, driven by expected annual cash accrual of Rs 1,300-1,400 crore over the medium term and liquid surplus of over Rs 471 crore as of March 31, 2024
+. Besides, the company’s working capital lines of Rs 120 crore are sparingly utilised. ARE&ML has signed a MoU with the government of Telangana
+for setting up the state’s first
+Li-
+ion battery making giga factory and
+proposes to invest Rs 9,500 crore over the next 10 years in a phased manner for the same. The plant will have
+ult
+imate capacity up to 16 GWh and a battery pack assembly unit up to 5 GWh. Initial investment of up to Rs 1,500 crore (over the next 2.0-2.5 years) is
+proposed to be largely funded through ARE&ML’s accrual.
+ESG Profile of ARE&M
+CRISIL Ratings believes ARE&ML’s Environment, Social and Governance (ESG) profile supports the company’s already strong credit risk profile.
+The battery sector has a significant impact on the environment because of the high greenhouse gas (GHG) emissions of its core operations as we
+ll as products. The sector also has a significant social impact because of its large workforce across its own operations and value chain partners and focus on innovation and product development.
+ESG highlights:
+The share of renewable energy in total energy consumption has increased to 23.5% in fiscal 2024 with commissioning of a 50 MW Solar plant in Chitoor and target for FY 25 is 25%
+The Company’s energy conservation measures have led to a 19.18% decrease in energy intensity and target for FY 25 is to reduce further by 1.5%
+The Company has used recycled lead for 83% of all lead consumed, leading to avoided abiotic depletion and plans to increase the same to 84.31% by FY 25
+ARE&M has maintained its status as a zero-fatality organization throughout the year. The Lost Time Frequency Rate (LTIFR) for FY24 was 0.93. The rate has increased, the Company has already initiated Behavior Based Safety (BBS) programme and assessment of critical risks.
+The governance structure is characterized by 57% of its board comprising independent directors. It has a
+committee at the Board level to address investor grievances and also
+put out extensive disclosures. Company has established Sustainability committee lead by Executive Director.
+There is growing importance of ESG among investors and lenders. ARE&ML’s commitment to ESG principles will play a key role in enhancing stakeholder confidence, given its high share of shareholding by foreign investors/companies
+Outlook
+:
+Stable
+CRISIL Ratings believes ARE&ML will continue to benefit from its established market position in the automotive and industrial battery segments, its improving revenue and customer diversity, and adequate operating profitability. Strong annual cash generation, and prudent funding of sizeable capex, which is well phased out, will ensure sustenance of robust debt metrics over the medium term.
+Rating
+s
+ensitivity factors
+Up
+ward
+factors
+:
+Strong revenue growth and sustenance of operating profitability at above 15% resulting in better-than-anticipated cash generation
+Completion of Phase 1 of sizeable capex (
+Li-
+ion battery
+plant) without material time and cost overruns, and timely stabilisation of operations thereafter
+Sustenance of strong financial risk profile and comfortable debt metrics
+Down
+ward
+factors
+:
+Lower-than-expected revenue growth due to delays in ramping-up capacity utilisation at new production facilities, and operating profitability below 10%
+Larger-than-expected, debt-funded capex or acquisition or material time and cost overruns in ongoing projects adversely affecting key debt metrics on sustained basis
+Adverse legal ruling impacting operations materially
+About the Company
+ARE&ML, promoted by Mr Ramachandra Galla in 1985, initially manufactured standby valve-regulated lead acid (VRLA) batteries at its unit at Karakambadi in Tirupati, AP. In 1998, Johnson Controls International (JCI) acquired 26% stake in the company, and in fiscal 2000,
+ARE&ML diversified into the manufacture of automotive batteries and set up a second plant at Chittoor.
+Following divestment of stake by JCI to Brookfield, RNgalla Family Pvt Ltd (RNGFPL; holding company of the Galla group) increased its stak
+e in ARE&ML marginally to 28.06% with Brookfield holding 24%. Brookfield reduced its stake in ARE&ML to 14% in May 2021, and completely exited ARE&ML in July 2023
+. As per the latest shareholding data as of September 2024, the Galla family through their holding company, RNGFPL, is the single largest owner and promoter of ARE&ML with 32.86% stake, followed by foreign portfolio investors (22.33%), Life Insurance Corporation of India (6.31%), mutual funds (6.25%) and other financial institutions (4.04%), with t
+he balance held by public and others as on September 2024.
+ARE&ML reported net profit of Rs 484 crore on operating income of Rs 6,514 crore in the first half of fiscal 2025, compared with net profit of Rs 419 crore on operating income of Rs 5,755 crore in the corresponding period of fiscal 2024
+Key Financial Indicators
+Particulars
+Unit
+2024
+2023
+Operating income
+Rs crore
+11,717
+10,402
+Profit after tax (PAT)*
+Rs crore
+847
+645
+PAT margin
+%
+7.2
+6.2
+Adjusted debt/adjusted networth
+Times
+0.01
+0.02
+Interest coverage
+Times
+51
+51.30
+*Adjusted for Goodwill amortization
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name Of Instrument
+Date Of Allotment
+Coupon Rate (%)
+Maturity Date
+Issue Size (Rs. Crore)
+Complexity Levels
+Rating Outstanding with Outlook
+NA
+Bank Guarantee
+^
+NA
+NA
+NA
+15.00
+NA
+CRISIL AA+/Stable
+NA
+Bank Guarantee
+*
+NA
+NA
+NA
+130.0
+0
+NA
+CRISIL AA+/Stable
+NA
+Bank Guarantee
+NA
+NA
+NA
+40.00
+NA
+CRISIL AA+/Stable
+NA
+Cash Credit
+NA
+NA
+NA
+80.00
+NA
+CRISIL AA+/Stable
+NA
+Cash Credit
+$
+NA
+NA
+NA
+40.00
+NA
+CRISIL AA+/Stable
+NA
+Letter of Credit
+NA
+NA
+NA
+37.65
+NA
+CRISIL A1+
+NA
+Proposed Non Fund based limits
+NA
+NA
+NA
+57.35
+NA
+CRISIL A1+
+*Interchangeable from fund-based to non-fund-based limits.
+^100% interchangeability between bank guarantee and letter of credit (LC) limits
+$100% interchangeability between cash credit/working capital demand loan/sight or usance LC/bill discounting/buyer’s credit, bank guarantee (Rs 0.01 crore) facilities
+Annexure – List of entities consolidated
+Names of entities consolidated
+Extent of consolidation
+Rationale for consolidation
+Amara Raja Batteries Middle East (FZE),
+Full
+Subsidiary and business linkages
+Amara Raja Circular Solutions Pvt Ltd
+Full
+Subsidiary and business linkages
+Amara Raja Advanced Cell Technologies Pvt Ltd
+Full
+Subsidiary and business linkages
+Amara Raja Power Systems Ltd
+Full
+Subsidiary and business linkages
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+120.0
+CRISIL AA+/Stable
+--
+03-11-23
+CRISIL AA+/Stable
+01-07-22
+CRISIL AA+/Stable
+07-05-21
+CRISIL AA+/Stable
+CRISIL AA+/Stable
+--
+--
+31-05-23
+CRISIL AA+/Stable
+--
+--
+--
+--
+--
+09-02-23
+CRISIL AA+/Stable
+--
+--
+--
+Non-Fund Based Facilities
+ST/LT
+280.0
+CRISIL AA+/Stable / CRISIL A1+
+--
+03-11-23
+CRISIL AA+/Stable / CRISIL A1+
+01-07-22
+CRISIL AA+/Stable / CRISIL A1+
+07-05-21
+CRISIL AA+/Stable / CRISIL A1+
+CRISIL AA+/Stable / CRISIL A1+
+--
+--
+31-05-23
+CRISIL AA+/Stable / CRISIL A1+
+--
+--
+--
+--
+--
+09-02-23
+CRISIL AA+/Stable / CRISIL A1+
+--
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Bank Guarantee
+&
+15
+State Bank of India
+CRISIL AA+/Stable
+Bank Guarantee
+^
+130
+Kotak Mahindra Bank Limited
+CRISIL AA+/Stable
+Bank Guarantee
+40
+Axis Bank Limited
+CRISIL AA+/Stable
+Cash Credit
+%
+40
+Citibank N. A.
+CRISIL AA+/Stable
+Cash Credit
+10
+State Bank of India
+CRISIL AA+/Stable
+Cash Credit
+5
+Axis Bank Limited
+CRISIL AA+/Stable
+Cash Credit
+50
+BNP Paribas Bank
+CRISIL AA+/Stable
+Cash Credit
+15
+Kotak Mahindra Bank Limited
+CRISIL AA+/Stable
+Letter of Credit
+32.65
+State Bank of India
+CRISIL A1+
+Letter of Credit
+5
+State Bank of India
+CRISIL A1+
+Proposed Non Fund based limits
+57.35
+Not Applicable
+CRISIL A1+
+& - 10
+0% interchangeability between bank guarantee and letter of credit (LC) limits
+^ -
+Interchangeable from fund-based to non-fund-based limits.
+% -
+100% interchangeability between cash credit/working capital demand loan/sight or usance LC/bill discounting/buyer’s credit, bank guarantee (Rs 0.01 crore) facilities
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for rating short term debt
+CRISILs Criteria for Consolidation
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Kartik Behl
+Media Relations
+Crisil Limited
+M: +91 90043 33899
+B: +91 22 6137 3000
+kartik.behl@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+Anuj Sethi
+Senior Director
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+Crisil Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+ARUN KUMAR
+Manager
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+ARUN.KUMAR1@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings shall have no liability, whatsoever, with respect to any copies, modifications, derivative works, compilations or extractions of any part of this [report/ work products], by any person, including by use of any generative artificial intelligence or other artificial intelligence and machine learning models, algorithms, software, or other tools. Crisil Ratings takes no responsibility for such unauthorized copies, modifications, derivative works, compilations or extractions of its [report/ work products] and shall not be held liable for any errors, omissions of inaccuracies in such copies, modifications, derivative works, compilations or extractions. Such acts will also be in breach of Crisil Ratings’ intellectual property rights or contrary to the laws of India and Crisil Ratings shall have the right to take appropriate actions, including legal actions against any such breach.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

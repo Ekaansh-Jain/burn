@@ -1,202 +1,270 @@
-SEDEMAC Mechatronics Limited (erstwhile SEDEMAC Mechatronics Pvt Ltd) Ratings upgraded, outlook revised to Positive from Stable; rated amount enhanced - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
+September 15, 2026
+SEDEMAC Mechatronics Limited (erstwhile SEDEMAC Mechatronics Pvt Ltd): Ratings
+upgraded, outlook revised to Positive from Stable; rated amount enhanced
+Summary of rating action
+Previous Current rated
+Financial Sector
+Instrument* rated amount amount Rating action
+Regulator#
+(Rs. crore) (Rs. crore)
+[ICRA]A (Positive) / [ICRA]A1; upgraded
+Long Term / Short Term- Fund
+from [ICRA]A-(Stable)/ [ICRA]A2+/
+based / Non Fund-based Working 64.00 104.00 RBI
+assigned for enhanced amount, outlook
+Capital Facilities
+revised to Positive from Stable
+[ICRA]A (Positive); upgraded from [ICRA]A-
+Long Term- Fund based-
+49.50 110.95 (Stable)/ assigned for enhanced amount, RBI
+Term Loans
+outlook revised to Positive from Stable
+Total 113.50 214.95
+*Instrument details are provided in Annexure I
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and instruments
+which fall under the regulatory purview of Financial Sector Regulators other than SEBI.
+Rationale
+The rating upgrade along with revision in the outlook of the long-term rating of SEDEMAC Mechatronics Limited SEDEMAC/the
+company) favourably considers the significant increase in SEDEMAC’s scale of operations in FY2025 and FY2026 as reflected
+by a healthy 24% and 61% revenue growth in FY2025 and FY2026, respectively, and ICRA’s expectation that the revenue growth
+momentum would sustain, going forward. ICRA also notes the efforts undertaken by the company to gradually achieve higher
+product and customer diversification over the past two years, through rolling out of new products as well as onboarding of
+new clients, respectively. SEDEMAC has demonstrated a robust revenue growth momentum over the years (with its revenues
+demonstrating a compound annual growth rate (CAGR) of 34.5% over the period FY2021-FY2026), aided by increasing
+penetration of its flagship product – the sensor-less integrated starter generator (ISG) among the domestic two/three-wheeler
+(2/3W) original equipment manufacturers (OEMs). The company has also developed various other electronics-based products,
+such as electronic fuel injector (EFI), motor control unit (MCU), and genset controllers (GCU), offering diversification to its
+product portfolio. ICRA notes the presence of three prominent domestic 2/3W OEMs in SEDEMAC’s clientele, translating into
+a healthy industry presence for the company. With this, the revenue growth momentum is expected to remain healthy, going
+forward. Aided by the operating leverage benefits and cost optimisation measures undertaken by the company, its operating
+profit margin (OPM) rose to 21.5% in FY2026 from 19.4% in FY2025, with the expectation of the profitability to remain fairly
+comfortable (with OPM likely to remain 19-22% over the near to medium term), in line with the expanding scale of operations
+and widening product portfolio.
+The ratings continue to factor in the established presence of SEDEMAC in the niche segment of designing and manufacturing
+powertrain controllers. SEDEMAC’s promoters have a strong background with experience in electronic component designing
+and manufacturing that spans over 15 years. The deep-rooted business relations developed by the company with its key clients
+in addition to new client acquisitions, both from automotive and non-automotive sectors, have resulted in a steady ramp-up
+in the scale of operations over the years. As the company continues to onboard new clients across product categories and
+sectors, the revenue growth momentum is expected to remain healthy over the near-to-medium term. SEDEMAC’s principal
+product - sensor-less ISG, a device that controls the starting mechanism for small vehicles is one of the key product offerings
+from SEDEMAC. With the increasing adoption of this device in the automotive industry, particularly among 2W and three-
+wheeler (3W) OEMs, ICRA expects SEDEMAC to maintain the robust revenue growth momentum, going forward. Further, the
+www.icra .in 1
+Sensitivity Label : Public Page |
+company has also been increasing its presence in other product verticals, such as EV controllers, power tools, ACM controllers
+genset controllers, battery chargers, actuators, etc., which is expected to provide further momentum to the expansion of
+revenue base, going forward. ICRA also notes the limited competition faced by SEDEMAC for its principal product in the sensor-
+less ISG technology, given the patented nature of its products in this category. SEDEMAC’s financial profile remains
+comfortable, aided by comfortable gross margins and healthy accrual generation. Timely equity infusion from promoters and
+investors in the past has provided support to the capital structure and leverage, with the company’s gearing and total
+debt/OPBITDA remaining healthy at 0.2 times and 0.3 times, respectively, as of March 31, 2026 (previous year [PY]: 0.2 times
+and 0.5 times, respectively).
+The ratings strengths are, however, partially offset by the high customer concentration risk exhibited by SEDEMAC. Its largest
+customer contributed 77% to revenues in FY2026 (80% in FY2025), exposing it to OEM-specific slowdown risks. The company’s
+active efforts to onboard other customers, from automotive as well as non-automotive sectors, are expected to reduce
+customer concentration over the medium term and thus provide some comfort against the said risk to an extent. While
+SEDEMAC’s flagship product – sensor-less ISG remains the key revenue contributor for the company, this results in a sizeable
+operational dependence over a single product. ICRA notes the other products (such as electronic fuel injector / EFI control
+units, ISG+EFI and EV controllers) being supplied by SEDEMAC. Ramp up in volumes of these products is likely to reduce the
+company’s dependence over its principal product ISGs in the medium term. With a sizeable (over 80%) revenue share from
+the domestic 2W and 3W automotive clients, SEDEMAC’s business profile remains exposed to the inherent cyclicality
+associated with these underlying markets. ICRA notes the company’s extensive dependence on imports of key raw materials
+(such as semiconductors and passive electronic components) with around 75% of the overall raw material requirement being
+met through imports, rendering the operations vulnerable to the global supply chain related challenges as well as forex
+movements. The company’s established relationships with the overseas suppliers, however, provide some comfort against the
+stated risk to an extent.
+Key rating drivers and their description
+Credit strengths
+Established presence in the niche segment of powertrain engine controllers; strong promoter background – SEDEMAC has
+over 15 years of track record of being operational in the niche segment of electronic controllers used in powertrain engines as
+well as non-automotive applications such as gensets. The company benefits from the strong technological background of its
+qualified promoter team, which lends support to client retention as well as new client acquisition. Repeat business from the
+existing clients as well as onboarding new clients has been reflected in the company’s robust revenue growth momentum over
+the years.
+Limited competitive scenario coupled with IP-backed product offerings reflects in healthy margin profile – As SEDEMAC
+operates in the niche segment of electronic controllers used in the automotive powertrains, the entity faces limited
+competition in the domestic market, which in turn supports profitability through pricing structure. Moreover, SEDEMAC has
+developed IP-backed product offerings in the field of sensor-less technology, which has resulted in no material competition in
+this segment over the years, thus paving way for a steady revenue growth momentum, with the trend likely to continue over
+the near to medium term supported by onboarding of new OEMs for its sensor-less device, and traction of other product lines.
+Increasing adoption of key product offerings likely to maintain the robust revenue growth momentum – SEDEMAC has seen
+an increasing adoption of its key product offerings in the recent past, which has supported the company’s revenue growth
+trajectory. With several other products (such as EFI, ISG+EFI, MCU, ACM controllers) launched in the recent past, and scheduled
+to be launched in the near term, incremental revenue contribution from the same is expected to further aid SEDEMAC’s
+revenue growth potential over the long-term.
+Comfortable financial profile, healthy gross margins and coverage indicators – SEDEMAC’s capital structure is characterized
+by a comfortable gearing position which stood at 0.2 times as of March 31, 2026 (0.2 times as of March 31, 2025), aided by a
+steady expansion of net-worth position over the years. ICRA also notes the healthy gross margins demonstrated by the entity
+www.icra .in 2
+Sensitivity Label : Public Page |
+on back of its pricing structure and expanding revenue base. The coverage indicators, backed by healthy profitability, remain
+fairly comfortable, as reflected by interest coverage ratio which stood at 26.5 times in FY2026 (PY: 10.6 times) and 25.5 times
+in Q1 FY2027. ICRA expects the company to report operating margins in the range of 18-20% in FY2027, while maintaining
+steady growth in its top line. Total debt / OPBITDA is expected to remain fairly comfortable (below 1.2 times), supported by
+healthy expansion in absolute profitability in tandem with increasing scale of operations.
+Credit challenges
+High customer concentration risk; sizeable operational dependence on a single product – With its largest customer – a
+leading domestic 2/3W OEM, having contributed to around 77% of its revenues in FY2026 (around 80% in FY2025), SEDEMAC
+remains exposed to a high degree of customer concentration risk, wherein any operational challenges faced by key client could
+have a material impact on the business operations of the company. SEDEMAC’s deep-rooted relations with this key customer
+over the years and addition of two of the leading domestic 2W OEMs in its clientele in the recent past, however, provide some
+comfort against the said risk. In addition, ICRA also notes the sizeable operational dependence of the company on a single
+product (with this product having contributed 67%-68% of revenues in FY2025-FY2026), making its operations vulnerable to
+any product-specific slowdown/technological risks. The IP-backed nature of products in this product category, however,
+mitigates the said risk to an extent. In addition, ICRA notes SEDEMAC’s strong product development pipeline, which should
+translate into revenues in the medium to longer term.
+Business operations exposed to the inherent cyclicality associated with the domestic automotive industry – With a sizeable
+(80%+) revenue share from the domestic 2W and 3W automotive clients, SEDEMAC’s business profile remains exposed to the
+inherent cyclicality associated with these underlying markets. The well-established relations of the company with its key clients
+coupled with the IP-backed nature of its products leading to the sole/major-supplier status for various products, however,
+provides some comfort against the said risk.
+Extensive dependence on imports for raw material procurement exposing the operations to the global supply chain related
+issues – Given the nature of industry it operates in, SEDEMAC shows an extensive dependence over imports for raw material
+procurement (with around 75% of the overall raw material requirement being met through imports, especially for
+semiconductors and passive electronic components), which exposes the company to the global supply chain related issues –
+any impact on the procurement channels could therefore affect the business operations to a large extent. The company’s well-
+established relations with its overseas suppliers coupled with sufficient stocking of imported inventory, however, provide some
+comfort against the said risk. The company uses foreign exchange forward contracts to manage some of its transaction
+exposure, which coupled with natural hedging due to exports (though not significant) provides further comfort against the
+said risk.
+Liquidity position: Adequate
+SEDEMAC’s liquidity position remains adequate, as reflected by a comfortable buffer in its undrawn working capital lines
+(buffer stood at around Rs. 57 crore as of March 31, 2026, and typically maintained at Rs. 50-60 crore) and cash and liquid
+investments balances of Rs. 65 crores (out of which Rs. 51 crore are earmarked for IPO expenses) as of March 31, 2026.
+Moreover, comfortable cash flow generation from operations, projected to remain Rs. 120-150 crore per annum over the near
+to medium term, is expected to provide further comfort to the liquidity profile. Against this, the capex outlay for FY2027
+remains Rs. 150-200 crore, while the debt repayment quantum for next 1-2 years stands at Rs. 20-30 crore per annum, which
+is likely to be met comfortably from steady accruals generation. ICRA also notes that regular infusion of equity from promoters
+/ investors has also extended material support to SEDEMAC’s liquidity in the past.
+Rating sensitivities
+Positive factors – The rating could be upgraded in case of significant scale up in the revenues and earnings of the company,
+along with diversification in its product and customer profile.
+www.icra .in 3
+Sensitivity Label : Public Page |
+Negative factors – The rating could witness a downward revision in case of any adverse impact on the revenue/ profitability
+of the company leading to deterioration in debt protection metrics. Further, any sizeable capital expenditure (and the lack of
+timely and commensurate returns from the same) or higher working capital requirement leading to an adverse impact on the
+liquidity position of the company can trigger a downward rating revision. Specific credit metrics that could lead to a downward
+rating pressure would be TD/OPBITDA above 1.8 times on a sustained basis.
+Analytical approach
+Analytical Approach Comments
+Corporate Credit Rating Methodology
+Applicable Rating Methodologies
+Auto Components
+Parent/Group Support Not applicable
+For arriving at the ratings, ICRA has considered the standalone financials of SEDEMAC
+Consolidation/Standalone
+Mechatronics Limited.
+About the company
+Incorporated in 2007, SEDEMAC is an innovative controls company engaged in manufacturing of electronic components
+primarily powertrain controllers for automotive (catering majorly 2W and 3W OEMs), gensets and EVs. The company presently
+generates over 80% of its revenues from the domestic automotive sector, with the two-wheeler segment being the major
+contributor. It presently has an installed capacity of about 40,00,000 units per annum, and has two manufacturing plants - one
+in Chakan and the other one in Dhayari, Pune. The company is presently undertaking capacity expansion drives, and plans to
+roll out its third plant in the near term. The company’s corporate office and R&D centre are located at Baner, Pune. The
+company was founded by technocrats - Mr. Shashikanth Suryanarayanan, Mr. Amit Dixit and Mr. Manish Sharma who are the
+alumni of Indian Institute of Technology, Mumbai. SEDEMAC got listed on National Stock Exchange (NSE) and Bombay Stock
+Exchange (BSE) in March 2026.
+Key financial indicators
+SEDEMAC FY2025 FY2026 Q1 FY2027*
+Operating Income (Rs. crore) 660.3 1,061.1 309.8
+PAT (Rs. crore) 47.0 103.6 33.3
+OPBDIT/OI (%) 19.4% 21.5% 19.1%
+PAT/OI (%) 7.1% 9.8% 10.8%
+Total Outside Liabilities/Tangible Net Worth (times) 0.6 0.8 NA
+Total Debt/OPBDIT (times) 0.5 0.3 NA
+Interest Coverage (times) 10.6 26.5 25.5
+Source: Company, ICRA Research; * Provisional numbers; All ratios as per ICRA’s calculations; Amount in Rs. crore ; *Result
+PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortization, NA: Not available
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+www.icra .in 4
+Sensitivity Label : Public Page |
+Rating history for past three years
+Current rating (FY2027) Chronology of rating history for the past 3 years
+FY2026 FY2025 FY2024
+Amount
+Instrument Type Rated Sep 15, 2026 Date Rating Date Rating Date Rating
+(Rs. crore)
+Term Loan Long- term 110.95 [ICRA]A(Positive) 20-Jun-25 [ICRA]A-(Stable) 3-Apr-24 [ICRA]BBB+ (Stable) - -
+Working Capital Long-term/ [ICRA]A (Positive)/ 20-Jun-25 [ICRA]A-(Stable) / [ICRA]BBB+ (Stable)/
+104.00 3-Apr-24 - -
+Facilities Short-term [ICRA]A1 [ICRA]A2+ [ICRA]A2
+Long-term/ - - - [ICRA]BBB+ (Stable)/
+Unallocated - 3-Apr-24 - -
+Short-term [ICRA]A2
+Source: Company
+Complexity level of the rated instruments
+Instrument Complexity Indicator
+Long Term – Term Loans Simple
+Long Term / Short Term – Working Capital Facilities Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated. It does not indicate the risk related to the timely
+payments on the instrument, which is rather indicated by the instrument's credit rating. It also does not indicate the complexity associated with analysing an entity's financial,
+business, industry risks or complexity related to the structural, transactional, or legal aspects. Details on the complexity levels of the instruments, are available on ICRA’s
+website: Click Here
+www.icra .in 5
+Sensitivity Label : Public Page |
+Annexure-1: Instrument details
+Date of Amount
+Coupon Maturity Current Rating Financial Sector
+ISIN Instrument Name Issuance / Rated
+Rate Date and Outlook Regulator#
+Sanction (Rs. Crore)
+NA Term Loan – 1 FY2025 NA FY2029 5.57 [ICRA]A(Positive) RBI
+NA Term Loan – 2 FY2024 NA FY2028 7.31 [ICRA]A(Positive) RBI
+NA Term Loan – 3 FY2025 NA FY2032 13.34 [ICRA]A(Positive) RBI
+NA Term Loan – 4 FY2025 NA FY2031 84.73 [ICRA]A(Positive) RBI
+Working Capital [ICRA]A(Positive)/
+NA NA NA NA 104.00 RBI
+Facilities [ICRA]A1
+Source: Company
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and instruments
+which fall under the regulatory purview of Financial Sector Regulators other than SEBI.
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure-2: List of entities considered for consolidated analysis: Not applicable
+www.icra .in 6
+Sensitivity Label : Public Page |
+ANALYST CONTACTS
+Jitin Makkar Kinjal Shah
++91 124 4545368 +91 22 6114 3442
+jitinm@icraindia.com kinjal.shah@icraindia.com
+Mythri Macherla Yashowardhan Swami
++91 22 6114 3435 +91 20 6606 9923
+mythri.macherla@icraindia.com yashowardhan.swami@icraindia.com
+RELATIONSHIP CONTACT
+L Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 7
+Sensitivity Label : Public Page |
 ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
-Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+Registered Office
+B-710, Statesman House 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2026 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

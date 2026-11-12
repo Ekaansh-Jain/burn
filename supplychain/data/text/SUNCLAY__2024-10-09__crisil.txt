@@ -1,0 +1,448 @@
+Rating Rationale
+Rating Rationale
+October 09, 2024 | Mumbai
+Sundaram-Clayton Limited
+Rating outlook revised to 'Negative'; Ratings Reaffirmed
+Rating Action
+Total Bank Loan Facilities Rated
+Rs.885.24 Crore
+Long Term Rating
+CRISIL AA-/Negative (Outlook revised from 'Stable'; Rating Reaffirmed)
+Short Term Rating
+CRISIL A1+ (Reaffirmed)
+Rs.100 Crore Non Convertible Debentures
+CRISIL AA-/Negative (Outlook revised from 'Stable'; Rating Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings.
+1 crore = 10 million
+Refer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+CRISIL Ratings has revised its outlook on the long term bank facilities and non-convertible debentures (NCD) of Sundaram-Clayton Limited (SCL) to
+‘Negative’
+from
+‘Stable’
+while reaffirming the rating at
+‘CRISIL AA-‘.
+The rating on the short-term bank facilities has been reaffirmed at
+‘CRISIL A1+’
+.
+The outlook revision follows moderation in the credit risk profile of SCL owing to higher than expected losses at its wholly owned subsidiary, Sundaram Holdings USA Inc (SHUI) in fiscal 2024, and continuing losses in fiscal 2025, as operations are only gradually ramping up, following modest demand for castings in US markets. This, along with high debt levels due to capital expenditure for modernisation and setting up a new plant, as well as for funding losses and refinancing of debt obligations in fiscal
+2025, will result in continued weak debt metrics.
+Meanwhile, cognizant of the rising debt levels, SCL’s management has raised ~Rs.400 crores of equity via a Qualified Institutional Placement (QIP) in October 2024. In addition, SCL will also monetize non-core assets and use proceeds from both QIP and asset sales to pare down debt to Rs 800-900 crores by end of fiscal 2025. Timely completion of the monetization of non-core assets will be critical and any delays, resulting in debt levels remaining elevated may
+result in a downgrade.
+In fiscal 2024, SCL’s standalone manufacturing revenues remained flat primarily due to moderation in aluminium prices from highs in fiscal 2023. However, volumes registered reasonable growth backed by healthy domestic demand in all segments and stable export demand. Better operating leverage, stable input costs and healthy operating efficiencies contributed to growth in operating profitability by 50 bps to 13.1% in fiscal 2024. Consolidated revenues registered a growth of 6% driven
+by full year’s contribution from SHUI which became wholly owned subsidiary of SCL from September 2022 (only half year financials were consolidated in fiscal 2023) while operating profitability moderated to 4.3% in fiscal 2024 (~9.5% in fiscal 2023, estimated by considering SHUI’s revenues and profitability on pro-rata basis with completion of acquisition of SHUI by SCL in Sept 2022) with increase in operational losses at SHUI to Rs 173 crores (Rs 120 crores in fiscal 2023) due to lower than expected ramp up
+in operations following muted demand for castings from commercial vehicle manufacturers in US.
+CRISIL ratings expects revenues to register growth of 4-6% in fiscal 2025 driven by stable exports, better realisations due to uptick in aluminium prices which are a pass through, higher revenues at SHUI and factoring in moderation in demand from domestic passenger vehicle (PV) and commercial vehicle (CV) original equipment manufacturers (OEMs). Further, improvement in revenues of SHUI will also drive revenue g
+rowth. While standalone operating profitability is expected to remain healthy at 12-13%, the consolidated operating profitability will remain constrained at 4-5% in fiscal 2024 (similar as fiscal 2024) due to continuing large losses at SHUI impacting cash generation as well. The shift to the new plant is not expected to have an impact on sales as SCL will ensure sufficient inventory is available to service customer obligations as the operations will be temporarily impacted during the shifting process.
+CRI
+SIL ratings expects SCL’s revenues growth to be better and operating profitability at 9-10% in fiscal 2026, supported by turnaround in operations at SHUI (expected to break even at operating profit level) and shift to the new facility. Timely turnaround of operations and breakeven at operating profit level for SHUI will also be monitorable.
+SCL’s balance sheet has also come under some strain due to debt being raised for ongoing capex and for supporting SHUI. Consolidated debt levels increased to Rs 1417 cr
+ores as on March 31, 2024 (Rs 1082 crores as on March 31, 2023), on account of partly debt funded capex of Rs 300 crores and
+funding of losses and debt obligations at SHUI. Capex levels are higher than normal as the company is setting up a new modern, automated and efficient plant at Thervoy Kandigai (near Chennai) cand relocating its machinery from its Padi, Chennai unit at a cost of Rs.550 crore.
+Capex spend will continue at ~Rs.300 crore in fiscal 2025 as well, including for the new plant which will bec
+ome operational this year, routine maintenance at other plants and for funding SHUI’s losses and debt obligations, at both SHUI and SCL. Therefore, debt levels are expected to peak at ~Rs.1700-1800 (before retiring debt from proceeds of QIP and monetization of non-core assets) this fiscal further impacting debt metrics, which already moderated in fiscal 2024 (interest cover and gearing were at 1.2 times and 2.36 times in fiscal 2024, compared with 2.24 times and 1.40 times respectively in fiscal 2023). Whil
+e proceeds from QIP and asset monetization will be used to lower debt to Rs 800-900 crores by end of fiscal 2025 which can strengthen the balance sheet, however meaningful correction in debt metrics will remain contingent on turnaround of SHUI.
+Erstwhile SCL (pre – demerger) held shares in TVS Motor Company Limited (TVSM) and also had aluminium die-casting component (ADCC) operations. SCL executed a composite scheme of arrangement which was approved by National Company Law Tribunal (NCLT) on March 6, 2023.
+Subsequently, on August 11, 2023, the ADCC business (manufacturing operations) in erstwhile SCL and its subsidiaries, was demerged into a separate entity, Sundaram Clayton DCD Ltd (SCLDCD). SCLDCD was again renamed as SCL in August 2023, and the erstwhile SCL was renamed as TVS Holdings Limited (THL, CRISIL AA/Stable). THL holds 50.26% stake in TVSM, India’s third largest two-wheeler manufacturer, and other group entities. 1 equity share of SCL was issued to the shareholders for every 1 equity share he
+ld in THL such that both have mirror shareholdings. The assets and liabilities which was on the books of the combined entity which are related to manufacturing operations was moved to SCL.
+SCL was subsequently listed in the stock exchanges in December 2023.
+The ratings reflect SCL’s diverse customer base across automobile sub-segments and geographies, above average standalone operating efficiency, and adequate financial flexibility. These strengths are partially offset by high revenue dependence on the c
+yclical commercial vehicle (CV) segment, and on OEMs and exposure to increasing competition, and moderate financial risk profile, resulting from losses at wholly owned subsidiary, Sundaram Holdings USA Inc (SHUI).
+Analytical Approach
+For arriving at the rating, CRISIL Ratings has considered consolidated the credit risk profiles of SCL and SHUI.
+SCL is also expected to provide managerial, organizational, and financial support to SHUI, which is in similar line of business.
+Please refer Annexure - List of Entities Consolidated, which captures the list of
+entities considered and their analytical treatment of consolidation.
+Key Rating Drivers & Detailed Description
+Strengths
+:
+Diverse customer base, spread across automotive sub-segments and geographies:
+SCL’s die casting business customer base is diverse, spread across sub-segments of the auto sector, such as two-wheelers, passenger cars, and CVs, and across geographies. The company has enhanced its production capacity, including for passenger OEM customers, which has enabled it to increase market share during the recovery in fiscal 2021, and benefit of same is continuing since fiscal 2022.
+Healthy share of exports also enhances SCL’s revenue and geographic diversity. While the company’s share of export revenue declined to 35-37% in fiscals 2017 and 2018, from over 40% in fiscal 2016 due to sluggish demand from European customers, better demand from US markets helped exports recover to over 45% of revenues from fiscal 2021 onwards and share of exports is expected to sustain at ~ 40-45% in the near to medium term.
+Presence across sub-segments and geographies partially offsets the impact of cyclicality inherent in the business. The diverse customer base and increased demand from export as well as domestic customers, and increased contribution from recently expanded capacities should support revenue growth over the medium term
+Above average standalone operating efficiencies:
+Operating profitability has been largely stable at 10-13% since fiscal 2014 (except a temporary blip in fiscal 2018), backed by ability to pass on changes in raw material prices onto end customers. Implementation of industry-wide best practices, such as Total Quality Management, enterprise resource planning and other internal automation measures, help products meet the rigorous standards of the top global auto manufacturers. Despite limited technological coll
+aboration, SCL has maintained steady business with most customers, on the back of its adequate operating capabilities.
+During fiscal 2020, SCL has implemented proactive cost optimization measures in low cost automations, employee consolidation, recycling of materials etc. which has facilitated better cost management during the downturn and weather the impact of pandemic related disruptions. Benefit of these has helped SCL maintain standalone operating margins at 12 - 14% between fiscal 2021-24. Supported by better operating efficiencies with shift to new plant, the standalone operating profitability is expected to improve t
+o above 14-15% over the medium term however the consolidated operating profitability will be constrained owing to the losses in SHUI. In fiscal 2025, CRISIL ratings expects the consolidated operating profitability will remain at 4-5%due to continuing losses in SHUI and is expected to recover in fiscal 2026 to 9-10% with breakeven at operating level in SHUI.
+Healthy financial flexibility:
+With the demerger, the stake in TVSM, which was earlier with SCL, has been retained in the holding company, THL. Nonetheless, due to common promoters and holding structures, CRISIL Ratings expects both companies to benefit from the holding in TVSM.
+CRISIL Ratings believes THL is unlikely to dilute its stake materially in TVSM below 50% in the medium term. Any significant dilution in stake in TVSM or material decline in market value of holding, will remain a rating monitorable
+.
+SCL also has a strong relationship with the lending community, and in the past as well, has successfully refinanced its obligations at attractive rates, including during the pandemic, when operating performance had been severely impacted.
+Weakness
+es:
+Significant exposure to cyclical CV segment:
+The die-casting business has high exposure to the CV segment given that it almost derives its entire export revenues from the CV segment, although the domestic customer base is spread across automotive industry sub-segments.
+Any cut in production schedules by key CV customers could result in a decline in capacity utilisation, and return on capital employed (RoCE), especially with specific lines being devoted to key customers.
+While higher capacity, the die-casting business will be able to manage sudden surge in offtake by customers over the medium term. That said, it remains
+vulnerable to cyclical offtake mainly by the CV segment, which
+could affect both revenue and profitability.
+Susceptibility to pricing pressure from OEMs:
+The die-casting business is highly dependent on offtake by Tier-I auto component suppliers as well as OEMs, in both the domestic and export markets. High exposure to OEMs exposes the company to significant pricing pressure. While SCL is able to pass on key raw materials costs to its customers, it has limited flexibility in passing on increase in conversion costs like power costs, employee costs etc., although the continuous cost control measures and process impr
+ovements over the years have partly mitigated the impact.
+Moderation in financial risk profile due to higher than anticipated losses at subsidiary, SHUI:
+SHUI initially was set-up as subsidiary of SACL, a wholly owned subsidiary of TVSM with SACL holding 56% and SCL holding 44%. SHUI is primarily involved in die casting business in Delaware, USA, and began operations from fiscal 2021. Over the years, SCL increased its stake to 49%, and then also bought out 51% stake in SHUI from SACL, following which SHUI became the wholly owned subsidiary of SCL from September 20
+22.
+SHUI has been making operational losses for the past 3-4 fiscals. The ramp up was delayed due to pandemic and subsequent moderation in demand from OEMs. While the losses were expected to decline materially in fiscal 2024 and the company was expected to turnaround, continuing sluggish demand in US market, has resulted in high operational losses of Rs 173 crores in fiscal 2024, and sizeable losses are likely in fiscal 2025 as well. Sizeable ramp up in operations and breakeven at operational level is expected
+in fiscal 2026, linked to demand from US based OEMs. This though, will remain a monitorable.
+Liquidity: Strong
+Liquidity is adequate for SCL largely supported by financial flexibility of the promoters. Even though the flexibility due to stake held in TVSM is not available directly post demerger, the flexibility comes from the promoter level who retains the ability to support SCL, if required. THL’s stake in TVSM is valued at over Rs 67000 crores as on September 26,2024 which provides adequate flexibility. The accruals at consolidated level were negative in fiscal 2024 and is expected to remain nega
+tive in fiscal 2025 as well owing to the continued losses in SHUI.
+Adequate headroom in bank lines (Rs.805 crores of sanctioned limits including unsecured limits), also supports SCL’s liquidity. Consolidated long term repayment obligations are Rs.190 crore in fiscal 2025 and Rs. 300-310 crores in fiscal 2026, will largely require refinancing, as accruals will not suffice. In this respect, SCL enjoys healthy relationship with lenders, and has demonstrated its able to raise funds at attractive coupon rates.
+The fund raise through QIP is also expected to provide comfort to the financial risk profile and liquidity.
+Outlook: Negative
+CRISIL Ratings expects SCL’s operational performance to be moderate in the near term due to operational losses in SHUI and ongoing sizeable debt funded capex. Improvement in consolidated performance will depend on timely turnaround of its US operations from next fiscal. Its financial risk profile will remain moderate due to high debt levels, unless sizeable funds are raised.
+Rating Sensitivity factors
+Up
+ward
+factors:
+Steady revenue growth on y-o-y basis driven by increased market share in both domestic and overseas markets and turnaround of SHUI, along with adequate operating profitability of over 13%, leading to healthy cash generation.
+Improvement in financial risk profile and correction in debt metrics to adequate levels supported by monetization of assets and or significant equity raise,
+Down
+ward
+factors:
+Sharp decline in revenues, owing to slowdown in demand from domestic and export markets, or due to delay in ramp up of operations in US subsidiary leading to operating margins sustaining below 8%
+Large debt funded capex or acquisition or significant stretch in working capital levels further denting key debt metrics
+Change in stance of support (if required), post movement of stake in TVSM to THL.
+About the Company
+SCL was incorporated in Chennai in 1962. The company is a leading manufacturer of aluminium die-casting components. It supplies to major automotive OEMs including TVSM, the Cummins group, the Volvo group, Hyundai Motor India Ltd (rated ‘CRISIL AAA/Stable/CRISIL A1+’), Ford Motors, the Daimler group, and to component suppliers such as Wabco India Ltd and the Visteon group. SCL was set up by the TVS group and the UK-based Clayton Dewandre Holdings Ltd.
+Until fiscal 2007, SCL’s financials included the CV br
+akes business. With effect from March 28, 2008, the Madras High Court approved the de-merger of the brakes business into a separate company, Wabco India Ltd. The non-brakes business (aluminium die-casting) and investments in the TVS group entities remained with SCL. The company has its main die-casting component production facilities at Padi, Mahindra City, and Oragadam in Chennai, and Belagondapalli at Hosur, in Tamil Nadu. During fiscal 2012, SCL restructured its businesses, hiving off the non-automotive
+businesses into its erstwhile subsidiary, Sundaram Investments Ltd (SIL).
+In August 2023, the aluminium diecasting business of erstwhile SCL was demerged into a separate entity, Sundaram- Clayton DCD Limited (SCL DCD) which was further renamed as SCL and erstwhile SCL was renamed as TVS Holdings Limited (THL). THL retained the investments in TVSM (earlier with SCL) and another promoter entity, Emerald Haven Realty Limited (EHRL). The demerger was done through an elaborate scheme of arrangement.
+Key Financial Indicators (Consolidated)
+*
+As on/for the period ended March 31
+Unit
+2024
+2023
+Revenue from operations**
+Rs Crore
+2209
+2053
+Profit after tax (PAT)
+Rs Crore
+-169
+-108
+EBITDA margin
+%
+4.3
+6.1
+PAT margins
+%
+-7.8
+-5.3
+Adjusted debt/adjusted networth
+Times
+2.36
+1.40
+Interest coverage
+Times
+1.20
+2.24
+*
+the above financials are based on proforma condensed combined financial statement published by the company in which SHUI has been
+consolidated with SCL completely in fiscal 2023 and fiscal 2024
+**Rs 23.98 crores of miscellaneous income is considered in revenue from operations
+in fiscal 2024
+Any other information
+:
+Not
+A
+pplicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit
+www.crisilratings.com
+. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN
+Name of the instrument
+Date of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue size
+(Rs.Crore)
+Complexity
+Level
+Rating assigned
+with outlook
+INE105A08014
+Non Convertible Debentures
+18-Aug-20
+7.65%
+18-Aug-25
+100
+Simple
+CRISIL AA-/Negative
+NA
+Bank Guarantee
+NA
+NA
+NA
+6
+NA
+CRISIL A1+
+NA
+Cash Credit
+NA
+NA
+NA
+210
+NA
+CRISIL AA-/Negative
+NA
+Letter of Credit
+NA
+NA
+NA
+75
+NA
+CRISIL A1+
+NA
+FCNR (B) Long Term Loan
+NA
+NA
+31-Dec-27
+85.54
+NA
+CRISIL AA-/Negative
+NA
+Proposed Long Term Bank Loan Facility
+NA
+NA
+NA
+85.84
+NA
+CRISIL AA-/Negative
+NA
+Rupee Term Loan
+NA
+NA
+31-Dec-27
+120
+NA
+CRISIL AA-/Negative
+NA
+Rupee Term Loan
+NA
+NA
+30-Sep-27
+152.93
+NA
+CRISIL AA-/Negative
+NA
+Rupee Term Loan
+NA
+NA
+31-Mar-27
+149.93
+NA
+CRISIL AA-/Negative
+Annexure - List of Entities Consolidated
+Names of Entities Consolidated
+Extent of Consolidation
+Rationale for Consolidation
+Sundaram Holdings USA Inc
+100%
+Same line of business, and 100% subsidiary
+Sundaram-Clayton USA LLC
+100%
+Step down 100% subsidiary, Same line of business
+Green Hills Land Holding LLC,
+100%
+Step down 100% subsidiary, Same line of business
+Component Equipment Leasing LLC,
+100%
+Step down 100% subsidiary, Same line of business
+Premier Land Holding LLC
+100%
+Step down 100% subsidiary, Same line of business
+Annexure - Rating History for last 3 Years
+Current
+2024 (History)
+2023
+2022
+2021
+Start of 2021
+Instrument
+Type
+Outstanding Amount
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Date
+Rating
+Rating
+Fund Based Facilities
+LT
+804.24
+CRISIL AA-/Negative
+19-02-24
+CRISIL AA-/Stable
+03-11-23
+CRISIL AA-/Stable
+--
+--
+--
+Non-Fund Based Facilities
+ST
+81.0
+CRISIL A1+
+19-02-24
+CRISIL A1+
+03-11-23
+CRISIL A1+
+--
+--
+--
+Non Convertible Debentures
+LT
+100.0
+CRISIL AA-/Negative
+19-02-24
+CRISIL AA-/Stable
+03-11-23
+CRISIL AA-/Stable
+--
+--
+--
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility
+Amount (Rs.Crore)
+Name of Lender
+Rating
+Bank Guarantee
+6
+State Bank of India
+CRISIL A1+
+Cash Credit
+210
+State Bank of India
+CRISIL AA-/Negative
+FCNR (B) Long Term Loan
+85.54
+State Bank of India
+CRISIL AA-/Negative
+Letter of Credit
+75
+State Bank of India
+CRISIL A1+
+Proposed Long Term Bank Loan Facility
+85.84
+Not Applicable
+CRISIL AA-/Negative
+Rupee Term Loan
+149.93
+IndusInd Bank Limited
+CRISIL AA-/Negative
+Rupee Term Loan
+152.93
+Exim Bank
+CRISIL AA-/Negative
+Rupee Term Loan
+120
+HDFC Bank Limited
+CRISIL AA-/Negative
+Criteria Details
+Links to related criteria
+CRISILs Approach to Financial Ratios
+Rating criteria for manufaturing  and service sector companies
+CRISILs Bank Loan Ratings - process, scale and default recognition
+Rating Criteria for Auto Component Suppliers
+CRISILs Criteria for Consolidation
+CRISILs Criteria for rating short term debt
+Media Relations
+Analytical Contacts
+Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Sanjay Lawrence
+Media Relations
+Crisil Limited
+M: +91 89833 21061
+B: +91 22 6137 3000
+sanjay.lawrence@crisil.com
+Anuj Sethi
+Senior Director
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+anuj.sethi@crisil.com
+Poonam Upadhyay
+Director
+Crisil Ratings Limited
+B:
++91 22 3342 3000
+poonam.upadhyay@crisil.com
+Sree Sankar
+Manager
+Crisil Ratings Limited
+B:
++91 44 6656 3100
+Sree.Madhu@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit
+www.crisilratings.com
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better.
+It i
+s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit
+www.crisil.com
+Connect with us:
+TWITTER
+|
+LINKEDIN
+|
+YOUTUBE
+|
+FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit
+www.crisil.com
+.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to:
+https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html
+. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites,
+www.crisilratings.com
+and
+https://www.ratingsanalytica.com
+(free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on the Crisil Ratings website,
+www.crisilratings.com
+. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following
+link:
+https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html

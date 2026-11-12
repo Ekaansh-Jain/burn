@@ -1,202 +1,160 @@
-Uniparts India Limited: Update on entity - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
+September 18, 2025
+Uniparts India Limited: Update on entity
+Summary of rating action
+Previous rated Current rated
+Instrument* amount amount Rating outstanding
+(Rs. crore) (Rs. crore)
+Long-term/ Short-term – Fund-based – Cash credit 145.00 145.00 [ICRA]AA-(Stable)/[ICRA]A1+
+Total 145.00 145.00
+*Instrument details are provided in Annexure I
+Rationale
+India’s exporters have been navigating a turbulent trade environment, with recent tariff hikes by the United States (US)
+threatening to reshape long-standing business dynamics. The latest round of US tariffs—effective August 27, 2025—has added
+a punitive 25% duty on select Indian goods, significantly increasing the overall tariff burden. Apart from the aforementioned
+reciprocal tariffs, US has also levied duties on steel, aluminum, copper and their derivative products under Section 232 of the
+Trade Expansion Act.
+Uniparts India Limited (UIL)’s exports to the US are also subject to the tariffs implemented by the US Government with most
+of its products falling under the section 232 tariff categories. On a consolidated basis, UIL generates about 50% of its overall
+revenues from US, out of which around 24-25% (12% of consolidated revenues) is manufactured and serviced from the
+company’s US plant; consequently, around 38% of the company’s business is exposed to the elevated tariffs.
+According to management discussions, UIL has been in active discussions with its customers on the increased tariff costs. So
+far, with most customers the company has been able to agree to a revised pricing, and with some customers the company has
+moved some products manufactured in India to manufacturing at its US plant. This dual approach has ensured that there is an
+agreement which mitigates tariff impact both for customers and the company till date. This dual shoring model and long-term
+customer relationships enjoyed by the company with its customers aided a timely resolution to the material tariffs imposed
+and provide comfort. In the interim however, an increase in the working capital requirement for the company is likely, as the
+company aims to maintain higher inventory in warehouses in Europe and USA to ensure uninterrupted supply to OEMs.
+ICRA notes that the company’s US plant is currently operating at capacity utilization levels that enable the company to produce
+in the US without additional capex required to ramp up production. Additionally, the management is confident of enhancing
+capacity, as needed, without entailing significant capex.
+UIL’s performance remained stable in Q1 FY2026, despite application of initial 25% derivative tariffs from March 2025 onwards
+(further increased to 50% from June 3, 2025) indicating steady supplies. In addition, the company has strong cash and liquid
+investments of about Rs. 285 crore as of July 31, 2025 (resulting in a negative net debt position), which continues to support
+its credit profile, and is likely to help the entity withstand any adverse impact of the ongoing scenario. Nonetheless, ICRA will
+continue to monitor the evolving trade scenario and its implications for UIL’s credit profile.
+Please refer to the following link for the previous detailed rationale that captures Key rating drivers and their description, ESG
+related comments, Liquidity position, Rating sensitivities: Click here
+www.icra.in
+Sensitivity Label : Public Page
+| 1
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Auto components
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of UIL. As on June 30,
+Consolidation/Standalone 2025, the company had four subsidiaries and one stepdown subsidiary (under indirect control),
+which are all enlisted in Annexure-II.
+About the company
+Incorporated in 1994, Uniparts India Limited is a global manufacturer and supplier of engineering systems and solutions,
+servicing global OEMs in the off-highway vehicle, agricultural machinery and construction equipment sectors. The company
+primarily manufactures three-point linkage assemblies for the agricultural machinery sector and precision machined parts for
+the agriculture and construction sectors. It also manufactures other products such as hydraulic cylinders (for agriculture and
+construction sectors), power take-off devices (for the agriculture sector) and fabrication parts (for agriculture and construction
+sectors). The company, along with its wholly-owned subsidiaries, has six manufacturing units across India and one in USA,
+equipped with forging, machining, heat treatment and welding capabilities, among others. Additionally, the company has three
+warehouse facilities (two in USA, and one in Germany) for its overseas customers.
+Key financial indicators
+Consolidated FY2024 FY2025 Q1 FY2026*
+Operating income 1,139.5 963.7 273.6
+PAT 124.7 88.0 34.5
+OPBDIT/OI 16.6% 15.1% 19.1%
+PAT/OI 10.9% 9.1% 12.6%
+Total outside liabilities/Tangible net worth (times) 0.3 0.3 NA
+Total debt/OPBDIT (times) 0.5 0.8 NA
+Interest coverage (times) 33.5 17.6 25.0
+Source: Company, ICRA Research; *Based on Limited financials; All ratios as per ICRA’s calculations; Amounts in Rs. crore;
+PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current (FY2026) Chronology of rating history for the past 3 years
+FY2026 FY2025 FY2024 FY2023
+Amount
+Instrument Type rated Date Rating Date Rating Date Rating Date Rating Date Rating
+(Rs. crore)
+Long-term Sep [ICRA]AA- Apr [ICRA]AA- Jan [ICRA]AA- Jan [ICRA]AA-
+Fund based
+and Short 145.00 18, (Stable)/ 25, (Stable)/ - - 08, (Stable)/ 16, (Stable)/
+limits
+term 2025 [ICRA]A1+ 2025 [ICRA]A1+ 2024 [ICRA]A1+ 2023 [ICRA]A1+
+www.icra.in
+Sensitivity Label : Public Page
+| 2
+Complexity level of the rated instruments
+Instrument Complexity indicator
+Long-term / Short-term – Fund based limits Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+www.icra.in
+Sensitivity Label : Public Page
+| 3
+Annexure I: Instrument details
+Amount rated
+ISIN Instrument name Date of issuance Coupon rate Maturity Current rating and outlook
+(Rs. crore)
+NA Fund based limits NA NA NA 145.00 [ICRA]AA-(Stable)/[ICRA]A1+
+Source: Company
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Company Name Ownership Consolidation Approach
+Uniparts India Limited 100.0% (rated entity) Full Consolidation
+Uniparts USA Limited 100.0% Full Consolidation
+Gripwel Fasteners Private Limited 100.0% Full Consolidation
+Uniparts India GmbH 100.0% Full Consolidation
+Gripwel Conag Private Limited 100.0% Full Consolidation
+Uniparts Olsen Inc.* 100.0% Full Consolidation
+Source: UIL annual report FY2025; wholly owned subsidiary of Uniparts USA Limited*
+Note: ICRA has considered consolidated financials of Uniparts India Limited while assigning the ratings.
+www.icra.in
+Sensitivity Label : Public Page
+| 4
+ANALYST CONTACTS
+Jitin Makkar K. Srikumar
++91 124 4545 368 +91 44-4596 4318
+jitinm@icraindia.com ksrikumar@icraindia.com
+Rohan Gupta Akshay Dangi
++91 124 4545 808 +91 124 4545 396
+rohan.kanwar@icraindia.com akshay.dangi@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra.in
+Sensitivity Label : Public Page
+| 5
 ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
-Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

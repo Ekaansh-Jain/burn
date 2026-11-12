@@ -1,202 +1,252 @@
-L.G. Balakrishnan & Bros Limited: Ratings reaffirmed; rated amount enhanced  - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
+July 17, 2025
+L.G. Balakrishnan & Bros Limited: Ratings reaffirmed; rated amount enhanced
+Summary of rating action
+Previous rated amount Current rated amount
+Instrument* Rating action
+(Rs. crore) (Rs. crore)
+[ICRA]AA (Stable); reaffirmed/assigned
+Long-term Fund-based Facilities 150.00 200.00
+for enhanced amount
+Short Term – Non-Fund Based
+100.00 100.00 [ICRA]A1+; reaffirmed
+Facilities
+Fixed Deposit Programme 40.00 40.00 [ICRA]AA (Stable); reaffirmed
+Total 290.00 340.00
+*Instrument details are provided in Annexure I
+Rationale
+The reaffirmation of the ratings on the bank lines and fixed deposit programme of L.G. Balakrishnan & Bros Limited (LGB)
+considers the company’s strong business and financial profiles and ICRA’s expectation of a sustained financial performance
+over the near-to-medium term, supported by its dominant market position in the automotive chains segment, significant
+replacement presence and strong liquidity. The company has a market share of over 60% in the domestic two-wheeler (2W)
+chain segment, with a healthy share of business across 2W original equipment manufacturers (OEMs). Further, it derives over
+30% of its revenues from the domestic aftermarkets, thus insulating its revenues to an extent from any downturn in the
+domestic 2W space. LGB’s operating margins continued to be healthy at 16.1% in FY2025 (previous year [PY]: 16.8%) and it has
+remained net debt negative, supported by ample liquidity on its balance sheet, with unencumbered cash and bank balances
+of Rs. 689.5 crore as on March 31, 2025. ICRA expects LGB’s financial profile and liquidity position to remain strong, going
+forward as well.
+The company derived over 80% of its revenues from the domestic 2W industry in FY2025, exposing it to any slowdown in the
+segment. Over the medium term, the company’s revenues could be vulnerable to risks arising from the impending
+electrification of vehicles, due to minimal usage of chains in electric 2Ws (e-2W) in comparison to internal combustion driven
+2Ws. However, its efforts to diversify products including towards industrial chains, generation of a sizeable portion of revenues
+from the replacement segment and anticipated e-2W penetration of only ~25% of new vehicle sales by FY2030 mitigate the
+risk to an extent. While LGB’s margins are susceptible to variation in commodity prices, the company’s practice of negotiation-
+based pass-throughs for raw materials price increases, has historically capped the moderation in margins to a large extent.
+Further, LGB has benefitted from improved operating leverage and periodic cost optimisation measures, and these are likely
+to continue, going forward.
+The Stable outlook on the long-term rating reflects ICRA’s expectation that the company will be able to sustain its credit profile
+and debt metrics, supported by its robust business profile, strong liquidity and absence of debt-funded capex plans, going
+forward.
+Key rating drivers and their description
+Credit strengths
+Dominant market position in domestic 2W chains – LGB manufactures and markets chains and allied components (accounted
+for 77% of the operating income (OI) in FY2025) primarily for 2Ws and metal forming products (accounted for 23% of OI in
+FY2025) for 2Ws, passenger vehicles (PVs) and commercial vehicles (CVs). The company is an established player in the domestic
+www.icra.in
+Sensitivity Label : Public Page
+| 1
+2W chain segment with a market share of over 60%. It is a tier-I supplier and has a healthy share of business across 2W OEMs
+with no OEM constituting more than 15% of LGB’s top line. Gradually improving demand for 2Ws augurs well for the company.
+Significant presence in the replacement segment – The company sells chains and sprockets under the brand, Rolon, in the
+replacement market and derives over 30% of its revenues from aftermarkets. This insulates its revenues from downturns/
+lower production volumes in the domestic 2W space, to an extent. Further, domestic aftermarket products command better
+margins than the domestic OEM segment.
+Strong financial profile, characterised by healthy cash position and robust debt coverage metrics – LGB’s revenues grew by
+9.9% in FY2025 and its operating margins continued to be healthy at 16.1% in FY2025 (PY: 16.8%), supported by its relatively
+high value addition, higher share of replacement revenues, operating leverage benefits and cost-optimisation measures. As a
+result of its healthy accruals, moderate working capital requirements and limited capex over the years, LGB has remained net
+debt negative since FY2021. Its debt protection metrics continue to be strong, and the interest coverage stood at 40.8 times
+in FY2025 (PY: 48.8 times). The company also had unencumbered cash and bank balances of Rs. 689.5 crore and adequate
+buffer of Rs. 65.6 crore against the sanctioned working capital lines as on March 31, 2025. ICRA expects LGB’s financial profile
+to remain strong, going forward.
+Credit challenges
+Impending electrification of automotive industry may impact revenues – The move towards electrification of automobiles
+could impact the company’s revenues over the medium-to-long term owing to minimal usage of chains in electric 2Ws in
+comparison to internal combustion driven 2Ws. However, the company has diversified its product portfolio by re-entering the
+industrial chains segment. Further, LGB has acquired LGB Steel Private Limited (formerly known as RSAL Steel Pvt. Ltd.) in
+January 2024 and has widened its product portfolio to include cold rolled close annealed (CRCA) strips, partly used for captive
+consumption. A sizeable portion of revenues from the replacement segment and anticipated e-2W penetration of only ~25%
+of new vehicle sales by FY2030 mitigate the risk to an extent.
+High dependence on 2W industry – LGB derives over 80% of its revenues from the domestic 2W industry, thereby making its
+revenues susceptible to any demand slowdown in the segment. However, the company’s established presence, low client
+concentration and sizeable revenues from the replacement segment mitigate the risk to an extent.
+Margins susceptible to increase in raw material prices – LGB’s margins are susceptible to variations in commodity prices.
+However, the company’s practice of negotiation-based pass-throughs for raw materials price increases, has historically capped
+the moderation in margins. Also, LGB has benefitted from improved operating leverage and periodic cost-optimisation
+measures, and these are likely to continue, going forward,. The company’s margins would also be susceptible to any
+unfavourable movements in forex, although it has not been impacted over the last few years as it is a net exporter.
+Environmental and social risks
+Environmental considerations – LGB, being an auto component supplier, remains exposed to climate-transition risks because
+its automotive OEM customers’ manufacturing products are used across different fuel powertrains. Accordingly, the prospects
+for LGB are linked to the ability of its customers to meet tightening emission requirements. The company also remains exposed
+to tightening environmental regulations regarding waste and pollution control norms, which can lead to an increase in the
+operating costs and new capacity instalment costs. However, LGB has been taking steps to minimise its carbon footprint by
+enhancing its reliance on renewable sources and other energy saving efforts such as adoption of energy-efficient fixtures
+/equipment and water recycling.
+Social considerations – Social considerations for LGB relate primarily to maintaining healthy industrial relations and product
+safety. Attracting and nurturing skilled manpower are critical as it seeks to keep pace with innovation and technological
+changes. On the product front, vehicle recalls by OEMs because of defective auto parts could create additional cost burden
+and liabilities. The company is also exposed to changing consumer preferences, including but not restricted to increasing
+www.icra.in
+Sensitivity Label : Public Page
+| 2
+awareness of the potential environmental damage from emissions, shift towards EVs, usage of sustainable materials and
+societal trends like a preference for ride sharing.
+Liquidity position: Strong
+LGB’s liquidity is strong, supported by healthy cash flow from operations of around Rs. 261.1 crore, and unencumbered cash
+and bank balances of Rs. 689.5 crore as on March 31, 2025. The company has adequate buffer in working capital lines with
+average unutilised limits of Rs. 65.6 crore in the 12-month period ended in April 2025. Going forward, LGB has minimal
+repayment obligations of Rs. 5.4 crore in FY2026, Rs. 4.2 crore in FY2027 and Rs. 35.8 crore in FY2028 for its existing term loans
+and fixed deposits. Although the company has significant capex plans of Rs. 250.0-300.0 crore per annum between FY2026 and
+FY2028, predominantly for product diversification and capacity enhancement. The same is likely to be funded by internal
+accruals and existing sources of liquidity. Overall, ICRA expects LGB to meet its medium-term commitments through internal
+sources of cash and yet be left with sufficient cash surplus.
+Rating sensitivities
+Positive factors – ICRA could upgrade LGB’s long-term rating if the company demonstrates a significant growth in its scale of
+operations along with a sustained improvement in profitability, and product diversification. Specific metrics that could lead to
+an upgrade would be RoCE improving above 25% on a sustained basis.
+Negative factors – Pressure on LGB’s ratings could arise if the company’s debt levels increase significantly, resulting in a
+deterioration of total Debt/OPBDITA to more than 1.5 times on a sustained basis, along with a material depletion of cash and
+cash equivalents. Any significant decrease in the top line owing to the electrification of vehicles could also exert pressure on
+the ratings.
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Rating Methodology for Auto Components
+Parent/Group support Not Applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of L.G.
+Consolidation/Standalone
+Balakrishnan & Bros Limited. Details are provided in Annexure-II.
+About the company
+LGB is among the largest manufacturers of 2W automotive chains in India (marketed under the brand, Rolon). It derived 77%
+of its revenues in FY2025 from chains and allied products and the rest from the metal forming segment. In terms of the business
+segments, 2W accounts for over 80% of its consolidated revenues. The company has two subsidiaries, LGB Steel Private
+Limited, which manufactures CRCA strips used for captive consumption by LGB, and LGB USA Inc., which manufactures fine
+blanking products. LGB (standalone) accounted for 92.9% of the consolidated revenues and 72.4% of the consolidated debt in
+FY2025. The company has 37 manufacturing facilities across Tamil Nadu, Maharashtra, Uttarakhand, Karnataka, Haryana,
+Rajasthan and Puducherry in India and one facility in the US, at the consolidated level.
+www.icra.in
+Sensitivity Label : Public Page
+| 3
+Key financial indicators (audited)
+L.G. Balakrishnan & Bros Limited (consolidated) FY2024 FY2025
+Operating income 2,346.0 2,578.3
+PAT 271.5 302.1
+OPBDIT/OI 16.8% 16.1%
+PAT/OI 11.6% 11.7%
+Total outside liabilities/Tangible net worth (times) 0.4 0.3
+Total debt/OPBDIT (times) 0.3 0.4
+Interest coverage (times) 48.8 40.8
+Amounts in Rs. crore; Source: Company, ICRA Research; Financial ratios in this document are ICRA adjusted figures and may not be directly comparable with
+results reported by the company in some instances; PAT: Profit after Tax; OPBDIT: Operating Profit before Depreciation, Interest, Taxes and Amortisation; total
+debt includes lease liabilities
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current rating (FY2026) Chronology of rating history for the past 3 years
+Date & Rating Date & rating in Date & rating in
+Amount Date & rating in FY2023
+in FY2026 FY2025 FY2024
+Type rated
+July 07, June 13,
+(Rs. Crore) July 17, 2025 July 29, 2024 July 28, 2023
+2022 2022
+Long [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+1 Fund based facilities 200.00
+term (Stable) (Stable) (Stable) (Stable) (Stable)
+Short
+2 Non-fund based facilities 100.00 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+term
+Fixed Deposit Long [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+3 40.00
+programme term (Stable) (Stable) (Stable) (Stable) (Stable)
+Long [ICRA]AA
+4 Unallocated Limits - - - - -
+term (Stable)
+Complexity level of the rated instruments
+Instrument Complexity indicator
+Long term – Fund based facilities Simple
+Short term – Non fund based facilities Very Simple
+Fixed Deposits Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+www.icra.in
+Sensitivity Label : Public Page
+| 4
+Annexure I: Instrument details
+Amount rated
+ISIN Instrument name Date of issuance Coupon rate Maturity Current rating and outlook
+(Rs. crore)
+Long term – Fund
+NA NA NA NA 200.00 [ICRA]AA(Stable)
+based facilities
+Short term – Non
+NA NA NA NA 100.00 [ICRA]A1+
+fund based facilities
+NA Fixed Deposits NA NA NA 40.00 [ICRA]AA(Stable)
+Source: LGB
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Consolidation
+Company name LGB ownership
+approach
+100.00%
+L.G. Balakrishnan & Bros Limited Full consolidation
+(rated entity)
+LGB USA, Inc 96.00% Full consolidation
+LGB Steel Private Limited 100.00% Full consolidation
+GFM Acquisition LLC^ 98.47% by LGB USA, Inc Full consolidation
+GFM LLC^ 100.00% by GFM Acquisition LLC Full consolidation
+Source: LGB ^step down subsidiaries
+Note: ICRA has taken a consolidated view of the parent (LGB) and its subsidiaries while assigning the ratings
+www.icra.in
+Sensitivity Label : Public Page
+| 5
+ANALYST CONTACTS
+Jitin Makkar K. Srikumar
++91 124 4545 368 +91 44 4596 4318
+jitinm@icraindia.com ksrikumar@icraindia.com
+Sruthi Thomas Nilesh Kumar Jain
++91 80 4332 6430 +91 44 4596 4312
+sruthi.thomas2@icraindia.com nnilesh.jain2@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra.in
+Sensitivity Label : Public Page
+| 6
 ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
-Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

@@ -1,202 +1,464 @@
-Uno Minda Limited: Ratings reaffirmed; assigned for enhanced bank lines and commercial paper programme; assigned for proposed non-convertible debentures - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
+July 04, 2025
+Uno Minda Limited: Ratings reaffirmed; assigned for enhanced bank lines and
+commercial paper programme; assigned for proposed non-convertible debentures
+Summary of rating action
+Previous rated amount Current rated amount
+Instrument* Rating action
+(Rs. crore) (Rs. crore)
+Long-term – Fund based - Term [ICRA]AA+ (Stable); reaffirmed and
+234.00 569.00
+loan assigned for enhanced limits
+[ICRA]AA+ (Stable)/[ICRA]A1+;
+Long-term/short-term –Fund-
+460.00 573.00 reaffirmed and assigned for
+based/non-fund based limits
+enhanced limits
+Short-term- Non-fund based
+290.00 290.00 [ICRA]A1+; reaffirmed
+facilities
+Long-term/Short-term - [ICRA]AA+ (Stable)/[ICRA]A1+;
+- 68.00
+Unallocated limits assigned
+Short-term- Commercial paper [ICRA]A1+; reaffirmed and assigned
+200.00 300.00
+programme for enhanced limits
+NCD programme 400.00 400.00 [ICRA]AA+ (Stable); reaffirmed
+NCD programme - 200.00 [ICRA]AA+ (Stable); assigned
+Total 1,584.00 2,400.00
+*Instrument details are provided in Annexure I
+Rationale
+The rating action for Uno Minda Limited (UML) continues to factor in the steady operational performance of the company,
+aided by its established market position in the Indian automotive component sector, well-diversified business profile with
+presence across automotive and product segments, and strong technological collaborations that enhance its business
+prospects. UML has grown its revenues consistently (21% CAGR over FY2021-FY2025) while maintaining steady profitability,
+aided by an expanding product portfolio, as well as new orders secured across product categories and original equipment
+manufacturers (OEMs). Overall, the company’s strategy of diversifying its presence across multiple products and automotive
+segments, and its endeavour to expand its product portfolio, both organically and inorganically, have helped it strengthen its
+business profile and outpace the industry growth. The same provides comfort regarding UML’s ability to generate healthy cash
+flows, going forward, which should help it maintain strong return and debt coverage metrics.
+The ratings continue to favourably factor in the company’s healthy financial risk profile as characterised by its consistently
+comfortable leverage metrics, even as it continues to pursue growth opportunities. UML has maintained a comfortable capital
+structure and healthy credit metrics (Total Debt to total net worth of 0.4 times and Total Debt to OPBITDA of 1.3 times at the
+end of FY2025), with timely raising of funds through the equity route. The infusions have helped UML comfortably meet its
+cash outflow requirements for the group consolidation exercise, inorganic investments as well as capacity expansion, while
+keeping its dependence on external borrowings at comfortable levels.
+UML continues to invest regularly in capacity expansion, both in existing product lines, as well as expansion into new product
+segments, to strengthen its business prospects. In FY2025, the company announced a TLA (Technical Lease Agreement) with
+Hyundai Mobis for the manufacturing of speakers using Hyundai Mobis’ proprietary technology. The company intends to
+strengthen its acoustics portfolio and enhance its positioning as a complete infotainment solution provider. The move will
+further enable expansion of kit value with OEMs like Hyundai Motors and Kia Motors. The company also announced a joint
+venture (JV) with Suzhou Inovance Automotive (China) (via Inovance’s subsidiary in Hong Kong), for manufacturing charging
+control unit (CCU), electric vehicle (EV) inverter, EV motors and next-generation 6-in-1 electric drive systems (e-Axle). Apart
+www.icra.in
+Sensitivity Label : Public Page
+| 1
+from EV specific projects, UML continues to have ongoing capacity expansion plans (across various product segments such as
+alloy wheels, lighting and switches) resulting in elevated capex of Rs. 1,500-1,600 crore for FY2026 (including outlay towards
+purchase of land). Despite the substantial capex plans, an expectation of healthy cash accruals is expected to keep leverage in
+check (Total Debt/OPBDITA expected to range at levels of 1.0-1.3 times over the medium term) and help the company report
+strong debt coverage indicators. Additionally, the bulk of the capex initiatives are backed by confirmed orders from customers,
+which should enable a quick ramp-up in capacity utilisation for these new facilities. Even as the company remains exposed to
+vagaries of demand in the automotive market, its strong market position across various automotive segments mitigates the
+risk to an extent.
+The company has been purchasing land parcels recently to set up new plants going forward, given the expectations of healthy
+growth in demand across various automotive segments. The same has been funded through a mix of internal accruals and long
+term debt raised at competitive rates. ICRA notes that the company faces risk of acceleration in debt repayment in case there
+is a breach of financial and/or rating-linked covenants and is not able to get waivers from the lenders/ investors in a timely
+manner. However, the company’s established track record of healthy performance and maintaining financial discipline
+provides comfort.
+The Stable outlook on the long-term rating reflects ICRA’s expectations that UML’s credit profile will remain healthy over the
+medium term. The company is expected to continue to maintain its leadership position in key product segments, and further
+strengthen its business profile, going forward, as supplies ramp-up further on newly commissioned plants.
+Key rating drivers and their description
+Credit strengths
+Diversified business profile across segments, customers and products – UML’s business profile is well diversified, with
+presence across multiple automotive and product segments, catering to a wide portfolio of automotive OEMs. About 25% of
+the consolidated revenues were derived from automotive switches in FY2025, ~23% from lighting, ~19% from casting, 7% from
+seatings, and ~5% from acoustics. The rest of the revenues (21% of revenues in FY2025) is driven by products like blow-
+moulded components, batteries, EV specific components (BMS, on board and off board chargers DC-DC Converters)
+Controllers, Sensors, ADAS, Alternate Fuel Systems, etc.., through multiple JVs. In terms of the automotive segments, 2Ws and
+three-wheelers (3Ws) account for ~47% of revenues, while four-wheelers (4Ws; primarily PVs) account for 47% and CV
+accounted for 4% and others accounted for 2% in FY2025. The company’s customer exposure is also diversified with its largest
+customer, Maruti Suzuki India Limited (MSIL), accounting for ~18% of its consolidated revenues in FY2025. Geographically, it
+derives 89% of its revenues from the domestic market and the rest from international operations. The diversified business
+profile helps UML mitigate the impact of any downturn in demand from specific product segments/ customers, while providing
+healthy revenue visibility.
+Established market position in most product segments – UML is the largest automotive switch, PV alloy wheel manufacturer,
+and the second-largest player in automotive seating and lighting in the domestic market. Together, these five product
+segments accounted for ~79% of the company’s consolidated revenues in FY2025. In other product segments as well, UML
+enjoys a leadership position in the domestic market through its subsidiaries/JVs. A strong market position of the company
+provides healthy revenue visibility, going forward.
+Technological capabilities and business prospects supported by collaborations with global automotive component suppliers;
+product portfolio expanded for transition towards e-mobility – UML has focused on expanding into new product segments
+and improving its technological capabilities by entering JVs and technical collaborations with foreign players. These
+collaborations have helped UML expand its product portfolio and content per vehicle with OEMs. Over the years, Uno Minda
+has also built strong in-house research and development (R&D) capabilities with more than 30 R&D and engineering centres
+globally. Its principal R&D centre called CREAT (Center for Research, Engineering and Advance Technologies) works on new
+technologies, enhancing the existing product line. In FY2022, the company entered a TLA JV with FRIWO AG, a German
+company manufacturing digitally controllable power supply units and drive solutions ( complete JV stake has been purchased
+BY UML as of July 2025), and Buehler Motor GmbH (Buehler) to develop, manufacture and market traction motors in India and
+www.icra.in
+Sensitivity Label : Public Page
+| 2
+other SAARC nations. In FY2024, the company entered a TLA with StarCharge Energy pte. ltd. (Singapore) for manufacturing
+EV supply equipment such as wallmounted chargers and storage. During FY2025, the company announced a JV and TLA with
+Suzhou Inovance Automotive Co. Ltd. (China) for the production and distribution of specific high-voltage category electric
+vehicle products for passenger and commercial vehicles in India, a TLA with Aisin (Japan) for the development and manufacture
+of sunroofs for PV segment in India and further a TLA with Hyundai Mobis for automotive speakers. These JVs are expected to
+substantially increase UML’s presence in the EV industry. Over the years, the company has filed 444 patents and has 463
+registered designs, which underscore the company’s R&D prowess.
+Healthy financial risk profile characterised by a conservative capital structure and strong debt coverage indicators – Over
+the years, UML has focused on maintaining a healthy financial risk profile, characterised by low leveraging and strong debt
+coverage indicators. Despite sizeable investments undertaken for organic and inorganic growth, as well as Group consolidation,
+the company has maintained its consolidated gearing in the range of 0.3-0.5 times over the past five years. The same has been
+supported to some extent by the prudent financial management over the years, with equity infusion in the form of qualified
+investor placement (QIP) and rights issuance during periods of large investments as a conscious measure to limit the leveraging.
+Notably, during the pandemic in FY2021 and FY2022, the company raised ~Rs. 940 crore through equity issuance (~Rs. 240
+crore of rights issue and ~Rs. 700 crore of QIP) to strengthen its balance sheet and financial risk profile. ICRA expects the
+company’s debt levels to increase in the near term, driven by growth capex that may be partially debt funded. Nevertheless,
+the same will be offset by growth in revenues and cash flows. Consequently, the leverage indicators are expected to remain
+range-bound with Total Debt/OPBDITA of 1-1.3 times leading to strong debt coverage metrics.
+Credit challenges
+Susceptible to inherent cyclicality of automotive industry – As UML derives most of its revenues (89% in FY2025) from the
+domestic automotive market, its earnings remain susceptible to the inherent cyclicality of the market. Amid multiple
+headwinds that the automotive industry faced over the past few years (Covid-related lockdowns, inflationary pressure, etc.),
+UML’s performance mirrored the underlying trends of the automotive industry to an extent. However, aided by its continuous
+business development initiatives, UML was able to largely outperform the industry growth. The company’s operating income
+grew by ~20% in FY2025 on a YoY basis, higher than the broader automotive industry growth.
+Ongoing capex plans to constrain improvement in return indicators – Over the years, UML has undertaken sizeable debt-
+funded capex to enhance its capacities for various products. It continues to have capacity expansion plans for multiple
+segments with a total capex outlay of Rs. 1,500-1,600 crore announced for FY2026 (including outlay towards purchase of land
+parcels). The projects may require funding support from UML over the medium term towards capex requirements, or any
+shortfall in operational cash flows till the operations scale-up to sustainable levels. Despite the substantial capex plans, the
+company’s track record of prudently raising equity capital to manage its overall leverage provides comfort. Further, the bulk
+of the capex initiatives are backed by tied-up orders from customers, which should enable a quick ramp-up in capacity
+utilisation for these new facilities.
+Environmental and social risks
+Environmental considerations: Even as UML is not directly exposed to climate transition risks stemming from a likelihood of
+tightening emission control requirements, with a bulk of its product portfolio being used across different fuel powertrains, its
+automotive manufacturing customers remain highly exposed to the same; accordingly, UML’s prospects remain linked to the
+ability of its customers to meet tightening emission requirements. The company may need to invest materially to develop
+products to cater to electric vehicles, even as a transition towards the same in the segments catered is likely to be only gradual.
+Social considerations: UML, like most automotive component suppliers, has a healthy dependence on human capital. Hence,
+retaining human capital, maintaining healthy employee relations as well as supplier ecosystem remain essential for disruption-
+free operations for the entity. Another social risk that UML faces pertains to product safety and quality, wherein instances of
+product recalls and high warranty costs may not only lead to a financial implication but could also harm the reputation and
+create a more long-lasting adverse impact.
+www.icra.in
+Sensitivity Label : Public Page
+| 3
+Liquidity position: Adequate
+The company’s liquidity position remains adequate, supported by expectations of healthy cash flow generation (cash flow
+from operations of ~Rs. 986 crore in FY2025), consolidated cash balances of ~Rs. 198 crore (as on March 31, 2025) and
+unutilised working capital limits (~Rs. 224 crore as on March 31, 2025, on a standalone basis). This is likely to remain more
+than adequate to help service the Group’s repayment obligations of ~Rs. 363 crore in relation to long-term external borrowings
+and capex plans of ~Rs. 1,500-1,600 crore (including land purchases for future expansion). In addition, the Group’s strong
+financial flexibility and proven ability to access the capital markets provide further comfort.
+Rating sensitivities
+Positive factors – Over the medium term, the company’s ability to demonstrate significant improvement in scale of operations
+and return indicators on a sustained basis, while maintaining a healthy financial risk profile, would be factored in favourably
+for a rating improvement.
+Negative factors – Significant debt-funded capex or investments, including inorganic, which result in a sustained weakening of
+key credit metrics, such as Total Debt/OPBDITA above 1.5x, could trigger a negative rating action.
+Analytical approach
+Analytical approach Comments
+Corporate Credit Rating Methodology
+Applicable rating methodologies
+Auto Components
+Parent/Group support Not applicable
+For arriving at the ratings, ICRA has considered the consolidated financials of UML. As on
+Consolidation/Standalone March 31, 2025, the company had 36 subsidiaries, 4 associates, and 12 JVs, which are all
+enlisted in Annexure-2.
+About the company
+Uno Minda Limited (erstwhile Minda Industries Limited; changed w.e.f. July 14, 2022), the flagship company of the Uno Minda
+Group, is one of the most diversified auto component manufacturers in India with a presence across multiple product
+segments, including automotive switches, lighting, acoustics, alloy wheel and die-casting, and seatings, among others. The
+company enjoys market leadership across products and is the largest supplier of switches for PVs and 2Ws as well as for
+automotive horns in India. Besides, it is the largest manufacturer of PV alloy wheels by capacity. Additionally, UML is the
+second-largest player for automotive lighting products and a leading player in the automotive seating space for commercial
+vehicles, tractors and 2Ws. It also enjoys a leading position in other product segments such as Alternate Fuel systems, e-2W
+Specific components, through its subsidiaries/JVs.
+Over the years, UML scaled-up substantially and diversified its business profile through acquisitions, increase in greenfield
+projects, and consolidation of Group companies (in the auto component business). The company has also set up multiple JVs
+with global automotive majors, which have helped it expand its product portfolio (besides strengthening its content per
+vehicle) with OEMs as well as gain technological knowhow over the years.
+www.icra.in
+Sensitivity Label : Public Page
+| 4
+Key financial indicators (audited)
+UML (Consolidated) FY2024 FY2025*
+Operating income 14,030.9 16,774.6
+PAT 739.3 840.3
+OPBDIT/OI 11.3% 11.2%
+PAT/OI 5.3% 5.0%
+Total outside liabilities/Tangible net worth (times) 0.9 0.9
+Total debt/OPBDIT (times) 1.1 1.3
+Interest coverage (times) 14.0 11.0
+Source: Company, ICRA Research; All ratios as per ICRA’s calculations; Amounts in Rs. crore; *Limited results; PAT: Profit after tax; OPBDIT: Operating profit
+before depreciation, interest, taxes and amortisation
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current (FY2026) Chronology of rating history for the past 3 years
+FY2026 FY2025 FY2024 FY2023
+Amount
+Instrument Type rated Date Rating Date Rating Date Rating Date Rating
+(Rs. crore)
+July 04, [ICRA]AA+ Apr 2, [ICRA]AA+ Aug 31, [ICRA]AA+ Aug 30, [ICRA]AA+
+Term Loan Long-Term 569.00
+2025 (Stable) 2024 (Stable) 2023 (Stable) 2022 (Stable)
+Sep 17, [ICRA]AA+ Sep 18, [ICRA]AA+
+- -
+2024 (Stable) 2023 (Stable)
+Sep 30, [ICRA]AA+
+- - - -
+2024 (Stable)
+Oct 29, [ICRA]AA+
+- - - -
+2024 (Stable)
+Aug 31, [ICRA]AA+ Aug 30, [ICRA]AA+
+Cash credit Long-Term - - - - -
+2023 (Stable) 2022 (Stable)
+Sep 18, [ICRA]AA+
+- - - -
+2023 (Stable)
+Fund- [ICRA]AA+
+Long- [ICRA]AA+
+based/non- July 04, Apr 2, (Stable)/
+Term/Short- 573.00 (Stable)/ - - - -
+fund based 2025 2024 [ICRA]A1+
+Term [ICRA]A1+
+limits
+[ICRA]AA+
+Sep 17,
+(Stable)/ - - - -
+2024
+[ICRA]A1+
+[ICRA]AA+
+Sep 30,
+(Stable)/ - - - -
+2024
+[ICRA]A1+
+[ICRA]AA+
+Oct 29,
+(Stable)/ - - - -
+2024
+[ICRA]A1+
+Non Fund July 04, Apr 2, Aug 31, Aug 30,
+Short-Term 290.00 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+Based Facilities 2025 2024 2023 2022
+www.icra.in
+Sensitivity Label : Public Page
+| 5
+Sep 17, Sep 18,
+[ICRA]A1+ [ICRA]A1+
+2024 2023
+Sep 30,
+[ICRA]A1+
+2024
+Oct 29,
+[ICRA]A1+
+2024
+Long- [ICRA]AA+ [ICRA]AA+ [ICRA]AA+ [ICRA]AA+
+Unallocated July 04, Apr 2, Aug 31, Aug 30,
+Term/Short- 68.00 (Stable)/ (Stable)/ (Stable)/ (Stable)/
+Limits 2025 2024 2023 2022
+Term [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+[ICRA]AA+ [ICRA]AA+
+Sep 17, Sep 18,
+(Stable)/ (Stable)/
+2024 2023
+[ICRA]A1+ [ICRA]A1+
+Sep 30,
+-
+2024
+Oct 29,
+-
+2024
+Commercial
+July 04, Apr 2, Aug 31, Aug 30,
+Paper Short-Term 300.00 [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
+2025 2024 2023 2022
+Programme
+Sep 17, Sep 18,
+[ICRA]A1+ [ICRA]A1+
+2024 2023
+Sep 30,
+[ICRA]A1+
+2024
+Oct 29,
+[ICRA]A1+
+2024
+NCD July 04, [ICRA]AA+ Apr 2, [ICRA]AA+ Aug 31, [ICRA]AA+
+Long-Term 600.00 - -
+programme 2025 (Stable) 2024 (Stable) 2023 (Stable)
+Sep 17, [ICRA]AA+ Sep 18, [ICRA]AA+
+2024 (Stable) 2023 (Stable)
+Sep 30, [ICRA]AA+
+2024 (Stable)
+Oct 29, [ICRA]AA+
+2024 (Stable)
+Complexity level of the rated instruments
+Instrument Complexity indicator
+Long term- Term Loan Simple
+Long-term/ Short-term –Fund-based/non-fund based limits Simple
+Short Term- Non Fund Based Facilities Very Simple
+Long term/ Short term- Unallocated Limits Not Applicable
+Short Term- Commercial Paper Programme Very Simple
+NCD programme Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+www.icra.in
+Sensitivity Label : Public Page
+| 6
+Annexure I: Instrument details
+Amount
+Instrument Coupon Date of
+ISIN Date of issuance rated Current rating and outlook
+name rate Maturity
+(Rs. crore)
+NA Term Loan-I FY2023 NA FY2028 60.00 [ICRA]AA+ (Stable)
+NA Term Loan-II FY2023 NA FY2028 144.00 [ICRA]AA+ (Stable)
+Term Loan-
+NA FY2025 NA FY2030 365.00 [ICRA]AA+ (Stable)
+III
+Fund-
+based/non- [ICRA]AA+ (Stable)/
+NA NA NA NA 573.00
+fund based [ICRA]A1+
+limits
+Non Fund
+NA Based NA NA NA 290.00 [ICRA]A1+
+Facilities
+Unallocated [ICRA]AA+ (Stable)/
+NA NA NA NA 68.00
+Limits [ICRA]A1+
+Commercial
+INE405E14224 April 17, 2025 6.63% July 16, 2025 100.00 [ICRA]A1+
+Paper
+Commercial
+INE405E14232 April 25, 2025 6.63% July 23, 2025 100.00 [ICRA]A1+
+Paper
+Commercial
+NA* NA NA NA 100.00* [ICRA]A1+
+Paper
+NCD
+INE405E08010 April 29, 2024 7.85% April 29, 2027 100.00 [ICRA]AA+ (Stable)
+programme
+NCD February 26,
+INE405E08036 August 06, 2024 7.85% 50.00 [ICRA]AA+ (Stable)
+programme 2027
+NCD August 06,
+INE405E08028 August 06, 2024 7.88% 100.00 [ICRA]AA+ (Stable)
+programme 2027
+NCD December 24,
+INE405E08044 January 03, 2025 7.75% 100.00 [ICRA]AA+ (Stable)
+programme 2026
+NCD January 04,
+INE405E08051 January 03, 2025 7.75% 50.00 [ICRA]AA+ (Stable)
+programme 2027
+NCD
+NA* NA NA NA 200.00* [ICRA]AA+ (Stable)
+programme
+Source: Company; *Yet to be placed
+Please click here to view details of lender-wise facilities rated by ICRA
+Annexure II: List of entities considered for consolidated analysis
+Company Name UML Ownership Consolidation Approach
+Uno Minda Kyoraku Limited 67.68% Full Consolidation
+YA Auto Industries 87.50% Full Consolidation
+Auto Component 95.00% Full Consolidation
+Samaira Engineering 87.50% Full Consolidation
+SM Auto Industries 87.50% Full Consolidation
+Minda Storage Batteries Private Limited 100.00% Full Consolidation
+Yogendra Engineering 55.89% Full Consolidation
+Uno Minda Katolec Electronics Services Private Limited 51.00% Full Consolidation
+Uno Mindarika Private Limited 51.00% Full Consolidation
+MI Torica India Private Limited 60.00% Full Consolidation
+www.icra.in
+Sensitivity Label : Public Page
+| 7
+MITIL Polymer Private Limited 60.00% Full Consolidation
+Uno Minda EV Systems Private Limited 50.10% Full Consolidation
+Uno Minda Auto Systems Private Limited 100.00% Full Consolidation
+Uno Minda Tachi-S Seating Private Limited 51.00% Full Consolidation
+Uno Minda Buehler Motor Private Limited 50.10% Full Consolidation
+Uno Minda Auto Technologies Private Limited 100.00% Full Consolidation
+Uno Minda Auto Innovations Private Limited 100.00% Full Consolidation
+Global Mazinkert S. L. (Spain) 100.00% Full Consolidation
+Clarton Horn (Spain) 100.00% Full Consolidation
+Light & Systems Technical Centre, S.L. (Spain) 100.00% Full Consolidation
+Clarton Horn, Signalkoustic (Germany) 100.00% Full Consolidation
+Clarton Horn (Mexico) 100.00% Full Consolidation
+PT Minda Asean Automotive (Indonesia) 100.00% Full Consolidation
+PT Minda Trading (Indonesia) 100.00% Full Consolidation
+SAM Global Pte. Ltd (Singapore) 100.00% Full Consolidation
+Minda Industries Vietnam Company Limited (Vietnam) 100.00% Full Consolidation
+Minda Korea Co Ltd (Korea) 100.00% Full Consolidation
+Uno Minda Spare Parts and Components Trading LLC (Dubai) 100.00% Full Consolidation
+UNO Minda Europe GMBH (formerly Minda Delvis GmbH) (Germany) 100.00% Full Consolidation
+CREAT GmbH (Germany) 100.00% Full Consolidation
+Uno Minda Systems GmbH (formerly Delvis Products) (Germany) 100.00% Full Consolidation
+Minda Onkyo India Private Limited 80.00% Full Consolidation
+Minda Westport Technologies Limited 76.00% Full Consolidation
+Minda Nabtesco Automotive Pvt. Ltd. 49.00% Equity Method
+Rinder Riduco, S.A.S. Colombia (USA) 50.00% Equity Method
+Roki Minda Co. Private Limited 49.00% Equity Method
+Minda TTE DAPS Private Limited 50.00% Equity Method
+Denso Ten Uno Minda India Private Limited 49.00% Equity Method
+Uno Minda D- Ten India Private Limited 51.00% Equity Method
+Toyoda Gosei Minda India Private Limited 47.93% Equity Method
+Tokai Rika Minda India Private Limited 30.00% Equity Method
+Strongsun Renewables Private Limited 28.10% Equity Method
+CSE Dakshina Solar Private Limited 27.71% Equity Method
+Source: Company results; Note: ICRA has factored in consolidated financials of UML while assigning the ratings.
+www.icra.in
+Sensitivity Label : Public Page
+| 8
+ANALYST CONTACTS
+Jitin Makkar Srikumar Krishnamurthy
++91 0124 4545 368 +91 44 4596 4318
+jitinm@icraindia.com ksrikumar@icraindia.com
+Rohan Kanwar Gupta Akshit Goel
++91 124 4545 808 +91 124 4545 857
+rohan.kanwar@icraindia.com akshit.goel@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra.in
+Sensitivity Label : Public Page
+| 9
 ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
-Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+Sensitivity Label : Public

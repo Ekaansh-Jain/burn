@@ -1,202 +1,157 @@
-L.G. Balakrishnan & Bros Limited: Migration of the rating outstanding on the medium-term rating scale to the long-term rating scale - ICRA An Affiliate of Moody's
-Skip to main content
-Helpdesk: +91 9354738909
-business.enquiry@icraindia.com
-About Us
-About Us
-ICRA Limited is an Independent and professional investment information & Credit Rating Agency.
-Know more
-Profile
-ICRA Limited
-Vision & Values
-To be the preferred partner in providing best in class ...
-Leadership
-ICRA Limited
-The ICRA Group
-ICRA Limited
-CSR & Sustainability
-ICRA envisions to make stronger communities ...
-Careers
-Life at ICRA inspires you to give your best and make most ...
-Moody's.com
-ICRA Limited
-Company Announcements
-Keep stakeholders informed about important updates
-Ratings
-Ratings
-As an early entrant in the Credit Rating business, ICRA Limited (ICRA) is one of the most experienced Credit Rating
-Know more
-Ratings Coverage
-Corporate Debt Ratings
-Financial Sector Ratings
-Structured Finance Ratings
-Infrastructure Sector Ratings
-Other Ratings
-Approach & Methodologies
-Rating Methodologies
-Rating Scale
-Guide to Credit Ratings
-Ratings Performance
-Rating FAQs
-Rating Rationales
-Rosmerta Technologies Limited: [ICRA]A-(Stable)/[ICRA]A2+; assigned
-12 Nov 2026
-Tieramet Limited: [ICRA]A- (Stable); Rating Assigned
-12 Nov 2026
-Amplus Sunshine Private Limited: Rating reaffirmed
-12 Nov 2026
-Research
-ICRA Research
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Research Offerings
-Banking & Financial Services
-Economy
-Outlook
-Corporate
-Climate Series
-Cross-sectoral trends & outlook
-Structured Finance
-Special Comments
-CPI inflation expectedly breached MPC’s upper tolerance band in October 2026; another 25 bps rate hike foreseen in December 2026
-12 Nov 2026
-Monthly Research Compendium
-06 Nov 2026
-Modest fiscal slippage in FY2027 may not necessitate higher market borrowings
-30 Oct 2026
-Most Trending Reports
-Performance likely to remain resilient despite uptick in funding costs
-30 Oct 2026
-NBFC-Retail growth likely to remain resilient despite mounting macro-economic headwinds
-30 Oct 2026
-Bond issuances recovered in Q2 FY2027 despite hardening yields, while bank credit stayed on an upward curve
-28 Oct 2026
-Credit Perspective
-About Credit Perspective Reports
-ICRA industry research provides unique research offering for 60+ sectors in India wherein 250+ Ratings analysts
-Know more
-Latest CPR
-Rainbow Children’s Medicare Limited
-12 Nov 2026
-ISGEC Hitachi Zosen Limited
-12 Nov 2026
-BOBCARD LIMITED
-12 Nov 2026
-Explore Latest Reports
-Media
-Media & Events
-Insights, Events & News Coverage
-Newsletter
-Webinars
-TV Coverage
-Events
-Podcast
-Photo Gallery
-Know more
-Upcoming Webinars
-Firming the renewables: Grid and Storage Imperatives
-19 Nov 2026 04:00 PM
-Resilient, Reinvention and Road Ahead
-25 Nov 2026 02:00 PM
-What's in the news?
-Some relief as crude rate down to $89 - The New Indian Express
-11 November 2026
-West Asia crisis and India’s fiscal health - Business Standard
-11 November 2026
-HFCs lean towards realty, construction finance - Financial Express
-10 November 2026
-Investor Relations
-Contact Us
-Search by entity
-×
-<
-Rating  (
-)
-CPR   (
-)
->
-0
-Login
-Download
-Report not visible? Tap to open
-ICRA Limited is an Independent and professional investment information and Credit Rating Agency
-read more
-.
-+91 9354738909
-business.enquiry@icraindia.com
-Social Media
-About Us
-Profile
-Vision & Values
-Leadership
-CSR & Sustainability
-ICRA Group
-Company Announcements
-Know more
-Media
-News
-Podcast
-Press Releases
-TV Coverage
-Webinars
-Events
-Photo Gallery
-Newsletter
-Know more
-Quick links
-Ratings
-Research Services
-Credit Perspective Reports
-Investor Relations
-Regulatory Disclosures
-Careers
-Contact Us
-Registered Office: B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
-Telephone No.:
-+91 11 23357940
-CIN: L74999DL1991PLC042749
-Office Address
-Investor Relations Contact Details
-Rating Investors' Grievances
-Copyright © 2026 ICRA Limited. All Rights Reserved
-Privacy Policy
-Disclaimer
-Sitemap
-Complaints (SEBI)
-Complaints (FSRs other than SEBI)
-POSH
-×
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-For subscription
-icra.research@icraindia.com
-.
-Go to login
-Cancel
-Existing Subscriber?
-Please log in using your registered email id to download the report.
-Login
-Download Report as Guest User:
-* denotes mandatory fields
-Name (required)
-Official Email ID (required)
-Mobile (required)
-Company Name
-Submit
-Reset
-×
-Existing Subscriber?
-Please log in using your registered email id to listen the audio.
-Login
-Download Report as Guest User:
-*
-denotes mandatory fields
+June 13, 2022
+L.G. Balakrishnan & Bros Limited: Migration of the rating outstanding on the medium-
+term rating scale to the long-term rating scale
+Summary of rating action
+Previous Rated Amount Current Rated Amount
+Instrument* Rating Action
+(Rs. crore) (Rs. crore)
+[ICRA]AA (Stable); Migrated from
+F ixed Deposit Programme 40.00 40.00
+MAA (Stable)
+Long term - Fund-based
+125.00 125.00 [ICRA]AA (Stable) Outstanding
+facilities
+Short term: Non-fund Based
+100.00 100.00 [ICRA]A1+ Outstanding
+facilities
+Long term – Unallocated 100.00 100.00 [ICRA]AA (Stable) Outstanding
+Total 365.00 365.00
+*Instrument details are provided in Annexure-1
+Rationale
+In compliance with the circular [SEBI/HO/MIRSD/MIRSD_CRADT/P/CIR/2021/594] issued by the Securities and Exchange Board
+of India (SEBI) on July 16, 2021 and the subsequent circular SEBI/HO/MIRSD/MIRSD_CRADT /P/CIR/2022/43 of April 1, 2022,
+for standardizing the rating scales used by the Credit Rating Agencies, ICRA has discontinued the medium-term rating scale
+which was being used to assign ratings to the fixed deposit programmes of entities.
+Accordingly, ICRA has migrated the rating currently outstanding for the fixed deposits programme of L.G. Balakrishnan & Bros
+Limited from the medium-term rating scale to the long-term rating scale. The medium-term rating scale of ICRA was a 14-point
+scale, while the long-term rating scale is a 20-point scale. The migration of the rating has resulted in a change in the rating
+symbol; however, this is to be construed only as a recalibration of the rating from one scale to another, and not as a reflection
+of a change in the credit risk of the fixed deposit programme.
+Please refer to the following link for the previous detailed rationale that captures the Key rating drivers and their description,
+Liquidity position, Rating sensitivities, Key financial indicators: Click here
+Analytical approach
+Analytical Approach Comments
+Applicable Rating Methodologies Corporate Credit Rating Methodology
+Rating Methodology for Auto Component Suppliers
+Parent/Group Support Not applicable
+The ratings are based on the consolidated financial profile of the L.G.
+Consolidation/Standalone
+Balakrishnan & Bros Limited and its subsidiaries as mentioned in Annexure-2
+About the company
+With presence of over six decades, LGB is amongst the largest manufacturers of 2W automotive chains in India (marketed
+under the brand ‘Rolon’). It derived 79% of its revenues in FY2022 from chains and allied products and the remaining 21% of
+revenues in FY2022 were derived from the metal forming segment. In terms of segments, 2W constitutes over 80% of the
+revenues, while over 35% of revenues were derived from the replacement segment. The company has one subsidiary LGB USA
+Inc, which manufactures fine blanking products. LGB (standalone) accounted for 96% of the consolidated revenues and 90%
+www.icra .in 1
+Page |
+of the consolidated debt in FY2022. The company has 23 manufacturing facilities spread across Tamil Nadu, Maharashtra,
+Uttarakhand, Karnataka, Haryana, Rajasthan and Pondicherry in India and one facility in the USA, at the consolidated level.
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Current Rating (FY2023) Chronology of Rating History for the past 3 years
+Amount Date & Date & Date &
+Amoun Outstandin Rating in Rating in Rating in Date & Rating in FY2020 Date & Rating in FY2019
+Instrument t Rated g as of Mar FY2023 FY2022
+Type FY2021
+(Rs. 31, 2022
+crore) (Rs. crore) Jun Aug Aug Dec Oct Dec Sep
+13,2022 30,2021 28,2020 30,2019 10,2019 13,2018 07,2018
+Long - - [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+1 Term Loan - -
+term (Stable) (Stable) (Stable) (Stable) (Stable)
+Fund-
+Long [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA [ICRA]AA
+2 based 125.00 -
+term (Stable) (Stable) (Stable) (Stable) (Stable) (Stable) (Stable)
+facilities
+Non-fund Shor
+[ICRA]A1
+3 based t 100.00 - [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+ [ICRA]A1+
++
+facilities term
+Fixed Long [ICRA]AA MAA(Stabl MAA(Stable MAA(Stabl MAA(Stabl MAA(Stabl MAA(Stabl
+4 40.00 -
+Deposit term (Stable) e) ) e) e) e) e)
+Unallocate Long [ICRA]AA [ICRA]AA
+5 100.00 - - -
+d term (Stable) (Stable)
+Complexity level of the rated instrument
+Instrument Complexity Indicator
+Fixed Deposits Simple
+Fund Based Facilities Simple
+Non-fund Based Facilities Very Simple
+Long Term – Unallocated Not applicable
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analyzing an entity's financial, business, industry risks or
+complexity related to the structural, transactional, or legal aspects. Details on the complexity levels of the instruments, is
+available on ICRA’s website: www.icra.in
+www.icra .in 2
+Page |
+Annexure-1: Instrument details
+ISIN Instrument Date of Issuance / Coupon Maturity Amount Rated Current Rating and
+No/Banker Name Sanction Rate Date (RS Crore) Outlook
 Name
-*
-Official Email ID
-*
-Mobile
-*
-Company Name
-Submit
-Reset
+NA Fixed Deposit NA NA NA 40.00 [ICRA]AA (Stable)
+NA Fund-based NA NA NA 125.00 [ICRA]AA (Stable)
+facilities
+NA Unallocated NA NA NA 100.00 [ICRA]AA (Stable)
+NA Non-fund Based NA NA NA 100.00 [ICRA]A1+
+facilities
+Source: Company
+Annexure-2: List of entities considered for consolidated analysis
+Consolidation
+Company Name Ownership
+Approach
+LGB USA, Inc 96.00% Full Consolidation
+GFM Acquisition LLC^ 98.47% Full Consolidation
+GFM LLC^ 100.00% by GFM Acquisition LLC Full Consolidation
+Source: Company; Annual report,
+^step down subsidiaries
+www.icra .in 3
+Page |
+ANALYST CONTACTS
+Shamsher Dewan Srikumar S
++91 124 4545328 +91-44-4596 4318
+shamsherd@icraindia.com srikumar@icraindia.com
+Vinutaa S Rashmi Gole
++91-44-4596 4305 +91-9763909313
+vinutaa.s@icraindia.com rashmi.gole@icraindia.com
+RELATIONSHIP CONTACT
+Jayanta Chatterjee
++91 80 4332 6401
+jayantac@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+Helpline for business queries
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+About ICRA Limited:
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+www.icra .in 4
+Page |
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148, Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2022 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
